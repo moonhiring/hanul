@@ -43,6 +43,9 @@ interface SiteState {
   /** 질감·정서 프리셋 id */
   texture: string;
   setTexture: (id: string) => void;
+  /** 질감 강도: off | soft | base | strong */
+  texLevel: string;
+  setTexLevel: (lv: string) => void;
   resetFonts: () => void;
 }
 
@@ -51,6 +54,7 @@ const SiteContext = createContext<SiteState | null>(null);
 const LS_DISPLAY = "hanul:font-display";
 const LS_BODY = "hanul:font-body";
 const LS_TEXTURE = "hanul:texture";
+const LS_TEX_LEVEL = "hanul:tex-level";
 
 function applyFont(id: string, cssVar: "--font-display" | "--font-body") {
   const font = getFont(id);
@@ -72,6 +76,7 @@ export function SiteProvider({ children }: { children: ReactNode }) {
   const [fontDisplay, setFontDisplayState] = useState<string>(DEFAULT_DISPLAY_FONT);
   const [fontBody, setFontBodyState] = useState<string>(DEFAULT_BODY_FONT);
   const [texture, setTextureState] = useState<string>(DEFAULT_TEXTURE);
+  const [texLevel, setTexLevelState] = useState<string>("base");
 
   // 세션 복원 — httpOnly 쿠키 기반
   useEffect(() => {
@@ -107,6 +112,9 @@ export function SiteProvider({ children }: { children: ReactNode }) {
     applyFont(d, "--font-display");
     applyFont(b, "--font-body");
     applyTexture(t);
+    const lv = localStorage.getItem(LS_TEX_LEVEL) ?? "base";
+    setTexLevelState(lv);
+    document.documentElement.dataset.texLevel = lv;
   }, []);
 
   const setFontDisplay = (id: string) => {

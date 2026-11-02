@@ -47,9 +47,13 @@ chmod 600 .env
 ## 4. 기동
 
 ```bash
-docker-compose -f docker-compose.yml -f docker-compose.prod.yml up -d --build
-curl http://localhost/api/health   # {"ok":true} 확인
+docker compose -f docker-compose.yml -f docker-compose.prod.yml up -d --build
+curl http://127.0.0.1:8090/api/health   # {"ok":true} 확인
 ```
+
+> 실제 서버(178.105.173.183 queenofGaya)에는 호스트 nginx가 80/443에서 기존 사이트를 서빙 중이므로,
+> 한울 web 컨테이너는 `127.0.0.1:8090`에만 바인딩하고 호스트 nginx가 도메인별로 프록시한다.
+> (8080은 Jitsi가 사용 중) TLS는 호스트 certbot(Let's Encrypt)으로 발급.
 
 ## 5. Cloudflare DNS
 
