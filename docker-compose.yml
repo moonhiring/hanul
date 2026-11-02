@@ -39,7 +39,9 @@ services:
   web:
     build: ./app
     ports:
-      - "8080:80"
+      # 로컬 기본 8080. 서버에서는 .env의 WEB_BIND=127.0.0.1:8090:80 으로 덮어씀
+      # (호스트 nginx가 80/443 사용 + 8080은 Jitsi가 사용 중)
+      - "${WEB_BIND:-8080:80}"
     depends_on:
       - api
 
