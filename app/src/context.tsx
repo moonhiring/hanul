@@ -135,6 +135,12 @@ export function SiteProvider({ children }: { children: ReactNode }) {
     localStorage.setItem(LS_TEXTURE, id);
   };
 
+  const setTexLevel = (lv: string) => {
+    setTexLevelState(lv);
+    document.documentElement.dataset.texLevel = lv;
+    localStorage.setItem(LS_TEX_LEVEL, lv);
+  };
+
   const resetFonts = () => {
     setFontDisplay(DEFAULT_DISPLAY_FONT);
     setFontBody(DEFAULT_BODY_FONT);
@@ -166,6 +172,8 @@ export function SiteProvider({ children }: { children: ReactNode }) {
         setFontBody,
         texture,
         setTexture,
+        texLevel,
+        setTexLevel,
         resetFonts,
       }}
     >
