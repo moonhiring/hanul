@@ -4,7 +4,8 @@ import { cityGeo } from "@/lib/geo";
 import { cities } from "@/data";
 
 /** 지구본 회전·투영 상수 */
-const TILT = (-14 * Math.PI) / 180; // 보기 좋은 축 기울기
+const BASE_TILT = (-14 * Math.PI) / 180; // 기본 축 기울기 (미선택·유휴 상태)
+const MAX_TILT = (52 * Math.PI) / 180; // 도시 위도 기울기 상한
 const IDLE_SPEED = 0.05; // rad/s — 자전 속도
 const HOLD_MS = 4200; // 도시 선택 후 머무는 시간
 
@@ -34,6 +35,9 @@ export default function Globe({ cityId }: Props) {
     let rot = Math.PI * 0.55; // 시작 각도 — 아시아·미주가 함께 보이게
     let rotFrom = rot;
     let rotTo = rot;
+    let tilt = BASE_TILT; // 현재 축 기울기 — 도시 선택 시 그 위도로 기울어져 도시가 화면 정중앙에 옴
+    let tiltFrom = tilt;
+    let tiltTo = tilt;
     let animStart = 0; // 0 = 애니메이션 아님
     const ANIM_MS = 1600;
     let scale = 1;
@@ -66,29 +70,33 @@ export default function Globe({ cityId }: Props) {
 
     const easeOutCubic = (t: number) => 1 - Math.pow(1 - t, 3);
 
-    // 위경도 → 화면 좌표 (회전 rot + 축 기울기 TILT 적용)
+    // 위경도 → 화면 좌표 (회전 rot + 축 기울기 tilt 적용)
     const project = (lat: number, lng: number, R: number) => {
       const phi = (lat * Math.PI) / 180;
       const lam = (lng * Math.PI) / 180 + rot;
       const x0 = Math.cos(phi) * Math.sin(lam);
       const y0 = Math.sin(phi);
       const z0 = Math.cos(phi) * Math.cos(lam);
-      const y = y0 * Math.cos(TILT) - z0 * Math.sin(TILT);
-      const z = y0 * Math.sin(TILT) + z0 * Math.cos(TILT);
-      return { x: x0 * R, y: -y * R, z };
+      const y = y0 * Math.cos(tilt) - z0 * Math.sin(tilt);
+      const z = y0 * Math.sin(tilt) + z0 * Math.cos(tilt);
+      return { x: x0 * R, y: -y * R, z: z * R };
     };
 
     const draw = (now: number) => {
       const dt = Math.min((now - prevT) / 1000, 0.05);
       prevT = now;
 
-      // 도시 변경 감지 → 그 도시가 정면(λ'=0)에 오도록 목표 각도 설정
+      // 도시 변경 감지 → 그 도시가 정면 중앙에 오도록 회전(경도) + 기울기(위도) 목표 설정
       if (target.current !== lastCity) {
         lastCity = target.current;
         const g = cityGeo[lastCity];
         if (g) {
           rotFrom = rot;
           rotTo = rot + norm((-g.lng * Math.PI) / 180 - rot);
+          tiltFrom = tilt;
+          // 축을 도시 위도만큼 기울이면 그 도시가 원판의 정중앙에 놓임
+          const latRad = (g.lat * Math.PI) / 180;
+          tiltTo = Math.max(-MAX_TILT, Math.min(MAX_TILT, latRad));
           animStart = now;
           scaleFrom = scale;
           scaleTo = 1.13; // 원근감 — 도시로 살짝 다가가기
@@ -100,6 +108,7 @@ export default function Globe({ cityId }: Props) {
         const t = Math.min((now - animStart) / ANIM_MS, 1);
         const e = easeOutCubic(t);
         rot = rotFrom + (rotTo - rotFrom) * e;
+        tilt = tiltFrom + (tiltTo - tiltFrom) * e;
         // 회전하며 다가갔다가 제자리로 (in-out)
         const s = t < 0.5 ? t * 2 : (1 - t) * 2;
         scale = scaleFrom + (scaleTo - scaleFrom) * easeOutCubic(s);
@@ -109,6 +118,7 @@ export default function Globe({ cityId }: Props) {
         }
       } else if (now > holdUntil) {
         rot += IDLE_SPEED * dt; // 유휴 시 천천히 자전
+        tilt += (BASE_TILT - tilt) * Math.min(dt * 1.2, 1); // 기울기도 서서히 기본값으로 복귀
       }
 
       ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
