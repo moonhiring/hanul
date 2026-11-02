@@ -11,7 +11,7 @@ const navItems = [
   { key: "stories" as const, to: "/stories" },
   { key: "directory" as const, to: "/directory" },
   { key: "life" as const, to: "/life" },
-  { key: "community" as const, to: "/cheer" },
+  { key: "community" as const, to: "/community" },
 ];
 
 export default function Header() {

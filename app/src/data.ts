@@ -618,3 +618,218 @@ export const dispatches: Dispatch[] = [
     mood: "coffee", hue: 40, likes: 29,
   },
 ];
+
+/* ---------------- 커뮤니티 마당 (Reddit형 게시판) ---------------- */
+
+export interface CommunityChannel {
+  id: string;
+  name: string;        // 마당 이름
+  desc: string;
+  members: number;
+}
+
+export const communityChannels: CommunityChannel[] = [
+  { id: "nyc", name: "뉴욕마당", desc: "뉴욕·뉴저지 한인들의 일상과 정보", members: 4200 },
+  { id: "sydney", name: "시드니마당", desc: "시드니 생활의 모든 것", members: 3100 },
+  { id: "london", name: "런던마당", desc: "런던·뉴몰든 한인 커뮤니티", members: 2400 },
+  { id: "berlin", name: "베를린마당", desc: "베를린 유학생·직장인 모임", members: 1800 },
+  { id: "tokyo", name: "도쿄마당", desc: "도쿄와 재일동포 이야기", members: 2100 },
+  { id: "settle", name: "정착팁", desc: "첫 정착에 필요한 생존 노하우", members: 5600 },
+  { id: "visa", name: "비자·서류", desc: "비자, 영주권, 서류의 미로를 함께", members: 3900 },
+  { id: "market", name: "중고나눔", desc: "동네 중고거래와 무료나눔", members: 6800 },
+  { id: "food", name: "맛집탐방", desc: "각 도시 한식당 리뷰와 발굴", members: 7300 },
+];
+
+export type PostFlair = "질문" | "정보" | "후기" | "잡담" | "나눔";
+
+export interface CommunityPost {
+  id: number;
+  channel: string;     // channel id
+  flair: PostFlair;
+  title: string;
+  excerpt: string;
+  author: string;
+  city: string;
+  time: string;
+  votes: number;       // 공감 순수 (업-다운)
+  comments: number;
+}
+
+export const communityPosts: CommunityPost[] = [
+  {
+    id: 1, channel: "visa", flair: "정보", city: "뉴욕",
+    title: "2026년 H-1B 추첨 결과 발표 일정 정리했습니다",
+    excerpt: "1차 추첨 결과는 3월 말, 2차는 7월 예정입니다. 작년 데이터 기준으로 정리했어요.",
+    author: "비자의달인", time: "2시간 전", votes: 342, comments: 87,
+  },
+  {
+    id: 2, channel: "food", flair: "후기", city: "런던",
+    title: "뉴몰든 설렁탕 3곳 비교 — 결론부터 말하면 국물은 이 집",
+    excerpt: "3주에 걸쳐 세 집을 다녀왔습니다. 국물, 고기, 김치까지 항목별로 비교했어요.",
+    author: "국밥헌터", time: "4시간 전", votes: 218, comments: 64,
+  },
+  {
+    id: 3, channel: "settle", flair: "질문", city: "토론토",
+    title: "첫 월세 계약, 보증금 디파짓 이거 정상인가요?",
+    excerpt: "첫 달 + 마지막 달을 미리 달라는데 캐나다에서 일반적인 건지 궁금합니다.",
+    author: "정착1일차", time: "30분 전", votes: 45, comments: 38,
+  },
+  {
+    id: 4, channel: "nyc", flair: "잡담", city: "뉴욕",
+    title: "플러싱 한인마트 앞 호떡 트럭, 드디어 다시 나왔습니다",
+    excerpt: "겨울 내내 안 보이시더니 오늘부터 다시 장사 시작하셨어요. 줄이 벌써 깁니다.",
+    author: "퀸즈주민", time: "1시간 전", votes: 156, comments: 29,
+  },
+  {
+    id: 5, channel: "market", flair: "나눔", city: "시드니",
+    title: "귀국 준비 — 책상, 의자, 전자레인지 무료나눔 (스트라스필드)",
+    excerpt: "다음 달 귀국이라 집기를 정리합니다. 상태 좋아요. 직접 픽업 가능하신 분.",
+    author: "귀국준비생", time: "3시간 전", votes: 89, comments: 42,
+  },
+  {
+    id: 6, channel: "berlin", flair: "정보", city: "베를린",
+    title: "안멜둉(주소등록) 예약 없이 성공하는 방법 공유",
+    excerpt: "매일 아침 7시에 취소분이 풀립니다. 새로고침 타이밍과 준비물 정리.",
+    author: "베를린5년차", time: "6시간 전", votes: 274, comments: 93,
+  },
+  {
+    id: 7, channel: "sydney", flair: "질문", city: "시드니",
+    title: "워홀 TFN 신청 2주째 안 나오는데 더 기다려야 하나요?",
+    excerpt: "온라인 신청한 지 2주 지났습니다. 다들 얼마나 걸리셨어요?",
+    author: "워홀러김", time: "1시간 전", votes: 23, comments: 31,
+  },
+  {
+    id: 8, channel: "tokyo", flair: "후기", city: "도쿄",
+    title: "신오쿠보 한의원 처음 다녀온 후기 (보험 적용 O)",
+    excerpt: "일본 건강보험이 적용되는 한인 한의원입니다. 침 처음 맞아봤는데…",
+    author: "도쿄직장인", time: "8시간 전", votes: 67, comments: 18,
+  },
+  {
+    id: 9, channel: "london", flair: "잡담", city: "런던",
+    title: "영국에서 김장 40포기 완료했습니다 (인증)",
+    excerpt: "배추를 뉴몰든에서 구했는데 올해는 품질이 좋네요. 김장 메이트 구한 게 신의 한 수.",
+    author: "김장대장", time: "어제", votes: 412, comments: 156,
+  },
+  {
+    id: 10, channel: "settle", flair: "정보", city: "벤쿠버",
+    title: "밴쿠버 첫 집 계약 체크리스트 (사기 방지판)",
+    excerpt: "가짜 매물 구별법, 계약 전 확인사항, 입주 첫날 할 일까지 정리했습니다.",
+    author: "밴쿠버선배", time: "어제", votes: 198, comments: 54,
+  },
+  {
+    id: 11, channel: "nyc", flair: "질문", city: "뉴욕",
+    title: "맨해튼 통근 vs 퀸즈 거주, 여러분의 선택은?",
+    excerpt: "통근 40분 감수하고 퀸즈에서 넓게 살지, 좁아도 맨해튼에 살지 고민입니다.",
+    author: "이사고민중", time: "5시간 전", votes: 78, comments: 112,
+  },
+  {
+    id: 12, channel: "market", flair: "나눔", city: "토론토",
+    title: "한국어 그림책 30권 무료나눔합니다 (노스욕)",
+    excerpt: "아이가 다 커서 정리합니다. 상태 양호, 2세~5세용 위주예요.",
+    author: "두아이맘", time: "어제", votes: 134, comments: 47,
+  },
+  {
+    id: 13, channel: "visa", flair: "질문", city: "로스앤젤레스",
+    title: "ESTA로 입국했다가 학생비자 변경 가능한가요?",
+    excerpt: "어학원 다니다가 정규 과정으로 바꾸고 싶은데, 미국 내 변경이 가능한지…",
+    author: "공부하고파", time: "어제", votes: 34, comments: 26,
+  },
+  {
+    id: 14, channel: "food", flair: "잡담", city: "호치민",
+    title: "푸미흥에 드디어 순두부찌개 하는 집이 생겼습니다",
+    excerpt: "그동안 쌀국수만 먹다가 된장 냄새 맡으니 눈물이… 가격도 착해요.",
+    author: "메콩한량", time: "어제", votes: 92, comments: 21,
+  },
+];
+
+/* ---------------- 종교시설 (교회 · 성당 · 사찰) ---------------- */
+
+export type WorshipKind = "교회" | "성당" | "사찰";
+export const worshipKinds: WorshipKind[] = ["교회", "성당", "사찰"];
+
+export interface WorshipPlace {
+  id: number;
+  kind: WorshipKind;
+  name: string;
+  city: string;
+  country: string;
+  langs: string[];      // 예배/미사/법회 언어
+  service: string;      // 대표 시간
+  intro: string;
+  visitors: number;     // "다녀간 이웃" 수
+}
+
+export const worshipPlaces: WorshipPlace[] = [
+  {
+    id: 1, kind: "교회", name: "플러싱한인교회", city: "뉴욕", country: "미국",
+    langs: ["한국어", "영어"], service: "주일 1부 09:00 · 2부 11:30",
+    intro: "1978년에 시작된 퀸즈의 터줏대감. 새벽예배가 매일 열리고, 2부는 통역 이어폰을 빌려줍니다. 새가족 환영회는 매달 첫째 주.",
+    visitors: 214,
+  },
+  {
+    id: 2, kind: "교회", name: "시드니한인장로교회", city: "시드니", country: "호주",
+    langs: ["한국어"], service: "주일 10:30 · 수요예배 19:30",
+    intro: "스트라스필드 역에서 도보 8분. 워홀러·유학생 셀 모임이 활발하고, 예배 후 친교실에서 점심을 나눕니다.",
+    visitors: 167,
+  },
+  {
+    id: 3, kind: "성당", name: "성 김대건 한인성당", city: "토론토", country: "캐나다",
+    langs: ["한국어", "영어"], service: "한국어 미사 주일 10:30",
+    intro: "노스욕 한인타운 중심의 천주교 공동체. 매달 마지막 주일에는 미사 후 바자회가 열리고, 김장철엔 성당 앞마당이 김장터가 됩니다.",
+    visitors: 148,
+  },
+  {
+    id: 4, kind: "사찰", name: "뉴욕 원각사", city: "뉴욕", country: "미국",
+    langs: ["한국어"], service: "일요법회 11:00",
+    intro: "조계종 포교당. 법회 후 점심 공양이 무료로 열리고, 템플스테이와 참선 모임이 분기마다 있습니다. 관광객의 첫 방문도 환영합니다.",
+    visitors: 96,
+  },
+  {
+    id: 5, kind: "성당", name: "로스앤젤레스 한인성당", city: "로스앤젤레스", country: "미국",
+    langs: ["한국어"], service: "한국어 미사 주일 09:00 · 11:00",
+    intro: "미주 최대 규모의 한인 천주교 공동체. 영세와 견진 교리반이 상시 열리고, 장례·혼배 등 신앙 상담을 한국어로 받을 수 있습니다.",
+    visitors: 289,
+  },
+  {
+    id: 6, kind: "교회", name: "베를린 한인교회", city: "베를린", country: "독일",
+    langs: ["한국어", "독일어"], service: "주일 14:00",
+    intro: "유학생과 파독 광부·간호사 1세대가 함께 예배하는 50년 된 공동체. 예배 후 독일어 스터디와 정착 상담이 이어집니다.",
+    visitors: 87,
+  },
+  {
+    id: 7, kind: "사찰", name: "도쿄 관음사", city: "도쿄", country: "일본",
+    langs: ["한국어", "일본어"], service: "일요법회 10:00",
+    intro: "재일동포 1세대가 세운 한국 사찰. 초하루 법회와 백중 기도가 한국식으로 열리고, 한국어 경전 강좌가 있습니다.",
+    visitors: 73,
+  },
+  {
+    id: 8, kind: "교회", name: "밴쿠버 한인연합교회", city: "밴쿠버", country: "캐나다",
+    langs: ["한국어", "영어"], service: "주일 09:30 · 11:30",
+    intro: "버나비에 자리한 대표적인 한인 연합교회. 아동부·청년부가 따로 예배하고, 여름엔 노스쇼어 트레킹 모임이 인기입니다.",
+    visitors: 176,
+  },
+  {
+    id: 9, kind: "성당", name: "런던 한인성당", city: "런던", country: "영국",
+    langs: ["한국어"], service: "한국어 미사 주일 11:00",
+    intro: "뉴몰든 코리아타운 한가운데. 미사 후 구역 모임이 활발하고, 장학재단과 이주민 상담 창구도 함께 운영합니다.",
+    visitors: 121,
+  },
+  {
+    id: 10, kind: "교회", name: "오클랜드 한인교회", city: "오클랜드", country: "뉴질랜드",
+    langs: ["한국어"], service: "주일 11:00 · 금요기도회 20:00",
+    intro: "뉴질랜드 한인사회의 오래된 구심점. 새 이민자 정착 도움방이 예배 후에 열리고, 워홀러 일자리 소식판이 있습니다.",
+    visitors: 98,
+  },
+  {
+    id: 11, kind: "사찰", name: "시드니 보현사", city: "시드니", country: "호주",
+    langs: ["한국어"], service: "일요법회 10:30",
+    intro: "호주 최초의 한국 전통 사찰. 부처님오신날 연등 축제엔 현지인도 수천 명이 찾습니다. 참선과 다도 모임이 매달 열립니다.",
+    visitors: 84,
+  },
+  {
+    id: 12, kind: "교회", name: "호치민 한인교회", city: "호치민", country: "베트남",
+    langs: ["한국어"], service: "주일 09:00 · 11:00",
+    intro: "푸미흥 한인타운의 주일 중심. 주재원 가정이 많아 학부모 모임이 활발하고, 베트남 지역 봉사활동을 정기적으로 합니다.",
+    visitors: 132,
+  },
+];

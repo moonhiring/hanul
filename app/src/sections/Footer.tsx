@@ -74,7 +74,9 @@ export default function Footer() {
             <nav className="mt-4 flex flex-col gap-2.5 text-sm font-semibold">
               <Link to="/stories" className="transition-colors hover:text-cream">이야기</Link>
               <Link to="/directory" className="transition-colors hover:text-cream">업소록</Link>
-              <Link to="/life" className="transition-colors hover:text-cream">일자리·부동산·모임</Link>
+              <Link to="/worship" className="transition-colors hover:text-cream">종교시설</Link>
+              <Link to="/life" className="transition-colors hover:text-cream">일자리·모임</Link>
+              <Link to="/community" className="transition-colors hover:text-cream">커뮤니티</Link>
               <Link to="/cheer" className="transition-colors hover:text-cream">응원 광장</Link>
             </nav>
           </div>

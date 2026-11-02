@@ -9,6 +9,8 @@ import TodayPage from './pages/TodayPage'
 import BusinessDetailPage from './pages/BusinessDetailPage'
 import LifePage from './pages/LifePage'
 import CheerPage from './pages/CheerPage'
+import CommunityPage from './pages/CommunityPage'
+import WorshipPage from './pages/WorshipPage'
 import AdminPage from './pages/AdminPage'
 
 export default function App() {
@@ -24,6 +26,8 @@ export default function App() {
         <Route path="/directory/:id" element={<BusinessDetailPage />} />
         <Route path="/life" element={<LifePage />} />
         <Route path="/cheer" element={<CheerPage />} />
+        <Route path="/community" element={<CommunityPage />} />
+        <Route path="/worship" element={<WorshipPage />} />
         <Route path="/admin" element={<AdminPage />} />
       </Route>
     </Routes>
