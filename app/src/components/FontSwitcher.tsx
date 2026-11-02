@@ -109,6 +109,8 @@ export default function FontSwitcher() {
     setFontBody,
     texture,
     setTexture,
+    texLevel,
+    setTexLevel,
     resetFonts,
   } = useSite();
   const [open, setOpen] = useState(false);
@@ -203,6 +205,29 @@ export default function FontSwitcher() {
           <div className="flex-1 overflow-y-auto px-2.5 py-3">
             {mode === "texture" ? (
               <div className="flex flex-col gap-1">
+                <p className="folio-label px-2 pb-2 pt-1">질감 강도</p>
+                <div className="mb-3 grid grid-cols-4 gap-1.5 px-2">
+                  {(
+                    [
+                      { id: "off", label: "없음" },
+                      { id: "soft", label: "은은" },
+                      { id: "base", label: "기본" },
+                      { id: "strong", label: "진하게" },
+                    ] as const
+                  ).map((lv) => (
+                    <button
+                      key={lv.id}
+                      onClick={() => setTexLevel(lv.id)}
+                      className={`rounded-full border px-2 py-1.5 text-[11px] font-bold transition-colors ${
+                        texLevel === lv.id
+                          ? "border-forest bg-forest text-cream"
+                          : "border-border bg-card text-ink/70 hover:border-forest hover:text-forest"
+                      }`}
+                    >
+                      {lv.label}
+                    </button>
+                  ))}
+                </div>
                 <p className="folio-label px-2 pb-2 pt-1">바탕 질감 · 소재의 정서</p>
                 {textures.map((t) => (
                   <TextureRow

@@ -64,9 +64,16 @@
 
 ## 배포 (2026-11-02)
 - **도메인: hanul.world (Cloudflare)** / **호스팅: VPS 1대 결정** — docker-compose 통째 배포 (웹+API+DB+워커). Vercel은 DB·워커가 안 맞아 기각
-- `docker-compose.prod.yml` — DB 포트 비공개, 소스 마운트 제거, restart 정책, web 80번
-- `docs/deploy.md` — VPS 준비 → .env(GOOGLE_CLIENT_ID/SESSION_SECRET/ADMIN_EMAILS) → Cloudflare DNS(A 레코드, SSL Full) → Google OAuth에 https://hanul.world 원본 추가 순서
-- 남은 것: VPS 생성(사용자), Google OAuth 클라이언트 ID 발급(사용자), 워커 상시화(compose 서비스 또는 크론)
+- **배포 완료 (2026-11-02)**: https://hanul.world 라이브. 서버 178.105.173.183 (queenofGaya, Hetzner, Ubuntu 24.04 — 기존 Jitsi/queenofgaya.com과 공존)
+  - 저장소: github.com/moonhiring/hanul (deploy key: 로컬·서버 모두 `~/.ssh/hanul_deploy`)
+  - 서버 경로 `/opt/hanul`, web은 `127.0.0.1:8090` 바인딩(WEB_BIND env), 호스트 nginx가 80/443에서 도메인별 프록시 + certbot TLS
+  - 서버 DB에 로컬 전수 검증 결과 이전 완료 (active 1,983 / needs_human 6,291)
+  - 주의: 이 compose 버전은 `!reset`에 새 값을 같이 쓰면 값이 유실됨 — 포트는 WEB_BIND env 패턴 사용
+  - 배포 절차: 로컬 push → 서버 `cd /opt/hanul && git pull && docker compose -f docker-compose.yml -f docker-compose.prod.yml up -d --build`
+- 미설정: GOOGLE_CLIENT_ID / ADMIN_EMAILS (서버 /opt/hanul/.env에 추가 후 `up -d` 필요 — 추가 전까지 로그인 버튼 비활성 안내)
+- `docker-compose.prod.yml` — DB 포트 비공개, restart 정책
+- `docs/deploy.md` — 배포 절차 문서
+- 남은 것: Google OAuth 클라이언트 ID 발급(사용자), 워커 상시화(compose 서비스 또는 크론)
 
 ## 실데이터 시드 (2026-11-01)
 - `data-pipeline/`: Overture Maps Places 추출 파이프라인
