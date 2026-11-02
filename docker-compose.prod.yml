@@ -14,7 +14,9 @@ services:
 
   api:
     restart: unless-stopped
-    volumes: !reset []
+    # 개발용 소스 마운트는 제거하되 시드 파일 마운트는 유지 (부팅 시 8,274건 시드에 필요)
+    volumes: !reset
+      - ./app/public/seed:/seed:ro
 
   web:
     restart: unless-stopped
