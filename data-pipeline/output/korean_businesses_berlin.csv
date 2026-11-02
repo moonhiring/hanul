@@ -1,0 +1,208 @@
+﻿id,name,category,confidence,reason,address,locality,postcode,phone,website,lng,lat
+,Youn‘s Kitchen,korean_restaurant,0.5,category:korean,Albert-Einstein-Ring 15,Kleinmachnow,14532,,,13.189454,52.408903
+,Bonsai Asiatische Küche Berlin,korean_restaurant,0.9957773526608944,category:korean,Obstallee 28,Berlin,13593,+49303649935,https://asiabonsai.eatbu.com,13.16490022,52.52157548
+,카엠투어 베를린 (km Tour Berlin),travel_agent,0.5,name:hangul,Westendallee 109,Berlin,14052,,,13.255971,52.511496
+,Damso Teehaus,korean_restaurant,0.9966239374670565,category:korean,Teltower Damm 54,Berlin,14167,4917623357769,http://www.damso-teehaus.de/,13.25947,52.428766
+,Samil Sangsa,korean_grocery_store,0.885,category:korean,Hohmannstraße 12,Berlin,14199,493089732506,http://www.31sangsa.de/,13.295916,52.472614
+,Korean Studies FU Berlin,college_university,0.8637086242437363,name:token,Otto-von-Simson-Straße 11,Berlin,14195,+493083856894,https://www.youtube.com/@instituteofkoreanstudiesat2300,13.28884,52.45469
+,베를린 비전교회,christian_place_of_worship,0.8628078699111938,name:hangul,Münstersche Str. 5-9,Berlin,10709,,http://berlin-vision.de/,13.30851194,52.49438424
+,"Oh My Bap Fehrbelliner Platz(u3,u7), Koreanische Küche/ Fried Chicken",korean_restaurant,0.5,category:korean,"Fehrbelliner Platz, U3,U7",Berlin,10707,491722596334,,13.31472,52.489667
+,Korea Imbiss,korean_restaurant,0.5,category:korean,Hindenburgdamm 58B,Berlin,12203,,,13.315609,52.447873
+,Coreana,korean_restaurant,0.9998461929832452,category:korean,Albrechtstr. 7,Berlin,12165,+493051645010,,13.32398242,52.45603598
+,Jmt - Jon Ma Taeng,korean_restaurant,0.5,category:korean,Schildhornstraße 95,Berlin,12163,493098446980,http://jonmataeng.de/,13.32238,52.46207
+,베를린 비지니스 센터,travel_agent,0.5,name:hangul,Schildhornstraße 10,Berlin,12163,4917670724453,,13.320892,52.462933
+,Hanguk Markt,korean_grocery_store,0.5,category:korean,Uhlandstraße 87,Berlin,10717,493055468611,,13.322436,52.488642
+,Bi Won,korean_restaurant,0.5,category:korean,Bundesallee 93,Friedenau,12161,,http://www.bi-won.de,13.328018,52.466848
+,ARIRANG Matzip,korean_restaurant,0.9833863377571106,category:korean,Bundesallee 93,Berlin,12161,+493098372185,,13.3280162,52.4667711
+,Matzip Arirang,korean_restaurant,0.9952528774738312,category:korean,Bundesallee 93,Berlin,12161,+493098372185,,13.32808689,52.4669322
+,베를린 선한목자교회 Berlin Seonhan Mogza,christian_place_of_worship,0.7267885804176331,name:hangul,Bundesallee 76A,Berlin,12161,,http://www.mogza.com/,13.32833758,52.47118015
+,Lee Hairworld 리 헤어월드 베를린 한인 미용실,beauty_salon,0.5,name:hangul,Berliner Straße 154,Berlin,10715,491782062789,http://berlinleehw.blogspot.de/,13.330336,52.486999
+,Mannam Restaurant&kunstraum,korean_restaurant,0.5,category:korean,Bundesallee 23,Berlin,10717,493041500005,,13.330414,52.492758
+,베를리너 민박 (한인민박),bed_and_breakfast,0.5,name:hangul,Bundesallee 42,Berlin,10715,4917621686647,http://berlinerminbak.com/,13.330534,52.486873
+,Kooks Kochen,korean_restaurant,0.9972146052122116,category:korean,Wexstraße 29,Berlin,10715,+4917661596798,https://www.kookskochen-berlin.de,13.32999134,52.47880847
+,Seoul-Kwan,korean_restaurant,0.9972905671596527,category:korean,Schmiljanstraße 25,Berlin,12161,+49308526262,http://www.seoul-kwan.de/,13.33047748,52.47055119
+,Asia Kauf,korean_grocery_store,0.9891565657580301,category:korean,Rheinstraße 24,Berlin,12161,49308592924,,13.331353,52.468086
+,Bab & Kimchi,korean_restaurant,0.9999407402591547,category:korean,Schöneberger Str. 10,Berlin,12163,+493054771133,http://babkimchi.foodpearl.com/,13.33103201,52.46406458
+,한독문화공간 B&k,community_center,0.5,name:hangul,Albrechtstraße 115,Berlin,12167,,,13.327139,52.454959
+,베를린침례교회 청년,religious_organization,0.586645245552063,name:hangul,Feuerbachstraße 50,Berlin,12163,,http://berlinbg.blogspot.de/,13.336606,52.464175
+,Moamoa Berlin,korean_restaurant,0.9905529916286469,category:korean,Hauptstraße 81,Berlin,12159,+493012355880,http://instagram.com/moamoa.berlin,13.33658939,52.47225327
+,DaBangg,korean_restaurant,0.9947256827354432,category:korean,Hedwigstraße 18,Berlin,12159,+493095629407,http://dabangg.de/,13.33610944,52.47158345
+,Hans-dieter Sack Zahnarzt,dental_clinic,0.5,name:korean-surname,Münchener Straße 16,Berlin,10779,49302111221,,13.341673,52.491348
+,베를린 임마누엘 성결교회,religious_organization,0.5991571545600891,name:hangul,"Grazer Platz 2, 2. OG",Berlin,12157,,,13.34476,52.46669
+,Hans-Peter Fusenig,dental_clinic,0.9655,name:korean-surname,Sachsenwaldstr. 29,Berlin,12157,0307959959,http://www.za-fusenig.de/,13.34159487,52.4627851
+,독일 유학 제이클래식,elementary_school,0.6878058910369873,name:hangul,Katharinenstraße 18,Berlin,10711,+493070081688,https://jklassik.co.kr/,13.292334,52.499934
+,MOIM,korean_restaurant,0.9999612978737867,category:korean,Kurfürstendamm 134,Berlin,10711,+493089541892,,13.29347767,52.49724366
+,Hanok,korean_restaurant,0.9843723367484962,category:korean,Kurfürstendamm 134,Berlin,10711,+493089541892,http://hanok-berlin.com/,13.293498,52.497276
+,Buchcafé,korean_restaurant,0.994496092971147,category:korean,Kantstraße 90,Berlin,10627,493024034352,https://www.buchcafe-berlin.de/,13.297894,52.506607
+,Hans-jürgen Faber Und Claudia Spickermann,dental_clinic,0.5,name:korean-surname,Kaiserdamm 113,Berlin,14057,49303223665,,13.29371,52.51048
+,Hans-Jürgen Albert,dental_clinic,0.5904704928398132,name:korean-surname,Suarezstraße 55,Berlin,14057,+49303238273,http://www.zahnaerzte-as.de,13.29662257,52.50889494
+,Hans-Jürgen Eibert und Boris Schrage,dental_clinic,0.9163088798522949,name:korean-surname,Suarezstraße 55,Berlin,14057,+49303275929,http://zahnaerzte-as.de,13.29646061,52.5089126
+,Chibo Westend,korean_restaurant,0.5,category:korean,Am Bahnhof Westend 2,Berlin,14059,493039718915,https://www.chibo-westend-berlin.de/,13.28599,52.517422
+,Pum Korean Restaurant,korean_restaurant,0.5,category:korean,Knobelsdorffstraße 27,Berlin,14059,493085401644,,13.292407,52.513162
+,Dasomi,korean_restaurant,0.9471,category:korean,Knobelsdorffstraße 27,Berlin,14059,030 67960520,http://www.pumberlin.de,13.292407,52.513162
+,LA Kalbi Haus,korean_restaurant,0.908740371465683,category:korean,Tauroggener Str. 7,Berlin,10589,+493033006562,,13.30123279,52.52409208
+,Hans-Peter Fenske,dental_clinic,0.9045359843969345,name:korean-surname,Kaiserin-Augusta-Allee 87,Berlin,10589,+49303445040,http://www.zahnarzt-berlin-fenske.de,13.308756,52.525533
+,Ngokimpak,korean_restaurant,0.77,category:korean,Schlüterstr. 22-23,Berlin,10625,0491 5906158114,http://www.ngokimpak.de,13.314880196322141,52.50604271578827
+,Furusato Berlin,korean_restaurant,0.9506576857563735,category:korean,Leibnizstraße 35,Berlin,10625,+49303137575,http://www.furusato.de,13.314366,52.506665
+,Son Kitchen,korean_restaurant,0.998581988811493,category:korean,Kantstraße 46,Berlin,10625,+493022474444,http://www.sonkitchen.de/,13.31182576,52.50654387
+,Han BBQ,korean_restaurant,0.9998656902614051,category:korean,Kantstraße 120/121,Berlin,10625,+4917672181842,http://hanok-berlin.de,13.30989788,52.50628779
+,베를린가나안교회,christian_place_of_worship,0.5480484962463379,name:hangul,Bismarckstraße 40,Berlin,10627,,https://youtube.com/@davidpjh16?si=KI4R7ok0cGsJJEpR,13.30668717,52.51186974
+,Kultursensible Altenhilfe HeRo e.V. 사단법인 해로,charity_organization,0.5360293984413147,name:hangul,Schillerstraße 85,Berlin,10627,+493041472680,http://www.heroberlin.de/,13.30767398,52.5097776
+,Gochugang-Korea Street Food ,restaurant,0.3182239830493927,name:token,Wilmersdorfer Straße 46,Berlin,10627,+491791118676,,13.304594,52.509253
+,Cotcozy - Das koreanische traditionelle Blumenarrangement 한국 전통 꽃꽂이,flowers_and_gifts_store,0.6600423224143412,name:hangul,Schillerstraße 73,Berlin,10627,+4917688139668,http://cotcozy.jimdo.com/,13.303319844495508,52.5116060267076
+,Bandol Korean Fried Chicken & Bibimbap,wok_restaurant,0.656841903924942,name:token,Kantstraße 67,Berlin,10627,491603831314,,13.30274,52.506944
+,Midam Korean Bbq Restaurant,korean_restaurant,0.5,category:korean,Stuttgarter Platz 28,Berlin,10627,493069588817,https://midam-berlin.com/,13.301265,52.505025
+,Chibo - Korean Chicken & Bowls,korean_restaurant,0.9980632376670837,category:korean,Kantstraße 65,Berlin,10627,+493022324605,https://www.chibo-koreanchickenbowls.de/,13.30371993,52.50687802
+,Mmaah - Korean Bbq Express,korean_restaurant,0.998251956510039,category:korean,Kantstraße 55,Berlin,10627,+4917614790250,,13.307901,52.506786
+,Cooking Papa,korean_restaurant,0.9471,category:korean,Wilmersdorfer Straße 72,Berlin,10629,030 95591586,https://www.cookingpapa-berlin.com,13.307259,52.503861
+,Kimchi Mama korean BBQ,korean_restaurant,0.9996050122678279,category:korean,Nestorstraße 55A,Berlin,10709,+493064080154,http://www.kimchimama.de/,13.30024731,52.49822899
+,Keit Europe Office-korea Evaluation Institute Of Industrial Technology,corporate_or_business_office,0.5,name:token,Knesebeckstraße 54,Berlin,10719,493088917390,,13.321873,52.500076
+,Arirang Restaurant,korean_restaurant,0.9957556477680427,category:korean,Uhlandstraße 194,Berlin,10623,493045021248,,13.326159,52.506891
+,Basak Chicken - Original Koreanisches Yangnyeom-chicken,korean_restaurant,0.7152220904827118,category:korean,Grolmanstraße 27,Berlin,10623,493025739779,https://basakchicken.online-karte.com/basakchicken,13.323134,52.504638
+,Seoul garden,korean_restaurant,0.9982874220609665,category:korean,Knesebeckstraße 16,Berlin,10623,+493062731322,http://www.seoulgarden.de,13.32250555,52.5081365
+,Bibim House 86,korean_restaurant,0.4930624819408891,category:korean,Helmholtzstraße 31,Berlin,10587,+491637236344,,13.324511,52.521649
+,"Oh My Bap Turmstrasse(u9), Koreanische Küche/ Fried Chicken",korean_restaurant,0.5,category:korean,Wilhelmshavener Straße 3,Berlin,10551,493012364091,,13.341581,52.527788
+,Just A Little,korean_restaurant,0.5,category:korean,Turmstraße 31,Berlin,10551,,,13.340997,52.526523
+,Café Hanja,korean_restaurant,0.5,category:korean,Budapester Straße 43,Berlin,10787,,,13.3400453,52.5052287
+,브라이트샤이트 광장,public_plaza,0.7748048305511475,name:hangul,,Berlin,,,,13.3356,52.5047
+,Bibi Mix,korean_restaurant,0.9374851584434509,category:korean,Budapester Straße 48,Berlin,10787,+493022453966,,13.33775348,52.50550427
+,Bibi Mix,korean_restaurant,0.9768424430908418,category:korean,Budapester Straße 48,Berlin,10787,+493022453966,,13.337148,52.505452
+,Hans-jürgen Wohlatz,hair_salon,0.5,name:korean-surname,Passauer Straße 8,Berlin,10789,49302186441,,13.339374,52.500732
+,거주지(베를린),apartment,0.5,name:hangul,Waldstraße 82,Schulzendorf,15732,,,13.589452,52.373283
+,Kimchi Heim,korean_restaurant,0.9996893379423852,category:korean,Steglitzer Damm 72,Berlin,12169,493049958324,,13.348526,52.449589
+,박용순 의원,doctors_office,0.5,name:hangul,Kurfürstenstraße 70,Berlin,10785,493026395960,https://laladay.tistory.com/27,13.381027,52.448367
+,cookoon,korean_restaurant,0.9882077574729919,category:korean,Saalburgstraße 4,Berlin,12099,+493054683113,https://www.gastronavi.de/restaurants/31553/mittagstisch/,13.41849229,52.45517559
+,Mani Mogo,korean_restaurant,0.9999628887079062,category:korean,Erich-Thilo-Straße 3,Berlin,12489,+493055517471,http://www.mani-mogo.com/,13.53195543,52.43288021
+,프롬독일_fromdogil,exporter,0.5,name:hangul,Katharina-Boll-Dornberger-Straße 17,Berlin,12489,4917644498456,,13.528675,52.435374
+,사단법인 베를린 한인회 Koreanischer Verein Berlin,gym,0.6623431114016096,name:hangul,Feurigstraße 18,Berlin,10827,+49302169052,https://berlin.korean.net/,13.355658,52.484388
+,WaWa Berlin,korean_restaurant,0.9995748187303544,category:korean,Grunewaldstraße 10,Berlin,10823,+493065774230,http://wawaberlin.com/,13.35565281,52.49017725
+,Hera Choi 베를린 한인 미용실,beauty_salon,0.5,name:hangul,Motzstraße 37,Berlin,10777,493028630653,,13.346579,52.497097
+,Oma Galbi,korean_restaurant,0.5,category:korean,11 Kalckreuthstraße,Berlin,10777,,,13.348369,52.498142
+,Hans Rheinhessische Weinstube,german_restaurant,0.9998236903106879,name:korean-surname,Motzstraße 10,Berlin,10777,+491608145016,http://www.Hans-Weinstube.de/,13.35107887,52.49884558
+,On Korean Aesthetic Studio,skin_care_and_makeup,0.5,name:token,Nollendorfstraße 36,Berlin,10777,491745647770,,13.353851,52.497993
+,Mmaah,korean_restaurant,0.9973971551656723,category:korean,Nollendorfstraße 31,Berlin,10777,+4915901734768,http://www.mmaah.de,13.35271484,52.49787294
+,Ixthys,korean_restaurant,0.994162911772728,category:korean,Pallasstraße 21,Berlin,10781,+493081474769,http://ixthyskoreanrestaurant1.placeweb.site,13.35441183,52.49463433
+,Seoul Of Berlin Photography,professional_service,0.9381152514460762,name:token,Genthiner Straße 51,Berlin,10785,+4917641817000,http://www.seoulofberlin.com/,13.3585678,52.5013162
+,Son Kitchen,korean_restaurant,0.9885650879144668,category:korean,Potsdamer Str. 107,Berlin,10785,+493084513715,http://www.sonkitchen.de/,13.36326195,52.50012971
+,Gokan,korean_restaurant,0.9999991270114201,category:korean,Leberstraße 9,Berlin,10829,491727217000,http://www.gokanberlin.de/,13.361673,52.485181
+,Hodori,korean_restaurant,0.9882999658584595,category:korean,Goebenstraße 16,Berlin,10783,+49302153562,http://www.restaurant-hodori.de,13.36650968,52.49365554
+,Restaurant HODORI,korean_restaurant,0.9969980704784394,category:korean,Goebenstraße 16,Berlin,10783,+49302153562,http://www.restaurant-hodori.de,13.36650968,52.49365554
+,Gogi Boss,korean_restaurant,0.77,category:korean,Mehringdamm 38,Berlin,10961,030 53048797,https://www.gogi-boss-korean-grill-express-berlin.de,13.387494412587206,52.49334248561017
+,Seoul Kitchen BBQ Restaurant,barbecue_restaurant,0.8468279463115245,name:token,Bergmannstraße 1,Berlin,10961,,,13.387659,52.48983
+,Babikyu,korean_restaurant,0.9980477327108384,category:korean,Bergmannstraße 1,Berlin,10961,+491748143355,http://www.babikyu.de/,13.38736766,52.48990652
+,Madang,korean_restaurant,0.993460184931755,category:korean,Gneisenaustraße 8,Berlin,10961,+493091474416,https://www.madangrestaurant.de,13.39012862,52.49216226
+,Namsan Berlin,korean_restaurant,0.9997150998498725,category:korean,Chamissoplatz 1,Berlin,10965,+493049907172,,13.390605,52.488455
+,NaNum,korean_restaurant,0.9977957737445832,category:korean,Lindenstraße 90,Berlin,10969,+491772084785,https://www.instagram.com/nanumberlin,13.39428476,52.50252205
+,Kimchi Planet,asian_restaurant,0.9675191857140444,name:token,Erkelenzdamm 45,Berlin,10999,+493031172143,,13.413417,52.497651
+,Mercosy,korean_restaurant,0.9994390382915735,category:korean,Dresdener Str. 11,Berlin,10999,+493091532210,http://www.mercosy.de/,13.41737418,52.50059309
+,Chikogi,korean_restaurant,0.9997281615138054,category:korean,Oranienstraße 31,Berlin,10999,+491625207505,http://www.chikogi.de/,13.41885052,52.50145979
+,Han - Korean Food,restaurant,0.5,name:token,Kottbusser Damm 1,Berlin,10967,491634014684,,13.420299,52.49533
+,Aigo Korean Food Kreuzberg,korean_restaurant,0.9973850979154761,category:korean,Kottbusser Damm 1,Berlin,10967,+4917660609996,http://aigo-take-away-berlin.de/,13.420299,52.49533
+,Ssam Original Korean Barbeque,korean_restaurant,0.9999678011519689,category:korean,Kottbusser Damm 96,Berlin,10967,+493049089535,http://www.ssam-bbq.de,13.42161565,52.49420698
+,Mokpo Berlin,korean_restaurant,0.5,category:korean,Urbanstraße 126,Berlin,10967,493023495533,,13.415991,52.491215
+,Mmaah,korean_restaurant,0.9937823206186295,category:korean,Columbiadamm 160,Berlin,10965,+4915901735315,https://www.mmaah.de,13.41793265,52.48004902
+,Embassy of the Republic of Korea,embassy,0.987191014289856,name:token,Stülerstraße 8-10,Berlin,10787,+4930260650,http://www.koreaemb.de,13.34863022,52.50802935
+,Hans im Glück- Burgergrill,burger_restaurant,0.9887385368347168,name:korean-surname,Europaplatz 1,Berlin,10557,+493023595941,https://hansimglueck-burgergrill.de/burger-restaurant/berlin-hauptbahnhof/?utm_source=facebook&utm_medium=yext&utm_campaign=23,13.370086379393364,52.52530270299787
+,Hans Im Gluck,burger_restaurant,0.9999204307854176,name:korean-surname,Europaplatz 1,Berlin,10557,+493023595941,https://hansimglueck-burgergrill.de/burger-restaurant/berlin-hauptbahnhof/?utm_source=facebook&utm_medium=yext&utm_campaign=23,13.36985332,52.52550513
+,On - Korean Restaurant,korean_restaurant,0.30388543009757996,category:korean,Jägerstraße 67,Berlin,10117,+493050561210,https://linktr.ee/onkoreanrestaurant?utm_source=linktree_profile_share&ltsid=c0ea3c74-227a-4b75-8ac7-90635db0abab,13.38736811,52.51386871
+,Embassy of the Democratic People's Republic of Korea,embassy,0.9734087532758713,name:token,Glinkastraße 5-7,Berlin,10117,+493020625990,http://www.korea-dpr.com,13.38616674,52.51135003
+,Kparc(크파르크),convenience_store,0.5,name:hangul,Leipziger Platz 12,Berlin,10117,,http://www.kparc.de/,13.379637,52.509959
+,Wawa - The Playce,korean_restaurant,0.5,category:korean,Alte Potsdamer Straße 7,Berlin,10785,,,13.374472,52.50812
+,Fräulein Kimchi,asian_restaurant,0.5,name:token,Potsdamer Straße 4,Berlin,10785,,,13.372726,52.509657
+,Koreanisches Kulturzentrum 주독일 베를린 한국문화원,cultural_center,0.9999167529585816,name:hangul,Leipziger Platz 3,Berlin,10117,+4930269520,https://germany.korean-culture.org/,13.378092,52.508824
+,독일 연방정치교육센터,educational_facility,0.5,name:hangul,Friedrichstraße 50,Berlin,10117,,,13.390355,52.508799
+,Kic (korea Innovation Center) Europe,information_technology_company,0.9471,name:token,Charlottenstraße 18,Berlin,10117,030 35512840,http://www.kiceurope.eu,13.39235,52.508459
+,Korea Visa Application Center,passport_and_visa_service,0.9523550271987915,name:token,Taubenstraße 20,Berlin,10117,+49302902245550,,13.39462748,52.51324995
+,HANS IM GLÜCK - BERLIN Friedrichstraße,burger_restaurant,0.999801951944828,name:korean-surname,Friedrichstraße 103,Berlin,10117,+493023329212,https://hansimglueck-burgergrill.de/burger-restaurant/berlin-friedrichstrasse/?utm_source=facebook&utm_medium=yext&utm_campaign=153,13.38837922,52.52109335
+,Bandol Mitte Korean Fried Chicken & Bibimbap,korean_restaurant,0.22865033149719238,category:korean,Oranienburger Straße 50,Berlin,10117,+493023564266,https://linktr.ee/bandol_berlin,13.38871551,52.52622901
+,베를린 새누리교회,religious_organization,0.8184763789176941,name:hangul,Borsigstraße 5,Berlin,10115,+4917672169883,http://saenuree.de/,13.39072,52.52886
+,Coréen Restaurant Berlin,korean_restaurant,0.9983579552173615,category:korean,Torstraße 179,Berlin,10115,+493028883888,http://coreen-restaurant.de,13.39398497,52.52866912
+,Berlin Korean Dance Project,,0.2006746083498001,name:token,,Berlin,,,https://www.instagram.com/berlin.koreandance/,13.401300430298,52.518400463062
+,Wondeo Chikin,korean_restaurant,0.8141651185148504,category:korean,Karl-Liebknecht-Straße 13,Berlin,10178,+493023564266,,13.40748995,52.52205825
+,Gochugang - Got Rice,korean_restaurant,0.5,category:korean,Rosa-Luxemburg-Straße 5,Berlin,10178,493022453966,http://bibimix.de/,13.409117,52.523595
+,Bibi Mix,korean_restaurant,0.991729565858841,category:korean,Rosa-Luxemburg-Straße 5,Berlin,10178,+493022453966,http://bibimix.de/,13.409111,52.52374
+,YamYam Berlin,korean_restaurant,0.9992577293515206,category:korean,Alte Schönhauser Str. 6,Berlin,10119,+493024632485,http://www.yamyam-berlin.de/,13.40833979,52.52756662
+,Seoul Onni,beauty_supply_store,0.7537724077701569,name:token,Alte Schönhauser Straße 16,Berlin,10119,+493076684380,http://www.seoulonni.de/,13.40735334,52.52651117
+,Angry Chicken,korean_restaurant,0.9990450201332569,category:korean,Rosa-Luxemburg-Straße 7,Berlin,10178,+493023458283,http://www.angry-chicken.com,13.40940549,52.52386998
+,Aigo Korean BBQ Berlin,korean_restaurant,0.853411580723332,category:korean,Holzmarktstraße 67,Berlin,10179,+4917659996698,,13.42005,52.51573
+,Pacifico,korean_restaurant,0.77,category:korean,Oranienstr. 147,Berlin,10969,,http://pacifico-berlin.com,13.40989250334581,52.50384734485071
+,Ban Ban Kitchen,korean_restaurant,0.884621262550354,category:korean,Schillerpromenade 32,Berlin,12049,,http://www.stilinberlin.de/2014/03/food-in-berlin-ban-ban-kitchen.html,13.42289139,52.47581017
+,Kimchi Princess,korean_restaurant,0.9999814853757735,category:korean,Skalitzer Str. 36,Berlin,10999,+491634580203,http://www.kimchiprincess.com/,13.42589603,52.49860225
+,Restaurant Paran,korean_restaurant,0.9977944028377533,category:korean,Sanderstraße 17,Berlin,12047,+493063317000,http://www.paranberlin.de,13.42768298,52.49269715
+,Mmaah,korean_restaurant,0.9113076883554458,category:korean,Wiener Str. 31,Berlin,10999,+491738043859,https://www.mmaah.de,13.43366258,52.49650317
+,Mmaah,korean_restaurant,0.9960757106542587,category:korean,Kiehlufer 75,Berlin,12059,+4915901249082,http://www.mmaah.de,13.44770812,52.48380556
+,노이쾰른,historic_site,0.7973350882530212,name:hangul,,Berlin,,,http://www.berlin.de/ba-neukoelln/,13.45,52.4833333333
+,Plus Acht Zwo (+82),korean_restaurant,0.6405433565378189,category:korean,Richardstraße 107,Berlin,12043,493055226280,http://www.plus82berlin.de/,13.439731,52.478028
+,KIMCHI records,record_label,0.6928377151489258,name:token,Richardstraße 7-8,Berlin,12043,+491785936171,https://www.discogs.com/seller/KIMCHIrecords./profile,13.43889604,52.47819832
+,Dogmong,korean_restaurant,0.9987714738290947,category:korean,Karl-Marx-Straße 231,Berlin,12055,+4915752170689,https://www.instagram.com/dogmong_berlin/,13.442668,52.468629
+,Hans-peter Weygoldt,dental_clinic,0.5,name:korean-surname,Sonnenallee 306,Berlin,12057,49306841055,http://www.weygoldt-haering.de/,13.470098,52.466309
+,Crazy Kims,korean_restaurant,0.9984123665094375,category:korean,Muskauer Str. 13,Berlin,10997,+493067795777,http://crazykims.de/,13.43017508,52.5020367
+,Müzigin KALBi Ademle - Berlin,,0.3156128525733948,name:token,Skalitzer Straße 58,Berlin,10997,+491705344302,,13.43613,52.49973
+,Gogi Haus,korean_restaurant,0.6702157706022263,category:korean,Skalitzer Straße 81,Berlin,10997,493069004162,http://gogihaus.eatbu.com/,13.439068,52.500698
+,Seoul Kitchen,korean_restaurant,0.9979645073413849,category:korean,Warschauer Straße 46,Berlin,10243,+493065214130,https://pages.resmio.com/seoulkitchen,13.44739431,52.50365019
+,Hans im Glück,burger_restaurant,0.9999662530720234,name:korean-surname,Hedwig-Wachenheim-Straße 12,Berlin,10243,+4930403635700,https://hansimglueck-burgergrill.de/burger-restaurant/berlin-mercedes-platz/?utm_source=facebook&utm_medium=yext&utm_campaign=69,13.44286784,52.5048477
+,Ssam Korean Barbeque,korean_restaurant,0.5,category:korean,Warschauer Straße 81A,Berlin,10243,,,13.453666,52.513919
+,Maru Restaurant,korean_restaurant,0.9999645526325973,category:korean,Rigaer Str. 74,Berlin,10247,+493054628785,http://www.berlinmaru.com/,13.46586393,52.51632237
+,BAES Germany GmbH,marketing_agency,0.36162206530570984,name:korean-surname,Möllendorffstraße 48,Berlin,10367,+493020073780,https://www.baes.de/,13.48012441,52.52431977
+,Fräulein Kimchi,caterer,0.946751594543457,name:token,Gürtelstraße 10,Berlin,10247,,http://fraeuleinkimchi.com/,13.47431,52.510902
+,Mmaah,korean_restaurant,0.9997507331270228,category:korean,Simon-Dach-Straße 11,Berlin,10245,+4917634571282,http://www.mmaah.de,13.456327,52.510697
+,Zoomfresh Kimchi - Wochenmarkt Boxhagener Platz,farmers_market,0.9954362100362778,name:token,Boxhagener Platz,Berlin,10245,+491784762242,http://boxhagenerplatz.org/,13.4602292,52.51104099
+,K-BBQ- Korean Barbecue,barbecue_restaurant,0.8696925044059753,name:token,Neue Bahnhofstraße 26,Berlin,10245,+4915203770735,http://kbbq-berlin.com/,13.47051034,52.50668542
+,Minh Thăng Mobile Korea,,0.18681290745735168,name:token,대전광역시 동구 홍도동 78-6 1층 ( cạnh trường 한남대학교 cách 20m  ),Berlin,,,,13.49104,52.50136
+,Lee's Kitchen,vietnamese_restaurant,0.9950318130850792,name:korean-surname,Cecilienstraße 159,Berlin,12683,+4915259025988,http://leeskitchen.de/,13.57016017,52.52895651
+,Sam Yuk Gu,korean_restaurant,0.9999594153458919,category:korean,Seestraße 71,Berlin,13347,+493023329363,https://www.sam-yuk-gu-berlin-wedding.de,13.36100521,52.55477431
+,Granny's Hansang,korean_restaurant,0.9924317746476277,category:korean,Schulstraße 29,Berlin,13347,+491781354686,https://grannys-berlin.de/,13.36532,52.549977
+,Noka Korea,karaoke_venue,0.9934347206115722,name:token,Schulstraße 29,Berlin,13347,+493061746796,http://www.noka-korea.de/,13.36529072,52.55007555
+,베를린 빌콤멘 한인 민박,bed_and_breakfast,0.5,name:hangul,Luxemburger Straße 4,Berlin,13353,,,13.35793,52.545879
+,Gangnam,korean_restaurant,0.9979692620038986,category:korean,Nazarethkirchstraße 45,Berlin,13347,+4915259090747,http://www.gangnamberlin.de/,13.36082998,52.54881897
+,Hans Becker Zahnarzt,dental_clinic,0.5,name:korean-surname,Prinz-Eugen-Straße 10,Berlin,13347,49304626328,,13.364253,52.548218
+,Chibee,korean_restaurant,0.9988638472557068,category:korean,Tegeler Straße 29A,Berlin,13353,+493022326105,http://chibeeberlin.com/,13.35628527,52.54295004
+,Shikgoo,korean_restaurant,0.9917307105660439,category:korean,Tegeler Straße 25,Berlin,13353,+493085012045,http://www.shikgoo.com,13.35689945,52.54265773
+,Korea-Ver­band e.V.,,0.85,name:token,Rostocker Str. 33,Berlin,10553,03039805984,http://www.koreaverband.de/,13.3266372,52.5314993
+,Han Sa Rang,korean_restaurant,0.5,category:korean,Beusselstraße 61,Berlin,10553,493068965018,https://www.hansarangkitchens.com/,13.328354,52.529765
+,Korea Verband,social_or_community_service,0.9144536256790161,name:token,Quitzowstraße 103,Berlin,10551,+493039805984,https://www.koreaverband.de/,13.34061782,52.53397265
+,Han,korean_restaurant,0.9132544994354248,category:korean,Heidestraße 58,Berlin,10557,+49491749591417,,13.368032745972,52.529364824557
+,Aegyo Skincare | Korean Skincare | Koreanische Hautpflege | K Beauty | العناية بالبشرة الكورية | Корейский Уход За Кожей,cosmetics_and_fragrance_store,0.5,name:token,Voltastraße 1,Berlin,13355,4915753954051,https://www.aegyoskincare.com/,13.3921605,52.5426629
+,베를린한인민박 심포니하우스,hostel,0.5472769737243652,name:hangul,Eulerstraße 21,Berlin,13357,+491772745789,http://berlin21.co.kr/,13.38956,52.55287
+,Arirang Bulgogi,korean_restaurant,0.9989970377087594,category:korean,Bornholmer Str. 85,Berlin,10439,+493031175620,http://www.arirangbulgogi.de,13.40994082,52.55375852
+,Gosu,korean_restaurant,0.5,category:korean,Kastanienallee 99,Berlin,10435,,https://www.gosuberlin.de/,13.410989,52.539403
+,Gutendag & Gonggan Mauerpark - Koreanisches Restaurant,korean_restaurant,0.5,category:korean,Oderberger Straße 40,Berlin,10435,,,13.40649,52.539555
+,Seoul Garden (im Prenzlauer Berg),korean_restaurant,0.5,category:korean,Oderberger Straße 41,Berlin,10435,493023639867,,13.406686,52.539481
+,ümm I 윔베를린,music_school,0.41409531235694885,name:hangul,Brunnenstraße 196,Berlin,10119,,http://ummberlin.com/,13.4006788,52.53008954
+,Youngheene,korean_restaurant,0.5,category:korean,Weinbergsweg 5,,,,,13.402411,52.530773
+,Gogogi,korean_restaurant,0.9471,category:korean,Weinbergsweg 24,Berlin,10119,030 55246141,http://www.gogogi.de,13.40188,52.530778
+,Restaurant Choi,korean_restaurant,0.9999996192887907,category:korean,Fehrbelliner Straße 4,Berlin,10119,+4917661941932,http://choiberlin.de/,13.410316,52.530966
+,Kim's Nageldesign,nail_salon,0.5,name:korean-surname,Nürnberger Straße 15,Birkenwerder,16547,4915252025573,http://www.kims-nageldesign-birkenwerder.regional.de/,13.265099,52.686576
+,보청기 전문점 디어크 호닉 Dirk Hornig,prosthetics,0.980508092045784,name:hangul,Waidmannsluster Damm 177,Berlin,13469,+49304149632,http://www.hornig-hoeren.de/,13.31942,52.60709
+,KimMami,korean_restaurant,0.998383892774582,category:korean,Zabel-Krüger-Damm 31,Berlin,13469,+493099271880,https://www.kimmami-restaurant.de/,13.32959447,52.60968294
+,Seoul Taste Lieferservice,korean_restaurant,0.5,category:korean,Flottenstraße 28,Berlin,13407,493060598054,https://www.seoultaste.de/,13.358256,52.577449
+,Korean Food Stories,korean_restaurant,0.9991030225157738,category:korean,Prenzlauer Allee 217,Berlin,10405,+493054630766,http://www.koreanfoodstories.com/,13.42154027,52.53507515
+,Feel Seoul Good,korean_restaurant,0.9999738924043371,category:korean,Husemannstraße 2,Berlin,10435,+493047496766,http://feelseoulgood.de/,13.4174329,52.53690098
+,Wasabi,korean_restaurant,0.9471,category:korean,Rykestraße 48,Berlin,10405,030 40301029,http://www.seoulkitchen.de/,13.419711,52.535798
+,Maison Saveur - Korean BBQ,korean_restaurant,0.8905451253698828,category:korean,Sredzkistraße 67,Berlin,10405,+493024031615,,13.42277275,52.53741785
+,Chanchanchan,korean_restaurant,0.885,category:korean,Senefelderstraße 8A,Berlin,10437,4917623505955,https://chanchanchan.eatbu.com/,13.422928,52.541244
+,MODU Korean Bistro,korean_restaurant,0.9894333183765411,category:korean,Danziger Str. 36,Berlin,10435,+493056586731,https://modu-berlin.com/,13.41842643,52.53985229
+,Bibim,korean_restaurant,0.9999131737489406,category:korean,Danziger Straße 36,Berlin,10435,+493044319306,http://www.bibim.de,13.418298,52.539838
+,Juki,korean_restaurant,0.9986537832021714,category:korean,Lychener Str. 13,Berlin,10437,+493044324636,http://www.juki.me,13.41522399,52.54178148
+,K-bok Korean Fried Chicken,korean_restaurant,0.6856503486633301,category:korean,Danziger Straße 12,Berlin,10435,493044357402,https://kbokkoreanfriedchicken.com/,13.414849,52.54037
+,Gangnam Pocha,korean_restaurant,0.9471,category:korean,Hagenauer Straße 9,Berlin,10435,0491 7672129850,http://www.gangnampocha.de,13.416089,52.540095
+,Kokio,korean_restaurant,0.9992257255315781,category:korean,Danziger Str. 20,Berlin,10435,+493044049090,http://www.kokioberlin.com/,13.41610429,52.54013032
+,Studio Et Al. X Photoism Berlin - Korean Photo Booth,photo_booth_rental,0.5,name:token,Danziger Straße 22,Berlin,10435,,,13.416631,52.540093
+,Bento & Bibim | Japanese and Korean Culinary Shop,shopping,0.9477699398994446,name:token,Lychener Str. 3,Berlin,10437,+493048625817,http://www.enishi-japanese-antique.com/,13.41429081,52.54112341
+,Mmaah! - Korean Fried Chicken & Korean BBQ,korean_restaurant,0.8559964895248413,category:korean,Schönhauser Allee 44,Berlin,10435,+4915561663506,,13.41253815,52.5405727
+,Core,korean_restaurant,0.9922327983379364,category:korean,Pappelallee 84,Berlin,10437,+493024324549,http://core-koreancuisine.blogspot.com,13.41359925,52.54237416
+,Galbi-House,korean_restaurant,0.4652901291847229,category:korean,Buchholzer Straße 5A,Berlin,10437,+493067394664,https://social.quandoo.com/en/groups/Galbi-House-Korean-Cuisine,13.41528557,52.54527133
+,Kickin Korean Chicken Prenzlauer Berg,korean_restaurant,0.5,category:korean,Schönhauser Allee 61,Berlin,10437,4915206066869,,13.413268,52.545565
+,Guten Dag – Korean Fried Chicken,chicken_wings_restaurant,0.77,name:token,Schönhauser Allee 71-72,Berlin,10437,0491 7672606287,,13.413515447811514,52.54831304153391
+,Abonim,korean_restaurant,0.77,category:korean,Wisbyer Str. 69,Berlin,10439,0491 7672215474,http://abonim.de,13.416974821001551,52.553887149087195
+,Reiszeit,korean_restaurant,0.9471,category:korean,Wichertstraße 18,Berlin,10439,0491 5904862786,http://reiszeit.berlin,13.419703,52.548872
+,Sword Master Noodle,korean_restaurant,0.5,category:korean,Dunckerstraße 30,Berlin,10439,,,13.425255,52.547205
+,Dotori Korean Anju Bar,wine_bar,0.9998100311419404,name:token,Gustav-Adolf-Straße 159,Berlin,13086,+493047375630,http://www.instagram.com/dotori.berlin,13.433702,52.55328
+,Restaurant Korea-Haus,food_and_beverage_store,0.85,name:token,Danziger Str. 195,Berlin,10407,0304233441,http://restaurant-korea-haus.business.site/,13.4431314,52.5307965
+,Chikin-shack,korean_restaurant,0.5328381904052115,category:korean,Lyonel-Feininger-Straße 1,Berlin,12627,4915563763856,https://www.chikin-shack.de/,13.607268,52.53719
+,Fräulein Kimchi,caterer,0.948674550652504,name:token,Gürtelstraße 10,Berlin,13088,,http://www.fraeuleinkimchi.com/,13.45241774,52.54530861
+,Hans-Joachim Schönberg,dental_clinic,0.7817396521568298,name:korean-surname,Landsberger Chaussee 13,Ahrensfelde,16356,+49309918091,http://www.zahnarztlive.de,13.59222,52.548925
+,Mc Asia Bistro,korean_restaurant,0.9019377010036678,category:korean,Pasedagplatz 5,Berlin,13088,+491624580854,,13.46011066,52.55988665
+,Kim's Bistro,restaurant,0.9586001878816361,name:korean-surname,Bucher Straße 30,Berlin,13127,+493080484999,,13.439523,52.613736
+,Wondeo Chikin - Korean Fried Chicken Halal,korean_restaurant,0.9897577653605296,category:korean,Prerower Platz 1,Berlin,13051,+4917684090895,https://www.wondeochicken.de/,13.506278,52.564989
+,Hans-jürgen Wollermann Zahnarzt,dental_clinic,0.5,name:korean-surname,Märkische Allee 408,Berlin,12689,49309339383,,13.567799,52.571315

@@ -1,0 +1,332 @@
+﻿id,name,category,confidence,reason,address,locality,postcode,phone,website,lng,lat
+,NeNe Chicken Altona,korean_restaurant,0.9864908456802368,category:korean,"Millers Junction, Shop F2/290-298 Millers Rd",Melbourne,3025,+61391937027,http://www.nenechicken.com.au/,144.84587748,-37.84367157
+,Lee's Tikis Takeaway,fast_food_restaurant,0.21993544697761536,name:korean-surname,342 Kororoit Creek Rd,Melbourne,3016,+61393972817,https://leestikis.com.au/,144.86223013,-37.85467243
+,Mumchan,korean_restaurant,0.997111279964447,category:korean,1B Triholm Ave,Melbourne,3028,+61370134592,http://Www.mumchan.com/,144.76125824,-37.86722891
+,Gami Chicken & Beer,korean_restaurant,0.6638509035110474,category:korean,"Sanctuary Lakes Shopping Centre, Shop 73/300 Point Cook Rd",Melbourne,3030,+61373797288,https://www.gamichicken.com.au/restaurant/point-cook/,144.75391913,-37.89555506
+,Melbourne Victory Church - 멜번승리하는교회,christian_place_of_worship,0.6762998700141907,name:hangul,28 Postema Dr,Melbourne,3030,+61498016260,,144.76316,-37.91518
+,Kim's Beauty Bar,beauty_salon,0.30337923765182495,name:korean-surname,309 Coventry St,Melbourne,3205,+61478184785,http://Www.kimsbeautybar.com.au/,144.93885,-37.83829
+,Dami Dami,korean_restaurant,0.8756884932518005,category:korean,99 Victoria Ave,Melbourne,3206,+61396868199,,144.95092832,-37.84475145
+,Best Korea Skincare In Melbourne :,spa,0.08312797546386719,name:token,Queen Rd ,Melbourne,,+61421669790,http://www.seoulbymecream.com/,144.97583788943845,-37.84282972251772
+,Australia K-Pop Party,party_and_event_planning,0.18194158375263214,name:token,313 Lygon St,Melbourne,3057,+61418377227,https://www.KpopParty.com/,144.97854,-37.86747
+,Consulate General of the Republic of Korea,embassy,0.945568761229515,name:token,Level 10/636 St Kilda Rd,Melbourne,3004,+61395333800,http://overseas.mofa.go.kr/au-melbourne-ko/index.do,144.98182461,-37.85474978
+,Korean Language School of Melbourne 멜번 한국어 학교,language_school,0.6033324003219604,name:hangul,577 St Kilda Rd,Melbourne,3004,,,144.98308399184498,-37.84823645814757
+,Charm Korean Restaurant,korean_restaurant,0.9342098832130432,category:korean,146 Toorak Rd,Melbourne,3141,+61399735162,http://www.charmkorea.com.au/,144.99105315,-37.83898851
+,호주 멜본 복지센타,community_center,0.6432507038116455,name:hangul,40 Grattan St,Melbourne,3181,+61460776707,,144.99141,-37.84806
+,Seoul Salon,korean_restaurant,0.7827001214027405,category:korean,Shp 708,Melbourne,3141,+61497127383,,144.992134,-37.846291
+,Gami Chicken and Beer,korean_restaurant,0.3475895822048187,category:korean,38 Chapel St,Melbourne,3181,+61395315589,https://www.gamichicken.com.au/restaurant/windsor/,144.9926397,-37.85620128
+,Oishi! Kitchen,korean_restaurant,0.77,category:korean,286 Chapel St,Prahran,3181,(03) 9133 4517,https://oishi-kitchen-korean-restaurant.business.site,144.99402075992774,-37.848571721726934
+,Zen Charcoal BBQ,korean_restaurant,0.9629446214437485,category:korean,306 Toorak Rd,Melbourne,3141,+61399126460,http://www.zenbbq.com.au/,144.997674,-37.839879
+,Subi Q,korean_restaurant,0.77,category:korean,407 Malvern Rd,South Yarra,3141,(03) 9827 7887,http://www.subiqkoreanbbq.com.au,145.00025996215777,-37.84749581700573
+,Korean,korean_restaurant,0.77,category:korean,315 Glennhuntly Rd,Elsternwick,3185,0420 331 771,http://damsokoreanbbq.com.au,145.0017054349193,-37.884575032434775
+,Damso BBQ,korean_restaurant,0.9946047139167785,category:korean,315 Glen Huntly Rd,Melbourne,3185,+61420331771,http://damsokoreanbbq.com.au,145.00221619,-37.88439918
+,Gu.E Elsternwick,korean_restaurant,0.3056694269180298,category:korean,315 Glen Huntly Rd,Melbourne,3185,+61395326944,http://elsternwick.gu-e.com.au/,145.002233,-37.884332
+,The One Korea,korean_restaurant,0.9638331532478333,category:korean,305 Glen Huntly Rd,Melbourne,3185,+61421928895,,145.00197951818197,-37.884396336365484
+,Dagach Korean BBQ,korean_restaurant,0.998168016076088,category:korean,88/90 Station St,Melbourne,3191,+61395985717,https://www.instagram.com/dagach_sandringham/,145.00392442,-37.95136219
+,The Gangjung,korean_restaurant,0.9688044190406799,category:korean,741 Glen Huntly Rd,Melbourne,3162,+61422766523,http://www.thegangjung.com.au/,145.02045508,-37.88656894
+,멜본 한인교회,christian_place_of_worship,0.9840384083986282,name:hangul,23 Glendearg Grove,Melbourne,3144,+61395098569,http://www.melhans.org/,145.03277535,-37.8670914
+,멜번 소망교회,christian_place_of_worship,0.6396751403808594,name:hangul,144 Bridge St,Melbourne,3207,+61405796095,,144.9427,-37.83577
+,멜번 소망교회,christian_place_of_worship,0.6396751403808594,name:hangul,144 Bridge St,Melbourne,3207,+61405796095,,144.9567099,-37.83435
+,Gamasot K BBQ,korean_restaurant,0.6627929210662842,category:korean,4/1 Bank St,Melbourne,3205,+61493503238,,144.96963756,-37.83182873
+,Chingu Korean BBQ Southbank,korean_restaurant,0.2967502772808075,category:korean,201 City Rd,Melbourne,3006,+61481266668,https://inline.app/booking/-ORyQkVl-0NSIAZLKGw5:inline-live-3/-OxcmjsRrUcR_FWJyZce,144.9615055,-37.82505839
+,Korean Table,korean_restaurant,0.9918660807609558,category:korean,33 Rose Ln,Melbourne,3000,+61398865999,https://korean-table.com.au,144.95399762,-37.81494827
+,Paik's Bibim Korean Restaurant,korean_restaurant,0.9296637773513794,category:korean,262 Spencer St,Melbourne,3000,+61390344888,http://www.koreanbarbeque.com.au/,144.95219702,-37.81444764
+,Paiks Bibim Australia,korean_restaurant,0.9272568225860596,category:korean,"West Side Place, 244-276 Spencer St",Melbourne,3000,,,144.9521938900855,-37.81450270098731
+,GogiMatcha,korean_restaurant,0.9903724193572998,category:korean,597 Little Lonsdale St,Melbourne,3000,+61403828597,https://gogi-matcha.business.site,144.95377203,-37.81367522
+,아이에듀넷 유학원,educational_service,0.8477423191070557,name:hangul,310 King St,Melbourne,3000,+61386269310,http://www.studyau.net/korea,144.9545,-37.81281
+,Hansang,korean_restaurant,0.998771955370903,category:korean,2/349 King St,Melbourne,3003,+61399950867,http://www.hansang.com.au/,144.95352895,-37.81216186
+,Hanshin Pocha Melbourne,korean_restaurant,0.9471765756607056,category:korean,385 Little Lonsdale St,Melbourne,3000,+61435768228,http://hanshinpocha.com/,144.960487,-37.811798
+,CJ Lunch Bar,korean_restaurant,0.9919454455375671,category:korean,Shop 2/391 Little Lonsdale St,Melbourne,3000,+61483896785,,144.96037006,-37.81180303
+,Oriental Spoon 2,korean_restaurant,0.77,category:korean,291 Elizabeth St,Melbourne,3079,(03) 9043 5199,http://orientalspoon.melbourne,144.961871,-37.81176
+,G2 Korean BBQ,korean_restaurant,0.77,category:korean,301 Elizabeth St,Melbourne,3000,(03) 9642 3424,http://www.g2koreanbbq.com.au,144.96200804761327,-37.81149455014165
+,Paroro Korean BBQ,korean_restaurant,0.9464177489280701,category:korean,Level 1/315 Elizabeth St,Melbourne,3000,+61484636478,http://paroro.com.au/,144.96150452,-37.81128567
+,Korea Town,korean_restaurant,0.9888275861740112,category:korean,365 La Trobe St,Melbourne,3000,+61396427512,https://www.ktown.au/,144.95863819,-37.81137651
+,Upstairs 360,korean_restaurant,0.994092515707016,category:korean,Level 1/360 La Trobe St,Melbourne,3000,+61393264585,https://www.upstairs360.com,144.95932144,-37.81081987
+,Buza Chicken,korean_restaurant,0.9994256709218026,category:korean,Shop 3/365 Queen St,Melbourne,3000,+61461410769,http://buzachicken.com.au,144.95797721,-37.80996153
+,Diner on Franklin,korean_restaurant,0.9966822957992554,category:korean,1/245 Franklin St,Melbourne,3000,+61426400721,https://goodfoodgoodkarma.wordpress.com/2019/02/18/diner-on-franklin/?fbclid=IwAR3dtTQopRhH-AydZp4o99qRNYOzVLFc38EWUYYM9MP9T-2nEFmTfUzneX4,144.95681516,-37.80947627
+,NeNe Chicken Elizabeth Street (CBD),korean_restaurant,0.9925797581672668,category:korean,2/410 Elizabeth St,Melbourne,3000,+61385901410,http://www.nenechicken.com.au/elizabeth-street,144.96091213,-37.80900523
+,Surasang,korean_restaurant,0.9904962778091431,category:korean,55-59 A'Beckett St,Melbourne,3000,+61401888860,,144.96188424,-37.80901293
+,Seoul Beauty,beauty_salon,0.73441481590271,name:token,Level M/398 Elizabeth St,Melbourne,3000,+61466685490,https://seoulbeautymelbourne.as.me/schedule/c0db0ac9,144.96132057,-37.80933978
+,ChangGo Korean BBQ House,korean_restaurant,0.9693149650096893,category:korean,70-72 Little La Trobe St,Melbourne,3000,+61433379100,http://au.localize123.com/changgo-in-melbourne-vic,144.96176084,-37.8094965
+,Oriental Spoon,korean_restaurant,0.9405052894353867,category:korean,254 La Trobe St,Melbourne,3000,+61396549930,http://orientalspoon.melbourne,144.961834,-37.809945
+,By Korea Restaurant,korean_restaurant,0.9133471846580505,category:korean,222 La Trobe St,Melbourne,3000,+61396622370,http://bykorea.com.au,144.961187,-37.809851
+,Korea Salon,hair_salon,0.7546915411949158,name:token,138 A'Beckett St,Melbourne,3000,+61491658004,http://www.koreasalon.com.au/,144.95921107,-37.80961789
+,Buza Chicken,korean_restaurant,0.9967919886112213,category:korean,"Shop 317, Level 3/211 La Trobe St",Melbourne,3000,+61424794552,https://www.buzachicken.com.au/,144.96261614,-37.81027329
+,NeNe Chicken,korean_restaurant,0.9974633014202118,category:korean,147 La Trobe St,Melbourne,3000,+61386729906,http://www.nenechicken.com.au,144.96371732,-37.81017757
+,Joomak,korean_restaurant,0.9971952617168427,category:korean,"Basement, 407/409 Swanston St",Melbourne,3000,+61396637123,http://www.joomak.com.au/,144.96332851,-37.80890349
+,Korea Beauty,beauty_salon,0.9205227494239807,name:token,Level 3/407-409 Swanston St,Melbourne,3000,+61412628077,http://www.koreabeauty.com.au/,144.96329519,-37.80891145
+,Ondo 온도,korean_restaurant,0.3612980544567108,category:korean,115 Little Lonsdale St,Melbourne,3000,+61422468787,,144.96854897,-37.80947937
+,Busan,korean_restaurant,0.9925146162509918,category:korean,297 Exhibition St,Melbourne,3000,+61420733580,https://www.busan.vip/,144.96884,-37.80894
+,Hong Dae Korean Restaurant & Bar,korean_restaurant,0.9729682207107544,category:korean,100 Little Lonsdale St,Melbourne,3000,+61493541320,https://www.instagram.com/hongdae_korean_restaurant_,144.96873104,-37.80911378
+,Jang go mama,korean_restaurant,0.9800292253494263,category:korean,147 Lonsdale St,Melbourne,3000,+61396631224,,144.9681717,-37.8108518
+,OhGam Korean BBQ Buffet,buffet_restaurant,0.9921337366104126,name:token,shop 1/139 Lonsdale St,Melbourne,3000,+61481333690,,144.9681811,-37.81082148
+,트레블고려 Gallery,travel_service,0.5183476805686951,name:hangul,123 Lonsdale St,Melbourne,3000,+61401372372,,144.96863,-37.81064
+,The bibimbap cafe,restaurant,0.44657230377197266,name:token,147 Lonsdale St,Melbourne,3000,+61396631224,,144.9681854,-37.8106804
+,E Mart Grocery,korean_grocery_store,0.85,category:korean,252 RUSSELL STREET,Melbourne,3000,0399729382,,144.9671002,-37.8104173
+,Korean Bbq Qv Melbourne,barbecue_restaurant,0.9419730645418167,name:token,,Melbourne,,,,144.9662562,-37.810515
+,씨앗채플 Seed Chapel,religious_organization,0.5347174406051636,name:hangul,194 Little Lonsdale St,Melbourne,3000,,,144.9634082,-37.8106595
+,Bornga Korean BBQ Restaurant,barbecue_restaurant,0.9655,name:token,1/258 Lonsdale Street,Melbourne,3000,0399950643,http://www.bornga.com.au/,144.9644414,-37.8114723
+,Seoul Soul Emporium,restaurant,0.7102160453796387,name:token,Level 3/287 Lonsdale St,Melbourne,3000,+61399956861,https://www.seoulsoul.com.au/,144.96361474,-37.81199014
+,Dooboo,korean_restaurant,0.77,category:korean,261 Swanston St,Melbourne,3000,0406 712 475,https://www.dooboohouse.com,144.9645076965414,-37.81207068082264
+,DooBoo Melbourne,korean_restaurant,0.9895918965339661,category:korean,261 Swanston St,Melbourne,3000,+61420436456,https://www.dooboohouse.com,144.96479227,-37.81203098
+,By Korea,korean_restaurant,0.9853826922178268,category:korean,7 Tattersalls Ln,Melbourne,3000,+61483074198,,144.96561695,-37.81200103
+,Oppa Kitchen,korean_restaurant,0.77,category:korean,271 Swanston St,"Melbourne, VIC",3000,0421 351 489,http://www.oppakitchen.com.au,144.96482678052482,-37.8118329515374
+,Bornga,korean_restaurant,0.9886499643325806,category:korean,Level 1/178 Little Bourke St,Melbourne,3000,+61406468878,http://www.bornga.kr,144.96693524,-37.81196165
+,Golmokgil,korean_restaurant,0.8740518093109131,category:korean,3-5 Waratah Pl,Melbourne,3000,+61494783707,,144.96705424,-37.81173649
+,Uncle Yoon Korean Restaurant,korean_restaurant,0.9541056156158447,category:korean,205-207 Russell St,Melbourne,3000,+61406824200,,144.96738639,-37.81162497
+,Korean Lunch Box,korean_restaurant,0.77,category:korean,3/108 Bourke St,Melbourne,3000,(03) 9654 4688,http://www.koreanlunchbox.com.au,144.9696580238977,-37.81158575036984
+,Seven Star Chinatown,korean_restaurant,0.9840835928916931,category:korean,113 Little Bourke St,Melbourne,3000,+61478668001,https://www.se7enstar.com.au/,144.96904496,-37.81148906
+,Byeok Dol,korean_restaurant,0.8829787373542786,category:korean,105 Little Bourke St,Melbourne,3000,,http://instagram.com/byeokdol.australia,144.96937743,-37.81138981
+,Happy Town Korean Style,music_and_dvd_store,0.77,name:token,,Melbourne,3000,(03) 9639 0083,https://www.happytown2850.com,144.969576,-37.811425
+,HappyTown Kpop Cafe,cafe,0.9510498642921448,name:token,"Shop 6, Lower Ground Level, 108 Bourke St",Melbourne,3000,+61396714053,,144.96987249,-37.81189179
+,Seoul Hot Chicken,korean_restaurant,0.9232860803604126,category:korean,2/117 Lonsdale St,Melbourne,3004,+61466025809,,144.96940969,-37.81197634
+,White Tomato,korean_restaurant,0.9981737875938416,category:korean,160-162 Bourke St,Melbourne,3000,+61396630370,http://www.whitetomatokorean.com,144.96851431,-37.81255014
+,Glowdy Au - Korean Clothes and Beauty,clothing_store,0.11358737200498581,name:token,"Midcity, Shop 10/200 Bourke St",Melbourne,3000,+61491767567,https://glowdy.au/,144.96742352,-37.81280173
+,Miga Korean Jeongsik,korean_restaurant,0.77,category:korean,287 Lonsdale St,Melbourne,3000,(03) 9191 9988,https://www.migakorea.com.au,144.963707,-37.812686
+,SamSam Chicken & Beer Melbourne,korean_restaurant,0.9449047899246216,category:korean,209 Swanston St,Melbourne,3000,+61451691174,https://www.samsamchicken.com/,144.96519024,-37.81285962
+,Melbourne Dae Jang Geum Korean BBQ,korean_restaurant,0.9977728110551835,category:korean,235 Little Bourke St,Melbourne,3000,+61396629445,http://www.daejanggeumkorean.com,144.96592165,-37.81254268
+,Guksu,korean_restaurant,0.9707191437482834,category:korean,249 Swanston St,Melbourne,3000,+61396395570,https://www.guksumelbourne.com,144.964812,-37.81228
+,룩서울라이트,nail_salon,0.7758274674415588,name:hangul,358 Lonsdale St,Melbourne,3000,+61479013700,https://linktr.ee/LOOKSEOULITE,144.96165,-37.81224
+,코코스 멜버른,school,0.9376710081100463,name:hangul,365 Lonsdale St,Melbourne,3000,+61396024499,http://blog.naver.com/melbourne070,144.9617140793,-37.812594565611
+,Restaurant Shik,korean_restaurant,0.77,category:korean,30 Niagra Ln,Melbourne,3000,(03) 9670 5195,http://restaurantshik.com,144.9614664888185,-37.81278176256797
+,Doma Korean Eatery,restaurant,0.31788399815559387,name:token,383-387 Lonsdale St,Melbourne,3000,,,144.96118,-37.81281
+,Mook Ji Bar,korean_restaurant,0.77,category:korean,406 Lonsdale St,Melbourne,3000,(03) 9600 2661,http://www.mookjibar.com,144.96048696516482,-37.8128013428717
+,Woo399 Korean Bbq,korean_restaurant,0.77,category:korean,4/399 Lonsdale Street,Melbourne,3000,(03) 9509 1551,https://www.woo399bbq.com.au,144.96048,-37.81294
+,Sokcho,korean_restaurant,0.7069360017776489,category:korean,2/466-468 Little Lonsdale St,Melbourne,3000,+61490498794,,144.95558302,-37.81281479
+,Seoul.exe,dance_club,0.2724253833293915,name:token,265 William St,Melbourne,3000,+61425198819,https://megatix.com.au/events/seoulexe-krave,144.95667,-37.81305
+,Guk Bab,korean_restaurant,0.77,category:korean,535 Little Lonsdale St,Melbourne,3000,(03) 9939 0380,https://gukbab.com.au,144.95609604089358,-37.81300228606128
+,Dong Dae Moon,korean_restaurant,0.769423246383667,category:korean,466 Little Lonsdale St,Melbourne,3000,+61490498794,,144.95565668,-37.81300352
+,Bamsae Night Birds,korean_restaurant,0.38067659735679626,category:korean,535 Little Lonsdale St,Melbourne,3000,+61396702466,http://koreanbarbeque.com.au,144.955505,-37.812973
+,Zhan Beers,korean_restaurant,0.9337297081947327,category:korean,474 Little Lonsdale St,Melbourne,3000,+61494014524,,144.95543105,-37.81306832
+,Korean Fried Chicken KFC'd,korean_restaurant,0.821661114692688,category:korean,474 Little Lonsdale St,Melbourne,3000,+61396702466,http://koreanfriedchicken.weebly.com/,144.955071,-37.813157
+,Mapo Grill & Bar,korean_restaurant,0.77,category:korean,551 Little Lonsdale St,Melbourne,3000,(03) 9670 9559,http://www.mapogrill.com,144.95559836171492,-37.81325275220879
+,Chilsung pocha 칠성포차,restaurant,0.5699449777603149,name:hangul,535 Little Lonsdale St,Melbourne,3000,+61439606888,,144.95587978435796,-37.81337887882589
+,Seven Star Pocha Koreatown,korean_restaurant,0.9972393500804901,category:korean,Shop H/535 Little Lonsdale St,Melbourne,3000,+61412278419,http://www.se7enstar.com/,144.95575267,-37.8132321
+,Jang Gun CBD Korean Restaurant,korean_restaurant,0.9987099355459214,category:korean,3/21 Healeys Ln,Melbourne,3000,+61396420081,http://janggun.co/,144.95588561,-37.81355347
+,Gami Chicken and Beer,korean_restaurant,0.9885441678762436,category:korean,"shop g/535 Little Lonsdale Street (on, Healeys Ln",Melbourne,3000,+61391912228,http://www.gamichicken.com.au,144.95586329,-37.8134773
+,Dosirock,korean_restaurant,0.9934790349006652,category:korean,1/280 King St,Melbourne,3000,+61406556590,http://dosirock.com.au,144.9546815,-37.81347491
+,BBQ King,korean_restaurant,0.989597737789154,category:korean,280 King St,Melbourne,3000,+61493550100,https://www.bbqkingmelbourne.com.au/,144.95463432,-37.81352728
+,Gangnam Pocha,korean_restaurant,0.987809419631958,category:korean,270 King St,Melbourne,3000,+61396428005,,144.9547189,-37.81373599
+,Sinjeon_Melbourne,korean_restaurant,0.8769698143005371,category:korean,"Joan Rosanove Chambers, 550 Lonsdale St",Melbourne,3000,+61399426422,https://www.instagram.com/sinjeon_melbourne/,144.955989,-37.813652
+,ChunChun Pocha,korean_restaurant,0.6920366287231445,category:korean,534 Lonsdale St,Melbourne,3000,+61422906022,https://inline.app/booking/-NYLB1foZRfMjOydnoi2:inline-live-3/-NYLB1swA0Q-B0HLvHau?fbclid=PAZXh0bgNhZW0CMTEAAaYO9ZW38QsjOfYGEH_W6aFS36JA5g4WyIJm1dCx6Gr0nNZQUA8ZfzcRnbQ_aem_6IIFXtjZX099Kj0dzgp_9w,144.95642091,-37.81377047
+,Mumchan,korean_restaurant,0.5236581563949585,category:korean,395 Little Bourke St,Melbourne,3000,+61399422549,,144.96116798,-37.81375926
+,Ohsso korean street food,asian_fusion_restaurant,0.9655,name:token,26-28 Hardware Lane,Melbourne,3000,0390431203,http://ohsso.com.au/,144.9616271,-37.8144653
+,Busan,korean_restaurant,0.77,category:korean,297 Exhibition St,Melbourne,3000,0420 733 580,http://www.busan.vip,144.96020388179213,-37.81450756662745
+,Korchi City,korean_restaurant,0.8819302320480347,category:korean,441-443 Little Bourke St,Melbourne,3000,+61433770737,,144.95962004,-37.81421893
+,Sooltong Korean restaurant,restaurant,0.9981947350502014,name:token,207 Queen St,Melbourne,3000,+61435870432,http://Www.sooltong.com.au/,144.959982,-37.813832
+,Melbourne Hwaro Korean BBQ,korean_restaurant,0.9900546073913574,category:korean,562 Little Bourke St,Melbourne,3000,+61396425696,http://www.hwaro.com.au,144.95574346,-37.81520568
+,Melbourne Hwaro Korean BBQ,korean_restaurant,0.77,category:korean,562 Little Bourke St,Melbourne,3000,(03) 9642 5696,http://hwaro.com.au,144.9557905251246,-37.815191948060985
+,Hello Chicken,korean_restaurant,0.77,category:korean,TG09 Goldsbrough Ln,Melbourne,3000,,https://www.hellochicken.com.au,144.95723,-37.815145
+,HBJ Korean Skincare Academy,cosmetology_school,0.6105836629867554,name:token,415 Bourke St,Melbourne,3000,+61490059261,http://www.hbj-academy.com/,144.9617405,-37.81493674
+,Guhng The Palace,korean_restaurant,0.997977322936058,category:korean,19 McKillop St,Melbourne,3000,+61413616550,http://www.guhngkorean.com/,144.96167072,-37.81532915
+,타임스터디 멜번,school,0.7575573325157166,name:hangul,343 Little Collins St,Melbourne,3000,+61425107417,http://www.timest.com.au/,144.96336929,-37.815255390000004
+,Melmood Beauty Studio Cosmetic tattoo (Lip blush & Brow tattoo) / Korean lash lift & lash extensions,beauty_salon,0.8234743475914001,name:token,"inside Éclaire beauty studio, Unit 607/220 Collins St",Melbourne,3000,+61432862029,http://www.thebeautybrowparlour.com.au/fountain-gate,144.96616639,-37.81537052
+,호주 멜버른 정보,dessert_shop,0.526827335357666,name:hangul,156 Collins St,Melbourne,3000,,https://instagram.com/travelermina68,144.96815,-37.81464
+,Melbourne City Church - Korean 멜버른시티교회,christian_place_of_worship,0.964051365852356,name:hangul,156 Collins St,Melbourne,3000,+61422833700,http://www.melbournecitychurch.com.au/,144.96821,-37.81478
+,코오즈 유학이민,educational_service,0.28051578998565674,name:hangul,365 Little Collins St,Melbourne,3000,+61493739312,https://www.ko-oz.com/,144.96274,-37.81562
+,My Korean School,education,0.77,name:token,365 Little Collins St,Melbourne,3000,0432 689 123,http://mykoreanschool.com,144.9627046,-37.8156322
+,Bibimbap,korean_restaurant,0.9212772250175476,category:korean,353 Little Collins St,Melbourne,3000,+61422785176,,144.96297,-37.8157
+,Loan Firm 론펌,installment_loans,0.24936586618423462,name:hangul,350 Collins St,Melbourne,3000,+61488772277,https://www.loanfirm.com.au/,144.96269,-37.81602
+,마이웨이트래블,travel_service,0.1247822567820549,name:hangul,,Melbourne,,+61435425245,http://www.mywayhoju.com/,144.96715,-37.81753
+,RGIT Australia for Korean,college_university,0.8205567002296448,name:token,28-32 Elizabeth St,Melbourne,3000,+61414339208,http://www.rgit.edu.au/,144.964782,-37.817273
+,Spicy Korea,korean_restaurant,0.998019272685051,category:korean,Unit 1/601 Little Collins St,Melbourne,3000,+61396299797,https://www.spicykorea.net,144.95487772,-37.81778229
+,Doju,korean_restaurant,0.9716153877973557,category:korean,530 Little Collins St,Melbourne,3000,+61395767447,http://www.doju.com.au/,144.95709739,-37.81687316
+,드림월드 유학원 | Dream World Education,education,0.85,name:hangul,"Level 4, 85 Queen Street, Suite 2",Melbourne,3000,0385296134,http://www.dweducation.net/,144.9612822,-37.816419
+,Australia Kpop Party,party_and_event_planning,0.19949837028980255,name:token,85 Queen St,Melbourne,3000,+61390361526,https://www.KpopParty.com/,144.9611497,-37.81642322
+,BBQ Box,korean_restaurant,0.8659608960151672,category:korean,2/459 Little Collins St,Melbourne,3000,+61396004660,,144.95959095,-37.8166103
+,SSAM Korean BBQ,buffet_restaurant,0.9977854508161544,name:token,189 King St,Melbourne,3000,+61481388456,,144.95518881,-37.81569847
+,Noulboo,korean_restaurant,0.9285397529602051,category:korean,768 Bourke St,Melbourne,3008,,,144.946957285944,-37.81881442539085
+,Biz Education 비즈 유학원 호주 멜번 본사,educational_service,0.826102535277605,name:hangul,22/120 Spencer St,Melbourne,3000,+61402803570,https://bizeducation.net/,144.9542033,-37.81823098
+,Iworld Melbourne:: 아이월드 멜버른유학,education,0.5463498830795288,name:hangul,120 Spencer St,Melbourne,3000,+61396004800,http://www.iworldstudy.com/,144.95454,-37.81826
+,충청도집 - chungcheongdo,restaurant,0.7653408050537109,name:hangul,"Southbank One, 174-184 City Rd",Melbourne,3006,+61457458490,,144.96153,-37.82188
+,K-Rib by Kass Kass,korean_restaurant,0.9954866182804107,category:korean,Shop 1/500 Flinders St,Melbourne,3000,+61430729585,http://www.kribkasskass.com.au/,144.95774673,-37.82009175
+,Seoul Bowl,korean_restaurant,0.6065464019775391,category:korean,21 Katherine Pl,Melbourne,3000,+61385293171,http://www.seoulbowl.co/,144.95638856,-37.81982658
+,Bibimbap,korean_restaurant,0.9373831176757812,category:korean,21 Katherine Pl,Melbourne,3000,+61422785176,http://www.bibimbap.com.au/,144.9565558,-37.8198317
+,Noda Grill,korean_restaurant,0.9543983340263367,category:korean,144 Bridge Rd,Melbourne,3121,+61383957736,http://nodagrill.com/,144.995266,-37.818244
+,Dare III Korean BBQ,korean_restaurant,0.7826225161552429,category:korean,56-58 Victoria St,Melbourne,3121,+61394211002,,144.99336745,-37.8098961
+,Chimac Plus,korean_restaurant,0.9960160899162293,category:korean,345 Victoria St,Melbourne,3067,+61383952229,http://www.Chimac.com.au/,144.99671,-37.81
+,Supreme Leader Korean Krispy Chicken,restaurant,0.8349267840385437,name:token,663 Victoria St,Melbourne,3067,,https://supremeleader.com.au/,145.01232,-37.81147
+,JAN CHI Korean Feast,korean_restaurant,0.9976464682817459,category:korean,362 Bridge Rd,Melbourne,3121,+61490118144,http://www.janchi.com.au/,145.00331265,-37.81910249
+,Gamsa Korean BBQ,restaurant,0.9512078219652176,name:token,625 Glenferrie Rd,Melbourne,3122,+61398898888,http://gamsakbbq.com.au/,145.0350607,-37.8232051
+,Kong,korean_restaurant,0.77,category:korean,599 Church Street,"Melbourne, VIC",3121,,http://www.kongbbq.com.au,144.99688756406889,-37.83183918437891
+,Korean Hairdressers,hair_salon,0.30142784118652344,name:token,,Melbourne,3021,,,144.8014342,-37.74457796
+,Gami Chicken & Beer,korean_restaurant,0.9898922443389893,category:korean,shop 3/30 Main Rd W,Melbourne,3021,+61393092203,http://www.gamichicken.com.au/,144.79963258,-37.74435242
+,Seoul Skin Care ,spa,0.21722456812858582,name:token,Nexus Street,Melbourne,3023,,https://www.instagram.com/seoulskincare26/,144.75506,-37.77557
+,Chingu Korean BBQ Sunshine,korean_restaurant,0.9852505922317505,category:korean,261 Hampshire Rd,Melbourne,3020,+61497899899,https://bit.ly/CHINGUKOREANBBQ,144.83191707,-37.78413254
+,NeNe Chicken Sunshine,korean_restaurant,0.9612157940864563,category:korean,Shop 10/254 Hampshire Rd,Melbourne,3020,+61411329974,http://www.nenechicken.com.au/,144.83204832,-37.78573054
+,Korea Hollywood,massage_therapy,0.8097946643829346,name:token,249 Barkly St,Melbourne,3011,+61396872390,,144.896073,-37.799576
+,Chicken Joah,korean_restaurant,0.9956224340200425,category:korean,1/32 Leeds St,Melbourne,3011,+61466141110,http://www.chickenjoah.com.au/,144.90071882,-37.79934354
+,Misty Pot Korean Grill Bar and Cafe,korean_restaurant,0.9908965229988098,category:korean,35 Dryburgh St,Melbourne,3003,+61466883975,https://w.abacus.co/store/4296697,144.94275034,-37.80602326
+,Ione Property Australia 아이원 호주 부동산 澳洲地产公司,real_estate_agent,0.9323695480823517,name:hangul,112 Miller Street,West Melbourne,3003,0390187123,http://www.ionepa.com/,144.9439122,-37.8053201
+,Jusik,korean_restaurant,0.77,category:korean,39-47 Peel St,Melbourne,3003,(03) 9939 5916,http://chimac.com.au,144.95546476408023,-37.807135506737936
+,Chickilia,korean_restaurant,0.9273204207420349,category:korean,89 Peel St,Melbourne,3003,+61393285828,http://www.chickilia.com/,144.95569861,-37.80598566
+,Soolzip Korean Restaurant,barbecue_restaurant,0.9037267833948135,name:token,179-181 Victoria Street,Melbourne,3003,0393282388,http://soolzipkorean.com.au/,144.9557243,-37.8059063
+,Chickorea,korean_restaurant,0.7066190242767334,category:korean,358 Victoria St,Melbourne,3051,,http://chickoreaaus.square.site/,144.9543444,-37.80549214
+,Flava Korean BBQ,korean_restaurant,0.790076732635498,category:korean,50 Errol St,Melbourne,3051,+61410011115,http://flavakoreanbbq.com.au/,144.94956243,-37.80399697
+,Sojung Korean BBQ,korean_restaurant,0.5949199795722961,category:korean,156 Peel St,Melbourne,3051,+61399944215,https://www.instagram.com/sojungkoreanbbq2017/,144.95648195806697,-37.80426471304858
+,Sinjeon K-Street Food,korean_restaurant,0.77,category:korean,33 Blackwood St,North Melbourne,3051,(03) 8597 8569,http://www.globalsinjeon.com,144.95551691046236,-37.800618194861535
+,K-Pop Dance Melbourne,dance_studio,0.8455272912979126,name:token,28 Sutton St,Melbourne,3054,+61410455199,http://www.kpopmelbourne.com/,144.93828114,-37.79194321
+,Gogi Gogi Korean Charcoal Bbq,korean_restaurant,0.5008776187896729,category:korean,311 Racecourse Rd,Melbourne,3031,+61393766929,https://www.instagram.com/bbqgogigogi/,144.930576,-37.788483
+,Monster BBQ and Chicken Maribyrnong,korean_restaurant,0.9468919634819031,category:korean,Shop 3/46 Edgewater Blvd,Melbourne,3032,+61449999968,https://www.google.com/maps/reserve/v/dine/c/WXrWsSibuts?source=pa&hl=ko-AU&gei=yMbPY6D3BoCSg8UPm6WLoA0&sourceurl=https%3A%2F%2Fwww.google.com%2Fsearch%3Fclient%3Dsafari%26rls%3Den%26q%3Dmonster%2Bbbq%2Bmaribyrnong%26ie%3DUTF-8%26oe%3DUTF-8%26dlnr%3D1,144.8924294,-37.78510221
+,NeNe Chicken,korean_restaurant,0.9769958853721619,category:korean,120-200 Rosamond Rd,Melbourne,3032,+61393182843,http://www.nenechicken.com.au,144.88866396,-37.77303537
+,Gami Korean Chicken and BBQ,korean_restaurant,0.35545164346694946,category:korean,33 Hall St,Melbourne,3039,+61386587893,,144.9220625,-37.76624336
+,Gangnam Chicken,korean_restaurant,0.9386894685029984,category:korean,84 Puckle St,Melbourne,3039,+61481786855,https://www.ubereats.com/en-AU/melbourne/food-delivery/gangnam-chicken/kKSIbgSoQ-2r-TVz18WFbg/,144.92197432,-37.7667462
+,Chingu Korean BBQ Moonee Ponds,korean_restaurant,0.7748306393623352,category:korean,682 Mt Alexander Rd,Melbourne,3039,+61405699699,https://inline.app/booking/-ORyQkVl-0NSIAZLKGw5:inline-live-3/-OSO3AVWGUi32Fg61mut,144.9257115,-37.76913404
+,Lui.boss Brunswick,korean_restaurant,0.9773299694061279,category:korean,173 Sydney Rd,Melbourne,3056,+61425105018,,144.96104198,-37.77308292
+,DODAM,korean_restaurant,0.5908350944519043,category:korean,Retail 2/7 Bluestone Wy,Melbourne,3057,+61411121162,http://www.dodammelbourne.com/,144.97886461,-37.77169233
+,Momoji_Preston,korean_restaurant,0.3173825740814209,category:korean,51 Plenty Rd,Melbourne,3072,+61475871653,,145.00306361,-37.74991557
+,Masitta on Preston Vic,korean_restaurant,0.7994351983070374,category:korean,51 Plenty Rd,Melbourne,3072,+61478248126,,145.00259310007,-37.750888203073
+,Itaewon Place,korean_restaurant,0.8915587067604065,category:korean,39 High St,Melbourne,3072,+61413852234,,145.00159176,-37.75111114
+,Street Diner,korean_restaurant,0.8569714426994324,category:korean,39 High St,Melbourne,3072,+61423558100,,145.00172261,-37.75112108
+,멜번대교구 한인 천주교회 성당,christian_place_of_worship,0.6503868699073792,name:hangul,89 Bond St,Melbourne,3079,+61394409515,http://www.kccmelbourne.org.au/,145.03517727,-37.76261871
+,Seoul Soul Plus,korean_restaurant,0.22983001172542572,category:korean,315 High St,Melbourne,3070,+61394813027,http://www.seoulsoul.com.au,144.99827832,-37.77106879
+,Assa Korean BBQ Fairfield,korean_restaurant,0.7285025715827942,category:korean,106 Station St,Melbourne,3078,+61435656222,http://assabbq.azurewebsites.net/,145.01801365,-37.77756334
+,Little Oscar,korean_restaurant,0.4003658592700958,category:korean,41 Lygon St,Melbourne,3057,+61383833165,http://littleoscar.com.au,144.97055,-37.7777
+,Kimchi Hut,asian_restaurant,0.5317952036857605,name:token,Glen Waverley,Melbourne,,,,144.969984,-37.782642
+,Kimu - Korean Japanese Eatery,korean_restaurant,0.7223687171936035,category:korean,,Melbourne,,+61455025646,http://kimumelb.com.au/,144.9875893182927,-37.79920613536586
+,BellyQ,korean_restaurant,0.9982196718454361,category:korean,354 Smith St,Melbourne,3066,+61401877309,http://bellyq.square.site/,144.98449735,-37.79847176
+,Nene Chicken Carlton,korean_restaurant,0.9767282605171204,category:korean,"Melbourne Connect Retail Precinct, Shop H/700 Swanston St",Melbourne,3053,+61393477925,,144.96530767,-37.80028541
+,Ezra Hair Salon - Korean Hair Salon,hair_salon,0.90004563331604,name:token,Unit 3b/488 Swanston St,Melbourne,3053,+61432364055,http://www.instagram.com/ezrahairsalon,144.96314901,-37.80544673
+,BBQ Brothers10,korean_restaurant,0.77,category:korean,589 Elizabeth St,Melbourne,3000,(03) 9042 3173,https://www.bbqbrothers10.com.au,144.95820124520722,-37.80457269465231
+,Yeonga Korean BBQ Restaurant,korean_restaurant,0.996867738366127,category:korean,1 Cobden St,Melbourne,3051,+61494552837,http://www.yeongabbq.com.au/,144.95701164,-37.80563173
+,Donwoori Korean Restaurant,korean_restaurant,0.49669602513313293,category:korean,276 Victoria St,Melbourne,3051,+61435861170,http://www.toodouri.com.au/,144.95727728,-37.80587964
+,The Galbi BBQ,korean_restaurant,0.9531450867652893,category:korean,270 Victoria St,Melbourne,3051,+61457551171,,144.95734975,-37.80589997
+,Toodouri,korean_restaurant,0.9824939370155334,category:korean,260 Victoria St,Melbourne,3051,+61439821556,http://www.toodouri.com.au,144.95773378,-37.80590675
+,Jetstar Korea,airline,0.24112118780612946,name:token,,Melbourne,,,https://www.jetstar.com/kr/ko/home,144.96023079337658,-37.80648969579707
+,Hwadam BBQ,korean_restaurant,0.9975528216362,category:korean,Level2/500 Elizabeth St,Melbourne,3000,+61385283414,https://www.opentable.com.au/r/hwadam-bbq-reservations-melbourne?restref=169304&lang=en-AU&ot_source=Restaurant+website,144.96030484,-37.80713704
+,Mansae Korean BBQ,korean_restaurant,0.9967289614677429,category:korean,16 Dhanga Djeembana Walk,Melbourne,3000,+61451926890,http://mansaekbbq.com.au/,144.95891168,-37.80785738
+,Mansae Korean BBQ,korean_restaurant,0.9853969216346741,category:korean,120 A'Beckett St,Melbourne,3000,+61451926890,http://mansaekbbq.com.au/,144.95891168,-37.80785738
+,Changgo Korean BBQ Restaurant,korean_restaurant,0.90252286195755,category:korean,68-86 La Trobe St,Melbourne,3000,,,144.96674,-37.80852
+,Pubcha,korean_restaurant,0.9925581216812134,category:korean,88 Smith St,Melbourne,3066,+61473907698,http://www.pubcha.com.au/,144.98323862,-37.80559437
+,KimChi Asian Groceries,specialty_foods_store,0.7475540041923523,name:token,161-163 Brunswick St,Melbourne,3065,+61394163438,,144.97758091,-37.80273772
+,Bapuri,korean_restaurant,0.9908961653709412,category:korean,349 Keilor Rd,Melbourne,3040,+61393797621,https://www.zomato.com/melbourne/bapuri-essendon,144.89431058,-37.73815636
+,Goon Korean BBQ - Essendon North,korean_restaurant,0.824456696510315,category:korean,182 Keilor Rd,Melbourne,3041,+61437716470,https://www.goonbbq.com/essendon-north,144.89924989,-37.73984671
+,Korean Spares,auto_parts_store,0.4110214412212372,name:token,147-149 Somerset Rd,Melbourne,3061,+61393590177,http://www.koreanspares.com.au/,144.95781518,-37.67864477
+,Lui Boss,korean_restaurant,0.9886773824691772,category:korean,SHOP 2/1 Cook St,Melbourne,3072,+61493262573,,145.00221872,-37.73836251
+,Onni Korean BBQ,korean_restaurant,0.30246710777282715,category:korean,501/509 High St,Melbourne,3072,+61394552759,,145.00392054,-37.73717485
+,Gami Chicken & Beer,korean_restaurant,0.9984445828199386,category:korean,Shop RE15/571-583 High St,Melbourne,3076,+61478573168,http://www.gamichicken.com.au/,145.01982401,-37.65216103
+,NeNe Chicken,korean_restaurant,0.9908963423967362,category:korean,K031 Northland Shopping Centre 2/50 Murray Road East,Melbourne,3072,+61394712850,http://nenechicken.com.au/,145.03109484,-37.73957396
+,Dagach Korean BBQ,korean_restaurant,0.9963441342115402,category:korean,9 Centreway,Melbourne,3195,+61389032735,https://booking.resdiary.com/widget/Standard/DAGACHMordialloc/8096,145.08567074,-38.00749022
+,Skin Story Korea Cosmetic,hair_supply_store,0.9568429589271545,name:token,31C Buckingham Ave,Melbourne,3171,+61395463687,,145.1517023,-37.95044567
+,Haysung Korean BBQ,korean_restaurant,0.9975761407613755,category:korean,"Shop 26 & 50, 268/274 Springvale Rd",Melbourne,3171,+61491174831,http://www.haysungbbq.com/,145.15129644,-37.95138158
+,Gami Chicken & Beer,korean_restaurant,0.3822117745876312,category:korean,4A Windsor Ave,Melbourne,3171,+61395381952,https://www.gamichicken.com.au/restaurant/springvale/,145.151307,-37.95203011
+,Yoon's Grilled,korean_restaurant,0.9239725470542908,category:korean,2/310 Springvale Rd,Melbourne,3171,+61478706606,,145.15170939,-37.95415672
+,Korea Auto Centre,automotive_repair,0.7679489850997925,name:token,10 Southwell Clos,Melbourne,3802,,,145.262724,-37.99051
+,Hyun Korean Motor Wreckers,automotive_repair,0.77,name:token,29 Podmore St,Dandenong,3175,(03) 9793 3233,https://hkwreckers.com.au,145.21695406588242,-37.99742280152631
+,Gami Chicken & Beer,korean_restaurant,0.9976647013425827,category:korean,"Westfield Fountain Gate, 352 Princes Hwy",Melbourne,3805,+61387743986,http://www.gamichicken.com.au/,145.3027603,-38.01846766
+,Seoul Kitchen,korean_restaurant,0.77,category:korean,25-55 Overland Dr,Narre Warren,3805,(03) 9704 6666,https://www.eatseoulkitchen.com,145.30292,-38.016748
+,Asiatte,korean_restaurant,0.77,category:korean,484 South Rd,Moorabbin,3189,(03) 9555 5700,http://www.asiatte.com.au,145.04966687451028,-37.935158271300445
+,Mr and Mrs Kitchen Korean Restaurant,korean_restaurant,0.9650090932846069,category:korean,715 Centre Rd,Melbourne,3165,+61385967714,,145.05545995,-37.92058341
+,Migak,korean_restaurant,0.9700583815574646,category:korean,3 Eskay Rd,Melbourne,3167,+61452098282,http://migak.com.au/,145.09203625,-37.92644113
+,HyeJa Choi Day Care/After School/놀이학교,professional_service,0.6136142611503601,name:hangul,"Foodworks, 933 Centre Rd",Melbourne,3165,,,145.07059,-37.92237
+,Korean Society of Victoria,social_or_community_service,0.5664782524108887,name:token,Unit 2/21-29 Railway Ave,Melbourne,3166,+61405511110,https://www.korean.org.au/,145.10239949,-37.90990685
+,Samwon Garden,korean_restaurant,0.9982017266750336,category:korean,286 Huntingdale Rd,Melbourne,3166,+61395629862,http://au.localize123.com/samwon-garden-cafe-restaurant-in-huntingdale-vic,145.10406182,-37.90922446
+,Soban - Modern Korean Food,korean_restaurant,0.8481107616424561,category:korean,28 Station St,Melbourne,3166,+61395687753,http://www.sobanmelbourne.com,145.0886787,-37.8995316
+,Little Korea,grocery_store,0.9827071344852447,name:token,33 Atherton Rd,Melbourne,3166,+61406679799,https://www.instagram.com/littlekorea33/,145.09072557,-37.89872215
+,Yoon's Kitchen Oakleigh,korean_restaurant,0.9909659624099731,category:korean,1440 Dandenong Rd,Melbourne,3166,+61478574066,,145.09478557,-37.89481668
+,Mr Korean Chicken,chicken_restaurant,0.9202150106430054,name:token,1525 Princes Hwy,Melbourne,3166,+61479040899,https://mrkorean.com.au/,145.09058321,-37.89281221
+,Gami Chicken and Beer,korean_restaurant,0.4100366234779358,category:korean,472 Centre Rd,Melbourne,3204,+61390391901,https://www.gamichicken.com.au/restaurant/bentleigh/,145.03975236,-37.91875148
+,Korean Martial Arts and Fitness,martial_arts_club,0.995896697640419,name:token,8 Katandra Rd,Melbourne,3204,+61410242488,http://www.koreanmartialarts.com.au/,145.03996562,-37.90339743
+,Kimchi & Bab,korean_restaurant,0.9668208956718445,category:korean,6 Derby Rd,Melbourne,3145,+61395721887,,145.04198127,-37.87639201
+,Carnegie Korean BBQ Restaurant,korean_restaurant,0.77,category:korean,2/23 Koornang Rd,Carnegie,3163,(03) 9563 6608,http://www.koreanbarbeque.com.au,145.05747129568772,-37.88527390765088
+,Silk Road,korean_restaurant,0.3938712179660797,category:korean,41 Koornang Rd,Melbourne,3163,+61395719910,,145.057522,-37.885887
+,Gami Chicken and Beer,korean_restaurant,0.9921368211507797,category:korean,2-18 Koornang Rd,Melbourne,3163,+61395715351,http://www.gamichicken.com.au/,145.05836625,-37.88464161
+,Bon Chicken And Beer,korean_restaurant,0.77,category:korean,121 Koornang Rd,Melbourne,3163,(03) 9563 6231,http://www.bonchicken.com,145.0570537080092,-37.88842573331352
+,Kimchi Grandma Restaurant,korean_restaurant,0.9979415559768676,category:korean,125 Koornang Rd,Melbourne,3163,+61395692399,https://kimchigrandma.business.site,145.05708688,-37.88854767
+,Chan Korean Cuisine,korean_restaurant,0.9708258509635925,category:korean,383-385 Camberwell Rd,Melbourne,3124,+61452098098,http://chan-korean-cuisine-best-chan.business.site,145.06089792,-37.83476822
+,Flawlessness - Korean Skincare,beauty_supply_store,0.8742065352201462,name:token,1210 Toorak Rd,Melbourne,3124,+61404809815,http://www.flawlessness.com.au/,145.0805687,-37.84873866
+,Mino Korean Charcoal BBQ,korean_restaurant,0.9874457120895386,category:korean,1380 Toorak Rd,Melbourne,3124,+61493146297,https://mino-korean-charcoal-bbq.business.site/,145.09347177,-37.8502357
+,Danji,korean_restaurant,0.9936004877090454,category:korean,70 Batesford Rd,Melbourne,3148,+61385961931,,145.09321276,-37.87575962
+,Kimchi Friends,korean_restaurant,0.7412430047988892,category:korean,631 Warrigal Rd,Melbourne,3148,+61395647012,http://au.localize123.com/kimchi-friends-in-chadstone-vic,145.092004,-37.874808
+,Let's Bab,korean_restaurant,0.77,category:korean,623 Warrigal Rd,Chadstone,3148,(03) 9569 9183,http://letsbab.com.au,145.09169891144253,-37.874626811458285
+,Nene Chicken,korean_restaurant,0.9948817878961563,category:korean,1341 Dandenong Rd,Melbourne,3145,+61395688755,http://www.nenechicken.com.au/,145.08335216,-37.88543124
+,OMI Chadstone,korean_restaurant,0.9966301876306534,category:korean,"LG Shop FB183, 1341 Dandenong Rd",Melbourne,3148,+61480179015,https://www.omigroup.com.au,145.0855295,-37.88590842
+,Horangee Chicken and Beer,korean_restaurant,0.9613596338033676,category:korean,311 Stephensons Rd,Melbourne,3149,+61383515341,http://horangee.com.au/,145.1285389,-37.87772049
+,Korean Catholic Community,roman_catholic_place_of_worship,0.979182916879654,name:token,236 Stephensons Rd,Melbourne,3149,+61430462103,http://www.kccm.org.au,145.12981484,-37.87367988
+,Suga Restaurant,korean_restaurant,0.9917715430259705,category:korean,269 Huntingdale Rd,Melbourne,3148,+61398881001,,145.11031208,-37.87366019
+,멜번제자교회,christian_place_of_worship,0.7034909725189209,name:hangul,245 Middleborough Rd,Melbourne,3128,,,145.1344,-37.83892
+,Mansae Korean BBQ,korean_restaurant,0.9820603132247925,category:korean,12/2 Burwood Hwy,Melbourne,3151,+61425321768,http://www.mansaekbbq.com.au/,145.13268903,-37.85282185
+,Gami Chicken and Beer,korean_restaurant,0.9808199167251587,category:korean,T18/70 Middleborough Rd,Melbourne,3151,+61391910500,https://www.gamichicken.com.au/restaurant/brickworks/,145.1343586,-37.84951133
+,Seven Star BBQ & Pocha,korean_restaurant,0.6004824042320251,category:korean,"Forest Hill Chase Shopping Centre, 270 Canterbury Rd",Melbourne,3131,+61398942104,http://www.se7enstar.com/,145.1648,-37.8354
+,DOHWA Restaurant,korean_restaurant,0.8014984726905823,category:korean,218 Blackburn Rd,Melbourne,3150,+61388067439,,145.14847,-37.87329
+,Hinoak Korean Charcoal BBQ,korean_restaurant,0.77,category:korean,7 Coleman Pde,Glen Waverley,3150,(03) 8838 1838,http://hinoak.com,145.14843321131607,-37.87678911276451
+,KPOP BBQ and Bar,korean_restaurant,0.9871407568454742,category:korean,"The Glen Shopping Centre, Shop G-014/235 Springvale Rd",Melbourne,3150,+61398470478,http://www.kpopbbq.com.au/,145.16454708,-37.8779054
+,Masizzim,korean_restaurant,0.77,category:korean,235 Springvale Rd,Glen Waverley,3150,(03) 4418 2805,http://www.masizzim.com.au,145.164516,-37.878104
+,Yoon's Kitchen,korean_restaurant,0.9912217855453491,category:korean,29 Railway Parade N,Melbourne,3150,+61475903900,https://www.yoonskitchen.com.au/glenwaverley,145.16282448,-37.87910991
+,Bon Chicken and Beer,korean_restaurant,0.9986060619354248,category:korean,91 Kingsway,Melbourne,3150,+61395616664,https://bonchicken.com.au,145.16331027,-37.88108501
+,Mr Yoon Glenwaverley,korean_restaurant,0.971930205821991,category:korean,"Montclair Ave, G2",Melbourne,3150,+61432547966,,145.16261189,-37.88108739
+,BBQ LAB Glen,korean_restaurant,0.9308484792709351,category:korean,G1/52 Montclair Ave,Melbourne,3150,+61385228188,https://weborder.qonus.com.au:31001/home/order/takeaway?enc=y&action=takeaway&storeCode=TGJTVWxsbUhNMkJaUldpWlBndnM2Zz09&qrFrom=undefined,145.16268448,-37.8810256
+,ING korean bbq,korean_restaurant,0.5711387395858765,category:korean,113 Kingsway,Melbourne,3150,,,145.16312669,-37.88174877
+,멜번 임브레이스 교회 Embrace Church Melbourne,christian_place_of_worship,0.5928448438644409,name:hangul,285 Springvale Rd,Melbourne,3150,+61426816982,http://www.embracemelbourne.org/,145.16475596,-37.88139382
+,WAGYU Table Korean BBQ Buffet,food_and_beverage_store,0.77,name:token,121 Lygon St,Melbourne,3057,0412 165 820,http://reservation.abacus.com/store/6444508/reservation,145.1647339,-37.8813589
+,Kimchi Hut,korean_restaurant,0.9932634323835373,category:korean,185 Coleman Pde,Melbourne,3150,+61395748383,http://www.madamkwong.com/?p=74,145.164947,-37.880672
+,Chickilia,korean_restaurant,0.8223307867348194,category:korean,259 Springvale Rd,Melbourne,3150,+61398863851,http://www.chickilia.com/,145.16550375,-37.87906625
+,Gami Chicken & Beer,korean_restaurant,0.77,category:korean,235 Springvale Rd,Glen Waverley,3150,(03) 9886 3909,https://gamichicken.com.au,145.16487,-37.87825
+,Seoul Ttukbaegi,korean_restaurant,0.9371417760848999,category:korean,41 Morton St,Melbourne,3168,+61410000767,http://www.instagram.com/seoul_ttukbaegi,145.13924,-37.917541738971
+,Papa's Korean Chicken Restaurant,korean_restaurant,0.25893688201904297,category:korean,172 Clayton Rd,Melbourne,3168,+61387824262,,145.1219124,-37.91482154
+,Siru Jung,korean_restaurant,0.77,category:korean,1903 Dandenong Rd,Notting Hill,3168,(03) 9543 1514,http://sirujung.com,145.1227377148462,-37.91115590445696
+,Gogi House Korean BBQ Buffet,korean_restaurant,0.7669877409934998,category:korean,299 Clayton Rd,Melbourne,3168,+61395627580,,145.119922,-37.923
+,The Taste of Korchi,korean_restaurant,0.8634105920791626,category:korean,299 Clayton Rd,Melbourne,3168,+61395440881,,145.119943,-37.922921
+,Hudadak,korean_restaurant,0.6419503688812256,category:korean,99-121 Carinish Rd,Melbourne,3168,+61395434276,,145.119656,-37.923502
+,Jireh Korean & Japanese Grocery,grocery_store,0.4753606617450714,name:token,309 Clayton Rd,Melbourne,3168,+61395436902,,145.119634,-37.923382
+,Sena Hair Korean Studio,hair_salon,0.9505601507425309,name:token,45 Dunstan St,Melbourne,3168,+61395627551,,145.11932449,-37.92540075
+,Hodori Korean Garden,korean_restaurant,0.9884634613990784,category:korean,1344/1346 Centre Rd,Melbourne,3168,+61395627849,,145.11990331,-37.92875479
+,Korea Auto Solution,auto_parts_store,0.7106070518493652,name:token,248 Osborne Ave,Melbourne,3169,+61385100818,http://www.koreaautosolution.com.au/,145.12045,-37.9436899
+,멜번순복음교회,christian_place_of_worship,0.7804553508758545,name:hangul,,Melbourne,,+61451274286,https://www.mfgctv.com/,145.13025,-37.94433
+,Masizzim,korean_restaurant,0.850200891494751,category:korean,235 Springvale Rd,Melbourne,3150,+61344182805,https://www.masizzim.com.au/,145.1535,-37.94706
+,Korean Chicken,chicken_restaurant,0.977843719124794,name:token,Unit 4/27-31 Springvale Rd,Melbourne,3171,+61390021399,https://www.koreanchicken.com.au/,145.15577712,-37.93555931
+,Chingu Korean BBQ Springvale,korean_restaurant,0.7853116393089294,category:korean,1 Springvale Rd,Melbourne,3171,+61452599599,,145.15605261,-37.93369436
+,AYANA 아야나 - Độc Quyền Tại Úc,spa,0.226151242852211,name:hangul,96 Kemp St,Melbourne,3171,,http://ayana.vn/,145.16415,-37.94196
+,Golden Korea Pty Ltd,restaurant,0.5136762857437134,name:token,674-680 Glenferrie Rd,Melbourne,3122,,,145.03589,-37.82091
+,My Rice Story,korean_restaurant,0.8416993618011475,category:korean,6/145 Upper Heidelberg Rd,Melbourne,3079,+61394996180,https://myricestorysincenov232010.business.site,145.04248007,-37.76824293
+,Choi's,chinese_restaurant,0.997407985329628,name:korean-surname,186 Riversdale Rd,Melbourne,3122,+61398182299,http://www.chois.com.au/,145.04146976,-37.82978065
+,Onggi jonggi,korean_restaurant,0.9468739056587219,category:korean,661 High St,Melbourne,3102,+61398597454,https://onggijonggimelbour.wixsite.com/koreanrestaurant,145.05247,-37.79834
+,Korean,korean_restaurant,0.5247824192047119,category:korean,F1 30-32 copernicus cresent,Melbourne,3083,+61430410405,,145.0478876,-37.711896
+,No1 Korean BBQ& Chinese Hot Pot Buffet,korean_restaurant,0.927480936050415,category:korean,1159 Plenty Rd,Melbourne,3083,+61394678016,,145.05423,-37.70494
+,Gong Gan Korean Pantry (Walk-ins only),korean_restaurant,0.8953146934509277,category:korean,G/661 High St,Melbourne,3102,+61411650665,,145.05247722,-37.79833928
+,Chicken and Jokbal,korean_restaurant,0.9895157814025879,category:korean,467 Riversdale Rd,Melbourne,3123,+61416691287,,145.05535893,-37.83110428
+,Miss Korea Kitchen,korean_restaurant,0.9967484146356582,category:korean,845 Burke Rd,Melbourne,3124,+61398824999,http://www.misskorea.com.au/,145.05726791,-37.8278395
+,Shuu,korean_restaurant,0.8935517072677612,category:korean,724 Burke Rd,Melbourne,3124,,,145.05784423,-37.82601905
+,"딥딘한국학교, Deepdene Korean School",language_school,0.3455811142921448,name:hangul,958 Burke Rd,Melbourne,3103,+61403606123,http://deepdenekoreanschool.au/,145.06116274,-37.80925747
+,딥딘연합교회 Deepdene Uniting Church,christian_place_of_worship,0.900966465473175,name:hangul,958 Burke Rd,Melbourne,3103,+61414653747,http://www.ucadeepdene.info/,145.06116073,-37.8092509
+,Oztook,korean_restaurant,0.9557592272758484,category:korean,224 Whitehorse Rd,Melbourne,3103,+61398366000,http://WWW.OZTOOK.COM.AU/,145.08072121,-37.81295436
+,Galbi #1,korean_restaurant,0.9651744365692139,category:korean,3/190 Belmore Rd,Melbourne,3103,+61468365768,http://www.galbi.com.au/,145.08401403,-37.80370803
+,Towoo Korean Charcoal BBQ,korean_restaurant,0.9915635216236115,category:korean,603 Whitehorse Rd,Melbourne,3127,+61398360445,http://www.towoobbq.com/,145.09879861,-37.81484649
+,105 Deg Korean BBQ All You Can Eat Plenty Valley,korean_restaurant,0.9338027834892273,category:korean,"Westfield Plenty Valley, Shop R21/415 McDonalds Rd",Melbourne,3082,+61398681688,https://105degkbbq.com.au/,145.06975327,-37.65062619
+,Miss Korea BBQ,korean_restaurant,0.77,category:korean,811 Whitehorse Rd,Mont Albert,3127,(03) 9898 9135,https://misskoreabbqbuffet.business.site,145.1143935791439,-37.816594516894746
+,Dooboo,korean_restaurant,0.77,category:korean,1 Main St,Box Hill,3128,0410 701 577,https://www.dooboo.com.au,145.1203984847249,-37.8184608912787
+,NeNe Chicken,korean_restaurant,0.9630881690979004,category:korean,"Box Hill Central, The Met, 1 Main St",Melbourne,3128,+61398984591,http://www.nenechicken.com.au/,145.12195963,-37.81921
+,Gami Chicken and Beer Box Hill,korean_restaurant,0.9667775672674179,category:korean,"Box Hill Library, 990-1048 Whitehorse Rd",Melbourne,3128,+61398989478,http://gamichicken.com.au/,145.124886,-37.818614
+,Yamiyami,korean_restaurant,0.77,category:korean,1D Bank St,Box Hill,3128,(03) 9890 4588,http://yamiyami3.placeweb.site,145.12399444722928,-37.81926480605464
+,Korean BBQ Restaurant,korean_restaurant,0.9791537523269653,category:korean,1C Bank St,Melbourne,3128,+61398997113,http://www.koreanbarbeque.com.au/,145.12394732813667,-37.819474529640004
+,Korea World,grocery_store,0.9571762156486512,name:token,4 Ellingworth Pde,Melbourne,3128,+61398991434,,145.124039,-37.82066
+,Korea Mart Box Hill,grocery_store,0.669019877910614,name:token,4 Ellingworth Parade,Melbourne,3128,+61420490865,,145.12410219,-37.82060762
+,The Wokkers,korean_restaurant,0.9879926443099976,category:korean,980 Whitehorse Rd,Melbourne,3128,+61398980115,,145.12451233,-37.81853903
+,Pocha Pocha Doncaster,korean_restaurant,0.987198531627655,category:korean,"Doncaster Dining, 619 Doncaster Rd",Melbourne,3108,+61398481182,http://www.pochapocha.com.au/,145.12571559,-37.78645778
+,Nene Chicken Doncaster,korean_restaurant,0.8617996573448181,category:korean,Shop FC11/619 Doncaster Rd,Melbourne,3108,+61398483013,https://nenechicken.com.au/,145.12502584,-37.78665561
+,Don't Tell Mama Shh Korean Restaurant,korean_restaurant,0.9892075657844543,category:korean,751-753 Doncaster Rd,Melbourne,3108,+61398482268,https://dont-tell-mama-shh-korean-restaurant.business.site,145.13381995,-37.78683702
+,Melbourne Korean Yasik,korean_restaurant,0.5341629385948181,category:korean,294A Middleborough Rd,Melbourne,3130,+61391936580,,145.13646,-37.83094
+,Yoon's Kitchen Blackburn,korean_restaurant,0.9926002699136734,category:korean,294A Middleborough Rd,Melbourne,3130,+61425107887,https://www.yoonskitchen.com.au/blackburn,145.13635138,-37.83092022
+,Korean BBQ,korean_restaurant,0.9676650762557983,category:korean,6 Lawrence St,Melbourne,3130,+61423764733,,145.14852786,-37.83221017
+,Michu Korean Restaurant,korean_restaurant,0.9678422212600708,category:korean,6 Lawrence St,Melbourne,3130,+61411334799,,145.14871845,-37.83226029
+,Korea Auto Solution,auto_parts_store,0.9003582692146301,name:token,66-70 Railway Rd,Melbourne,3130,+61388063263,http://www.koreaautosolution.com/,145.154685,-37.819321
+,Australian Korean Taekwondo Centre,martial_arts_club,0.8912396430969238,name:token,23 Leeds St,Melbourne,3109,+61422193793,,145.15239705,-37.7909411
+,BBQ-K,korean_restaurant,0.9986553460359573,category:korean,916A Doncaster Rd,Melbourne,3109,+61466479606,https://www.opentable.com.au/booking/restref/availability?lang=en-AU&utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAGnPd6zeJTJnkwGLfdC3_6dJkfZ3VAkXorxzdPNhvPuvUZ5820V_ASaZCp1AK0_aem_PuLYAtREv4klrz7WlCJyPQ&correlationId=858451be-7218-411e-b486-78de712eeb73&restRef=236438&otSource=Instagram,145.15022423,-37.78791287
+,Dakhanmari Melbourne,korean_restaurant,0.4883749783039093,category:korean,258 Blackburn Rd,Melbourne,3109,+61494317534,https://www.instagram.com/dakhanmari_melbourne/,145.16365,-37.78244
+,BBQ CODE Doncaster,korean_restaurant,0.8424515417218208,category:korean,11-13/958 Doncaster Rd,Melbourne,3109,+61430085542,http://bbqcode.com.au/,145.15729821,-37.78912832
+,Korea Japan Mini Mart,grocery_store,0.77,name:token,14/958 Doncaster Rd,Doncaster East,3109,(03) 9894 5686,,145.15775038510697,-37.789129449152945
+,Korean Foods,smoothie_juice_bar,0.8930210798978806,name:token,11 Terra Cotta Dr,Melbourne,3130,+61430781500,https://www.koreakimchi.com.au/,145.163938,-37.819228
+,Miss Korea Kitchen 288,korean_restaurant,0.77,category:korean,288 Whitehorse Rd,Nunawading,3131,(03) 8806 4922,http://misskoreakitchen.com.au,145.17183647455565,-37.81874222220018
+,Crispers Chicken,korean_restaurant,0.9811426997184753,category:korean,271 Police Rd,Melbourne,3170,+61395480403,,145.18939964,-37.93567748
+,SeriousChicken,korean_restaurant,0.9871766626834869,category:korean,1541 Burwood Hwy,Melbourne,3160,+61387197016,https://serious-chicken.business.site/,145.344431,-37.906577
+,Bibim Kitchen,korean_restaurant,0.8417108058929443,category:korean,Kiosk K111/425 Burwood Hwy,Melbourne,3152,+61398012558,,145.23770647,-37.86851402
+,Seoul Kitchen,korean_restaurant,0.9548532366752625,category:korean,2207/425 Burwood Hwy,Melbourne,3152,+61426396366,,145.24322699,-37.86881225
+,Kim n Chi restaurant korean foods KFC,korean_restaurant,0.9799146056175232,category:korean,91 Boronia Rd,Melbourne,3155,+61397611134,http://kimnchi.com.au/,145.2866,-37.862448
+,Haysung Korean Fried Chicken,korean_restaurant,0.77,category:korean,,Boronia,3155,,https://www.haysung.com,145.2812,-37.8615
+,ING Korean BBQ & Seafood Buffet Restaurant Vermont South,buffet_restaurant,0.9545117616653442,name:token,495 Burwood Hwy,Melbourne,3133,+61456777773,http://www.ingbbq.com.au/,145.18299987,-37.85614112
+,K-Pop Time,music_and_dvd_store,0.77,name:token,,Ringwood,3134,0431 762 921,https://kpoptime.com.au,145.2159519207029,-37.81784114940544
+,Kpop Time Australia,shopping,0.15050166845321655,name:token,,Melbourne,,+61431762924,https://kpoptime.com.au/,145.22745,-37.81569
+,ShinShin Jokbal,korean_restaurant,0.9896875023841858,category:korean,495 Whitehorse Rd,Melbourne,3132,+61411866994,,145.19271911,-37.81626554
+,Madang Korean BBQ,korean_restaurant,0.9909647703170776,category:korean,493 Whitehorse Rd,Melbourne,3132,+61388393712,,145.19262633,-37.81622684
+,Seoul Ttukbaegi,korean_restaurant,0.928168535232544,category:korean,295 Maroondah Hwy,Melbourne,3134,+61410000767,http://www.instagram.com/seoul_ttukbaegi,145.23572916,-37.81177744
+,Mr Lee's Foods,korean_restaurant,0.9707236886024475,category:korean,5 Old Lilydale Rd,Melbourne,3135,+61435088777,,145.25396966,-37.80440336
+,Hancook Yori,korean_restaurant,0.9840136170387268,category:korean,117 Main St,Melbourne,3136,+61397238208,,145.28065474,-37.79654762

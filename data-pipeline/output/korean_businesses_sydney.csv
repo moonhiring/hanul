@@ -1,0 +1,474 @@
+﻿id,name,category,confidence,reason,address,locality,postcode,phone,website,lng,lat
+,BOM KBBQ and Soju Bar,cocktail_bar,0.9996626212000846,name:token,"Level 1, EdSquare/52 Soldiers Parade",Sydney,2174,+61285300110,https://www.bombbq.com.au/,150.85780779,-33.97046673
+,Gami Chicken & Beer,korean_restaurant,0.9891760945320129,category:korean,52 Soldiers Parade,Sydney,2174,+61296185015,https://www.gamichicken.com.au/restaurant/ed-square/,150.85900541,-33.97108183
+,La Grilla,korean_restaurant,0.77,category:korean,2/237 Canley Vale Rd,Canley Vale,2166,(02) 9724 5452,http://www.lagrillabbq.com.au,150.92465137905276,-33.88351421753631
+,Wonjo BBQ,korean_restaurant,0.9876689314842224,category:korean,Shop 1/102 John St,Sydney,2166,+61290538284,,150.93401205,-33.8949148
+,BooBoo Korean,shopping,0.48739126324653625,name:token,199 Railway Pde,Sydney,2166,+61402725868,,150.93826,-33.89487
+,Yippen korean nail,spa,0.8085250854492188,name:token,2 brade field parade\n,Sydney,2126,+499765666,,150.94769,-33.90007
+,BooBoo Korean,shopping,0.48739126324653625,name:token,199 Railway Pde,Sydney,2166,+61402725868,,151.03291237343197,-33.91593116300892
+,I am Chicken,korean_restaurant,0.9933982747793197,category:korean,4A/60 Rosenthal St,Sydney,2767,+61421479954,http://www.iamchickendoonside.com.au/,150.87670108,-33.77294595
+,New Life Acupuncture 새생명한의원,acupuncture,0.6741918921470642,name:hangul,30 Campbell St,Sydney,2148,+61288148877,http://www.newlifeacupuncture.com.au/,150.90975,-33.7716
+,BT Korean BBQ,korean_restaurant,0.9530763030052185,category:korean,Shop 1/32 Flushcombe Rd,Sydney,2148,+61296211113,,150.90854187,-33.77049366
+,Nene Chicken,korean_restaurant,0.960599958896637,category:korean,Shop 4003A/17 Patrick St,Sydney,2148,+61272500278,,150.90621529,-33.7703409
+,Haebarraki Korean Grocery and Butcher,grocery_store,0.5099770426750183,name:token,143 Stephen St,Sydney,2148,+61296767684,,150.91962,-33.7641
+,Mami Restaurant,korean_restaurant,0.9816942811012268,category:korean,Lvl1/139 Stephen St,Sydney,2148,+61286051632,,150.91969785,-33.76367577
+,은혜로 장로교회,christian_place_of_worship,0.9562500715255737,name:hangul,2 Artillery Cres,Sydney,2147,+61452642553,,150.93544335,-33.77195403
+,The Yook,korean_restaurant,0.77,category:korean,375-383 Windsor Rd,Baulkham Hills,2153,0423 930 035,http://theyook.com.au,150.991449,-33.758932
+,Hakuna Korean & Japanese Restaurants,korean_restaurant,0.5976406335830688,category:korean,8 Old Northern Rd,Sydney,2153,+61296887594,http://www.hakuna.com.au/,150.99268,-33.76103
+,Hills Korean BBQ,korean_restaurant,0.9169445633888245,category:korean,14 Old Northern Rd,Sydney,2153,,,150.992685,-33.760647
+,"Korean Catholic Community, Diocese of Parramatta",roman_catholic_place_of_worship,0.634724497795105,name:token,1 Canyon Rd,Sydney,2153,,,150.9983978,-33.767086
+,예수 따라가는 교회,christian_place_of_worship,0.5620618462562561,name:hangul,19 Campbell St,Sydney,2152,,http://www.jesusfollower.org.au/,150.9983,-33.78867
+,Charcoal Mine BBQ House,korean_restaurant,0.77,category:korean,454 Church St,Parramatta,2151,(02) 9630 3299,http://www.bbq.com.au,151.00595087772538,-33.80605300424599
+,Cafe and Kitchen Broughton (Korean Fried Chicken),korean_restaurant,0.40801408886909485,category:korean,1 Broughton St,Sydney,2150,+61286262157,,151.01730958,-33.8133932
+,Asadal Korean Japanese Restaurant,korean_restaurant,0.6384443044662476,category:korean,76 Phillip St,Sydney,2150,+61296334765,http://www.asadal.com.au/,151.008264,-33.813252
+,The Zungle Korean Marinade BBQ,korean_restaurant,0.9860662817955017,category:korean,329 Church St,Sydney,2150,+61481386633,,151.00407358,-33.81111913
+,Mama Zzang,korean_restaurant,0.7127711772918701,category:korean,277 Church St,Sydney,2150,+61416269979,http://www.mamaandpapas.com.au/,151.00345016,-33.81246161
+,Korean Bbq - Charcoal Mines Parramatta,barbecue_restaurant,0.8162736892700195,name:token,Church St,Sydney,,,,151.00374,-33.81195
+,Dae Ga Korean Restraunt,korean_restaurant,0.7865045070648193,category:korean,42 George St,Sydney,2150,+61296874242,,151.004456,-33.813552
+,Hi Car Rental (하이카렌탈),car_rental_service,0.09292274713516235,name:hangul,8 Parramatta Sq,Sydney,2150,+61478778678,,151.00354607,-33.81621415
+,프라디아,music_venue,0.770982027053833,name:hangul,서울시 서초구 잠원동 121-9,Sydney,137-030,+82234770033,http://www.fradia.co.kr/,151.00901206308,-33.816771993846
+,Food Friends,korean_restaurant,0.9079097723960876,category:korean,81 George St,Sydney,2150,+61296333670,http://au.localize123.com/food-friends-korean-restaurant-parramatta-in-parramatta-nsw,151.007321273,-33.8144822652
+,Sariwan,korean_restaurant,0.9375782012939453,category:korean,30-32 Charles St,Sydney,2150,+61296331867,,151.00961211775342,-33.81427883406023
+,Nene Chicken Parramatta,korean_restaurant,0.9971907925605774,category:korean,"Westfield Parramatta, Shop 4071",Sydney,2150,+61286775895,http://www.nenechicken.com.au/,151.00336509,-33.8173268
+,Korean Church of Christ,christian_place_of_worship,0.7573444247245789,name:token,17 John St,Sydney,2142,+61296379189,,151.009352,-33.839219
+,Gami Chicken and Beer,korean_restaurant,0.9664368629455566,category:korean,k20/583 Polding St,Sydney,2164,+61288465605,,150.89890502,-33.85754098
+,Soju Wetherill Park,park,0.7011467814445496,name:token,"Stockland, 561 Polding St",Sydney,2176,+61466877898,thesoju.com.au,150.89886845731078,-33.85724874982016
+,시드니 하이쳐치-Hi Church,christian_place_of_worship,0.6145622730255127,name:hangul,9 Ruby St,Sydney,2161,+61420536992,,150.99227,-33.8474999
+,Chouchou Bebe,korean_restaurant,0.6430812478065491,category:korean,"Psychcentral, 44-50 Auburn Rd",Sydney,2144,,https://www.chouchoubebeadventure.com/party,151.031686,-33.849522
+,헤이취티Htcollege,educational_service,0.6149702668190002,name:hangul,96s South Pde,Sydney,2144,+611300161660,https://www.instagram.com/htcollege,151.03133,-33.85077
+,Wagyu Factory Korean BBQ,korean_restaurant,0.6035077571868896,category:korean,33 Dora St,Sydney,2220,+61289588282,,151.100248,-33.964176
+,Kims Brows & Beauty,beauty_salon,0.9957284188270569,name:korean-surname,Shop 1-2/38 The Avenue,Sydney,2220,+61295809775,http://kimsbrowsandbeauty.com.au/,151.10583199,-33.96472052
+,Korean Restaurant,korean_restaurant,0.7840758562088013,category:korean,163 Forest Rd,Sydney,2220,+61295807108,,151.103633,-33.96709
+,Menboong Mart,korean_restaurant,0.77,category:korean,,Hurstville Grove,2220,(02) 9580 3020,http://menboong-mart.jany.io,151.10058368661927,-33.96548418065039
+,Chi Koko,korean_restaurant,0.9900834560394287,category:korean,shop 4/378/380 Forest Rd,Sydney,2220,+61450552978,,151.10073949,-33.96528744
+,Daycell Dược Mỹ Phẩm Korea - Australia,professional_service,0.06325888633728027,name:token,236 President Ave,Sydney,2228,+821073560068,,151.09576,-34.03968
+,Bop and Roll,korean_restaurant,0.994047577381134,category:korean,"Miranda Mall (prev Parkside Plaza, Shop 18/4-6 Wandella Rd",Sydney,2228,+61490524322,https://www.ubereats.com/store/bop-&-roll-miranda/oyzmQipXWzyA9xrA-8k6vQ?diningMode=DELIVERY,151.09992881,-34.03221725
+,Moon's Fresh Sushi & Bulgogi - Miranda,japanese_restaurant,0.9971323508024216,name:token,561 Kingsway,Sydney,2228,+61295265878,,151.1028634111054,-34.03427068369497
+,Macheon Korean Restaurant,korean_restaurant,0.795272946357727,category:korean,4/38 President Ave,Sydney,2229,+61411261416,,151.12130638,-34.04318972
+,Grooming with Seoul,pet_groomer,0.5329749584197998,name:token,17/2 Willison Rd,Sydney,2218,,http://Groomingwithseoul.com/,151.12620557,-33.96700589
+,Belmore Korea House,hotel,0.82923424243927,name:token,384 Burwood Rd,Sydney,2192,+61297505205,,151.08873588,-33.91840848
+,시드니한인교회,christian_place_of_worship,0.6140515804290771,name:hangul,458 Burwood Rd,Sydney,2192,,,151.08950152527,-33.919268143708
+,Mapo Galbi,korean_restaurant,0.8681216835975647,category:korean,408 Burwood Rd,Sydney,2192,+61297404500,,151.089124,-33.919131
+,Seoul Travel,travel_service,0.8644610601663589,name:token,436 Burwood Rd,Sydney,2192,+61297505555,http://www.seoultravel.com.au,151.089477,-33.920002
+,Yedam Tteok,dessert_shop,0.9112870699167251,name:token,745 Canterbury Rd,Sydney,2192,+61297405057,http://yedam.com.au/,151.09049631,-33.92420064
+,Korean Auto Spares,automotive_service,0.77,name:token,63-67 Lakemba St,Belmore,2192,(02) 9750 0000,https://www.checkeredflagautowreckers.com.au,151.08441732242605,-33.91443082611187
+,Shi Gol Jip Korean Charcoal BBQ Restaurant,korean_restaurant,0.9483142352104187,category:korean,333 Burwood Rd,Sydney,2192,+61401853262,,151.08751956,-33.91588811
+,Walnam Ssam Restaurant,korean_restaurant,0.9902748966217041,category:korean,316 Burwood Rd,Sydney,2192,+61494007249,,151.08735812,-33.916211
+,Korean Chicken & Beer,korean_restaurant,0.6611261367797852,category:korean,,Sydney,,,,151.08760140679166,-33.916425409190396
+,Ourien Chicken and Cafe,korean_restaurant,0.9983004182577133,category:korean,185 Beamish St,Sydney,2194,+61297188882,http://ourien-chicken-cafe.edan.io,151.10366507,-33.90966154
+,Asawon Korean Restaurant,korean_restaurant,0.666953980922699,category:korean,179 Beamish St,Sydney,2194,+61297187132,,151.103697,-33.909209
+,Se Jong Korean BBQ Buffet,buffet_restaurant,0.9952955687046051,name:token,8 London St,Sydney,2194,+61297877126,https://m.facebook.com/pages/Se-Jong-Korean-BBQ-Buffet/160945507260216,151.10235899,-33.90983866
+,Chan Korean Butcher,butcher_shop,0.4932556748390198,name:token,42A North Parade,Sydney,2194,+61424063606,,151.10321614,-33.90998933
+,Korean Red Ginseng Store,health_food_store,0.77,name:token,199 Beamish St,Campsie,2194,(02) 9789 4488,http://blog.naver.com/danny4042,151.1037,-33.91026
+,Seoul Family Medicine Clinic,family_practice,0.48795148730278015,name:token,48 South Parade,Sydney,2194,+61297872022,,151.10431009,-33.91058036
+,Korea Travel Agency,travel_service,0.41294175386428833,name:token,Shop 1a/62-74 Beamish St,Sydney,2194,+61297876633,http://www.wizard.com.au,151.10295002,-33.90651886
+,Soju Social,korean_restaurant,0.9967635768651962,category:korean,"Shop 233, Ground Floor, 462 Chapel Road Little Saigon Plaza, 462 Chapel Rd",Sydney,2200,+61481818897,http://www.sojusocial.com.au/,151.03420544,-33.91331101
+,Korean Bbq Bankstown,barbecue_restaurant,0.9261701107025146,name:token,,Sydney,,,,151.03470389424209,-33.91345300657048
+,NW Mall 호주 온라인 쇼핑몰,shopping_mall,0.3162214756011963,name:hangul,101 Rookwood Rd,Sydney,2199,,https://nwmall.com.au/,151.03835,-33.89723
+,Igagu 아이가구,furniture_store,0.77,name:hangul,20 Braidwood St,Strathfield,2136,(02) 9742 3220,http://www.igagu.com.au,151.07075,-33.88761
+,Korea Bapsang,restaurant,0.7818745970726013,name:token,312 Liverpool Rd,Sydney,2136,+61452198390,,151.092703,-33.886874
+,Chir Chir Australia,korean_restaurant,0.9668216282129287,category:korean,27 Belmore St,Sydney,2134,+61289372583,http://www.chirchir.com.au/,151.102217,-33.878501
+,korean hotdog,korean_restaurant,0.17052869498729706,category:korean,2 Clarendon Pl,Sydney,2134,,,151.10745778,-33.87850188
+,Sydney Jongbopsa - Korean Buddhist Temple,buddhist_place_of_worship,0.9363810420036316,name:token,2 Elliott St,Sydney,2136,+61296427672,,151.08575446,-33.89861343
+,정법사 - Jung Bop Sa (Korean Temple),buddhist_place_of_worship,0.9615572094917297,name:hangul,"2-4 elliot street, belfield, nsw",Sydney,2191,,http://www.jongbopsa.org.au/index.php,151.085837916,-33.8988246453
+,Seoul HK BBQ,korean_restaurant,0.9224863642454147,category:korean,37 Punchbowl Rd,Sydney,2191,+61296425295,http://seoulbbq.com.au/,151.083788,-33.901856
+,"Korean Society Hall, Croydon Park",music_venue,0.9628200531005859,name:token,82-100 Brighton Ave,Sydney,2133,,,151.10730261497713,-33.90150363454045
+,호주 시드니 한인회 Korean Society of Sydney Australia Inc,non_governmental_association,0.5755563974380493,name:hangul,82-100 Brighton Ave,Sydney,2133,+61285421292,https://koreanet.org/,151.10732214,-33.90148719
+,The Korean Society of Sydney,social_club,0.77,name:token,82 Brighton Ave,Croydon Park,2133,(02) 9798 8800,http://www.koreanet.org.au,151.10713619612778,-33.9013851776935
+,Han's Supermarket,grocery_store,0.7409762740135193,name:korean-surname,1 Brown St,Sydney,2131,+61481348989,,151.12600708008,-33.888699845762
+,"시드니 평화의 소녀상 연대 - Friends of ""Comfort Women"" in Sydney",community_and_government,0.08795136213302612,name:hangul,,Sydney,,,http://www.fcwsydney.org.au/,151.12712,-33.89044
+,K-Town Korean Bbq,korean_restaurant,0.77,category:korean,Dalhousie Street,Haberfield,2045,(02) 9716 4871,https://www.ktownbbq.com.au,151.13830157034806,-33.88086230739196
+,Kogi Kogi Korean BBQ & Bar,korean_restaurant,0.9012487530708313,category:korean,161 Norton St,Sydney,2040,+61289696468,,151.15690531,-33.88136207
+,Open Korea Restaurant,korean_restaurant,0.9958713358640671,category:korean,154 Parramatta Rd,Sydney,2050,+61295574993,http://www.openkorea.com.au,151.17677741,-33.88661766
+,789 Korean BBQ,korean_restaurant,0.9836369246244431,category:korean,Shop 4/35 Tumbalong Bvd,Sydney,2000,+61478616046,http://678sydney.com.au/,151.2016098,-33.87795211
+,I HEART KPOP Australia,dance_club,0.6163299679756165,name:token,732 Harris St,Sydney,2007,,https://iheartkpopaus.com.au/,151.20218777563,-33.883561469267
+,Jung Sung Contemporary Korean,korean_restaurant,0.77,category:korean,A6/2-10 Kensington Street,Sydney,2008,0400 991 011,https://www.jungsung.com.au,151.2017118548688,-33.8845660921036
+,Rococo Seoul,clothing_store,0.6942497491836548,name:token,"Ground Lv. , 28 Broadway Central Park Mall",Sydney,2008,+61492917053,http://www.rococoseoul.com/,151.20072818,-33.88461736
+,Chowon Wagyu Korean BBQ,korean_restaurant,0.9521632790565491,category:korean,Shop 7/6 Central Park Ave,Sydney,2008,+61413814806,http://chowon.com.au/,151.19910456,-33.88502149
+,bibimbar,korean_restaurant,0.9894996285438538,category:korean,69 Abercrombie St,Sydney,2008,+61289640900,http://www.bibimbar.com.au/,151.19859153,-33.88683945
+,USYD Korean Studies 시드니대 한국학,college_university,0.4478006362915039,name:hangul,The University of Sydney,Sydney,2050,,https://www.sydney.edu.au/arts/schools/school-of-languages-and-cultures/department-of-korean-studies.html,151.18988156,-33.885496020000005
+,시드니 시티센트럴 교회,christian_place_of_worship,0.9389938712120056,name:hangul,285 Abercrombie St,Sydney,2008,+61450910191,,151.1946,-33.89132
+,Korean restaurant,restaurant,0.5565942525863647,name:token,229A King St,Sydney,2042,+46704750739,,151.18131664,-33.89534674
+,Gami Chicken & Beer,korean_restaurant,0.9645035862922668,category:korean,165 King St,Sydney,2042,+61295501818,https://www.gamichicken.com.au/restaurant/newtown/,151.18277258,-33.89379575
+,Flying Tong,korean_restaurant,0.77,category:korean,99 Enmore Rd,Enmore,2042,(02) 8056 5985,https://flyingtong.com.au,151.17432765174274,-33.89858786394966
+,Gokee Newtown,korean_restaurant,0.47807368636131287,category:korean,508 King St,Sydney,2042,+61295191991,,151.179285,-33.90206
+,Dragon Blood Plus - Premium Korean Cosmetics,spa,0.24796956777572632,name:token,"Tasker Ave, Clemton Park NSW 2206, Úc",Sydney,2206,,,151.1486247307,-33.915338133008
+,Grilled Korean BBQ,korean_restaurant,0.9921534776687622,category:korean,2-6 Brodie Spark Dr,Sydney,2205,+61283175633,,151.15369782073975,-33.929630825103814
+,Grilled Korean BBQ,korean_restaurant,0.9679943323135376,category:korean,2-6 Brodie Spark Dr,Sydney,2205,+61283175633,,151.15399542,-33.92973548
+,SanSheng Restaurant,korean_restaurant,0.9509393572807312,category:korean,2 Muller Ln,Sydney,2020,+61283391606,,151.18498,-33.92175
+,Nikko Japanese and Korean Restaurant,japanese_restaurant,0.9886873042583466,name:token,Unit 1/305 Anzac Parade,Sydney,2032,+61296628183,http://nikko-japanese-korean.edan.io,151.22672167,-33.92205827
+,Moran Korean BBQ,korean_restaurant,0.2479664534330368,category:korean,Shop 6/5 Potter St,Sydney,2017,+61434520398,,151.21219252,-33.89976331
+,Galbi,korean_restaurant,0.9967848533391952,category:korean,Shop 6/5 Potter St,Sydney,2017,+61279009868,http://www.galbikorean.com,151.21211492,-33.899704
+,Moon Park,korean_restaurant,0.77,category:korean,"Level 1, 34b Redfern St.",Redfern,2016,(02) 9690 0111,http://www.moon-park.com.au,151.20715741598812,-33.8931130401872
+,호주 뉴질랜드 Ip 통신원,ip_and_internet_law,0.35354965925216675,name:hangul,53 Walker St,Sydney,2016,+61413654068,http://www.laminarip.com/,151.20853,-33.89397
+,SOUL Dining,korean_restaurant,0.77,category:korean,2 Carrington St,Wynyard,2000,(02) 8593 4957,http://souldining.com,151.21136514928804,-33.88763497935059
+,Red Lotus Korean BBQ,korean_restaurant,0.9615393048524856,category:korean,433-435 Elizabeth St,Sydney,2010,+61289647411,http://www.redlotuskoreanbbq.com.au/,151.20805615,-33.88591106
+,Suryun Restaurant,korean_restaurant,0.751927375793457,category:korean,435 Elizabeth St,Sydney,2010,+61410575019,,151.20798936,-33.88591509
+,Tokki,korean_restaurant,0.77,category:korean,44a Foveaux St,Sydney,2010,0472 803 409,http://www.tokki.net.au,151.21055835228586,-33.88417077390189
+,Haak Eatery,korean_restaurant,0.8673580673336982,category:korean,Shop 3/54-58 Foveaux St,Sydney,2010,+61435328379,http://Haakeatery.com.au/,151.21082207,-33.88436859
+,The Babzip,korean_restaurant,0.8780844807624817,category:korean,61-79 Quay St,Sydney,2000,+61293040119,,151.20283019417,-33.881375624361
+,GALBI,korean_restaurant,0.31871652603149414,category:korean,800 George St,Sydney,2000,+61293269210,,151.2049053,-33.88150884
+,KOGI Korean BBQ,restaurant,0.77,name:token,9-13 Hay St Level 3,Sydney,2000,0409 713 423,http://www.kogi.com.au,151.20325321773177,-33.87981243114712
+,Gangnam BBQ,korean_restaurant,0.6852651238441467,category:korean,Level 1 421/429 Sussex St,Sydney,2000,+61468458538,,151.20471396,-33.8791709
+,Bornga Korean BBQ Restaurant,korean_restaurant,0.9784458875656128,category:korean,78 Harbour St,Sydney,2000,+61417054555,http://www.bornga.kr/,151.20344459,-33.87885102
+,Kaokao,korean_restaurant,0.9508817791938782,category:korean,Shop13a/86 Hay St,Sydney,2000,+61424844616,,151.2027518,-33.87912911
+,Seoul St Boutique,clothing_store,0.20659714937210083,name:token,"Sussex Centre, Shop S14, 401/403 Sussex St",Sydney,2000,+61450993991,,151.20465782,-33.87824616
+,The Sparrow's Mill Express,korean_restaurant,0.9679417610168457,category:korean,level 1 shop f1/401-403 Sussex St,Sydney,2000,+61426138106,https://www.redpepperclub.com.au/,151.20456644,-33.8782045
+,Palsaik,korean_restaurant,0.5172761678695679,category:korean,710 George St,Sydney,2000,+61285403298,http://jinian8372.wix.com/palsaiksydney,151.20574,-33.87856
+,Dae Jang Kum,korean_restaurant,0.9995535354018211,category:korean,35 Goulburn St,Sydney,2000,+61292110890,http://daejangkum.com.au/,151.20517934,-33.87775884
+,Lee's Dumpling,chinese_restaurant,0.9005268812179565,name:korean-surname,694 George St,Sydney,2000,+61460000369,,151.20587841,-33.87800394
+,Basax,korean_restaurant,0.9982360541820526,category:korean,415 Pitt St,Sydney,2000,+61475758282,http://www.basax.com.au/,151.20724144,-33.87848342
+,Milliore,korean_restaurant,0.9970468747615814,category:korean,"Capital Square, G10/730-742 George St",Sydney,2000,+61415900888,http://www.capitolsquare.com.au/food-beverage/milliore_korean_fusion_restaurant.php,151.2060242,-33.87928236
+,Squid Pocha,korean_restaurant,0.943699300289154,category:korean,"Capital Square, Shop G09, Ground Floor, 730/742 George St",Sydney,2000,+61288805505,https://www.instagram.com/squidpocha/,151.20588536,-33.87941077
+,Korean Town In Sydney,korean_restaurant,0.9395301342010498,category:korean,323-339 Castlereagh St,Sydney,2000,,,151.208047,-33.879732
+,678 Korean BBQ Restaurant,korean_restaurant,0.9963925546407699,category:korean,Level 1/396 Pitt St,Sydney,2000,+61466607627,http://789bbq.com/,151.20767267,-33.87823224
+,Allta,korean_restaurant,0.9761582028865814,category:korean,52 Reservoir St,Sydney,2010,,http://www.alltasydney.com.au/,151.20952,-33.88102
+,Sang by Mabasa,korean_restaurant,0.997458900809288,category:korean,98 Fitzroy St,Sydney,2010,+61293315175,http://sangbymabasa.com.au,151.21694167,-33.8856129
+,Korean War Memorial,monument,0.9725110697746276,name:token,"Corner South Dowling Street And, Anzac Parade",Sydney,2021,+61293396699,http://www.centennialparklands.com.au,151.21851244,-33.88681514
+,Arisoo Korean Bathhouse & Spa Paddington,day_spa,0.9971841847896576,name:token,495A Oxford St,Sydney,2021,+61480586239,https://www.arisoospa.com.au/,151.23277972,-33.8896267
+,Good News Korean school,non_governmental_association,0.27379515767097473,name:token,74 Joseph St,Sydney,2141,+61451671004,,151.04281,-33.86741
+,뿅가,restaurant,0.964709460735321,name:hangul,60 Railway St,Sydney,2141,,,151.043,-33.8664
+,OGONG BBQ Lidcombe,korean_restaurant,0.9980747395753861,category:korean,50 Joseph St,Sydney,2141,+61296463913,http://ogong.com.au/,151.04318033,-33.86616102
+,Sutbul Chicken 숯불치킨 참 잘하는집,korean_restaurant,0.5772206783294678,category:korean,"Cert IV in Building Lidcombe, 2 Kerrs Rd",Sydney,2141,+61424119054,,151.04326631661,-33.866003106376
+,드루와 포차,korean_restaurant,0.9586924910545349,category:korean,shop 3/8 Kerrs Rd,Sydney,2141,+61414269298,,151.0426196,-33.86613723
+,Gaja Meat - Korean Butcher,butcher_shop,0.9655,name:token,Shop 2/8-12 Kerrs Road,Lidcombe,2141,0296437007,https://koreanbbqmeat.com.au/,151.0424857,-33.8659185
+,BB King,korean_restaurant,0.8424228829145431,category:korean,14 Joseph St,Sydney,2141,+61279003180,http://www.bbking.com.au,151.043329,-33.863815
+,Joh-Eun-Nal,korean_restaurant,0.9799203276634216,category:korean,20 Joseph St,Sydney,2141,+61296498282,,151.04357593,-33.86409665
+,PR Korean Restaurant,korean_restaurant,0.9907875746488571,category:korean,10 Bridge St,Sydney,2141,+61296465936,http://au.localize123.com/pr-korean-restaurant-in-lidcombe-nsw,151.04332808,-33.86440223
+,Obongzip Sydney,korean_restaurant,0.7056930065155029,category:korean,22 Joseph St,Sydney,2141,+61488238353,,151.04351,-33.86422
+,Palbok BBQ Lidcombe,korean_restaurant,0.9906122088432312,category:korean,2 Bridge St,Sydney,2141,+61296491312,,151.04349001,-33.86453296
+,Chicken V Lidcombe,korean_restaurant,0.9247761964797974,category:korean,4 Bridge St,Sydney,2141,+61296430092,https://maps.app.goo.gl/vYYj5HBwVcEqwEHF7?g_st=com.google.maps.preview.copy,151.04345666,-33.86446518
+,미소BBQ - Miso BBQ,barbecue_restaurant,0.6443874835968018,name:hangul,10 Bridge St,Sydney,2141,+61402366585,,151.04319,-33.86451
+,Muri Korean Bbq,korean_restaurant,0.9107411885261536,category:korean,28 Joseph St,Sydney,2141,+61296437222,,151.043459,-33.864662
+,리드컴 회관 Lidcombe Meat&Co,restaurant,0.985151469707489,name:hangul,30 Joseph St,Sydney,2141,+61420214094,,151.043302,-33.864727
+,Hanabi,korean_restaurant,0.9975370973348617,category:korean,33 Joseph St,Sydney,2141,+61296461412,,151.0438117126955,-33.8651002376203
+,CC Train Lidcombe,korean_restaurant,0.3041245639324188,category:korean,36 Railway St,Sydney,2141,+61493056012,https://www.instagram.com/cctrain.lidcombe/,151.04505946,-33.86433608
+,Yun's Pork and Duck,korean_restaurant,0.9730244278907776,category:korean,Shop 2/20 Railway St,Sydney,2141,+61491628861,,151.04616426,-33.86457745
+,Basak and Jogumja,korean_restaurant,0.2422054409980774,category:korean,Shop 4/20 Railway St,Sydney,2141,+61412438622,https://www.instagram.com/basak.jogumja,151.0461694,-33.86461454
+,Suliya Korean Pocha and Gogiya Charcoal BBQ,korean_restaurant,0.9221717119216919,category:korean,40 Railway St,Sydney,2141,+61297495474,,151.04495189,-33.8642055
+,Fryzone lidcombe 역전치킨,restaurant,0.5891395211219788,name:hangul,60 Railway St,Sydney,2141,+61285409870,,151.04419,-33.86398
+,Haejangkook.com,korean_restaurant,0.9649058681726456,category:korean,54A Railway St,Sydney,2141,+61281238357,http://haejangkook.com/,151.044386,-33.864063
+,Strawberry Kitchen Lidcombe,korean_restaurant,0.7231932282447815,category:korean,1a Joseph St,Sydney,2141,+61418789168,,151.04401374,-33.86380191
+,피씨토랑 PCtorang 리드.컴 Lead.com 인터넷카페 PCbang,internet_cafe,0.5514097213745117,name:hangul,39A Church St,Sydney,2141,+61420776182,,151.045695,-33.863272
+,연세회계법인 Yonsei Accounting Firm,accountant,0.6546932458877563,name:hangul,"GM Tower, 11-15 Deane St",Sydney,2134,,http://www.yonseigroup.com.au/,151.044384,-33.862743
+,Gwangjujib / 광주집,korean_restaurant,0.9173383712768555,category:korean,Shoo 7/46 John St,Sydney,2141,+61430051324,,151.04476778,-33.86251934
+,지그재그투어,sightseeing_tour_agency,0.6054056882858276,name:hangul,14 Church St,Sydney,2141,+61410124316,http://www.zigzagtravelpeople.com/,151.0498896,-33.86409323
+,Kabojung Korean BBQ Buffet,korean_restaurant,0.8890414237976074,category:korean,23 East St,Sydney,2141,+61296438383,http://www.kabojungbbqbuffet.com.au/,151.04729,-33.86649
+,Korean Presbyterian Church,christian_place_of_worship,0.77,name:token,59 Arthur St,Strathfield,2135,(02) 9746 5205,http://skpc.org.au,151.07207,-33.87085
+,드림장로교회,christian_place_of_worship,0.8280227184295654,name:hangul,25A Barker Rd,Sydney,2135,+61434361353,http://www.drimchurch.org/,151.07834,-33.87672
+,Sydney Korean Uniting Church,christian_place_of_worship,0.9558799266815186,name:token,98 Albert Rd,Sydney,2135,+61297461360,http://www.uca.org.au,151.08779885,-33.8722161
+,Seoul BBQ (SeoB Pocha),korean_restaurant,0.8724761009216309,category:korean,52 Mosely St,Sydney,2135,+61297010608,,151.09493063,-33.87117382
+,Doo Ri Restaurant Korean BBQ,korean_restaurant,0.77,category:korean,"Shop 136-137, 20-34 Albert Rd",Strathfield,2135,(02) 9746 7111,http://www.doori.com.au,151.09264675472264,-33.87167934792962
+,Ilmaree.strathfield,korean_restaurant,0.9653650522232056,category:korean,20-34 Albert Rd,Sydney,2135,+61426293700,,151.09301,-33.87172
+,Eunhasu,korean_restaurant,0.8471562266349792,category:korean,33 Everton Rd,Sydney,2135,+61297456917,,151.09482360087,-33.871505032325
+,Ott 대한관광여행사,travel_service,0.9508225321769714,name:hangul,4 The Boulevarde,Sydney,2135,+61297442000,http://ottsydney.com/,151.0946,-33.87263
+,사단법인 호주한인교육문화센터 - KCC Inc.,cultural_center,0.3685697615146637,name:hangul,4 The Boulevarde,Sydney,2135,,http://www.kccau.org.au/,151.0946,-33.87263
+,Korean Mobile Repair,it_service_and_computer_repair,0.7575157880783081,name:token,5/12 Churchill Ave,Sydney,2135,+61435726432,https://www.youtube.com/channel/UCzsYyyV06zAGL0fx-fHpzaQ?view_as=subscriber,151.09374071,-33.87258608
+,Choi's Denture Clinic Strathfield,dental_clinic,0.77,name:korean-surname,12 Churchill Ave Suite 7 / Level 1,Strathfield,2135,(02) 8386 0143,http://choicedenture.com.au,151.0936129416625,-33.87275172093721
+,The Flour Mill Strathfield,korean_restaurant,0.9844016432762146,category:korean,1/7-9 Churchill Ave,Sydney,2135,+61401333449,,151.09294834,-33.87206919
+,Hangang Traditional Korean Cuisine,korean_restaurant,0.77,category:korean,252/20-34 Albert Rd,Strathfield,2135,(02) 8318 0423,,151.09224230816403,-33.872124213968824
+,호주 사회를 한눈에 - 톱디지털,real_estate_service,0.27804210782051086,name:hangul,9-13 Redmyre Rd,Sydney,2135,+61297462200,http://www.topdigital.com.au/,151.09244,-33.87307
+,제일 물리치료 한의원,physical_therapy,0.434949666261673,name:hangul,Ste 206 level 2/11 The Boulevarde,Sydney,2135,+61416805015,https://www.mjclinic.com.au/,151.09303078,-33.8729556
+,디투케이메이트 호주 학생비자 상담,educational_service,0.4904673993587494,name:hangul,11 The Boulevarde,Sydney,2135,+61290520203,http://www.d2kmate.com/,151.09318,-33.87301
+,Miss ary strathfield 아리분식,korean_restaurant,0.7322153449058533,category:korean,20 Churchill Ave,Sydney,2135,,http://missary.com.au/,151.0933,-33.87303
+,Tomoya Strathfield,korean_restaurant,0.9123784303665161,category:korean,Shop 34/11 The Boulevarde,Sydney,2135,+61297468877,,151.09306299,-33.87309975
+,The Mandoo Strathfield,korean_restaurant,0.9672651290893555,category:korean,12A The Boulevarde,Sydney,2135,+61297010949,,151.09444353,-33.87293329
+,Jun Korean Language School,language_school,0.775643173456192,name:token,Unit 7/15 Parnell St,Sydney,2135,+61402088595,https://www.koreanwithaiden.com/,151.09467282,-33.87284343
+,Korean BBQ Online Strathfield,restaurant,0.9655,name:token,18A The Boulevarde,Strathfield,2135,,http://koreanbbqonline.com.au/,151.094385,-33.873132
+,Biwon Strathfield 스트라 비원,restaurant,0.9725560545921326,name:hangul,22 The Boulevarde,Sydney,2135,+61481954466,,151.09443,-33.87334
+,Bro Pocha,korean_restaurant,0.9888323545455933,category:korean,Level1/27 The Boulevarde,Sydney,2135,+61433599148,https://bro-pocha.business.site/,151.09405019,-33.87331111
+,HAMJI PARK Strathfield,korean_restaurant,0.8061338067054749,category:korean,29 The Boulevarde,Sydney,2135,+61432512133,,151.09384166,-33.87335524
+,Wooden Bowl Strathfield,korean_restaurant,0.9798550605773926,category:korean,29 The Boulevarde,Sydney,2135,+61297469077,,151.09384777,-33.873351
+,Won Jo Korean BBQ Strathfield,barbecue_restaurant,0.9979880708456039,name:token,33A The Boulevarde,Sydney,2135,+61297467041,http://www.wonjo.com.au,151.09400078,-33.87349664
+,Chicken V Strathfield,korean_restaurant,0.9778913259506226,category:korean,26 The Boulevarde,Sydney,2135,+61297449734,,151.09425909,-33.87344102
+,Ceci Strathfield,korean_restaurant,0.9963649034500122,category:korean,37 The Boulevarde,Sydney,2135,+61418212238,http://au.localize123.com/ceci-korea-restaurant-strathfield-in-strathfield-nsw,151.09405323,-33.87361804
+,Don Don Stra,korean_restaurant,0.9921477437019348,category:korean,39 The Boulevarde,Sydney,2135,+61294557557,https://www.instagram.com/dondonstra/,151.09387743,-33.87371099
+,Golden PIG BBQ - Korean Pork BBQ Expert,restaurant,0.85,name:token,16 Lyons Street,Strathfield,2135,0297478292,http://goldenpigbbq.com.au/,151.0946896,-33.8738462
+,Hansang Strathfield,korean_restaurant,0.9987535303831101,category:korean,8-14 Lyons St,Sydney,2135,+61421940886,https://hansangsydney.com.au/,151.09481085,-33.87394896
+,The Bulgogi,korean_restaurant,0.9087033766508102,category:korean,16 Lyons St,Sydney,2135,+61297478292,http://thebulgogi.com.au,151.09464,-33.874062
+,Jang Ta Bal,korean_restaurant,0.9955492275953293,category:korean,48A The Boulevarde,Sydney,2135,+61297472800,http://jangtabal.com.au,151.09429,-33.87421
+,The Uncles BBQ,korean_restaurant,0.975737361907959,category:korean,48 The Boulevarde,Sydney,2135,+61283879275,http://theunclesbbq.com.au/,151.094201,-33.874202
+,Gajok BBQ,korean_restaurant,0.8789226412773132,category:korean,2/41 The Boulevarde,Sydney,2135,+61401642479,,151.09376669,-33.87399843
+,Hwang Ga BBQ,korean_restaurant,0.9804560917615891,category:korean,41 The Boulevarde,Sydney,2135,+61297461946,https://hwangga.business.site,151.09367,-33.873985
+,Hens Chicken Strathfield,korean_restaurant,0.9972293972969055,category:korean,Shop 3/41 The Boulevarde,Sydney,2135,+61285426474,https://www.instagram.com/hens_chicken_au,151.09360146,-33.8739154
+,조우 이자카야,sake_bar,0.6590602397918701,name:hangul,45-47 The Boulevarde,Sydney,2135,+61422334503,https://instagram.com/zou_izakaya?igshid=YWJhMjlhZTc%3D,151.09349,-33.87433
+,Cokco Chicken & Grill,korean_restaurant,0.9189707636833191,category:korean,45-47 The Boulevarde,Sydney,2135,+61297467500,,151.09349,-33.87433
+,Harry's Fitness피트니스,gym,0.7254896759986877,name:hangul,100 Parramatta Rd,Sydney,2144,+61432065660,,151.09422,-33.87456
+,고구려 BBQ - Goguryo BBQ,korean_restaurant,0.7487080693244934,category:korean,52 The Boulevarde,Sydney,2135,+61404466033,http://instagram.com/bbq_goguryo,151.094205,-33.874388
+,Won Jo BBQ 2,korean_restaurant,0.48213040828704834,category:korean,45-47 The Boulevarde,Sydney,2135,,,151.094123,-33.874403
+,2135 Vibe,korean_restaurant,0.9793875932693481,category:korean,Shop 4-5/29-31 Morwick St,Sydney,2135,+61422008811,https://2135vibe.com.au/,151.09454823,-33.87463283
+,호주한인교회,religious_organization,0.8628267645835876,name:hangul,62 The Boulevarde,Sydney,2135,,,151.0941925,-33.8749886
+,MJ Clinic 모자한의원,acupuncture,0.77,name:hangul,11 Strathfield Plaza Suite 9 Level 3,Strathfield,2135,(02) 9746 1123,http://mjclinic.com.au,151.09157379305123,-33.8765959248192
+,Red Pepper,korean_restaurant,0.9949165266752243,category:korean,4A Lyons St,Sydney,2135,+61297010911,http://strathfieldsportsclub.com.au/,151.095476,-33.874287
+,Dhmdk Kendo 대한무도관 검도,martial_arts_club,0.8984397649765015,name:hangul,"Auburn Youth Centre,  Church Street",Sydney,2141,,http://www.dhmdk.org/,151.10425859660978,-33.87662879274479
+,선한교회 Sunhan Church,christian_place_of_worship,0.7719426155090332,name:hangul,"Tab, 41 George St",Sydney,2134,+61452522128,,151.10447885222,-33.876252992029
+,K-pop at Strawberry Bear,music_and_dvd_store,0.7054961919784546,name:token,11-15 Deane St,Sydney,2134,,http://www.strawberrybear.com.au/,151.10489638,-33.87673665
+,Jason Yat-sen Li MP - Korean,,0.5537589192390442,name:token,36-38 Victoria St,Sydney,2134,+61297471711,https://www.jasonyatsenli.com/,151.10555,-33.87547
+,호주무한투어,travel_service,0.560019314289093,name:hangul,Unit 12/17 Wilga St,Sydney,2134,+61422843526,http://www.hojumuhantour.com/,151.10655562,-33.87384885
+,시드니,historic_site,0.4870469272136688,name:hangul,burwoos rd,Sydney,2191,+61297423399,http://sydney.com/,151.1046906,-33.870739
+,KPOP Bazaar,gift_shop,0.6497027277946472,name:token,Shop 2/54 Burwood Rd,Sydney,2134,+61404352517,http://www.kpopbazaar.com.au/,151.10496374,-33.87201043
+,Jinmoo Korean Martial Arts,martial_arts_club,0.9963943642377854,name:token,1a Broughton St,Sydney,2137,+61297473030,http://www.jinmookma.com/,151.10347701,-33.86817037
+,굿데이호주 • 교육전문 • 유학 이민 문서공증 경력심사학위,educational_service,0.33993691205978394,name:hangul,"Level 1, 5 George St",Sydney,2137,+61280057168,https://www.gdayhoju.com/,151.08876,-33.86293
+,Late Night Table,korean_restaurant,0.9850068992376327,category:korean,5 George St,Sydney,2137,+61450506200,,151.08841396,-33.86349998
+,굿데이 호주 법인,educational_service,0.30519023537635803,name:hangul,Level 1/5 George St,Sydney,2137,+61280057168,https://www.instagram.com/gdaycoda,151.08885362,-33.86317323
+,Ryde Haejangguk,korean_restaurant,0.3870491683483124,category:korean,1 George St,Sydney,2137,+61297468746,,151.088646,-33.863994
+,Myeong Dong Korean Restaurant,korean_restaurant,0.9868423342704773,category:korean,2/1 George St,Sydney,2137,+61291884987,,151.08858462,-33.86407779
+,Wagyu Nara Korean Restaurant,restaurant,0.9214584827423096,name:token,2 Nipper St,Sydney,2140,+61400566967,https://wagyunara.wixsite.com/mysite,151.089095,-33.865407
+,홈부쉬 치킨 노래방,,0.5265829563140869,name:hangul,22 The Crescent,Sydney,2140,,,151.08596,-33.86732
+,시드니장어,barbecue_restaurant,0.985646665096283,name:hangul,19 The Crescent,Sydney,2140,+61450715375,,151.08617469844887,-33.86713846385602
+,Bakehouse Garden,korean_restaurant,0.77,category:korean,"Shop 4, 9-11 George St",North Strathfield,2137,(02) 8746 0299,http://bakehousegarden.com.au,151.08819761180524,-33.861399178068766
+,O SE O Lidcombe,korean_restaurant,0.2447999268770218,category:korean,31 John St,Sydney,2141,+61416317036,,151.04508658,-33.86114268
+,숯불에 고기 / Charcoal Meat - Korean BBQ Lidcombe,korean_restaurant,0.3644101023674011,category:korean,21 John St,Sydney,2141,+61403047395,,151.04497015,-33.86163904
+,모모먹방/Momo Foods,restaurant,0.8183183073997498,name:hangul,36-44 John St,Sydney,2141,+61402335416,,151.0446,-33.86143
+,Oppa Day,korean_restaurant,0.7949403524398804,category:korean,36-44 John St,Sydney,2141,+61407899860,,151.044791,-33.861255
+,모모먹방/Momo Foods,restaurant,0.9109504818916321,name:hangul,36-44 John St,Sydney,2141,+61402335416,,151.044741,-33.861234
+,Toad restaurant,korean_restaurant,0.8933195471763611,category:korean,36-44 John St,Sydney,2141,+61290528877,,151.044817,-33.861189
+,Four Seasons Hand Made Noodle,korean_restaurant,0.7194211483001709,category:korean,"John St, Shop6",Sydney,2141,+61412541532,,151.0448585,-33.86109344
+,송도국밥,korean_restaurant,0.3926401436328888,category:korean,46-50 John St,Sydney,2141,+61401783258,,151.04479,-33.86069
+,Jang A Korean BBQ Restaurant,korean_restaurant,0.7788691520690918,category:korean,,Sydney,,,,151.04511786141015,-33.860474988679364
+,Korean Eel and Charcoal BBQ Restaurant 떴다 장어구이,barbecue_restaurant,0.7506635189056396,name:hangul,52-56 John St,Sydney,2141,+61296463952,,151.04509012737125,-33.86031902471054
+,Dong Bo Sung Korean & Chinese Restaurant,korean_restaurant,0.9841105937957764,category:korean,5/52-56 John St,Sydney,2141,+61494561901,https://dong-bo-sung-lidcombe.business.site/?utm_source=gmb&utm_medium=referral,151.04508513,-33.86014059
+,Korean Restaurant BBQ & Grill,barbecue_restaurant,0.5571238994598389,name:token,56 John St,Sydney,2141,,,151.04495,-33.86007
+,Daebak - Lidcombe Korean Restaurant,korean_restaurant,0.9804291725158691,category:korean,Shop 1/56 John St,Sydney,2141,+61289370898,,151.04502619,-33.8603944
+,Manseok,korean_restaurant,0.3707357943058014,category:korean,SHOP 6 46/50 John St,Sydney,2141,+61425186550,,151.04494505,-33.860456
+,A One Korean Painting,professional_service,0.77,name:token,35 Maud St,Lidcombe,2141,0450 661 598,http://www.aonekoreanpainting.com.au,151.04828835854684,-33.85939258870016
+,"Seoul, Hongdae, South Korea",dessert_shop,0.7289218306541443,name:token,,Sydney,,,,151.042819457,-33.8604517333
+,Dhmdk Kendo 대한무도관 검도,martial_arts_club,0.905873715877533,name:hangul,"Auburn Youth Centre,  Church Street",Sydney,2141,,http://www.dhmdk.org/,151.03851556778,-33.855894024461
+,호주 시드니 피스메이커스 서점,bookstore,0.6441440582275391,name:hangul,126 Delhi St,Sydney,2141,+61430284999,,151.05401,-33.85213
+,위치,shopping,0.3944922089576721,name:hangul,92-96 Parramatta Rd,Sydney,2141,+61450504989,https://www.emons.co.kr/,151.04875,-33.84934
+,Harry's Fitness피트니스,gym,0.72307950258255,name:hangul,100 Parramatta Rd,Sydney,2144,+61432065660,,151.04325,-33.84647
+,Sydney Korean Catholic Church,roman_catholic_place_of_worship,0.9892662763595581,name:token,26 Carnarvon St,Sydney,2128,+61287563333,http://www.sydneykcc.org,151.04396387,-33.83907626
+,Soban By Joseon,korean_restaurant,0.9972500842809677,category:korean,9 Murray Rose Ave,Sydney,2127,+61450313944,https://www.soban.com.au/,151.06969208,-33.84586061
+,Chodae Korean Baptist Church,baptist_place_of_worship,0.23300637304782867,name:token,49A Newington Blvd,Sydney,2127,+61451828291,,151.05417965,-33.84099684
+,새길교회,christian_place_of_worship,0.9584863185882568,name:hangul,16 Shortland St,Sydney,2117,+61430475773,,151.06288,-33.83438
+,Kang-Chon Korean Restaurant,korean_restaurant,0.9895588159561157,category:korean,c8/3 Ave of Europe,Sydney,2127,+61297379990,,151.05721916,-33.83351215
+,Authentic Korean Cuisine,korean_restaurant,0.37322676181793213,category:korean,1 Ave of Europe,Sydney,2127,+61296481607,,151.05699784,-33.83413711
+,Romance Chicken,korean_restaurant,0.5019451975822449,category:korean,c03/3 Ave of Europe,Sydney,2127,+61296488282,,151.05713559,-33.83378303
+,육식인생,korean_restaurant,0.8740521669387817,category:korean,2 Avenue of Europe,Sydney,2127,+61297370715,,151.056564716735,-33.83368660758623
+,The Blue House - 청기와,barbecue_restaurant,0.749910295009613,name:hangul,2F Avenue of Europe,Sydney,2127,+61297480960,,151.056511,-33.833624
+,BBQ Newington,korean_restaurant,0.71320641040802,category:korean,1 Avenue of Europe,Sydney,2127,+61296482102,,151.05654230347108,-33.834224257021944
+,The K,korean_restaurant,0.40412023663520813,category:korean,10-16 Marquet St,Sydney,2138,+61297432258,,151.084449,-33.828048
+,Komo Katsu,korean_restaurant,0.7834986448287964,category:korean,7 Gauthorpe St,Sydney,2138,+61272452857,https://www.komokatsu.com.au/,151.08374208,-33.82785137
+,Ozcareer :: Recruiting. Training. RPL 호주취업,employment_agency,0.5262434482574463,name:hangul,15-17 Blaxland Rd,Sydney,2138,+432552290,http://www.ozcareer.com.au/,151.0878,-33.83044
+,Hojumoney - 호주머니,real_estate_investment,0.4746934473514557,name:hangul,15-17 Blaxland Rd,Sydney,2138,+61488998880,http://www.hojumoney.com.au/,151.08757551,-33.83048266
+,Social Media Marketing 온라인 Sns마케팅 :: GBC Media,professional_service,0.09153600037097931,name:hangul,15-17 Blaxland Rd,Sydney,2138,+61431731788,https://gbcmedia.com.au/,151.08757341,-33.83048625
+,CokCo Chicken,korean_restaurant,0.9630979299545288,category:korean,Shop5/10-12 Burroway Rd,Sydney,2127,+61450619458,,151.07863527,-33.82365723
+,Catholic Healthcare CALD (Korean) Daytime Care Centre,health_and_wellness_club,0.85,name:token,"Shepherds Bay Community Centre, 3A Bay Drive",Meadowbank,2114,1800225474,https://www.catholichealthcare.com.au/home-care-services-overview/,151.0899724,-33.8200043
+,미래와희망교회,christian_place_of_worship,0.5415056943893433,name:hangul,42 Church St,Sydney,2112,,,151.10460237384,-33.815026567356
+,시드니이레장로교회sydneyjirehpresbyterianchurch,christian_place_of_worship,0.5628779530525208,name:hangul,44 Church St,Sydney,2112,+61404403366,,151.10441,-33.81561
+,HoonSikDang,korean_restaurant,0.8568060994148254,category:korean,Shop 8/7 Rider Blvd,Sydney,2138,+61433255025,,151.0861784,-33.83184607
+,Treasure Ship Seafood Dining & Pocha - Bomulsun (보물선),seafood_restaurant,0.9065572619438171,name:hangul,Shop2/7 Rider Blvd,Sydney,2138,+61426561004,,151.08646895,-33.83135902
+,Bunsik Rhodes,korean_restaurant,0.8718753457069397,category:korean,Shop77 / Level 1/1 Rider Blvd,Sydney,2138,+61424457088,,151.0844701,-33.83512334
+,Cupscups Korean Street Food,food_truck_stand,0.5326886773109436,name:token,"Waterside, Kiosk 27/1 Rider Blvd",Sydney,2138,+61434149028,,151.08474831,-33.83593665
+,Smokkim Korean BBQ,asian_restaurant,0.48205292224884033,name:token,6 Rider Blvd,Sydney,2138,+61287573888,http://www.smokkim.com.au,151.08484912487273,-33.83463176972074
+,시드니브릿지교회 (Bridge Presbyterian Church),christian_place_of_worship,0.9077879786491394,name:hangul,44 Hospital Rd,Sydney,2138,+61404014331,,151.08881728,-33.83970239
+,LePan.리버티,restaurant,0.3663710653781891,name:hangul,1 Settlers Blvd,Sydney,2138,+61283846594,,151.08382,-33.84189
+,시드니 새순 장로 교회,christian_place_of_worship,0.7683932185173035,name:hangul,riverside girls high school,Sydney,2111,,http://www.saesoon.org/,151.14101368375822,-33.839865984859685
+,Purumiru,korean_restaurant,0.6808715462684631,category:korean,371A Darling St,Sydney,2041,+61283873727,http://www.purumiru.com/,151.177735,-33.856244
+,Ma.Ba.Sa. Modern Korean Cuisine,asian_restaurant,0.5985254645347595,name:token,390 Darling St,Sydney,2041,+61295556621,http://www.sangbymabasa.com.au/,151.175545,-33.855977
+,Lee's Chinese Cuisine,chinese_restaurant,0.9899526238441467,name:korean-surname,262 Great North Rd,Sydney,2046,+61297121083,,151.13124458,-33.85784442
+,Lee's Golden Yuen Chinese Restaurant,chinese_restaurant,0.9970078998804093,name:korean-surname,638 Darling St,Sydney,2039,+61298102200,http://www.leesgoldenyuenchinese.com.au,151.17093336,-33.86254538
+,Asd 호주 시드니 면세점,duty_free_store,0.8732807040214539,name:hangul,25 Harvey St,Sydney,2009,+61416256004,http://asdutyfree.com.au/,151.19198797,-33.86729489
+,Jiggle Korean BBQ - Sydney,,0.47020891308784485,name:token,55 Miller St,Sydney,2009,,http://jigglebbqpyrmont.com/,151.19256,-33.87058
+,White Tiger Korean Martial Arts,martial_arts_club,0.77,name:token,7 Ave Rd,Glebe,2037,0416 930 985,http://whitetigerkma.com,151.18204777894357,-33.87618877230539
+,Kim's Bistro,restaurant,0.6144673824310303,name:korean-surname,11-13 Calder Rd,Sydney,2116,,,151.03553,-33.80518
+,시드니영락교회,christian_place_of_worship,0.7131189107894897,name:hangul,7-9 Manson St,Sydney,2117,,,151.04108,-33.79684
+,시드니호산나교회 Sydney Hosanna Church,christian_place_of_worship,0.6691678166389465,name:hangul,"Dundas Community Room, 21 Sturt St",Sydney,2117,+61430509105,https://sites.google.com/view/sydneyhosannachurch,151.04336415,-33.79597201
+,새길교회,christian_place_of_worship,0.9584863185882568,name:hangul,16 Shortland St,Sydney,2117,+61430475773,,151.04349,-33.79457
+,AKTC Australia Korean Theatre Company,theatre_venue,0.7456307411193848,name:token,38 Terry Rd,Sydney,2122,+61414228660,,151.0699,-33.79011
+,Seki,korean_restaurant,0.8662412166595459,category:korean,39 Bartlett St,Sydney,2115,+61493033897,,151.05582597,-33.80475565
+,시드니 비전 교회,christian_place_of_worship,0.5364588499069214,name:hangul,621 Victoria Rd,Sydney,2115,,,151.06263935566,-33.812149717122
+,Sydney full grace gospel church 시드니 순복음 은혜 교회,christian_place_of_worship,0.6827197074890137,name:hangul,37 Dickson Ave,Sydney,2114,+61403670243,http://www.aog.org.au,151.08275562,-33.8056067
+,Korea Painting,contractor,0.77,name:token,14A Anthony Rd,West Ryde,2114,0450 607 500,http://www.koreapainting.com.au,151.08775552804346,-33.8053857333664
+,Korean Lifeline,party_and_event_planning,0.08869383484125137,name:token,3/5 Anthony Rd,Sydney,2114,+61298585900,http://koreanlifeline.org/,151.08867352,-33.80572377
+,시드니 풍성한 알곡교회 Sydney Great Harvest Church,christian_place_of_worship,0.8936372995376587,name:hangul,937 Victoria Rd,Sydney,2114,+61426283040,,151.09217913,-33.80833274
+,Wanted Chicken,korean_restaurant,0.9472081661224365,category:korean,18 W Parade,Sydney,2114,+61434552633,https://fushionerea.shop/,151.08916646,-33.80670352
+,Chicken V West Ryde,korean_restaurant,0.9976093852519989,category:korean,Shop 3/2 Walkley Pathway,Sydney,2114,+61298078740,http://chickenv.com.au/,151.08892694,-33.80696787
+,씽쏭해어 와 뷰티 / Sing Song Total Beauty - West Ryde,beauty_supply_store,0.8747611045837402,name:hangul,14 West Pde,Sydney,2114,+61416242441,http://www.singsong.com.au/,151.0887,-33.80732
+,씽쏭해어 와 뷰티 / Sing Song Total Beauty - West Ryde,beauty_supply_store,0.8757308125495911,name:hangul,2/14 West parade West ryde,Sydney,2114,+61416242441,http://www.singsong.com.au/,151.0887,-33.80732
+,마포차 Mapocha,korean_restaurant,0.30978289246559143,category:korean,997 Victoria Rd,Sydney,2114,+61400282939,,151.08805751,-33.80734651
+,Mapo BBQ West Ryde,korean_restaurant,0.9802526235580444,category:korean,999A Victoria Rd,Sydney,2114,+61298072278,,151.0879456,-33.80747515
+,Brown Chicken West Ryde,korean_restaurant,0.3135419189929962,category:korean,Shop1/991-993 Victoria Rd,Sydney,2114,+61434808311,,151.08816482,-33.80749478
+,Teambros Personal Training Team - (팀브로스),gym,0.9518629133701324,name:hangul,1011 Victoria Road,West Ryde,2114,0437965960,http://www.teambrosfitness.com.au/,151.0875225,-33.8072357
+,Seoul Mart West Ryde,grocery_store,0.9310013651847839,name:token,1 Chatham Rd,Sydney,2114,+61422626768,https://linktr.ee/seoulmart,151.087301,-33.80681243
+,Sinchon West Ryde,korean_restaurant,0.9796445560455322,category:korean,17 Graf Ave,Sydney,2114,+61294133039,http://sinchon.edan.io,151.0878654,-33.80718881
+,Korean Fried Chicken,korean_restaurant,0.7225645184516907,category:korean,Graf Ave,Sydney,2114,,,151.08799197,-33.80715781
+,Maroo Korean Restaurant,korean_restaurant,0.693273663520813,category:korean,3 Chatham Rd,Sydney,2114,+61298086864,https://marookfoods.com.au/,151.08729917,-33.80660896
+,Stoneage BBQ West Ryde,korean_restaurant,0.9787484407424927,category:korean,1A Chatham Rd,Sydney,2114,+61493645627,,151.08726156,-33.80670461
+,Gyeong Bok Gung Korean BBQ,korean_restaurant,0.9924437403678894,category:korean,1031 Victoria Rd,Sydney,2114,+61282832041,,151.08629328044,-33.807147112435
+,Halmae Gomtang West Ryde,korean_restaurant,0.8477755188941956,category:korean,1006 Victoria Rd,Sydney,2114,+61298599609,,151.08645392,-33.80751342
+,The Miral Australia Inc (호주밀알),non_governmental_association,0.28327539563179016,name:hangul,2 Station St,Sydney,2114,+61452200979,http://www.ausmiral.org/,151.08714353,-33.80771778
+,히스교회,christian_place_of_worship,0.624457836151123,name:hangul,1059-1063 Victoria Rd,Sydney,2114,+61430043042,https://www.youtube.com/channel/UCWla2xh7VqeS0ExeY6TAeUA?view_as=subscriber,151.08570197291,-33.80942621377
+,Grilled Korean BBQ Sydney 석쇠 시드니,korean_restaurant,0.8847008943557739,category:korean,16 Church St,Sydney,2112,+61272262030,,151.10555171751065,-33.81402068974944
+,Smokkim Top Ryde Pty,korean_restaurant,0.5937284231185913,category:korean,Buffalo Rd,Sydney,2112,,,151.10635369140863,-33.811679554831166
+,Smokkim Top Ryde Pty,korean_restaurant,0.5937284231185913,category:korean,Buffalo Rd,Sydney,2112,,,151.1151,-33.81268
+,드림랜드,day_care_preschool,0.5307402014732361,name:hangul,44 Vimiera Rd,Sydney,2122,+61433100909,http://cafe.naver.com/44dreamland,151.09051,-33.7825
+,Korean Today,print_media,0.83532281935215,name:token,Suite 8 B/38 Rowe St,Sydney,2122,+61298041774,http://www.koreantoday.com.au/,151.08530899,-33.79090989
+,모음교회,christian_place_of_worship,0.9237809181213379,name:hangul,38 Rowe St,Sydney,2122,+61402699207,https://www.youtube.com/@mowmchurch,151.08537,-33.79101
+,Kmall Bunsik,korean_restaurant,0.6316590905189514,category:korean,576 Blaxland Rd,Sydney,2122,+61291884989,http://kmall09.com.au/,151.08599785,-33.79018694
+,아이케이크 icake-Beanpaste Flower&Ricecake,cupcake_shop,0.42221778631210327,name:hangul,1 Glen St,Sydney,2122,+61430778888,http://www.i-cake.com.au/,151.08542,-33.79037
+,uni line home deco 좋은이불 유니라인 이스트우드,home_goods_store,0.9415794014930725,name:hangul,Shop2/33-43 Rowe St,Sydney,2122,+61298040525,http://unilinehomedeco.com.au/,151.08509976,-33.79066678
+,Dae Jang Kum Eastwood,korean_restaurant,0.9972988885641098,category:korean,29 Rowe St,Sydney,2122,+61298583411,http://djkeastwood.com.au/,151.08502081,-33.79054603
+,WAYMARK Visa Consulting 웨이마크 이민 유학,employment_agency,0.77,name:hangul,43 Rowe St Suite 403,Eastwood,2122,(02) 9283 1533,http://waymarkvisa.com.au,151.08499,-33.79046
+,해피요가,sports_and_recreation,0.3132992684841156,name:hangul,33-43 Rowe St,Sydney,2122,+61405440748,,151.08499,-33.79046
+,Shinhwa Wedding - 신화 웨딩,professional_service,0.3524593710899353,name:hangul,33-43 Rowe St,Sydney,2122,+61280656434,http://www.kimstudiosydney.com.au/,151.08497,-33.790458
+,Kyochon,korean_restaurant,0.372022420167923,category:korean,29 Rowe St,Sydney,2122,+61298583411,,151.08527,-33.790281
+,Chicken V Eastwood & Busanjip,korean_restaurant,0.9982020419836044,category:korean,51 Rowe St,Sydney,2122,+61298040789,http://www.chickenv.com.au,151.0846032,-33.79054008
+,시드니 정토회,social_or_community_service,0.7074125409126282,name:hangul,29 Railway Pde,Sydney,2122,+61450556280,http://www.jungto.org/,151.08307,-33.78995
+,Spine Plus Chiropractic 튼튼척추병원,chiropractic,0.6202698945999146,name:hangul,25 Railway Pde,Sydney,2122,+61298749763,,151.08312,-33.79024
+,Yeodongsik,korean_restaurant,0.5988491177558899,category:korean,15 Railway Parade,Sydney,2122,+61478969140,,151.08299449,-33.79046807
+,Sea Garden Korean Restaurant,korean_restaurant,0.77,category:korean,2 Railway Pde,,2122,(02) 9874 1088,http://www.ricehouse.com.au,151.08260109031178,-33.790816699923795
+,Dr Sam Oh & Associates 오상원치과 Eastwood,dental_clinic,0.51283198595047,name:hangul,Unit 1/35 Railway Parade,Sydney,2122,+61298041054,,151.08309987,-33.78965321
+,Mansun Pocha,korean_restaurant,0.3176282048225403,category:korean,4 Hillview Rd,Sydney,2122,+61421125546,https://www.instagram.com/mansun_pocha_au/,151.08136,-33.79084
+,BBQ Seoul house,barbecue_restaurant,0.2636259198188782,name:token,6 Hillview Rd,Sydney,2122,,,151.08121,-33.79063
+,호주 주간 생활정보,b2b_advertising_and_marketing_service,0.3788895308971405,name:hangul,"Eastwood Family Butchery, 152-160 Rowe St",Sydney,2122,+61298585877,http://www.hojuro.com.au/,151.08113552631,-33.791696416338
+,Unlimited Korean BBQ Buffet Eastwood - 무한고기뷔페,buffet_restaurant,0.9932907819747925,name:hangul,1 Trelawney St,Sydney,2122,+61415553783,http://www.ButchersBuffet.com.au/,151.07968226,-33.79240492
+,Butchers Buffet Eastwood,korean_restaurant,0.77,category:korean,1 Trelawney St,Sydney,2122,(02) 9071 9943,http://www.butchersbuffet.com.au,151.07968070250433,-33.792392193857914
+,Jeans Chilli Chicken,korean_restaurant,0.9969761908054352,category:korean,115 Rowe St,Sydney,2122,+61298048340,https://www.eastwoodhotel.com.au/jeans-chilli-chicken-restaurant.html,151.08324685,-33.79105226
+,K-Pop Hair,hair_salon,0.45665252208709717,name:token,114 Rowe St,Sydney,2122,+61298747447,,151.08325006,-33.79125775
+,Minto Korean Restaurant,korean_restaurant,0.5689482092857361,category:korean,124 Rowe St,Sydney,2122,+61298743424,,151.083192,-33.791271
+,Arisana Korean Restaurant,korean_restaurant,0.77,category:korean,108 Rowe St,,2122,(02) 9858 2300,,151.08344001339952,-33.79122743610821
+,Park Bong Sook Restaurant Eastwood,korean_restaurant,0.8438188773393631,category:korean,108 Rowe St,Sydney,2122,+61285929312,https://www.parkbongsook.com.au/,151.08346044,-33.79121626
+,Eastfield Eatery,korean_restaurant,0.5887174010276794,category:korean,104 Rowe St,Sydney,2122,+61298582144,,151.08376,-33.79134
+,Unkles Korean Restaurant,restaurant,0.9335998296737671,name:token,117 Rowe St,Sydney,,+61298585538,,151.0842227739977,-33.79094968944686
+,The Mandoo Dining,korean_restaurant,0.7972634434700012,category:korean,"ALDI, 62-80 Rowe St",Sydney,2122,+61298744002,,151.084514,-33.791037
+,고기마을 Meatworld - 시드니 정육,butcher_shop,0.9429301023483276,name:hangul,62-80 Rowe St,Sydney,2122,+61298585321,https://www.ausmeatworld.com/,151.08463,-33.79102
+,Jung Won Eastwood,korean_restaurant,0.5117781758308411,category:korean,62 Rowe St,Sydney,2122,+61433770671,,151.08464299,-33.79111435
+,시드니우물교회,religious_organization,0.9790902137756348,name:hangul,29 Clanalpine St,Sydney,2122,,https://stphils.org.au/ko/services/korean,151.07824,-33.79428
+,강호동 678,korean_restaurant,0.7475714087486267,category:korean,14 Glen St,Sydney,2122,,,151.07892066918106,-33.79086612713918
+,Catholic Healthcare CALD (Korean) Daytime Care Centre,health_and_wellness_club,0.85,name:token,"Shaftesbury Road, Eastwood Community Hall",Eastwood,2122,1800225474,https://www.catholichealthcare.com.au/home-care-services-overview/,151.0772385,-33.7917326
+,Seocho-dong Eastwood,korean_restaurant,0.9926584362983704,category:korean,Shop8/1-5 Glen St,Sydney,2122,+61432717842,http://seochodong.com.au/,151.0793175,-33.79031574
+,Yori Korean BBQ,korean_restaurant,0.9729856848716736,category:korean,41 Beecroft Rd,Sydney,2121,+61294151836,https://yorikoreanbbq.com.au/,151.08188566,-33.77352797
+,Galbi House,korean_restaurant,0.9936561584472656,category:korean,10 Bridge St,Sydney,2121,+61298685992,https://www.instagram.com/galbihouse_epping?igsh=MTJpY3hkMmRrNzdzMg%3D%3D,151.08198787,-33.77417466
+,Epping Korean BBQ,korean_restaurant,0.77,category:korean,10 Bridge St,Epping,2121,(02) 9868 5992,,151.08198908445914,-33.77426004777611
+,MatSarang Epping,korean_restaurant,0.9137868285179138,category:korean,6 Bridge St,Sydney,2121,+61280686008,https://www.instagram.com/matsarang1/,151.08214488,-33.77423446
+,식샤를합시다 -let's it,restaurant,0.5431272983551025,name:hangul,74 Rawson St,Sydney,2121,+61289593841,,151.08081,-33.77188
+,BBQ Korean Restaurant,asian_restaurant,0.9688472747802734,name:token,53-59 Rawson St,Sydney,2121,+61298684300,,151.08048089628753,-33.77161198944302
+,Bcd Tofu House,korean_restaurant,0.9563162326812744,category:korean,74 Rawson St,Sydney,2121,+61298684300,,151.08086009,-33.77160791
+,맥쿼리 한인 교회 (Macquarie Korean Baptist Church),baptist_place_of_worship,0.7585803866386414,name:hangul,5 Saunders Cl,Sydney,2113,+61414337091,,151.11396393,-33.77880441
+,Bap Korean Cuisine,korean_restaurant,0.8077574372291565,category:korean,L04/16 Wally's Walk,Sydney,2113,+61298051879,,151.11364747,-33.77421873
+,Sydney Christian Brethren Church - 시드니 그리스도인 형제교회,christian_place_of_worship,0.6857466697692871,name:hangul,1A Trafalgar Pl,Sydney,2122,+61413319900,,151.10787562411,-33.767918312632
+,시드니 갈보리 교회 - Sydney Calvary Korean Church,christian_place_of_worship,0.6132932901382446,name:hangul,295 Malton Rd,Sydney,2121,+61298692381,,151.0957077,-33.758979
+,Lindfield Korean School,education,0.77,name:token,104 Maxwell St,Turramurra,2074,0423 630 789,https://lindfieldkschool.org.au,151.11358,-33.75666
+,시드니 에핑 늘푸른교회,christian_place_of_worship,0.37460359930992126,name:hangul,30 Downing St,Sydney,2121,+61402705815,http://evergreenau.com/,151.06665942,-33.77084228
+, Homart Korea-호마트 코리아,health_food_store,0.40465593338012695,name:hangul, G fl. Carlingford Court Corner of Pennant Hills & Carlingford Rd. Carlingford NSW 2118,Sydney,2118,+61425292398,http://homartkorea.com.au/,151.05233682,-33.77670788
+,아이케이크 icake-Beanpaste Flower&Ricecake,cupcake_shop,0.42221778631210327,name:hangul,1 Glen St,Sydney,2122,+61430778888,http://www.i-cake.com.au/,151.05171,-33.77842
+,Se Jong Korean BBQ Restaurant,korean_restaurant,0.77,category:korean,821 Pennant Hills Rd,Sydney,2118,(02) 9872 8868,,151.0521710194457,-33.777809409890935
+,World Taekwondo Changmookwan Federation - 세게태권도창무관연맹,martial_arts_club,0.4406101703643799,name:hangul,9 Wellington Rd,Sydney,2070,+61413631455,http://cmktkd.com,151.187154,-33.767793
+,Korean Community Uniting Church,christian_place_of_worship,0.46875011920928955,name:token,33 Tryon Rd,Sydney,2070,,,151.17271409,-33.77433805
+,LKS 한글사랑 도서관 Hangeul Sarang Library,library,0.6551703810691833,name:hangul,454 Pacific Hwy,Sydney,2070,,http://www.lindfieldkschool.org.au/,151.16403,-33.77322
+,Korean Cleaners,cleaning_service,0.77,name:token,767 Pacific Hwy Level 4,Gordon,2072,0450 505 001,http://www.koreancleaners.com.au,151.15287592420876,-33.75499686878185
+,Queto,korean_restaurant,0.901637852191925,category:korean,Shp 403A,Sydney,2113,+61298707974,,151.119523,-33.776732
+,Kong's BBQ,korean_restaurant,0.9365471601486206,category:korean,84 Waterloo Rd,Sydney,2113,+61422337700,http://www.kongsbbq.com/,151.12035775,-33.77883449
+,Nene Chicken Macquarie,korean_restaurant,0.9974677157402039,category:korean,"Macquarie Shopping Centre, Shop 3445, Herring Rd &, Waterloo Rd",Sydney,2113,+61289642698,http://nenechicken.com.au/,151.12094624,-33.77730776
+,SSAL 1987,korean_restaurant,0.9307990670204163,category:korean,5a Delhi Rd,Sydney,2113,+61494186117,,151.1373289,-33.79475983
+,Seoul BAB,korean_restaurant,0.9127459526062012,category:korean,5A Delhi Rd,Sydney,2113,+494186117,,151.13781,-33.79501
+,시드니 굿피플 교회,christian_place_of_worship,0.842435359954834,name:hangul,76 Coxs Rd,Sydney,2113,+61420981477,http://sunminchurch.com/,151.13349457,-33.80362231
+,Kasina Korean Eatery,korean_restaurant,0.9974988079071045,category:korean,79-83 Longueville Rd,Sydney,2066,+61280413307,http://www.kasinakoreaneatery.com/,151.1699785,-33.81342492
+,빅호주여행,travel_service,0.4475958049297333,name:hangul,845 Pacific Hwy,Sydney,2067,,http://www.bighoju.com/,151.179675,-33.793924
+,Tori,korean_restaurant,0.46059659123420715,category:korean,436 Victoria Ave,Sydney,2067,+61280570350,http://www.chatswoodinterchange.com/,151.180701,-33.79625
+,Sunday Seoul,korean_restaurant,0.975673998594284,category:korean,7 Help St,Sydney,2067,+61294101457,http://www.sundayseoul.com.au/,151.180018,-33.795439
+,Arisoo Korean Bath House,spa,0.9836190891265869,name:token,7 Help St,Sydney,2067,+61298848333,http://www.queensauna.com.au,151.179836,-33.795907
+,Myeongdong Chatswood,korean_restaurant,0.8423588547110558,category:korean,1/5 Railway St,Sydney,2067,+61294154369,https://weborder.qonus.com.au:31001/home/order/takeaway?enc=y&action=takeaway&storeCode=S1RDbGh6a0J1cXRpN0NGaTNIUTVaNjl4bWZOVHEzeFZIdmZUbGY2QlRvVT0=&qrfrom=undefined,151.18051254,-33.79630441
+,Seocho-dong Chatswood,korean_restaurant,0.9982056611776352,category:korean,Shop2/465 Victoria Ave,Sydney,2067,+61489140527,http://seochodong.com.au/,151.17985151,-33.79658122
+,The Bulgogi,korean_restaurant,0.77,category:korean,380 Victoria Ave,Chatswood,2067,(02) 9410 3900,http://www.thebulgogi.com,151.18311536164,-33.79625911267319
+,Dae Jang Kum,korean_restaurant,0.8972874242067337,category:korean,370 Victoria Ave,Sydney,2067,+61294194747,http://www.daejangkum.com.au/,151.183549,-33.79624
+,Prime Total Solution 프라임,legal_service,0.22811688482761383,name:hangul,Ste 101/13 Spring St,Sydney,2067,+61481780091,,151.18482221,-33.79639884
+,Onedang Gamjatang 원당감자탕,korean_restaurant,0.7051284909248352,category:korean,300A Victoria Ave,Sydney,2067,+61423316648,,151.18591812,-33.7955878
+,POTZI,korean_restaurant,0.8571230173110962,category:korean,300A Victoria Ave,Sydney,2067,+61294153670,http://www.instagram.com/POTZI_Chatswood,151.185995,-33.795679
+,NoGoSan Korean BBQ,korean_restaurant,0.9839495187997818,category:korean,86 Archer St,Sydney,2067,+61294100800,http://au.localize123.com/nogosan-korean-bbq-in-chatswood-nsw,151.18498695,-33.79518387
+,The Yook Chatswood,korean_restaurant,0.6820099353790283,category:korean,"Chatswood Place, 260 Victoria Ave",Sydney,2067,+61402135326,,151.18800446,-33.79536354
+,Seoulmate,korean_restaurant,0.77,category:korean,224 Sydney St,Sydney,2067,(02) 9007 7743,https://www.seoulmatesyd.com,151.19549834855388,-33.793175213067784
+,Korean Charcoal BBQ Buffet,buffet_restaurant,0.9553102254867554,name:token,Unit 2/61-65 Albert Ave,Sydney,2067,+61401963101,,151.18266834,-33.79790566
+,Korean BBQ Chatswood,korean_restaurant,0.77,category:korean,61-65 Albert Ave,Chatswood,,(02) 9410 1250,http://koreanbbqbuffet.blogspot.com.au,151.18256850522258,-33.79796983278152
+,Myung Jang Chatswood,korean_restaurant,0.8743546009063721,category:korean,"District Dining, Shop 79A, Level 3/436 Victoria Ave",Sydney,2067,+61449863299,,151.1810053,-33.79750655
+,White Table,korean_restaurant,0.9348224967718124,category:korean,shop 3/18 Thomas St,Sydney,2067,+61450565670,,151.1797972,-33.79842359
+,K-Pop Star Australia,dance_studio,0.8880773431062698,name:token,765 Pacific Hwy,Sydney,2067,+61416211891,https://www.instagram.com/kpopstar_au/,151.17896614,-33.7990894
+,Yang San Park,korean_restaurant,0.9977020585536956,category:korean,Shop21/1 Dixon St,Sydney,2000,+61439945245,http://yangsanpark.cafeleader.com,151.2038036,-33.87722324
+,셰프크루 호주 블루마운틴&윌리암블루 호텔경영,college_university,0.28146257996559143,name:hangul,377 Sussex St,Sydney,2000,+61450042210,http://blog.chefcrew.co.kr/,151.20441,-33.87721
+,From Seoul Syd - Korean Fashion store,,0.6658691763877869,name:token,392 Sussex St,Sydney,2000,,,151.20485,-33.87738
+,Seoul-Ria,korean_restaurant,0.77,category:korean,2/605 George St,Sydney,2000,(02) 9269 0222,http://seoulria.com.au,151.20541225111742,-33.8776234896806
+,richy&co Korean fashion designer brand,,0.4935261309146881,name:token,601 George St,Sydney,2000,,,151.20548,-33.87746
+,호주유학 - 정에듀케이션,,0.3927902579307556,name:hangul,"World Square, 680 George St",Sydney,2000,+61283111700,,151.2063,-33.87743
+,Wawa,korean_restaurant,0.77,category:korean,378 Pitt St,Sydney,,(02) 9264 3362,http://www.alphawest.com.au,151.20779250323943,-33.87763450914699
+,디투케이메이트 호주 학생비자 상담,educational_service,0.4766162037849426,name:hangul,"Commonwealth Bank, 201 Sussex St",Sydney,2000,+61290520203,http://www.d2kmate.com/,151.20786,-33.87751
+,한겨레이민,immigration_law,0.6478116512298584,name:hangul,87-89 Liverpool St,Sydney,2000,+61438917639,http://www.auskormigration.com/,151.20669,-33.87727
+,Gami Chicken and Beer,korean_restaurant,0.9979540312290192,category:korean,Shop 10.29/644 George St,Sydney,2000,+61292660002,https://www.gamichicken.com.au/restaurant/world-square/,151.20673259,-33.87669839
+,시드니 ETOMO,flowers_and_gifts_store,0.7100881338119507,name:hangul,350 Pitt St,Sydney,2000,+61292643325,http://www.etomo.com.au/,151.2079364,-33.8769046
+,Arisun Restaurant,korean_restaurant,0.9307988578081131,category:korean,98 Liverpool St,Sydney,2000,,,151.207113,-33.87661
+,The Bulgogi,barbecue_restaurant,0.9655,name:token,116 Liverpool Street,Sydney,2000,0292675155,http://www.thebulgogi.com.au/,151.2073873,-33.8765745
+,Working Holiday Korea,travel_service,0.9086110323667527,name:token,Ste 201 Level 2 379/383 Pitt St,Sydney,2000,+61292838000,http://www.atossc.com.au/,151.20758988,-33.87645213
+,경희 유학원,educational_service,0.4547818601131439,name:hangul,365-377 Kent St,Sydney,2000,+61416057730,http://www.khuhak.com/,151.20800971985,-33.87634817555
+,Mamas New York Style,korean_restaurant,0.8816917619109154,category:korean,1/338 Pitt St,Sydney,2000,+61431160701,,151.20791197,-33.87636869
+,한호식품,grocery_store,0.5218557119369507,name:hangul,379-383 Pitt St,Sydney,2000,+61282836173,,151.20764,-33.87638
+,참 회계법인 Charm Accountants,trusts,0.6320405602455139,name:hangul,379 Pitt St,Sydney,2000,+61449778024,http://www.charmacc.com/,151.20764044,-33.87637931
+,Gisasikdang_sydney,korean_restaurant,0.6439295411109924,category:korean,379-383 Pitt St,Sydney,2000,+61414799007,,151.20764,-33.87638
+,참새방앗간,restaurant,0.46332845091819763,name:hangul,116 Liverpool St,Sydney,2000,+61292647109,,151.20743,-33.87636
+,Dookki Australia,korean_restaurant,0.9515760540962219,category:korean,Level1/116 - 120 Liverpool St,Sydney,2000,+61292675155,http://dookkiaus.com.au/,151.2073431,-33.8764135
+,The Sparrow's Mill,korean_restaurant,0.9906834542751313,category:korean,3/116-120 Liverpool St,Sydney,2000,+61424481476,http://www.sparrowsmill.com.au,151.20744389,-33.87645441
+,Jang Ta Bal,korean_restaurant,0.77,category:korean,73-75 Liverpool St,Sydney,2000,0424 547 375,http://jangtabal.com.au,151.20552357634082,-33.87654611804205
+,678 Korean BBQ - Australia,korean_restaurant,0.992560732960701,category:korean,1 Dixon St,Sydney,2000,+61292610888,http://678bbq.com.au/,151.20366,-33.87698
+,Kanghodong Bbq,korean_restaurant,0.8796308040618896,category:korean,Liverpool St,Sydney,,,,151.203514,-33.876578
+,Park Bong Sook CBD 박봉숙 시티,restaurant,0.8082745671272278,name:hangul,68 Liverpool St,Sydney,2000,+61481997758,https://www.instagram.com/pbs_city/,151.20415,-33.87592
+,Alice Seoul Beauty Services ,spa,0.2776465117931366,name:token,541 Kent St,Sydney,2000,,,151.20519,-33.87574
+,JIHO Hanbang Samgyetang (지호 한방 삼계탕 시드니),korean_restaurant,0.8229507207870483,category:korean,76-78 Liverpool St,Sydney,2000,+61410333155,,151.20496921,-33.87599011
+,빽가네,korean_restaurant,0.9747776389122009,category:korean,545 Kent St. Sydney NSW 2000,Sydney,2000,+61430577789,,151.2053202,-33.8759542
+,Chicken V Sydney,korean_restaurant,0.9984833383560181,category:korean,345b Sussex St,Sydney,2000,+61292675401,,151.20443031,-33.87627739
+,Iciban Tepanyaki,korean_restaurant,0.77,category:korean,,Sydney,,0410 636 908,https://ichibanteppanyaki.com.au,151.2043004798177,-33.876328750476866
+,DonDon,korean_restaurant,0.9970908534526824,category:korean,636-638 George St,Sydney,2000,+61292610023,https://drive.google.com/file/d/109TO9XVKYdrZYAfHNrFod6uoJaDrEprv/view?usp=drive_link,151.206593,-33.876169
+,Blue Ketchup,korean_restaurant,0.30460286140441895,category:korean,636-638 George St,Sydney,2000,+61292649293,,151.206511,-33.876183
+,Shinara,korean_restaurant,0.77,category:korean,338 Pitt St,Sydney,2000,(02) 9262 9218,http://linktr.ee,151.20806443103268,-33.87634186564293
+,샤크피시방,fast_food_restaurant,0.5415859818458557,name:hangul,"Guild House, 363 Pitt St",Sydney,2000,+61292641607,,151.20758615789128,-33.87612424645434
+,Sydney Madang Korean BBQ Restaurant,korean_restaurant,0.9889301055669785,category:korean,371A Pitt St,Sydney,2000,+61292647010,http://au.localize123.com/sydney-madang-korean-bbq-restaurant-in-sydney-nsw,151.20746679,-33.87602165
+,Myung Jang and Obaltan Restaurant,korean_restaurant,0.9941622400283814,category:korean,363A Pitt St,Sydney,2000,+61292690299,http://www.obaltanandmyungjang.com/,151.20773635,-33.87585339
+,Wanjee Korean Restaurant,korean_restaurant,0.77,category:korean,1-7 Albion Pl.,Sydney,2000,(02) 8084 9041,http://www.danjee.com.au,151.20580486343738,-33.87562506128023
+,Jumak,korean_restaurant,0.9765154200792313,category:korean,8 Central St,Sydney,2000,+61292673588,http://cityjumak.com.au/,151.20676,-33.8756
+,Uptown Korea,korean_restaurant,0.9982647321820259,category:korean,Shop 1/614 George St,Sydney,2000,+61272452991,https://uptownkorea.com.au/,151.20690142,-33.87556967
+,Salt and Sugar,korean_restaurant,0.8609817624092102,category:korean,188 Day St,Sydney,2000,+61415322403,,151.203815,-33.875269
+,Seoul Garden BBQ Sydney,restaurant,0.3087909519672394,name:token,"The Galeries, 500 George St",Sydney,2000,+61298887999,https://inline.app/booking/-NhZcW4GGeYWzjf-fCHe:inline-live-3/-P13PE7Dj5_b-yMimA6F,151.20742,-33.87268
+,호주투어 (Hojutour),,0.85,name:hangul,"Suite2B, Level6, 303 Pitt Street",Sydney,2000,0292547100,http://www.hojutour.com.au/,151.2081044,-33.873464
+,Nugu,korean_restaurant,0.9911554026603698,category:korean,"Regent Place, Lot 26 , Level 10/501 George St",Sydney,2000,+61292675918,http://nugu.com.au/,151.20616255,-33.8744754
+,유학스테이션 - 호주전문유학원ㅣ호주대학전문ㅣ호주영주권ㅣ이민유학전문ㅣ어학연수ㅣ워킹홀리데이,educational_service,0.7523965239524841,name:hangul,280 Pitt St,Sydney,2000,+61280686869,http://www.uhakstation.com/,151.20835,-33.87417
+,Sydney pmu Cherryble Korean artist,spa,0.2758389413356781,name:token,"Building C, 250 Pitt St",Sydney,2000,+61421425018,http://www.instagram.com/cherryble_arb,151.20847,-33.87267
+,Korean BBQ 1st,korean_restaurant,0.77,category:korean,75 Stanley St.,Darlinghurst,2010,(02) 8937 0246,http://www.koreanbbq1st.com.au,151.21530439389585,-33.87592145821279
+,Cinema-K - Korean Film Night,movie_theater,0.344448983669281,name:token,255 Elizabeth St,Sydney,2000,+61282673467,http://www.koreanculture.org.au/portfolio-posts/cinema-k/,151.209238,-33.875697
+,Korean Cultural Centre AU,cultural_center,0.9751839542388916,name:token,Ground Floor/255 Elizabeth St,Sydney,2000,+61282673400,https://au.korean-culture.org/,151.20940404,-33.8757309
+,MAMAS sydney,korean_restaurant,0.8505170345306396,category:korean,338 Pitt St,Sydney,2000,+61431160701,,151.20825,-33.87633
+,시드니면세점,shopping,0.9466223120689392,name:hangul,136 Liverpool St,Sydney,2000,+61452644765,https://sydneydutyfree.com.au/,151.20911,-33.87648
+,시드니한국교육원 Sydney Korean Education Centre,government_office,0.8510153293609619,name:hangul,287 Elizabeth St,Sydney,2000,+61292618033,http://www.auskec.kr/,151.20911,-33.87648
+,시드니 연애인,korean_restaurant,0.5609809160232544,category:korean,level 1/249 Castlereagh St,Sydney,2000,+61416351638,,151.20862,-33.87644
+,Kao Kao Korean Restaurant,korean_restaurant,0.9934178513288497,category:korean,350 Pitt St,Sydney,2000,+61292678341,http://www.kaokaorestaurant.com,151.208244,-33.87687
+,DomaPottsPoint,korean_restaurant,0.29767122864723206,category:korean,33 Bayswater Rd,Sydney,2011,+61293610615,http://domapottspoint.com.au/,151.22373510566717,-33.875109097355775
+,Seoul Tonic,food_and_beverage_store,0.38596051931381226,name:token,117 Macleay St,Sydney,2011,,http://www.seoultonic.com/,151.22465,-33.87249
+,Kim Restaurant,korean_restaurant,0.77,category:korean,7/24-30 Springfield Ave.,Potts Point,2011,(02) 9357 4578,http://www.kim-restaurant.com.au,151.22402753390898,-33.87287194594654
+,Ko-V Korean Street Food,korean_restaurant,0.21799121797084808,category:korean,25 Martin Pl,Sydney,2000,,,151.20933831,-33.86812993
+,Seoul Skin Clinic,health_care,0.8254504203796387,name:token,61-63 Market St,Sydney,2000,+61490532832,http://seoulskin.com.au/,151.20859,-33.87092
+,호주 뉴질랜드 Ip 통신원,ip_and_internet_law,0.35354965925216675,name:hangul,53 Walker St,Sydney,2016,+61413654068,http://www.laminarip.com/,151.20995,-33.8698
+,Kung Fu Kitchen,korean_restaurant,0.8984584212303162,category:korean,"Westfield Sydney, 100 Market St",Sydney,2000,+61282469060,http://www.kungfukitchen.com.au/,151.20891878,-33.87003766
+,KICKSTW Korea & Carlyn Pop-Up Store,pop_up_store,0.3392750322818756,name:token,"WESTFIELD, SHOP 1010/188 Pitt St",Sydney,2000,+61283994800,http://www.viparo.com.au/,151.20894266,-33.87001652
+,글로벌메이트 / Global Mate,educational_service,0.85,name:hangul,Level 5 / 100 Market st,Sydney,2000,0420616358,http://www.toglobalmate.com/,151.2050291,-33.8708053
+,Gami Chicken & Beer,korean_restaurant,0.9982316261529922,category:korean,178 Clarence St,Sydney,2000,+61292623000,https://gamichicken.com.au/,151.2055849,-33.8705202
+,Consulate General of the Republic of Korea,embassy,0.9764512753486634,name:token,Level 10/44 Market St,Sydney,2000,+61292100200,http://overseas.mofa.go.kr/au-sydney-ko/index.do,151.20601276,-33.87048155
+,시드니총영사관 재외선거,government_office,0.5319885611534119,name:hangul,44 Market St,Sydney,2000,,http://ova.nec.go.kr/,151.20586,-33.8705
+,Gami Chicken,korean_restaurant,0.7243531942367554,category:korean,168 Clarence St,Sydney,2000,+61292623000,https://www.gamichicken.com.au/restaurant/the-market/,151.20582,-33.87168
+,Lee's Malaysian,malaysian_restaurant,0.968237578868866,name:korean-surname,201 Sussex St,Sydney,2000,+61280655953,,151.20360553,-33.87201674
+,디투케이메이트 호주 학생비자 상담,educational_service,0.48427948355674744,name:hangul,"Commonwealth Bank, 201 Sussex St",Sydney,2000,+61290520203,http://www.d2kmate.com/,151.20359,-33.87162
+,경희 유학원,educational_service,0.4547818601131439,name:hangul,365-377 Kent St,Sydney,2000,+61416057730,http://www.khuhak.com/,151.20436,-33.86957
+,Korea Tourism Organization Sydney Office,travel_service,0.6173725128173828,name:token,"S1807, Lv18 Australia Square Tower, 264 George St",Sydney,2000,+61292524147,https://english.visitkorea.or.kr/svc/br/KTOSydney,151.20789255,-33.8650152
+,PappaRich,korean_restaurant,0.9437140226364136,category:korean,"Shop 34, Lower Concourse, Brookfield place, 301 George St",Sydney,2000,+61292995825,https://www.papparich.net.au/,151.20716952,-33.86571786
+,Lees Malaysian,malaysian_restaurant,0.7460229396820068,name:korean-surname,1A Hunter St,Sydney,2000,+61292311662,,151.20752,-33.865677
+,Soul Dining,korean_restaurant,0.77,category:korean,50 Carrington St,Sydney,2000,0431 437 059,https://www.souldining.com.au,151.20670265329662,-33.866196091940935
+,Bibbs Kent St,korean_restaurant,0.77,category:korean,12a/275 Kent St,Sydney,2000,,https://bibbs.co,151.203585,-33.86577
+,Korean Airlines,travel_and_transportation,0.77,name:token,"Level 4, 333 George St",Sydney,,(02) 9262 6000,http://koreanair.com,151.20818287396705,-33.86674078788027
+,Funda,korean_restaurant,0.952345073223114,category:korean,"Endeavour House, 50 Pitt St",Sydney,2000,+61272332660,https://fundasydney.com.au/,151.2093131,-33.86332898
+,Kobo Sydney,korean_restaurant,0.9830053448677063,category:korean,4 Loftus Ln,Sydney,2000,+61458332352,http://www.kobo.sydney/,151.2108823657,-33.86300364478
+,Haemil,korean_restaurant,0.43025341629981995,category:korean,1 Macquarie Pl,Sydney,2000,+61292413317,,151.210318,-33.862114
+,Matkim,korean_restaurant,0.9784621900320053,category:korean,shop CQT7/180 George St,Sydney,2000,+61401471248,http://www.matkim.com.au/,151.20815991,-33.86217663
+,Rustic Charm Milsons Point,korean_restaurant,0.9129334688186646,category:korean,102 Alfred St S,Sydney,2061,+61410430129,,151.21091516764216,-33.84473712025134
+,Lees Fortuna Court Chinese Restaurant,chinese_restaurant,0.9972547453641891,name:korean-surname,24-26 Falcon St,Sydney,2065,+61299063838,http://www.leesfortunacourt.com.au,151.20260298,-33.82775612
+,The Jiggle,korean_restaurant,0.77,category:korean,58 Willoughby Rd,Sydney,2065,(02) 8068 2557,http://thejiggle.com.au,151.20065465220006,-33.82578337305854
+,Jingogae Korean Restaurant,korean_restaurant,0.9357807040214539,category:korean,57 Ridge St,Sydney,2060,+61299551484,,151.20769295,-33.83288997
+,K-Town Korean BBQ House,korean_restaurant,0.9981919521093369,category:korean,19 Young St,Sydney,2089,+61280187396,http://www.ktownbbq.com.au/,151.22159429,-33.83034366
+,Korean Samurai,korean_restaurant,0.997950713634491,category:korean,29/332-346 Military Rd,Sydney,2090,+61299532006,http://www.koreansamurai.com.au/,151.2283376,-33.82892443
+,시드니 코너스톤 한인교회 Ckcc,christian_place_of_worship,0.8734305500984192,name:hangul,617 Warringah Rd,Sydney,2087,+61403245673,https://www.youtube.com/channel/UCwOXMZos8dVZ-Q3YEhNvnxA,151.22164,-33.75593
+,Yes Chicken,korean_restaurant,0.980813205242157,category:korean,Shop 1/46-48 E Esplanade,Sydney,2095,+61494092925,https://weborder.qonus.com.au:31001/home/order/takeaway?enc=y&action=takeaway&storeCode=eW1oNWNVb3VDd1hTd0FWdEo5VGEvR3J6Y2JGbXRsS2wwck9nOUtrSEFCdz0%3D&qrfrom=undefined,151.28522011,-33.79942047

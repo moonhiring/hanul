@@ -1,0 +1,375 @@
+﻿id,name,category,confidence,reason,address,locality,postcode,phone,website,lng,lat
+,KPOP TOWN,government_office,0.31308695673942566,name:token,3320 Lamond Ave,Richmond,V7E 1C4,+17788618222,,-123.19420332968,49.138387556402
+,KPOP TOWN,government_office,0.31308695673942566,name:token,3320 Lamond Ave,Richmond,V7E 1C4,+17788618222,,-123.19098,49.14156
+,The Kitchen,korean_restaurant,0.94329833984375,category:korean,2620 Sasamat St,Vancouver,V6R 4A8,+16042615353,https://thekitchen-vancouver.com/,-123.20904323,49.26345792
+,Midam Cafe,korean_restaurant,0.9851598143577576,category:korean,3211 W Broadway,Vancouver,V6K 2H5,+16047140233,,-123.17649853,49.26429866
+,Korean Air,airline,0.7452324628829956,name:token,3211 Grant McConachie Wy,Richmond,V7B 1W2,+16042769535,http://www.adrenalineairlines.ca/,-123.17947276,49.19478585
+,밴쿠버 국제공항,airport,0.6596298813819885,name:hangul,,Richmond,,,http://www.yvr.ca/,-123.183889,49.194722
+,Chinese & Korean Martiail Arts Academy,martial_arts_club,0.7615825533866882,name:token,"167xx,  @7A Avenue",Richmond,V3Z0T3,+17786288816,https://canamchinesekoreanmartialartsacademy.com/,-123.1813749,49.1688621
+,Seorae,korean_restaurant,0.77,category:korean,5668 Hollybridge Way #115,Richmond,V7C,(604) 370-5668,http://jjangbbq.com,-123.1473743164527,49.173564789053785
+,JJang Korean BBQ & Social House,korean_restaurant,0.9929948449134827,category:korean,5668 Hollybridge Way,Richmond,V7C 4N3,+16043705668,http://jjangbbq.com/,-123.14731502591098,49.173718539985714
+,Gangnam Laser Center • Vancouver Korean Beauty Laser Skin Care • 韩国护肤,skin_care_and_makeup,0.5633175373077393,name:token,2211 W 4th Ave,Vancouver,V6K 4S2,+16048340921,https://gangnamlasercenter.com/,-123.15562,49.2683
+,Sandeul Korean Restaurant,korean_restaurant,0.77,category:korean,,Vancouver,V6M 3X1,(604) 428-3388,http://sandeulkorean.ca,-123.155813,49.232248
+,함께라서 행복한 밴쿠버 삼성교회 청년부,christian_place_of_worship,0.508322536945343,name:hangul,1550 W 33rd Ave,Vancouver,V6M 1A7,,http://Samsungchurch.com/,-123.14195,49.24159
+,Korean Trinity Presbyterian Church,christian_place_of_worship,0.9662570357322693,name:token,1550 W 33rd Ave,Vancouver,V6M 1A7,+16042633003,,-123.14116999,49.241723
+,Mumu Kitchen,korean_restaurant,0.9520766139030457,category:korean,1738 Davie St,Vancouver,V6G 0B1,+16044232722,,-123.14098718,49.28658886
+,Royal Seoul House Restaurant,korean_restaurant,0.9988246393203736,category:korean,1215 W Broadway,Vancouver,V6H 1G7,+16047388285,http://www.royalseoulhouse.com,-123.13173552,49.26359914
+,"Big Feet足王(Body & Foot Massage/Acupuncture/按摩/마사지/ਮਾਲਸ਼/Mát Xa) West Broadway, Vancouver",massage_therapy,0.858930230140686,name:hangul,1237 W Broadway,Vancouver,V6H 1G7,+17786580677,http://bigfeet.ca/,-123.132236,49.26368669
+,요지경,community_center,0.6332244277000427,name:hangul,1689 Johnston St,Vancouver,V6H 3R9,+16046899002,http://pizzapzazz.ca/,-123.13512,49.27259
+,Nene Chicken,korean_restaurant,0.9973461985588074,category:korean,1231 Davie St,Vancouver,V6E 1N4,+16043362779,http://www.nenechicken.ca/,-123.13380396,49.28217602
+,Disco Cheetah Davie Village,korean_restaurant,0.9979035133123397,category:korean,1183 Davie St,Vancouver,V6E 1N2,+16044233574,http://discocheetah.com/,-123.13296169,49.28163391
+,JEON,korean_restaurant,0.5808172225952148,category:korean,1160 Davie St #110,Vancouver,V6E 1N1,+12364808080,https://jeonvancouver.com/,-123.13280976,49.28106168
+,Galilee Korean Pres. Church,christian_place_of_worship,0.8,name:token,"1155 Thurlow St., Vancouver, BC, V6E 1X2",,V6E 1X2,,https://www.galileevan.com,-123.130581,49.281056
+,동현집,community_and_government,0.25078344345092773,name:hangul,1327 Barclay St,Vancouver,V6E 1H6,+16043680088,,-123.13010211055,49.287053487432
+,24H JoongWon Restaurant,korean_restaurant,0.978657066822052,category:korean,1329 Robson St,Vancouver,V6E 2B1,+16045588787,,-123.12890748,49.2873676
+,Dae Bak Bon Ga,korean_restaurant,0.9967138129472732,category:korean,1323 Robson St #201,Vancouver,V6E 1C6,+16046839298,https://www.daebakbonga.com/,-123.12888147,49.2873588
+,Chosun Korean BBQ Downtown,korean_restaurant,0.9929458206892013,category:korean,793 Jervis St,Vancouver,V6E 2B1,+16046691222,http://chosunbbq.ca,-123.12837388,49.28734511
+,Miss Korea Bbq,korean_restaurant,0.77,category:korean,793 Jervis St,Vancouver,V6E 2B1,(604) 669-1225,http://www.misskoreabbqyvr.com,-123.12832204569374,49.28739093098965
+,Ole Wings & Tap 올레 윙스 앤 타파스,korean_restaurant,0.77,category:korean,1256 Robson Street,Vancouver,V6E 1C1,(604) 428-3909,http://www.olewingstapas.com,-123.1280837095482,49.28650054101369
+,Banju,korean_restaurant,0.8665577173233032,category:korean,827 Bute St,Vancouver,V6E 3Y4,+16043360164,,-123.12746272,49.28584547
+,Jang Mo Jib,korean_restaurant,0.9892662763595581,category:korean,808 Bute St,Vancouver,V6E 4H6,+16046420712,http://jangmojib.com/,-123.1270258,49.28583181
+,Ericjusuklee,korean_restaurant,0.7616031765937805,category:korean,770 Bute St,Vancouver,V6E 4H6,+16048060945,,-123.12634600105,49.286061338668
+,Kosoo Korean Restaurant Chicken and BBQ,korean_restaurant,0.9992753833532333,category:korean,1128 Robson St,Vancouver,V6E 1B2,+16044288414,http://kcb.kosoorestaurant.com/wp-content/uploads/2019/10/kosoo-checken-bbq-menu.pdf,-123.12600333,49.28491807
+,Joon's Kitchen,korean_restaurant,0.9958886295557022,category:korean,3093 Oak St,Vancouver,V6H 2K8,+12369961635,https://joons-kitchen.ca,-123.12702555,49.25803605
+,[밴쿠버 부동산 전문] MIN KIM PREC* 김민경 부동산,real_estate_agent,0.9236094176769256,name:hangul,3195 Oak Street,Vancouver,V6H 2L2,7785580783,http://minkim.ca/,-123.1275519,49.2572699
+,Ken Lee (이규원) Mortgage Broker Vancouver,information_technology_company,0.85,name:hangul,Suit 600 - 1200 W 73rd Ave,Vancouver,V6P 6G5,6048179508,,-123.1339209,49.2043006
+,Rib & Chicken,korean_restaurant,0.9982398927211762,category:korean,8167 Granville St,Vancouver,V6P 4Z8,+16045592737,http://rnc-online.ca/,-123.14083881,49.21201225
+,리치먼드 주안에 교회,christian_place_of_worship,0.9175108671188354,name:hangul,5900 Minoru Blvd #319,Richmond,V6X 0L9,+17783180106,http://www.juanae.com/,-123.1399242,49.17143983
+,Koryo Korean Barbeque,korean_restaurant,0.77,category:korean,"6551 Number 3 Road, 2460, Richmond Centre",Richmond,V6Y 2B6,(604) 285-8432,http://www.koryo.ca,-123.138448,49.16727
+,Maison De Seoul Hair,beauty_salon,0.8773881196975708,name:token,6211 Buswell St,Richmond,V6Y 4C3,+16043700280,,-123.134128,49.169261
+,Samsoonie Noodle & Rice,korean_restaurant,0.9923319816589355,category:korean,8211 Westminster Hwy,Richmond,V6X 1A7,+17782977798,http://samsoonienoodlerice.placeweb.site,-123.13334744,49.17058356
+,Good Nine Korean BBQ,barbecue_restaurant,0.827498197555542,name:token,8291 Alexandra Rd #105,Richmond,V6X 3P3,+17782222000,,-123.13181308,49.17854606
+,Gangnam Korean BBQ,korean_restaurant,0.77,category:korean,2065-4580 No 3 Rd,Richmond,V6X 4E8,(604) 214-3770,http://www.restaurantwebx.com/GangNamKorean,-123.13414289805479,49.1804021363175
+,Chicko Chicken,korean_restaurant,0.9775558012723923,category:korean,4328 Number 3 Rd #135,Richmond,V6Y 2C2,+16043709057,https://chickochicken.ca,-123.13582993,49.18213436
+,Two Horns Sushi & Korean BBQ House,korean_restaurant,0.9570645689964294,category:korean,4231 Hazelbridge Wy Unit 250,Richmond,V6X 3L7,+16042141488,https://www.twohorns.ca/,-123.1339962,49.18248758
+,Man Ri Sung,korean_restaurant,0.9970238435268403,category:korean,4151 Hazelbridge Way,Richmond,V6X 4J7,+16048219922,http://manrisung.ca/,-123.13386921,49.18395538
+,SURA Korean BBQ,korean_restaurant,0.9986859172582626,category:korean,4151 Hazelbridge Wy,Richmond,V6X 4J7,+16043705540,https://sura-koreanbbq.com/,-123.13360536,49.18324547
+,LaBella Boutique | Clothing | Jewelry | Korean Fashion,clothing_store,0.9799358905404806,name:token,2480-4151 Hazelbridge Way,Richmond,V6X 4J7,7788618368,https://www.labella4.com/,-123.13356,49.184094
+,Giordano Global & Korea Collection,clothing_store,0.8084608316421509,name:token,4151 Hazelbridge Wy Unit 1130,Richmond,V6X 4J7,+16042958172,,-123.13353474,49.18426557
+,Dolpan Seoul BBQ,barbecue_restaurant,0.9655,name:token,3779 Sexsmith Road #1123,Richmond,V6X 1J8,6042739220,https://dolpanbbq.com/,-123.1295513,49.1856367
+,Hanppy Tofu Pot House 韓川,korean_restaurant,0.77,category:korean,#1138-8328 Capstan Way,Richmond,V6X 4B6,(604) 247-1079,http://www.hanppy.com,-123.13026467037577,49.18761288151297
+,Korean Food Vancouver,asian_restaurant,0.5273036956787109,name:token,8351 River Rd,Richmond,V6X 1Y1,+17788582347,,-123.130372,49.194764
+,Mr. Bro Korean Bistro and Izakaya,korean_restaurant,0.9979569923877716,category:korean,8580 Alexandra Rd,Richmond,V6X 4B3,+17788227982,http://mrbro.ca/,-123.12769177,49.17789984
+,bb.q Chicken Richmond,korean_restaurant,0.9966110497713089,category:korean,8631 Alexandra Rd #130,Richmond,V6X 1C3,+16042423533,https://bbqchickenca.com/british-columbia/richmond-3/alexandra-road/,-123.12698361,49.17843213
+,Hanok 韓屋,korean_restaurant,0.77,category:korean,100 - 8400 Alexandra Rd,Richmond,V6X 3L4,(604) 278-3180,http://www.localdealdiscounts.com/hanok/,-123.13035359506324,49.17819987442351
+,Daan Korean Cuisine,korean_restaurant,0.9987469226121902,category:korean,9040 Blundell Rd #125,Richmond,V6Y 2N6,+16043037076,http://daankoreancuisine.com/,-123.12462533,49.15524603
+,Kim's Dental,dental_clinic,0.9801961779594421,name:korean-surname,650 W 41st Ave #318,Vancouver,V5Z 2M9,+16042668861,https://www.flexbook.me/kimsdental/1,-123.11709315,49.23210968
+,"FaBrowLash Canada Ltd. Brow,Lash and Korean Facial Studio",beauty_salon,0.8428468108177185,name:token,550 W Broadway,Vancouver,V5T 0E9,+16048799233,http://fabrowlashcanada.com/,-123.11668219,49.2630843
+,Vancouver Cambie Guest house (밴쿠버캠비민박),hotel,0.5670364499092102,name:hangul,7915 Yukon St,Vancouver,V5X 2Y6,+17788614407,http://www.vancouverminbak.com/,-123.11485714974,49.212993803277
+,Dai Jang Kum,korean_restaurant,0.9976660996675492,category:korean,3088 St Edwards Dr #109,Richmond,V6X 1N4,+16042440088,https://www.daijangkum.com,-123.10970741,49.19168479
+,Vkpc 청년부 친구들,religious_organization,0.396771639585495,name:hangul,205 W 10th Ave,Vancouver,V5Y 1R9,,,-123.10987372098,49.262401918286
+,Vancouver Korean Presbyterian Church,christian_place_of_worship,0.9996072187423706,name:token,205 W 10th Ave,Vancouver,V5Y 1R9,+16048751200,http://www.vkpc.com,-123.10989433,49.26237576
+,Dai Jang Kum Korean BBQ,restaurant,0.7186188697814941,name:token,10300 Bridgeport Rd,Richmond,V6X 2N8,+16042440088,,-123.10565502183,49.19028558952
+,Eleotin Korea,pharmaceutical_company,0.42145025730133057,name:token,4871 Shell Rd,Richmond,V6X 3Z6,+18886694372,http://www.eastwoodcompanies.com/,-123.10311,49.17785
+,Sunmore the Ginseng Factory,korean_restaurant,0.503497302532196,category:korean,3418 Main St,Vancouver,V5V 3N2,+16048763987,,-123.100639,49.2543133
+,KUTLET Korean Restaurant,korean_restaurant,0.6653665900230408,category:korean,4949 Canoe Pass Wy #2208,Delta,V4M 0B2,+16042444578,http://www.kutlet.ca/,-123.0896995,49.04052721
+,Chinese Korea Martial Arts Academy,martial_arts_club,0.9655,name:token,11871 Horseshoe Way,Richmond,V7A 5H5,7786288816,http://www.ckmartialarts.com/,-123.097674,49.126482
+,밴쿠버 하임교회,christian_place_of_worship,0.5681981444358826,name:hangul,409 E Broadway,Vancouver,V5T 1W8,+16048160691,http://haimchurch.com/,-123.09554,49.26284
+,Kim's Mart,grocery_store,0.9979794752597809,name:korean-surname,519 E Broadway,Vancouver,V5T 1X4,+16048728885,,-123.09241063,49.26261175
+,So Hyang Korean Cuisine,korean_restaurant,0.9998113022148609,category:korean,6345 Fraser St,Vancouver,V5W 3A3,+16047290702,https://so-hyang.ca/,-123.09082492,49.2270688
+,이렇게둘이,community_center,0.42844778299331665,name:hangul,5812 Fraser St,Vancouver,V5W 2Z5,+16043273007,http://sliceofchicago.ca/,-123.09021,49.23177
+,Soo Korean Pocha,restaurant,0.77,name:token,11040 No 5 Rd,Richmond,V7A 4E7,(778) 791-1082,https://soopocha.com,-123.0912663,49.1326749
+,디렉션교회,christian_place_of_worship,0.9004951119422913,name:hangul,998 E 19th Ave,Vancouver,V5V 1K7,,,-123.08439,49.2533699
+,Shilla Korean Restaurant,korean_restaurant,0.9997302384376526,category:korean,1031 Kingsway,Vancouver,V5V 3C7,+16048791515,http://shilla.ca,-123.08301105,49.25374758
+,Mashhta BBQ Original KBBQ Poutine,korean_restaurant,0.36168426275253296,category:korean,12631 Vulcan Way,Richmond,V6V 1J7,+16046005434,http://www.kbbqpoutine.com/,-123.08468970606155,49.19748773931878
+,NeNe Chicken,korean_restaurant,0.9803386735916138,category:korean,1070 Kingsway,Vancouver,V5V 1N9,+16048750083,https://www.nenechicken.ca,-123.08264951,49.25300504
+,Gimjang Kimchi,farm,0.2865718603134155,name:token,12700 Blundell Rd,Richmond,V6W 1B3,+17785081095,http://gimjangkimchi.com/,-123.08179913,49.15525354
+,Kim's Grocery,grocery_store,0.6896088123321533,name:korean-surname,1754 Victoria dr,Vancouver,V6C 2W2,+17789234513,,-123.0655651,49.2689031
+,Yubela Beauty Bar (Korean lash lift & brow lamination),beauty_salon,0.25328028202056885,name:token,"Victoria Dr, E 41st Ave",Vancouver,V5P 3R3,+16723891533,http://yubelabeautybar.ca/,-123.06553848,49.2327005
+,Sumi Korean Restaurant,korean_restaurant,0.9972110682725907,category:korean,5628 Victoria Dr,Vancouver,V5P 3W4,+16046209235,,-123.06542038,49.23360697
+,Korean Baptist Church of Vancouver,religious_organization,0.9665379327535629,name:token,4798 Gladstone St,Vancouver,V5N 5A5,+16044387833,http://www.kbcv.ca/,-123.062546,49.241688
+,K One Chicken Kingsway,korean_restaurant,0.9856313467025757,category:korean,2271 Kingsway,Vancouver,V5N 2T6,+12364772154,http://chickochicken.ca/,-123.05880492,49.24245786
+,Yook Korean Grilled BBQ & Bistro,korean_restaurant,0.9985435074567794,category:korean,2408 Nanaimo St,Vancouver,V5N 5E4,+16044289292,https://www.yookkoreanbbq.com,-123.05640363,49.2627567
+,Kook Korean BBQ,korean_restaurant,0.9985758060216904,category:korean,2800 E 1st Ave #211A,Vancouver,V5M 4N9,+16045665665,https://www.kookbbq.ca,-123.04587104,49.26880873
+,iSushi Japanese & Korean Restaurant,sushi_restaurant,0.9894672954082488,name:token,3883 Rupert St,Vancouver,V5R 2G7,+16043366553,https://isushivancouver.ca/,-123.03397025,49.24991099
+,Dami Sushi & Korean Restaurant,sushi_restaurant,0.9986991444528103,name:token,3280 E 22nd Ave,Vancouver,V5M 2Y9,+16044318887,http://damisushikorean.ca,-123.03433118,49.25050543
+,350°F Chicken,korean_restaurant,0.9891925382614136,category:korean,3307 E Broadway,Vancouver,V5M 2A1,+16042553335,https://www.350f.ca/,-123.03331548,49.2620348
+,하늘둥지교회,christian_place_of_worship,0.9106196165084839,name:hangul,5288 Joyce St,Vancouver,V5R 6C9,+17788682789,https://www.youtube.com/@godsnestchurch,-123.0329607053,49.236607412192
+,Chosun Korean BBQ,korean_restaurant,0.9891157400608063,category:korean,3486 Kingsway,Vancouver,V5R 5L6,+16044341222,http://www.chosunkoreanbbqvancouver.com,-123.03032811,49.2317731
+,Todak Todak,korean_restaurant,0.99134361743927,category:korean,3510 Kingsway,Vancouver,V5R 5L6,+16043369866,https://todak-todak-resturant-ltd.business.site,-123.0286688,49.231808
+,Korean War Memorial,korean_restaurant,0.6298390030860901,category:korean,,Burnaby,,,,-123.022897,49.229231
+,Korean United Church of Vancouver,christian_place_of_worship,0.7458301782608032,name:token,3821 Lister St,Burnaby,V5G 2B9,+16042557002,http://www.united-church.ca,-123.01906249,49.24478438
+,Korean United Church of Canada,christian_place_of_worship,0.77,name:token,3821 Lister St,Burnaby,V5G 2B9,(604) 255-7002,http://www.united-church.ca,-123.01906950804312,49.24459485183073
+,갈릴리교회 - Global,christian_place_of_worship,0.9723126292228699,name:hangul,150 Drake St,Vancouver,V6Z 2X1,+17786822340,http://www.galileevan.com/,-123.12261,49.27215
+,Mapo Pancake House,korean_restaurant,0.77,category:korean,1130 Mainland St,Vancouver,V6B 2T9,(604) 646-8585,http://mapopancakehouse.ca,-123.12086077274103,49.27506267483667
+,bb.q Chicken,korean_restaurant,0.77,category:korean,,Vancouver,V6Z 1L4,,https://bbqchickenca.com,-123.12419299186695,49.278939208327074
+,Fred's Tavern,korean_restaurant,0.4299982190132141,category:korean,1006 Granville St,Vancouver,V6Z 1L5,+16046054350,,-123.122989,49.279083
+,Consulate General of the Republic of Korea,embassy,0.9250052571296692,name:token,1090 W Georgia St #1600,Vancouver,V6E 3V7,+16046819581,http://can-vancouver.mofa.go.kr/korean/am/can-vancouver/main/index.jsp,-123.12319528,49.28544732
+,주밴쿠버총영사관 재외선거관리위원회,government_office,0.6789337992668152,name:hangul,1090 W Georgia St,Vancouver,V6E 3V7,+16046819581,http://overseas.mofa.go.kr/ca-vancouver-ko/index.do,-123.1230649373,49.285395168601
+,CanNest Immigration Consulting 캐나다 둥지이민컨설팅,immigration_and_naturalization_office,0.9828991231322288,name:hangul,1030 West Georgia Street #1308,Vancouver,V6E 2Y3,6046623266,https://www.cannestimm.com/,-123.1216508,49.2848011
+,파이도 로저스 공식매장,telecommunications_company,0.26133105158805847,name:hangul,1055 W Georgia St,Vancouver,V6E 0B6,+16723373333,http://pf.kakao.com/_zUAxoxj,-123.12214,49.28525
+,Korean Exchange Bank of Canada,bank_or_credit_union,0.555747926235199,name:token,590 Robson St,Vancouver,V6B,+16046092700,https://www.nbc.ca,-123.118813,49.280539
+,Seoul Bowl,korean_restaurant,0.22075876593589783,category:korean,650 W Georgia St B23,Vancouver,V6B 4N8,+17787884430,http://www.seoulbowlbc.com/,-123.1177621,49.28181315
+,굿데이 캐나다 이민 유학 컨설팅,professional_service,0.25623375177383423,name:hangul,3292 Production Way,Burnaby,V5A 4R4,+16044492868,,-123.1181878,49.2826739
+,FSS Korea Consulting Inc,professional_service,0.8042926619946957,name:token,736 Granville St #220,Vancouver,V6Z 1G3,+16046880966,http://www.fiskorea.com/,-123.11870734,49.28195334
+,MKMK Travel - Vancouver 여행사,travel_agent,0.85,name:hangul,"Suite 900, 1021 West Hastings St",Vancouver,V6E 0C3,6042629889,,-123.1183186,49.2875232
+,SEC-Korea Inc Study English In Canada,korean_restaurant,0.34740322828292847,category:korean,549 Howe St,Vancouver,V6C 2C2,+16046692930,http://www.sec-canada.com/,-123.117069,49.284816
+,Bibiko,korean_restaurant,0.8739832043647766,category:korean,530 Hornby St,Vancouver,V6C 2E7,+17788795130,,-123.11719110000001,49.28538910000001
+,Korean Acupuncture & Wellness Clinic,,0.9765953928232193,name:token,889 W Pender St #405,Vancouver,V6C 3B2,6046990119,https://k-acuwellness.com/,-123.1166754,49.2858397
+,하온유학원 Haon Education,education,0.2996196448802948,name:hangul,890 W Pender St,Vancouver,V6C 1J9,+12365012010,http://www.haoneducation.com/,-123.11681,49.28555
+,트래블러너,educational_service,0.6901814937591553,name:hangul,789 W Pender St #1100,Vancouver,V6C 1H2,+16048800086,https://www.travellearner.com/,-123.11545062,49.28520408
+,Pelicana Chicken Robson,korean_restaurant,0.9822595059871674,category:korean,382 Robson St,Vancouver,V6B 2B2,+16046810420,https://www.pelicana.ca,-123.11667347,49.27923674
+,MariFresh - Premium Kimbap & Korean Food,korean_restaurant,0.8339267975091934,category:korean,1370a E Georgia St,Vancouver,V5L 2A8,+17789386274,https://marifresh.ca/,-123.07560926,49.2783099
+,Ju.restaurant,korean_restaurant,0.9815607070922852,category:korean,782 Cambie St,Vancouver,V6B 2P2,+16045298999,http://www.jurestaurant.com/,-123.114129,49.278403
+,Sooda Korean BBQ,korean_restaurant,0.9897571802139282,category:korean,60 W Cordova St,Vancouver,V6B 1C9,+16042423624,https://www.soodagastown.com/,-123.10605055,49.28271299
+,Dae Ji,korean_restaurant,0.9926129096746444,category:korean,519 Dunsmuir St,Vancouver,V6B 1Y4,+16046771636,http://www.daejifood.com,-123.1147507,49.28265979
+,랍슨헤어,beauty_salon,0.6301294565200806,name:hangul,524 West Pender,Vancouver,V6B 1V3,+16048312538,,-123.11347541809,49.283548658541
+,U TOUR (유투어),travel_agent,0.77,name:hangul,540 Seymour St.,Vancouver,V6B 3J5,(604) 484-7000,http://utouryvr.com,-123.11443689258458,49.28344179389531
+,JnD Education Korea,educational_service,0.6436893939971924,name:token,510 W Hastings St,Vancouver,V6B 1L8,+16046377925,http://blog.naver.com/white3320,-123.11413271671161,49.28370923267966
+,비전유학원 (Vision Info Centre),eyewear_store,0.34961220622062683,name:hangul,614 W Pender St,Vancouver,V6B 1V8,+16046332737,http://www.visionuhak.com/,-123.114334,49.284137
+,DRim 드림이민컨설팅,professional_service,0.30020853877067566,name:hangul,515 W Pender St,Vancouver,V6B 6H5,+16044288305,,-123.11297670007,49.28362229572
+,Zoomak Korean Tavern,korean_restaurant,0.9908665418624878,category:korean,52 Alexander St,Vancouver,V6A 1B4,+16046201240,http://www.zoomakyvr.com/,-123.10295992,49.28337466
+,휴대폰마을 Downtown,mobile_phone_store,0.6563180088996887,name:hangul,617 W Pender St,Vancouver,V6B 1W7,+16046853436,http://blog.naver.com/hanmarketing,-123.11401496953,49.284208932186
+,밴쿠버,restaurant,0.5844120979309082,name:hangul,361 Seymour St,Vancouver,V6B 0S8,+16047715489,http://www.yahoo.ca/,-123.1126418,49.2849939
+,UvanU 우벤유,cafe,0.6850355267524719,name:hangul,609 W Hastings St,Vancouver,V6B 4W4,+16046827308,https://uvanuinternational.com/pt-br/,-123.11307888,49.28498677
+,밴쿠버 다운타운 그린리프 한의원,acupuncture,0.7603321671485901,name:hangul,409 Granville St,Vancouver,V6C 1T2,+16043220293,https://kr.greenleafclinic.ca/,-123.11457,49.28536
+,Canada Korea Business Association,social_or_community_service,0.2793923616409302,name:token,329 Railway St Unit 402,Vancouver,V6A 1A4,+16047337010,http://www.ckba.org/,-123.09713674,49.28462002
+,Vancouver Broadway Community of Hope: 밴쿠버희망의집,,0.19037854671478271,name:hangul,,Vancouver,,,,-123.09093,49.28396
+,The Korean Society of BC,social_or_community_service,0.2780398428440094,name:token,1320 E Hastings St,Vancouver,V5L 1S3,+16042553739,http://www.koreanbc.ca/,-123.076672,49.281087
+,The Korean Society of BC,korean_restaurant,0.6205241680145264,category:korean,1320 E Hastings St,Vancouver,V5L 1S3,+16042553739,http://www.koreanbc.ca/,-123.076672,49.281087
+,Korean Senior Citizens Society,senior_citizen_service,0.27328699827194214,name:token,1320 E Hastings St E,Vancouver,V5L 1S3,+12368887888,,-123.07664039,49.28120344
+,Jang Mo Jib Korean Restaurant,korean_restaurant,0.77,category:korean,1647 Pender St E,Vancouver,V5L 1W2,(604) 872-0712,http://jangmojib.ca,-123.07158532392383,49.28043048712073
+,bb.q Chicken Hastings,korean_restaurant,0.9980862551927566,category:korean,4016 Hastings St,Burnaby,V5C 2H9,+16044164470,http://bbqchickenca.com/,-123.01568003,49.28100221
+,세계를 품은 교회,christian_place_of_worship,0.9418349862098694,name:hangul,\n17665 66A Ave #102,North Vancouver District,V3S 2A7,+17788871324,http://www.saepoom.com/,-123.171463,49.3326607
+,Ssal Korean Cuisine,korean_restaurant,0.9644821482896805,category:korean,1739 Marine Dr,West Vancouver,V7V 1J5,+17782791069,http://www.ssalsushingrill.com,-123.1610534,49.32870346
+,Madangcoul Korean Restaurant,korean_restaurant,0.77,category:korean,847 Denman St,Vancouver,V6G 2L7,(604) 688-3585,http://mainmenus.com,-123.13687799768371,49.290679491079146
+,Damso,korean_restaurant,0.77,category:korean,867 Denman St,Vancouver,V6G 2L9,(604) 632-0022,http://damso-restaurant.ca,-123.13691425166284,49.2905985008485
+,Westender Korean Restaurant,korean_restaurant,0.77,category:korean,854 Denman St,Vancouver,V6G 2L9,(604) 693-2322,,-123.13607819940057,49.29081332843614
+,현등선원-hyeondeungsunwon,buddhist_place_of_worship,0.8927320837974548,name:hangul,2070 Curling Rd,North Vancouver District,V7P 0C9,+16043416539,,-123.12354,49.32621
+,Yogi Korean Snack Bar,fast_food_restaurant,0.77,name:token,1706 Robson St.,Vancouver,V6G 1E2,(604) 681-4174,http://www.yogikorean.ca,-123.13426438733148,49.29047372896227
+,Damso Modern Korean Restaurant,korean_restaurant,0.981977105140686,category:korean,1680 Robson St,Vancouver,V6G 1C7,+16045581966,http://damso-restaurant.ca/,-123.13365461,49.29003592
+,Book Kyung Ban Jeoun and BK Karaoke,korean_restaurant,0.9975622123479844,category:korean,1638 Robson St,Vancouver,V6G 1C7,+16046298822,,-123.13305372,49.28977288
+,Kosoo Korean Restaurant - Cardero Location,korean_restaurant,0.9949658513069153,category:korean,832 Cardero St,Vancouver,V6G 2G5,+16045635556,https://kosoo.ca,-123.13263883,49.28913598
+,Kosoo Korean Restaurant - Cardero Location,asian_fusion_restaurant,0.9655,name:token,832 Cardero St,Vancouver,V6G 2G5,6045635556,http://www.kosoo.ca/,-123.1326472,49.2891083
+,Zabu Chicken,korean_restaurant,0.9985802203416825,category:korean,1635 Robson St,Vancouver,V6G 1C8,+16046020021,https://www.zabuchicken.com/,-123.13263325,49.28982106
+,Soondae Town,korean_restaurant,0.9072556495666504,category:korean,1610 Robson St,Vancouver,V6G 1C7,+16046205054,,-123.132641,49.289517
+,Kim's Farm Market,korean_restaurant,0.6743358373641968,category:korean,1610 Robson St,Vancouver,V6G 1C7,+17783793663,https://www.instagram.com/kimsfarmmarket/,-123.13294,49.28946
+,Hongdae Pocha Korean BBQ,korean_restaurant,0.9988496720790863,category:korean,1642 Robson St,Vancouver,V6G 1C7,+16046818252,http://www.hongdaepochacafe.com,-123.13312962,49.28986298
+,Dae-ji Cutlet House,korean_restaurant,0.77,category:korean,1660 Robson St,Vancouver,V6G 1C7,(604) 559-1637,http://www.daejifood.com,-123.13341131641374,49.28998484073942
+,Jang Mo Jib,korean_restaurant,0.77,category:korean,1719 Robson St,Vancouver,V6G 1C9,(604) 642-0712,http://jangmojib.com,-123.13212212125353,49.289393397891715
+,bb.q Chicken Lemon,korean_restaurant,0.77,category:korean,,Vancouver,V6G 1C2,(604) 455-1129,https://bbqchickenca.com,-123.13168099100542,49.28872396917796
+,Tå Bom Korean Cuisine,korean_restaurant,0.9747968512773514,category:korean,1536 Robson St,Vancouver,V6G 1C2,+17783551717,http://www.tabom.ca,-123.13183677,49.28902095
+,Sura Korean Royal Cuisine,korean_restaurant,0.9989705038070679,category:korean,1518 Robson St,Vancouver,V6G 1C3,+16046877872,https://www.surakoreancuisine.com/,-123.13161338,49.28891991
+,성공한 사람들 - 캐나다 이민과 취업,professional_service,0.4824335277080536,name:hangul,1177 W Hastings St,Vancouver,V6E 2K3,+16045691269,https://pf.kakao.com/_lVhFu/chat,-123.12149,49.28869
+,밴쿠버큰빛교회,christian_place_of_worship,0.6274996399879456,name:hangul,220 8th St W,North Vancouver,V7M 1N1,+16049608644,http://keunbid.com/,-123.11455609477821,49.32357523665078
+,캐필라노 현수교,tour_operator,0.7039366960525513,name:hangul,,North Vancouver District,,,http://ja.wikipedia.org/wiki/index.html?curid=3228585,-123.11220305768464,49.34291609005123
+,Korean Traditional Arts Society,social_or_community_service,0.38657358288764954,name:token,1058 Ridgewood Dr,North Vancouver District,V7R 1H8,,,-123.10154685211,49.339690528374
+,라니스 화덕피자,restaurant,0.42817261815071106,name:hangul,3220 Connaught Cres,North Vancouver District,V7R 0A5,+17788756408,,-123.10272979736,49.338779689135
+,노스쇼어아름다운교회,christian_place_of_worship,0.8748046159744263,name:hangul,851 W Queens Rd,North Vancouver District,V7N 4E3,+17788397414,http://www.arumdawnchurch.com/,-123.09392,49.33655
+,Kim's Hair Studio,hair_salon,0.9523972272872925,name:korean-surname,3028 Edgemont Blvd,North Vancouver District,V7R 2N4,+16049833737,http://KimHairEdgemontVillage.com/,-123.1009262,49.33688151
+,Bukchon,korean_restaurant,0.9913602471351624,category:korean,1564 Lonsdale Ave,North Vancouver,V7M 2J3,+17786892616,http://bukchon.ca/,-123.07218558,49.32308952
+,Spicy House,korean_restaurant,0.4318976104259491,category:korean,2039 Lonsdale Ave,North Vancouver,V7M 2K4,+16049870102,,-123.072447,49.327915
+,밴쿠버큰빛교회,christian_place_of_worship,0.6274996399879456,name:hangul,220 8th St W,North Vancouver,V7M 1N1,+16049608644,http://keunbid.com/,-123.07619,49.31962
+,South Castle Korean Restaurant,korean_restaurant,0.997671103477478,category:korean,141 2nd St E,North Vancouver,V7L 1C2,+16049600612,http://www.southcastlekorean.com,-123.07643676,49.31190237
+,Ga Hyang Ru,korean_restaurant,0.9984646254777908,category:korean,1205 Lonsdale Ave,North Vancouver,V7M 2H5,+16049291231,http://www.gahyangru.com,-123.07265925,49.31901592
+,Care Plus Rehab & Wellness (삼성 한방 의료원),doctors_office,0.85,name:hangul,Unit 240 1333 Lonsdale Ave.,North Vancouver,V7M 2H7,7783401751,http://www.careplusclinic.com/,-123.0723545,49.3207675
+,밴쿠버소울트리심리상담센터(Vancouversoultreecounselling),,0.85,name:hangul,"1258 Lynn Valley Rd #106, North Vancouver, BC",Vancouver,V7J 2A3,2365146356,https://soultreecounselling.com/,-123.0389462,49.3367026
+,린벨리한인교회,christian_place_of_worship,0.9040133357048035,name:hangul,3400 Institute Rd,North Vancouver District,V7K 2K9,+16047606364,http://lvkmc.com/,-123.03629,49.33995
+,Simya Korea Chicken,restaurant,0.15779678523540497,name:token,1122 5th Ave,New Westminster,V3M 4H7,+17789182529,,-122.92842297,49.20624244
+,Vancouver Korean Seventh-day Adventist Church,christian_place_of_worship,0.6569958925247192,name:token,333 6th St,New Westminster,V3L 3A9,+17788673004,http://www.vksda.com/,-122.91624324,49.20998327
+,ArtSum Studio 아트숨 미술학원,,0.2361028790473938,name:hangul,889 Carnarvon St Unit 220,New Westminster,V3M 1G2,+17789178557,,-122.91491536,49.20100833
+,Vancouver Korean Church,christian_place_of_worship,0.5161383748054504,name:token,529 Queens Ave,New Westminster,V3L 1K2,+16045402060,,-122.912223,49.207621
+,뉴진세,community_center,0.32588523626327515,name:hangul,201-800 Carnarvon St,New Westminster,BC V3M 0G3,+16045203050,http://skipthedishes.com/,-122.91272,49.20184
+,Picnic K-Street Food,korean_restaurant,0.77,category:korean,372-800 Carnarvon Street,New Westminster,V3M 0G3,(604) 544-5911,http://picnickstreetfood.com,-122.912845,49.201604
+,포마 Cabinet & Interior Design,countertop_installation,0.3268154561519623,name:hangul,8307 124 St #8,Surrey,V3W 9G2,+17783890246,https://pomacabinet.com/,-122.8793534,49.1538354
+,Eps Nepalese In Korea,,0.27857261896133423,name:token,12720 113A Ave,Surrey,V3V 3M4,+17789566653,https://siddharthapost.com/,-122.87000029608,49.208054017496
+,North Vancouver Korean Mission Church,christian_place_of_worship,0.8,name:token,"Surrey, BC",,,,,-122.85128,49.19149
+,Korean BBQ Town,korean_restaurant,0.7138516306877136,category:korean,13670 105 Ave,Surrey,V3T 4Y5,+17783957030,,-122.84323,49.19335
+,Bon Ga Korean Restaurant,korean_restaurant,0.9932676410675049,category:korean,10356 Whalley Blvd,Surrey,V3T 4H4,+16045898400,https://bongakorea.ca/,-122.84150693,49.19080831
+,Lee's Chicken,chicken_restaurant,0.77,name:korean-surname,13775 72 Ave.,Surrey,V3W 2P2,(604) 594-0001,http://www.leesfamousrecipe.com,-122.8393305206002,49.13383792060016
+,서울정육점,butcher_shop,0.5445017218589783,name:hangul,14390 104 Ave,Surrey,V3T 1Y3,+16045826211,http://gloryfoods.ca/,-122.8235168,49.1913757
+,Korean Bbq & Grill Buffet Surrey,barbecue_restaurant,0.7135319113731384,name:token,,Surrey,,,,-122.821,49.1364
+,Big Feet足王(Body & Foot Massage/按摩/마사지/ਮਾਲਸ਼/Mát Xa)White Rock,massage_therapy,0.9301756024360657,name:hangul,1470 Johnston Rd,White Rock,V4B 3Z5,+17782913555,http://bigfeet.ca/locations-therapists/white-rock-location/,-122.80099858,49.0287289
+,Lee's Express Chinese Food,chinese_restaurant,0.77,name:korean-surname,9181 148 St,Surrey,V3R 3W7,(604) 581-3615,http://www.leesexpresschinesefood.ca,-122.81273300859206,49.16979394199127
+,Guildford Grace optical 길포드 그레이스 안경원,eyewear_store,0.5243988633155823,name:hangul,15155 101 Ave Unit 103B,Surrey,V3R 4G6,+16049513000,http://graceoptical.blogspot.ca/?m=1,-122.80174627,49.1865901
+,Seoul Grill House,korean_restaurant,0.9934333562850952,category:korean,15155 101 Ave,Surrey,V3R 7Z1,+16045888292,,-122.80217337,49.18656616
+,bb.q Chicken Surrey,korean_restaurant,0.9968235951662063,category:korean,15146 100 Ave #102,Surrey,V3R 0J8,+16044981129,http://bbqchickenca.com/,-122.8023591,49.18387912
+,Il Uk Jo Korean-Japanese Restaurant,korean_restaurant,0.9404548263549805,category:korean,15188 Fraser Hwy,Surrey,V3R 3P1,+16045839622,http://www.ilukjo.ca,-122.801877,49.165997
+,Jin Soo Sung Chan Korean Restaurant,korean_restaurant,0.9969793164730072,category:korean,10312 152A St,Surrey,V3R 7P6,+16044983177,https://www.jinsoosungchan.ca/,-122.79927816,49.18968324
+,Lee Gar Nei,korean_restaurant,0.9938499331474304,category:korean,15280 101 Ave #128,Surrey,V3R 8X7,+16045897401,http://www.leegarnei.ca/,-122.79891917,49.18564129
+,Big Chicken Town,korean_restaurant,0.9930052161216736,category:korean,15280 101 Ave,Surrey,V3R 8X7,+16044965007,,-122.79863031,49.18570688
+,Oh! Joy Kimbap,korean_restaurant,0.77,category:korean,15380 102A Ave,Surrey,V3R 0B3,(236) 428-0478,,-122.79659,49.188708
+,Korea Exchange Bank of Canada,atm,0.8,name:token,10428 153 Street,Surrey,V3R 1E1,,,-122.798,49.1918
+,Chinese and Korean Martial Arts Academy,martial_arts_club,0.6805617213249207,name:token,"167XX, 17A Avenue, South Surrey",Surrey,V3Z0T2,+17786288816,http://ckmartialarts.com/,-122.79718,49.0383799
+,Woo Korean BBQ House,korean_restaurant,0.9909259080886841,category:korean,16070 24 Ave #110,Surrey,V3Z 0R5,+17785370707,http://www.woobbqhouse.com,-122.77744927,49.04514007
+,MR.BC 부동산,,0.9223188683390617,name:hangul,9079 160a St,Surrey,V4N 3E4,6047155767,http://mrbcrealtor.ca/,-122.777501,49.167757
+,Surrey Korean Presbyterian Church,christian_place_of_worship,0.9981217287778854,name:token,15964 88 Ave,Surrey,V4N 1H5,+17782222582,http://www.surreychurch.com,-122.77932975,49.16220964
+,Chuihong,korean_restaurant,0.77,category:korean,#101- 15665  104th Ave,Surrey,V4N 5V6,(604) 581-8809,http://www.chuihong.ca,-122.77944571548092,49.198655495991815
+,벤쿠버 성 김대건 성당 율동 찬양부,religious_organization,0.37996944785118103,name:hangul,10222 161 St,Surrey,V4N 2J8,,,-122.77491,49.18839
+,벤쿠버 성 김대건 성당 율동 찬양부,religious_organization,0.37996944785118103,name:hangul,10222 161St,Surrey,V4N 2J8,,,-122.772098,49.194652
+,Surrey Christian School Korean prayer group,religious_school,0.5846545100212097,name:token,8930 162 St,Surrey,V4N 3G1,+16044983233,http://www.surreychristian.com/,-122.77295,49.16488
+,캐나다 숭실교회 (Soongsil Church),christian_place_of_worship,0.7022543549537659,name:hangul,8250 161 St,Surrey,V4N 0M9,+16043086300,https://www.youtube.com/@CanadaSoongsilChurch/streams,-122.77549749,49.15284575
+,주님이 원하시는 교회 (The Church God Wants),christian_place_of_worship,0.4046303927898407,name:hangul,17575 58A Ave.,Surrey,V3S 1N1,+16047202477,http://www.tcgw.ca/,-122.73647418,49.1090144
+,Korean Central Presbyterian Church,christian_place_of_worship,0.9914886975288391,name:token,10110 175A St,Surrey,V4N 4H2,+16045839933,http://www.jungang.ca,-122.73541212,49.18581386
+,반찬전문점 다미. Dami Korean food,korean_restaurant,0.7089632749557495,category:korean,6712 McKay Ave,Burnaby,V5H 2X2,+16044318887,http://damisushikorean.ca/,-123.00865,49.22259
+,Sejong Beauty Salon 세종헤어,hair_salon,0.7250415682792664,name:hangul,1899 Rosser Ave Unit 112,Burnaby,V5C 6R5,+16042940561,,-123.00700459,49.26699985
+,Chibop,korean_restaurant,0.9937562942504883,category:korean,1805 Rosser Ave,Burnaby,V5C 6R4,+16045665971,https://chibop.ca/,-123.00627536,49.26774161
+,Porker Face (Korean Pork Belly),korean_restaurant,0.969472564458847,category:korean,4455 Lougheed Hwy,Burnaby,V5C 3Z2,+16044289227,http://www.porkerface.com/,-123.00475745,49.26672924
+,Raki Japanese & Korean Quick Cut Salon,hair_salon,0.37022319436073303,name:token,4500 Kingsway #2603,Burnaby,V5H 2A9,+16043329319,,-123.00447458,49.22905353
+,나옹이다옹,community_center,0.29313644766807556,name:hangul,4461 Lougheed Hwy,Burnaby,V5C 3Z2,+16042771111,http://pizzapizza.ca/,-123.004148,49.2666549
+,ALK - Annyeong to Learning Korean,language_school,0.08660014718770981,name:token,,Burnaby,,+16046520770,http://www.annyeonghaseyotokorean.ca/,-123.0029296875,49.216162207032
+,Kim's Original Hair Salon,hair_salon,0.9930473774671554,name:korean-surname,4535 Hastings St,Burnaby,V5C 2K3,+16042992955,http://kimsoriginalhairsalon.placeweb.site,-123.00182792,49.2810807
+,Sooda Korean BBQ,korean_restaurant,0.5849676132202148,category:korean,"food court, 4567 Lougheed Hwy 2nd floor",Burnaby,V5C 3Z6,+12365210740,https://www.bangapsooda.com,-123.00037282,49.26809992
+,Tai Won,korean_restaurant,0.5573081374168396,category:korean,4727 Kingsway,Burnaby,V5H 2C3,+16044373399,,-122.998232,49.228287
+,Seoul Immigration Service,professional_service,0.5421435236930847,name:token,,Burnaby,,+16044347577,,-122.99632,49.22724
+,爱鼻中医(햇살가득한의원)AIBI ACUPUNCTURE CLINIC near Metrotown in Burnaby,,0.85,name:hangul,4885 Kingsway UNIT 207,Burnaby,V5H 4T2,7788897760,https://www.aibiwellness.com/zh-hans,-122.9946695,49.2271938
+,Korean Laser Skin Clinic,dermatology,0.8580370545387268,name:token,6411 Nelson Ave,Burnaby,V5H 4H3,+17788707546,https://koreanlaser.ca/,-122.99451499,49.22551231
+,CM Chicken,korean_restaurant,0.8799630999565125,category:korean,6285 Nelson Ave A1,Burnaby,V5H 4T5,+16045662121,http://cmchicken.ca/attach/menu2.do,-122.99439541,49.22732081
+,Korea Exchange Bank of Canada,bank,0.8248631358146667,name:token,4900 Kingsway,Burnaby,V5H 2E3,+16046290860,http://www.canadabanksinfo.com,-122.993936,49.22638
+,88 Noodle House,korean_restaurant,0.9896584153175354,category:korean,5021 Kingsway,Burnaby,V5H 4A5,+16045584668,https://88noodlehouse.ca,-122.991765,49.226218
+,Jang Mo Jib Metrotown,korean_restaurant,0.9963967770338058,category:korean,5075 Kingsway,Burnaby,V5H 2E6,+16044390712,http://www.jangmojib.com/,-122.99077987,49.22571306
+,Soju,korean_restaurant,0.77,category:korean,5152 Kingsway,Burnaby,V5H 2E8,(604) 336-5234,http://sojugo.ca,-122.99001302303954,49.22506511015372
+,Miso Japanese & Korean Cuisine,restaurant,0.77,name:token,7723 Royal Oak Ave,Burnaby,V5J 4K2,(604) 438-6476,http://www.restaurantmiso.com,-122.98866034078696,49.21373408584876
+,첫 번째 빛,religious_organization,0.38962939381599426,name:hangul,5280 Kincaid St,Burnaby,V5G 1V9,+12507322122,https://www.comeuntochrist.org/,-122.98746,49.24787
+,Gaya Korean Restaurant,korean_restaurant,0.9807403087615967,category:korean,5240 Rumble St,Burnaby,V5J 2B6,+12365201010,https://www.gayakoreanrestaurant.ca,-122.98756152,49.21478671
+,K Chicken Burnaby,korean_restaurant,0.9905669546127319,category:korean,2701 Norland Ave,Burnaby,V5B 3A9,+16042910931,https://www.k-chicken.ca/,-122.98281064,49.25918034
+,Gaon Korean Cuisine,korean_restaurant,0.980722963809967,category:korean,5599 Kingsway,Burnaby,V5H 2G3,+17788998293,http://gaonkorea.ca/,-122.98270866,49.2232851
+,Hanwoori Korean Restaurant,korean_restaurant,0.9989620453119278,category:korean,5740 Imperial St,Burnaby,V5J 1G2,+16044390815,http://www.hanwoori.ca/,-122.98060751,49.22181029
+,밴쿠버 순복음 교회,christian_place_of_worship,0.9577392607927322,name:hangul,3905 Norland Ave,Burnaby,V5G 4T8,+16042980074,http://www.vkfg.org/,-122.97544,49.2493399
+,Bada Modern Korean and Bar,bar,0.5519441962242126,name:token,6408 Kingsway,Burnaby,V5E 1C5,+16044329342,,-122.97055,49.21929
+,Masita Korean Cuisine,korean_restaurant,0.9781363606452942,category:korean,6516 Kingsway,Burnaby,V5E,+16045539938,https://masita-korean-restaurant-canada.food96.com,-122.968976,49.21891
+,키위새,community_center,0.3475895822048187,name:hangul,6569 Kingsway,Burnaby,V5E 1E1,+18663100001,http://panago.com/,-122.9683043,49.2192583
+,DooBoo,korean_restaurant,0.9918655753135681,category:korean,6907 Kingsway,Burnaby,V5E 1E5,+16045229969,,-122.96086895,49.21873504
+,Kung Jung Kalgook Soo Korean Restaurant,korean_restaurant,0.77,category:korean,6907 Kingsway,Burnaby,V5E 1E5,(604) 522-9969,http://www.kenzoramen.ca,-122.96068532247568,49.21872098430538
+,Arisu Korean BBQ,korean_restaurant,0.903368353843689,category:korean,7328 Edmonds St,Burnaby,V3N 1A7,+16044682432,,-122.95043761,49.21891779
+,Na-Re Korean Kitchen,asian_fusion_restaurant,0.9655,name:token,7413 Edmonds Street,Burnaby,V3N1B1,6045227009,http://www.narekoreankitchen.com/,-122.9482759,49.2202078
+,Oh! Zzhu Sam Korean Restaurant,korean_restaurant,0.9872544407844543,category:korean,7506 Edmonds St,Burnaby,V3N 1B4,+16045538830,,-122.94471055,49.22187817
+,오쭈삼Ohzzhusam,korean_restaurant,0.8781024217605591,category:korean,7506 Edmonds St,Burnaby,V3N1B4,+16045538830,,-122.9446256,49.2219905
+,HanSang Korean Cuisine,korean_restaurant,0.6661950349807739,category:korean,7625 Edmonds St,Burnaby,V3N 1B6,+16045211417,,-122.94291654,49.22333325
+,밴쿠버 갈보리 한인 장로 교회,christian_place_of_worship,0.7841081023216248,name:hangul,8098 11th Ave,Burnaby,V3N,+16048034004,https://www.youtube.com/@parkdaeho,-122.92284965515,49.223287231232
+,SFU Gawon,korean_restaurant,0.6323586702346802,category:korean,"Simon Fraser University, 8888 University Dr W",Burnaby,V5A 1S6,,,-122.91702345743323,49.27956159081589
+,Hsm 이주공사 - 이민 컨설팅 제공,immigration_law,0.35272732377052307,name:hangul,8525 Baxter Pl #200,Burnaby,V5A 4X1,+16045588900,,-122.91566016,49.25913592
+,밴쿠버얼라이브교회,christian_place_of_worship,0.5417238473892212,name:hangul,7195 Cariboo Rd,Burnaby,V3N 4A6,+17788878289,http://www.thealivechurch.org/,-122.91057,49.24367
+,Secret Garden Korean Fusion Buffet & Grill,korean_restaurant,0.9744622111320496,category:korean,9628 Cameron St,Burnaby,V3J 7N3,+16045635693,http://secretgardenbuffet.com/,-122.89809355,49.25253131
+,Soju Spritz,,0.2312467396259308,name:token,9600 Cameron St,Burnaby,V3J 7N3,+16044234309,,-122.89822,49.25302
+,로히드 타운 센터,shopping_mall,0.6838148236274719,name:hangul,,Burnaby,,,http://www.lougheedtowncentre.com/,-122.89606,49.251049
+,Nadri,korean_restaurant,0.9950254559516907,category:korean,4501 North Rd Unit 111F,Burnaby,V3N 4R7,+17789525777,http://nadri.ca/,-122.89488451,49.24433066
+,Midam Cafe & Bistro,korean_restaurant,0.9979847806692124,category:korean,4501 North Rd #110a,Burnaby,V3N 4J5,+16045685357,http://www.midamricecakehouse.com/,-122.89472016,49.2441426
+,Jejudo Korean BBQ,korean_restaurant,0.9995876936018467,category:korean,4501 North Rd #220,Burnaby,V3N 4J5,+16045583088,http://jejudo.ca,-122.89447449,49.24424321
+,Korea Town Center,shopping_mall,0.48065993189811707,name:token,4501 North Rd,Burnaby,V3N 4J5,+16043567671,,-122.89420208,49.24397871
+,밴쿠버 교차로,print_media,0.08257357776165009,name:hangul,4501north rd #327D,Burnaby,V3N 4J5,+16044444322,http://www.vankyocharo.com/,-122.8941979,49.24404239
+,스마일 여행사,travel_service,0.6940128207206726,name:hangul,4501 North Rd #219,Burnaby,V3N 4J5,+16044150101,http://www.smiletravel.ca/,-122.89396804,49.24392361
+,Korea Exchange Bank of Canada,atm,0.8,name:token,"4501 North Road, Unit 108",Burnaby,V3N 4R7,,,-122.894,49.2439
+,Stone Korean Bbq House,korean_restaurant,0.77,category:korean,3778 Grande Prom,Burnaby,V3J 0M1,(604) 563-6688,http://stonebbq.ca,-122.89399,49.250019
+,Seoul Oriental Clinic,naturopathic_medicine,0.608506441116333,name:token,4501 North Rd Unit 316,Burnaby,V3N 4J5,+16043362424,https://www.google.com/search?q=Seoul+Oriental+Clinic+%EA%B2%BD%EB%8F%99%ED%95%9C%EB%B0%A9%ED%81%B4%EB%A6%AC%EB%8B%89&stick=H4sIAAAAAAAA_wFXAKj_CAYiJTB4NTQ4Njc4M2QzZTU0MzFiYjoweDE5MDk4YjIzOWRjM2JjYmSiBStTZW91bCBPcmllbnRhbCBDbGluaWMg6rK964-Z7ZWc67Cp7YG066as64uJGjhNEVcAAAA&hl=en&mat=CaL2UkoOpN-nElcBa0lj_zoEeibpO2iV5j2y0954u0WYdXZMaNW8PsMx4nR_2Xu2zcZzd6wyFZcaDgRVTAR_maDCHeNSLSHV52feLWMDihk_zieANxEN7zOLmiyetsuZ7Jg&authuser=0&ved=1t%3A350944,-122.89414266,49.2440254
+,Gobong 88,korean_restaurant,0.9820101857185364,category:korean,9928 Lougheed Hwy,Burnaby,V3J 1N3,+16044924777,,-122.89388165,49.24584772
+,로얄투어,travel_service,0.358870267868042,name:hangul,4501 North Rd #207,Burnaby,V3N 4J5,+16044449821,http://www.royaltourcanada.com/,-122.8937617,49.24384045
+,밴쿠버,historic_site,0.5629990100860596,name:hangul,9930 Lougheed Hwy,Burnaby,V3J 1N3,+17782375326,http://newspodo.com/bs/m/bbs/board.php?bo_table=g500t600&wr_id=25,-122.8932421,49.245943
+,Dae-ji,korean_restaurant,0.9382988971471786,category:korean,4501 North Rd #201,Burnaby,V3N 4R7,+16044234778,http://www.daejifood.com,-122.89326189,49.24373444
+,K-Pop Kids Camp,dance_studio,0.23202921450138092,name:token,9912 Lougheed Hwy,Burnaby,V3J 1N3,+17788880060,http://kpopkidscamp.ca/,-122.89319642,49.24596673
+,한인타운 인쇄소 워치앤터치,printing_service,0.5823009610176086,name:hangul,9922 Lougheed Hwy,Burnaby,V3J 1N3,+17789965820,http://www.watchtouchprinting.com/,-122.8932788,49.2459629
+,Onggi Korean Cuisine,korean_restaurant,0.998236945271492,category:korean,4501 North Rd #103,Burnaby,V3N 4R7,+16044200277,https://theonggi.ca/,-122.89335468,49.24382572
+,Kim's Korean Waffles & Pancakes - FLTF International,dessert_shop,0.963726818561554,name:token,4501 North Rd,Burnaby,V3N 4R7,+16047732531,http://fltfint.com/,-122.89337362095436,49.24410186024536
+,Busan Daeji Gukbap Korean Restaurant,korean_restaurant,0.9868599772453308,category:korean,4501 North Rd #201,Burnaby,V3N 4R7,+16044234778,http://busandaeji.business.site/,-122.89311701,49.24373326
+,Arisu Korean BBQ,korean_restaurant,0.77,category:korean,4501 North Rd #203,Burnaby,V3N 4J5,(604) 422-0500,http://www.arisukoreanbbq.com,-122.8931123589385,49.243536319332506
+,Jong Ga Korean Restaurant,korean_restaurant,0.9222143626213074,category:korean,4333 North Rd,Burnaby,V3N 4N3,+16044217085,http://www.jonggahouse.com,-122.89310485,49.24507619
+,House of Tofu Soup,korean_restaurant,0.9984062796831131,category:korean,4563 North Rd #1,Burnaby,V3N 4J5,+16044205254,http://dinehere.ca/burnaby/house-of-tofu-soup,-122.8930539,49.24328103
+,KEB Korean Exchange Bank 외환은행,bank,0.77,name:hangul,4501 North Rd. #202A,Burnaby,,(604) 420-0019,http://www.kebcanada.com,-122.89304349139225,49.24368562828934
+,Doo Gau Bee 두꺼비,food_delivery_service,0.85,name:hangul,502 East Columbia Street,New Westminster,V3L 3X7,6045243453,http://dgb1996.com/,-122.8927584,49.231899
+,투어클릭,tour_operator,0.39157676696777344,name:hangul,"1025 Pinetree Way, Coquitlam",Coquitlam,V3B 8A6,+16045669554,http://www.tourclick.ca/,-122.892868,49.2442741
+,더 좋은 이민 컨설팅 The Better Immigration Consulting,professional_service,0.26326820254325867,name:hangul,341 North Rd,Coquitlam,V3K 3V8,+16043968282,https://www.tbimmigration.ca/,-122.89286,49.24498
+,밴쿠버 한인 재활 병원/카이로프랙틱/물리치료/마사지테라피/한의원/재활운동치료/심리상담/통증주사/비타민주사 - 에버그린 재활 전문 병원 (코퀴틀람),pharmacy,0.85,name:hangul,100-504 Cottonwood Ave,Coquitlam,V3J 2R4,6044495859,http://www.evergreenrehab.ca/,-122.8923218,49.2588775
+,Honey's,korean_restaurant,0.77,category:korean,403 North Rd,,,(604) 936-2131,,-122.8924436320606,49.246256007541106
+,Bukjang Korean Restaurant,korean_restaurant,0.8670237064361572,category:korean,341 North Rd,Coquitlam,V3K 3V8,+17783194113,,-122.89241,49.24511
+,Hongdae Korean Restaurant,korean_restaurant,0.9916281700134277,category:korean,403 North Rd #101,Coquitlam,V3K 3V9,+16044921211,,-122.89226682,49.2463731
+,Young Bean Korean BBQ,restaurant,0.5542488098144531,name:token,502 E Columbia St,New Westminster,V3L 3X7,+16045243453,http://www.gothai.ca,-122.892232,49.231875
+,Bukchigo Jangguchigo,korean_restaurant,0.8514936566352844,category:korean,341 North Rd,Coquitlam,V3K 3V8,+16049317400,http://www.bukchigo-jangguchigo.business.site,-122.89186301,49.24478838
+,Yewon Korean Restaurant,korean_restaurant,0.9895131248235702,category:korean,341 North Rd,Coquitlam,V3K 3V8,+16049361444,http://toktokvan.com/yewon/,-122.8917116,49.24483565
+,Kimbab Cheonguk,korean_restaurant,0.9954325771331787,category:korean,341 North Rd A,Coquitlam,V3K 3V8,+16049360222,https://foodly.ca/kimbab-cheonguk/restaurant/gJBpv7j1vXyLAZ5K4XLh/location/gv9HHniNLoW52WwqZasF,-122.89172224,49.24488175
+,Insadong Korean BBQ Restaurant,korean_restaurant,0.9998214873671531,category:korean,403 North Rd #301,Coquitlam,V3K 3V9,+16049363778,http://www.insadong.ca,-122.8914655,49.24568662
+,Haenam Korean Restaurant,korean_restaurant,0.49399226903915405,category:korean,565 Clarke Rd,Coquitlam,V3J 3X4,+16049390077,,-122.8912007202275,49.26091657912797
+,밴쿠버 안경원,optometry,0.3611662685871124,name:hangul,329 North Rd #220,Coquitlam,V3K 3V8,+16049370003,http://www.drrlee.ca/,-122.89046047,49.24356456
+,OK Tour - 캐나다 최대 한인 여행사,travel_agent,0.9655,name:hangul,610-329 North Road,Coquitlam,V3K 3V8,6049399963,http://www.oktour.ca/,-122.8906433,49.2435875
+,Illo Kimbap Cafe,korean_restaurant,0.9158573150634766,category:korean,555 Clarke Rd #2,Coquitlam,V3J 3X4,+12365531515,,-122.89044785,49.26184597
+,한남여행사 Hannam Travel,tour_operator,0.535550057888031,name:hangul,511 Rochester Ave,Coquitlam,V3K 0A2,+16049313366,,-122.89069,49.24562
+,Wang Ga Ma,korean_restaurant,0.9996906678974629,category:korean,329 North Rd,Coquitlam,V3K 3V8,+16049366866,http://www.wanggama.ca,-122.89085502,49.2438643
+,Sol Lee's Korean Restaurant,korean_restaurant,0.9350926876068115,category:korean,329 North Rd Unit 550,Coquitlam,V3K 3V8,+16049318460,,-122.8901895,49.24390676
+,Toedam Korean Fusion BBQ,korean_restaurant,0.9906930327415466,category:korean,329 North Rd #250,Coquitlam,V3K 3V8,+16049395515,,-122.88999756,49.24356553
+,Kang's Kitchen,korean_restaurant,0.9644684195518494,category:korean,329 North Rd #240,Coquitlam,V3K 3V8,+16044923737,,-122.89003756,49.24352957
+,Bbong Korean Restaurant,korean_restaurant,0.9915183502435684,category:korean,329 North Rd #260,Coquitlam,V3K 3V8,+16044922900,http://www.bbong.ca,-122.8899297,49.24353787
+,붕붕모터스 & 렌트카,auto_dealer,0.7988678216934204,name:hangul,641 Lougheed Hwy,Coquitlam,V3K 3S5,+17783231264,,-122.8841,49.24206
+,Garden of Compassion Society 나눔정원,social_or_community_service,0.20344753563404083,name:hangul,25 Shoreline Cir,Port Moody,V3H 4T9,+16047653880,https://www.compassionsociety.ca/,-122.87606,49.2891
+,밴쿠버 복음자리교회,christian_place_of_worship,0.7844435572624207,name:hangul,931 Brunette Ave,Coquitlam,V3K 6T5,+16048090610,http://www.vghc.org/,-122.87277019999999,49.23757090000001
+,"마이유학 밴쿠버 MyUhak & MyStudy 밴쿠버 현지유학원, 조기유학 전문",educational_service,0.15703661739826202,name:hangul,931 Brunette Ave,Coquitlam,V3K 6T5,+17788790140,https://www.myuhak.ca/,-122.87102596,49.23753709
+,김원균 한의원,acupuncture,0.4274158477783203,name:hangul,931 Brunette Ave unit j,Coquitlam,V3K 6T5,+16044194503,,-122.87089006,49.23746778
+,밴쿠버성산교회,christian_place_of_worship,0.673346996307373,name:hangul,450 Blue Mountain St,Coquitlam,V3K 4K5,+16049390676,http://www.vancouversungsan.com/,-122.86986,49.2486
+,약손한의원 밴쿠버한의원 코퀴틀람 버나비 써리 메이플릿지와 랭리 에서 가까운 한의원,pharmacy,0.85,name:hangul,unit 106 - 938 Brunette Ave,Coquitlam,V3K 1C9,6045218785,http://www.yaksonclinic.ca/,-122.8700381,49.2371335
+,Over Karis Church 은혜의 은총교회,christian_place_of_worship,0.6282920241355896,name:hangul,439 Blue Mountain St,Coquitlam,V3K 4K4,+16046539818,,-122.8695878,49.2483833
+,밴쿠버 성안교회,christian_place_of_worship,0.8845987915992737,name:hangul,948 Como Lake Ave,Coquitlam,V3J 7P9,+17788991510,http://www.sunganpc.com/,-122.86914110184,49.263365827091
+,수학 자신감 밴쿠버,school,0.3502763509750366,name:hangul,952 Brunette Ave,Coquitlam,V3K 1C9,+12364127913,http://mathconfidence.net/,-122.86896139383,49.237134904552
+,Koreana Korean Restaurant,korean_restaurant,0.9880500435829163,category:korean,1001 Austin Ave #101,Coquitlam,V3K 3N9,+17783552800,http://www.koreanaeats.com/,-122.86788343,49.24916912
+,Dolsot,korean_restaurant,0.6087619662284851,category:korean,711 Blue Mountain St,Coquitlam,V3J 4S1,+16044423598,http://dolsot.ca/,-122.8684,49.26067
+,Tabom,korean_restaurant,0.9793625605106354,category:korean,1046 Austin Ave,Coquitlam,V3K 3P3,,,-122.86407,49.2488751
+,주님의 제자교회,christian_place_of_worship,0.9049587845802307,name:hangul,1065 Ridgeway Ave,Coquitlam,V3J 1S6,,https://jeja.ca/,-122.86289,49.24994
+,South Castle Korean Restaurant,korean_restaurant,0.9934032559394836,category:korean,1126 Austin Ave,Coquitlam,V3K 3P5,+16049394000,http://Pacific.foodpages.ca/,-122.8602573,49.2487769
+,Hangang Korean Restaurant,korean_restaurant,0.9896866679191589,category:korean,1150 Austin Ave,Coquitlam,V3K 3P5,+16049393373,http://www.hangangkoreanrestaurant.com/,-122.8586736,49.2487073
+,밴쿠버 새하늘교회 Saehanul Church,christian_place_of_worship,0.33438611030578613,name:hangul,1393 Austin Ave,Coquitlam,V3K 3P6,+17783215986,,-122.85494836,49.24910724
+,밴쿠버 성 김효주 아녜스 한인성당 청년부,roman_catholic_place_of_worship,0.2773192822933197,name:hangul,821 Fairfax St,Coquitlam,V3J 5K7,,http://open.kakao.com/o/gnXPzN7f,-122.85448,49.26484
+,Kim's BBQ House,barbecue_restaurant,0.31038543581962585,name:korean-surname,228 Schoolhouse St #15,Coquitlam,V3K 4X9,+16045252678,http://www.kimsbbqhouse.ca/,-122.85348174,49.236527
+,Seoul Table Tennis Club (서울탁구클럽) & BUTTERFLY PRO SHOP,sport_league,0.9657824039459229,name:hangul,115 Schoolhouse St #200,Coquitlam,V3K 4X8,+17785361405,http://Seoulttclub.com/,-122.8518699,49.23372013
+,Seoul Sofa,furniture_assembly,0.37654298543930054,name:token,115 Schoolhouse St #303,Coquitlam,V3K 6V9,+17785361405,,-122.85087911,49.23382273
+,TangMaRu,korean_restaurant,0.9700288772583008,category:korean,2810 St Johns St,Port Moody,V3H 2C1,+16044923383,,-122.84930952,49.27687434
+,ChunCheon DakGalBi / 춘천닭갈비,asian_fusion_restaurant,0.85,name:hangul,3017 Saint Johns Street,Port Moody,V3H 2C4,6044698585,http://www.chuncheonkbbq.com/,-122.8434665,49.2765884
+,Vancouver Korean Anglican Church(밴쿠버 한인 성공회 교회),anglican_or_episcopal_place_of_worship,0.2364111691713333,name:hangul,1933 Como Lake Ave,Coquitlam,V3J 3R2,+17788408070,https://vkanglican.ca/,-122.83916962,49.26362341
+,Juju Pocha,korean_restaurant,0.480267196893692,category:korean,2120 Austin Ave,Coquitlam,V3K 3R8,+16042622440,,-122.836217,49.248742
+,Fish & Grill,korean_restaurant,0.77,category:korean,3180 St Johns St,Port Moody,V3H 2C7,(604) 461-4461,http://www.fishgrill.com,-122.8358408912887,49.27691367092338
+,부동산밴쿠버,real_estate_service,0.3475128412246704,name:hangul,2189 Austin Ave #201,Coquitlam,V3K 3R4,+16049366000,https://koreanrew.com/,-122.83486016,49.24930515
+,Korean Success Business Network,professional_service,0.3005044758319855,name:token,2189 Austin Ave,Coquitlam,V3K 3R9,+16044405726,http://www.ksbnetwork.com/,-122.83467,49.24929
+,Korea Hapkido Canada Federation,sports_and_recreation,0.4958505928516388,name:token,6851 Elmbridge Way,Richmond,V7C,+17783169981,http://www.kangho.net/,-122.81882528457,49.27838
+,밴쿠버호산나한인교회 Hosanna Hanin Community Church,christian_place_of_worship,0.41821038722991943,name:hangul,2665 Runnel Dr,Coquitlam,V3E 1S3,+17783893391,https://vanhosanna.org/,-122.81331,49.27922
+,나무십자가한인교회,religious_organization,0.884516179561615,name:hangul,1460 Lansdowne Dr,Coquitlam,V3E 2N9,+17788717740,http://www.woodencrosschurch.com/,-122.8135139618,49.294146208839
+,Ongheya 코퀴쎈터 옹헤야 한국어학교,language_school,0.29377469420433044,name:hangul,1160 Lansdowne Dr,Coquitlam,V3B 5V8,+12369985297,http://instagram.com/ongheyakls,-122.80897304,49.28109969
+,Bambada,korean_restaurant,0.9804689508676528,category:korean,2764 Barnet Hwy #201,Coquitlam,V3B 1B9,+16044743900,https://www.bambada.ca/,-122.80589863,49.27743429
+,Gooi-Ga Korean BBQ,korean_restaurant,0.8730095028877258,category:korean,2922 Glen Dr,Coquitlam,V3B 2P5,+16044682661,,-122.79904549,49.28226005
+,Ham Ji Bak,korean_restaurant,0.9778194403648377,category:korean,2918 Glen Dr,Coquitlam,V3B 2P5,+16044742228,https://www.hamjibak.ca,-122.799371,49.282022
+,sandiegg00,korean_restaurant,0.5595483779907227,category:korean,2950 Glen Dr,Coquitlam,V3B 0J1,+17782851004,,-122.79829323292,49.282687812191
+,GoGo Chicken,korean_restaurant,0.9951021549999713,category:korean,2973 Glen Dr #105,Coquitlam,V3B 0C3,+16044643877,https://www.gogochicken.ca/#lp-pom-block-104,-122.79667292,49.28284496
+,Dae-ji,korean_restaurant,0.9662715518474578,category:korean,128 - 1153 The High St,Coquitlam,V3B 0B7,+16044744251,daejifood.com,-122.79593706,49.281381
+,HAAN Korean BBQ,korean_restaurant,0.9986553186178208,category:korean,3025 Lougheed Hwy,Coquitlam,V3B 6S2,+16049447188,http://WWW.haanbbq.COM/,-122.79406902,49.27582256
+,Galbi Korean BBQ COQUITLAM,korean_restaurant,0.9623907804489136,category:korean,2991 Lougheed Hwy #72,Coquitlam,V3B 6J6,+16044744616,https://sites.google.com/view/galbikoreanbbq,-122.79521174,49.276828
+,CLIMN 클림,womens_clothing_store,0.3067385256290436,name:hangul,1163 Pinetree Wy #1082,Coquitlam,V3B 8A9,+17789037181,http://climn.com/,-122.79263518,49.28009617
+,Seoul Truck Street Food,asian_restaurant,0.77,name:token,1163 Pinetree Way,Coquitlam,V3B 8A9,(604) 474-3511,https://www.seoultruckstreetfood.ca/MENU.html,-122.7927024,49.279698
+,Mamakeish Kpop Academy,dance_studio,0.9471174478530884,name:token,1163 Pinetree Wy #2116,Coquitlam,V3B 8A9,+17788145767,http://www.mamakeish.com/,-122.79281964,49.28003902
+,Sweet Tiger/Mixylicious - Coquitlam,korean_restaurant,0.21260879933834076,category:korean,1163 Pinetree Wy #2082,Coquitlam,V3B 8A9,+16044740186,,-122.79286677,49.28009762
+,TOKKi,korean_restaurant,0.9545907974243164,category:korean,1163 Pinetree Wy #2078,Coquitlam,V3B 8A9,+16045520036,https://g.co/kgs/yXKzjd,-122.79284679,49.27969665
+,Oz Korean Cuisine,korean_restaurant,0.9742156553268433,category:korean,1190 Pinetree Way,Coquitlam,V3B 0K8,+17789418633,https://oz-korean-cuisine.food96.com/,-122.79348385,49.28245388
+,Vesta Grill,korean_restaurant,0.77,category:korean,104 - 3025 Anson Ave,Coquitlam,V3B 4S4,(604) 552-1255,http://www.toktokvan.com/vestagrill/,-122.7922690947654,49.277627271251234
+,Meat table 육첩반상,korean_restaurant,0.8803697824478149,category:korean,12868 Clarke Pl,Richmond,V6V 2H1,+17787722341,https://tricity.starlocal.ca/international-dining/#korean,-122.79215588105,49.279294978933
+,Cafe SoBahn,korean_restaurant,0.9928579330444336,category:korean,3030 Lincoln Ave,Coquitlam,V3B 6B4,+16044755522,,-122.79185996,49.27880486
+,밴쿠버 최재동부동산,real_estate_service,0.36845576763153076,name:hangul,3030 Lincoln Ave,Coquitlam,V3B 6B4,+16047901035,http://www.choijaedong.com/,-122.79179,49.27865
+,Dookbaeki Korean Restaurant,korean_restaurant,0.9919069337844849,category:korean,3055 Anson Ave,Coquitlam,V3B 2H6,+16044740707,http://dookbaeki.ca,-122.79137911,49.27751566
+,bbq Chicken,korean_restaurant,0.9929196774959564,category:korean,2755 Lougheed Hwy,Port Coquitlam,V3B 5Y9,+16044752239,http://www.bbqchickenca.com/,-122.79013423,49.2744709
+,Kosoo Korean BBQ,korean_restaurant,0.9994911022484303,category:korean,1123 Westwood St #105,Coquitlam,V3B 0M1,+17782853777,http://kosookoreanbbq.com/,-122.79021033,49.27877651
+,T.E.O Sushi,korean_restaurant,0.77,category:korean,2579 Lougheed Hwy,Coquitlam,V3B 1B4,(604) 468-4888,,-122.78561934858487,49.271789671061626
+,TEO Korean Restaurant,korean_restaurant,0.9664380550384521,category:korean,2579 Lougheed Hwy,Port Coquitlam,V3B 1B4,+16044742579,,-122.785619,49.27179
+,캐나다 밴쿠버,korean_restaurant,0.742259681224823,category:korean,1140 Castle Cres,Port Coquitlam,V3C 5M2,+16048121364,,-122.77623,49.23337
+,밴쿠버 주원교회,christian_place_of_worship,0.7002829313278198,name:hangul,3151 York St,Port Coquitlam,V3B 4A7,+17789534357,https://www.youtube.com/user/joyopen,-122.76451406,49.27030035
+,한인타운 인쇄소 워치앤터치,printing_service,0.5823009610176086,name:hangul,1730 Broadway St,Port Coquitlam,V3C 2M8,+17789965820,http://www.watchtouchprinting.com/,-122.76137,49.24755
+,Gorugoru Food,korean_restaurant,0.5940315127372742,category:korean,3270 Coast Meridian Rd,Port Coquitlam,V3B 3N4,+16046749864,https://gorugorufood.com/,-122.75577791,49.27221682
+,Charong,korean_restaurant,0.30194178223609924,category:korean,950 Seaborne Ave #1120,Port Coquitlam,V3B 8G8,+17783020261,,-122.73996073,49.25664124
+,Gaon Noodle & Dumpling,korean_restaurant,0.6603994369506836,category:korean,815 Village Dr #185,Port Coquitlam,V3B 0G9,+17788718293,http://gaonkorea.ca/,-122.73681894,49.25224858
+,Mapo BBQ Garden,korean_restaurant,0.827541172504425,category:korean,815 Village Dr #190,Port Coquitlam,V3B 0G9,+16047351235,,-122.73673277,49.2523421
+,"벤쿠버,캐나다",korean_restaurant,0.48685798048973083,category:korean,6820 188 St,Surrey,V4N 3G6,,,-122.70143,49.1266
+,Kim's table,korean_restaurant,0.5779972076416016,category:korean,9613 192 St,Surrey,V4N 4C7,+16048829074,https://kimstable.ca/,-122.69088132307,49.176813745326
+,밴쿠버 반찬 배달 전문점 Happy Cuisine(코퀴딸맘),caterer,0.85,name:hangul,19289 Langley Bypass,Surrey,V3S 6K1,7783785011,https://happycuisine.ca/,-122.6881727,49.1055475
+,서광사 Seu Kwang Sa Buddhist Temple,buddhist_place_of_worship,0.8793230056762695,name:hangul,8425 196 St,Surrey,V4N 6B3,+16048884647,,-122.68138721,49.15612338
+,Baik Mi Korean Restaurant,korean_restaurant,0.9834708255529404,category:korean,19539 Fraser Hwy,Surrey,V3S 6K7,+17782780788,http://baikmikoreanrestaurant.placeweb.site,-122.68132589,49.11549515
+,밴쿠버 온누리교회,protestant_place_of_worship,0.8699511885643005,name:hangul,19711 86 Ave,Langley Twp,V2Y 1Z5,+16048880092,https://van.onnuri.or.kr/,-122.67638,49.15931
+,SKOBI Sushi & Korean BBQ,sushi_restaurant,0.9958914518356323,name:token,19933 88 Ave #105,Langley Twp,V2Y 0C8,+16043710050,http://skobi.ca/,-122.66969069,49.16152
+,VGMC청년부,religious_organization,0.8545421791076661,name:hangul,5673 200 St,Langley,V3A 1M7,,http://vgmc.org/,-122.66898,49.1054
+,Kovan Korean Restaurant,restaurant,0.85,name:token,6339 200 Street #804,Langley City,V2Y 1A2,6044272553,https://kovan.ca/,-122.6686889,49.1181681
+,Coship-캐나다쉬핑,shipping_center,0.41575315594673157,name:hangul,20120 102B Ave,Langley Twp,V1M 3G9,+16044551000,,-122.66362,49.18862
+,Yorkson Pharmacy 랭리 욕슨 한인 약국,pharmacy,0.24184174835681915,name:hangul,20144 86 Ave #140,Langley Twp,V2Y 3W6,+17783663552,,-122.66378121,49.15890257
+,CHITOS chicken 치토스치킨,asian_fusion_restaurant,0.9926406177580357,name:hangul,20330 88 Avenue #160,Langley City,V1M 2Y4,6043712770,https://chitoschicken.com/,-122.6589089,49.1620772
+,Woorinara Korean Restaurant,korean_restaurant,0.9927888512611389,category:korean,5499 203 St #102,Langley,V3A 1W1,+16044272277,http://www.woorinara.ca,-122.65987712,49.1023462
+,밴쿠버포스 POS 온라인주문 식당포스,it_service_and_computer_repair,0.85,name:hangul,20316 82A Ave,Langley Township,V2Y 0Z1,7788357117,http://luckyhan.ca/,-122.6586832,49.1526342
+,Mokran Restaurant,korean_restaurant,0.9639867544174194,category:korean,20349 88 Ave Unit 7A,Langley Twp,V1M 2K5,+16048888825,,-122.65882046,49.16334002
+,Chamnamoo Korean Restaurant,korean_restaurant,0.9911735653877258,category:korean,20349 88 Ave,Langley Twp,V1M 1E6,+16048825882,http://chamnamookoreanrestaurant1.placeweb.site,-122.65805021,49.16335426
+,Salon de Damda 살롱드담다,hair_salon,0.8783401846885681,name:hangul,8843 204 St,Langley Twp,V1M 2K4,+16728558843,https://www.instagram.com/salonde_damda/,-122.6574569,49.16308763
+,Yam It,korean_restaurant,0.48089367151260376,category:korean,20436 Fraser Hwy #104,Langley,V3A 4G2,+17786063003,,-122.65569547,49.10438819
+,밴쿠버 선교교회,protestant_place_of_worship,0.7365812063217163,name:hangul,"Fosmark Centre, ",Langley Twp,V2Y 2S8,+17788998603,http://www.youtube.com/@vemchurch,-122.65472,49.12073
+,Canada School District 42 Korea,high_school,0.5982975363731384,name:token,20575 Thorne Ave,Maple Ridge,V2X 9A6,+16044666555,http://www.inted.sd42.ca/,-122.653084,49.214991
+,RIB&CHICKEN Chunggiwa,korean_restaurant,0.6763065457344055,category:korean,5568 206 St #103,Langley,V3A 7T1,+12364730341,,-122.65053576,49.10447509
+,Banchan Korean Bistro,korean_restaurant,0.9868669509887695,category:korean,20689 Willoughby Town Centre Dr A160,Langley Twp,V2Y 0X7,+16048882110,http://www.banchan.ca/,-122.6487136,49.14582438
+,Lee's Market,grocery_store,0.9943771296739579,name:korean-surname,23320 Mavis Ave,Langley Twp,V1M 2S5,+16048885622,http://www.leesmarket.ca/,-122.57730182,49.16978903
+,Inbutae Korean Hair Salon,beauty_salon,0.522826075553894,name:token,,Maple Ridge,,+16043964252,https://inbutaehair.setmore.com/,-122.51953125,49.181703387707

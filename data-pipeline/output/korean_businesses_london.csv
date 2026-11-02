@@ -1,0 +1,836 @@
+﻿id,name,category,confidence,reason,address,locality,postcode,phone,website,lng,lat
+,Post Office,korean_grocery_store,0.85,category:korean,14 Station Approach,West Byfleet,KT14 6NG,03456112970,https://www.postoffice.co.uk/,-0.50553145,51.3384432
+,Whisk Hampers,korean_grocery_store,0.85,category:korean,"Unit B2 Tannery Lane, Send",Woking,GU23 7EF,08459001292,http://www.whiskhampers.co.uk/,-0.5254337,51.2957049
+,Roberts Building Services Ltd.,korean_grocery_store,0.85,category:korean,"3 Tannery House, Tannery Lane",Woking,GU23 7EF,01483222066,,-0.5243795,51.2965745
+,Send Post Office,korean_grocery_store,0.9655,category:korean,152-153 Send Road,Woking,GU23 7EZ,01483223791,https://www.postoffice.co.uk/branch-finder/1769235/send?campaignid=gmb~bf~1769235~google~na~05022025&y_source=1_NjI0OTk0MzctNDgzLWxvY2F0aW9uLndlYnNpdGU%3D,-0.5325571533729456,51.291417134995896
+,Yori,korean_restaurant,0.77,category:korean,,Staines-Upon-Thames,TW18 4PA,01784 452613,https://yoriuk.com,-0.5076121524978082,51.43490323098442
+,Kokoro,korean_restaurant,0.77,category:korean,Two Rivers Shopping Centre,Staines-Upon-Thames,TW18 4UP,01784 466336,https://kokorouk.com,-0.510729,51.434573
+,Budgens,korean_grocery_store,0.97,category:korean,"Castle House, Bridge Street, Colnbrook",Slough,SL3 0JH,01753686638,,-0.5216332650297106,51.48351886923905
+,Kim's Kitchen,chinese_restaurant,0.9722101694345474,name:korean-surname,12 Kingston Rd,Staines,TW18 1AT,+441784454067,https://1map.top/kim-s-kitchen,-0.49476173,51.42858008
+,The Co-operative Food,korean_grocery_store,0.9655,category:korean,1 Fordwater Road,Chertsey,KT16 8HW,01932567961,https://southern.coop/store-locator/l/-/chertsey/1-fordwater-road/4705322,-0.49474239,51.38800778
+,Thorpe Post Office,korean_grocery_store,0.85,category:korean,Green Road,Egham,TW20 8QS,01932563224,https://www.postoffice.co.uk/branch-finder/144025x/thorpe?campaignid=gmb~bf~144025x~google~na~05022025&y_source=1_NjI0OTM1MDctNzE1LWxvY2F0aW9uLndlYnNpdGU=,-0.5354211,51.4063145
+,영국 게스트하우스,hotel,0.5,name:hangul,102 ST. ANNS ROAD,CHERTSEY,KT16 9EQ,,,-0.5128821,51.3950443
+,BUK-A Korean Japanese Restaurant,pizza_restaurant,0.9964899781346321,name:token,48 Guildford St,Chertsey,KT16 9BE,+442045681308,https://buk-a.com/,-0.50711637,51.38848339
+,Martins,korean_grocery_store,0.9655,category:korean,10 Sainsbury Centre,Chertsey,KT16 9AG,01932569498,,-0.5044663,51.3911935
+,Post Office-Ottershaw,korean_grocery_store,0.925,category:korean,"20 Brox Road, Ottershaw",Chertsey,KT16 0HL,03456112970,https://www.postoffice.co.uk/,-0.53038761,51.36430659
+,Iceland Supermarket Addlestone,korean_grocery_store,0.9655,category:korean,120/124 Station Road,Addlestone,KT15 2BQ,01932846835,https://www.iceland.co.uk/store-finder/store?StoreID=601&StoreName=ADDLESTONE&utm_source=Google&utm_medium=GMB&utm_campaign=Store,-0.487079,51.3717189
+,Post Office,korean_grocery_store,0.98275,category:korean,117 Station Road,Addlestone,KT15 2AS,03456112970,https://www.postoffice.co.uk/,-0.487029,51.3717276
+,Umi7 -Thai & Korean Restaurant,asian_fusion_restaurant,0.999407552331686,name:token,174 Station Rd,Addlestone,KT15 2BD,+441932558882,http://www.umi7.co.uk/,-0.48477875,51.3725399
+,Budgens of East Horsley,korean_grocery_store,0.98275,category:korean,"1-2 Parade, Ockham Road South, East Horsley",Leatherhead,KT24 6QN,01483282881,https://www.budgens.co.uk/our-stores/east-horsley,-0.4355023,51.2778633
+,East Horsley Ockham Rd South Sainsbury's (Argos Collection Point),korean_grocery_store,0.85,category:korean,1-2 Station Parade,East Horsley,KT24 6QN,03456402020,https://www.argos.co.uk/stores/6191-east-horsley-ockham-rd-south-sainsbury's-(argos-collection-point)?y_source=1_MjAwNTc4MTM3MC00ODMtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D,-0.4355,51.2772
+,Kokoro,korean_restaurant,0.77,category:korean,22 High St,Weybridge,KT13 8AB,01932 829656,https://kokorouk.com,-0.4580596411548148,51.372866281384304
+,Kokoro,korean_restaurant,0.77,category:korean,48 High Street,Walton-on-Thames,KT12 1BY,,https://kokorouk.com,-0.41843903,51.38486
+,Zola Food Services Ltd.,korean_grocery_store,0.7699999809265137,category:korean,2 GARRISON PARADE,PURFLEET-ON-THAMES,RM19 1ST,01708867470,,-0.4082693,51.3917767
+,"Pankhania & Co., Best-One",korean_grocery_store,0.9931,category:korean,91-93 Green Street,Middx,TW16 6RD,01932772059,https://stores.best-one.co.uk/pankhania-and-co-best-one-5aed558c396e?y_source=1_MTI3MjQxODItNDgzLWxvY2F0aW9uLndlYnNpdGU%3D,-0.41468280953745307,51.40703961993414
+,Budgens,korean_grocery_store,0.9931,category:korean,6-7 Avenue Parade,Lower Sunbury,TW16 5HS,01932786009,,-0.40598935398463265,51.40699125912764
+,Spa Plaza,korean_grocery_store,0.9931,category:korean,Halfway 81 Hersham Rd,Walton On Thames,KT12 1RJ,01932252263,https://www.nisalocally.co.uk/stores/surrey/walton-on-thames/halfway-81-hersham-rd,-0.40622883,51.37333255
+,Hampton Post Office,korean_grocery_store,0.9655,category:korean,96 Station Road,Hampton,TW12 2AX,02089799613,https://www.postoffice.co.uk/branch-finder/0590258/hampton?campaignid=gmb~bf~590258~google~na~05022025&y_source=1_NjI0ODk4ODAtNDgzLWxvY2F0aW9uLndlYnNpdGU%3D,-0.36747971479099695,51.41532401372961
+,Kimchi Village,korean_restaurant,0.5,category:korean,63 High St,Kingston upon Thames,KT3 4BT,,,-0.3123921,51.4138846
+,Sainsbury's Local,korean_grocery_store,0.981154305934906,category:korean,"59-61 High Street, Hampton Wick",Surrey,KT1 4DG,03456016396,https://stores.sainsburys.co.uk/5216/hampton-wick-high-street?utm_source=extnet&utm_medium=yext&y_source=1_MjAwNTQ5MzE2NS00ODMtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D,-0.31229,51.41386
+,UK KOREA Education Hub,language_school,0.24221688508987427,name:token,Gb,Kingston upon Thames,KT1 4JF,,https://www.ukeh.co.uk/,-0.309909,51.416637
+,Korea Hero,korean_restaurant,0.5,category:korean,64 HIGH STREET,KINGSTON UPON THAMES,KT1 1HN,442070627401,https://koreaherouk.co.uk/,-0.3082014,51.4068848
+,Masil,korean_restaurant,0.9994429416787155,category:korean,34 SURBITON ROAD,KINGSTON UPON THAMES,KT1 2HX,+442035380901,http://www.masil.co.uk/,-0.3049776,51.4018831
+,Kokoro,korean_restaurant,0.77,category:korean,Victoria Rd,Surbiton,KT6 4JU,020 8399 7300,https://kokorouk.com,-0.305157,51.392913
+,London Korean School,language_school,0.77,name:token,Garrison Lane,Chessington,KT9 2JS,07958 599153,http://www.londonkoreanschool.com,-0.309355,51.356645
+,Post Office-Barnettwood Lane,korean_grocery_store,0.9655,category:korean,230 Barnettwood Lane,Ashtead,KT21 2DB,03456112970,https://www.postoffice.co.uk/,-0.3099849,51.3138261
+,Sainsbury's Local,korean_grocery_store,0.9854676324129105,category:korean,115A Convent Road,Ashford,TW15 2HW,03458508724,https://stores.sainsburys.co.uk/5185/ashford-convent-road?utm_source=extnet&utm_medium=yext&y_source=1_MjAxODk2ODYzMi00ODMtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D,-0.45297,51.42914
+,DHL Express Service Point (Mann Trader),korean_grocery_store,0.9933990856707096,category:korean,"1 Shelson Parade, Ashford Rd",Feltham,TW13 4QZ,08442480844,https://uk.express.dhl.com/?utm_source=bing&utm_medium=organic&utm_campaign=bing&y_source=1_Mzg2NjQ5NzAtNDgzLWxvY2F0aW9uLndlYnNpdGU%3D,-0.42464832576027733,51.43723272405885
+,Korean Air,airline,0.85,name:token,"Terminal Four, London Heathrow Airport",Hounslow,TW6 3FB,02088970030,http://www.koreanair.com/,-0.4476724,51.4592576
+,M&S Heathrow T3 Airport Simply Food,korean_grocery_store,0.9931,category:korean,"Arrivals Lounge Terminal 3, Heathrow Airport",Hounslow,TW6 1QG,02087548167,http://www.marksandspencer.com/MSStoreDetailsView?storeId=10151&langId=-24&SAPStoreId=5704&extid=gmb_bing_5704_listing,-0.4577105,51.4714347
+,M&S Simply Food,korean_grocery_store,0.9655,category:korean,"2 Burns Way, Cranford Roundabout",Hounslow,TW5 9BA,02088141106,https://www.marksandspencer.com/stores/hounslow-cranford-bp-0080?extid=local,-0.3960466,51.4760783
+,Tesco Express,korean_grocery_store,0.9931,category:korean,"Tesco, 179 North Hyde Lane",Southall,UB2 5SG,03333452343,https://www.tesco.com/store-locator/southall/tesco-13643549-5362-4577-b855-2ac2844a65b4?sc_cmp=ref*yg*stc*6582&utm_source=yext_extnet&utm_campaign=local_Express_England&utm_medium=referral,-0.38096818538827293,51.4918683023786
+,Stainsway Supermkt,korean_grocery_store,0.9985508117854596,category:korean,493 Staines Rd,Hounslow,TW4 5AR,02085771992,https://www.nisalocally.co.uk/stores/greater-london/hounslow/493-staines-rd,-0.3873450645169214,51.46330079596653
+,Post Office-The Mount,korean_grocery_store,0.9655,category:korean,"2 Market Parade, Hampton Road West",Feltham,TW13 6AJ,03456112970,https://www.postoffice.co.uk/,-0.3880939,51.4404995
+,Kim's Nail Salon,nail_salon,0.935099410894634,name:korean-surname,3 HIGH STREET,TWICKENHAM,TW2 7LA,+442087445430,,-0.3577996,51.4529263
+,"Singh'S Shop Ltd., Best-One",korean_grocery_store,0.9931,category:korean,475-477 London Road,Isleworth,TW7 4BX,02085601958,https://stores.best-one.co.uk/singhs-shop-ltd-best-one-dc188cfeebd6?y_source=1_MTI3MjQ2MjUtNDgzLWxvY2F0aW9uLndlYnNpdGU%3D,-0.3378494607070479,51.47499140939341
+,Asda Twickenham Supermarket,korean_grocery_store,0.9931,category:korean,"Ivy Bridge Retail Park, Twickenham Rd",Twickenham,TW7 7DY,02032610100,http://storelocator.asda.com/store/twickenham,-0.33203,51.45963
+,Kokoro,korean_restaurant,0.77,category:korean,25 Heath Rd,Twickenham,TW1 4AW,020 8892 7775,https://kokorouk.com,-0.3312994236499009,51.44512331406534
+,Kokoro,korean_restaurant,0.77,category:korean,100 High St,Epsom,KT19 8BJ,07922 254096,https://kokorouk.com,-0.2693090407513711,51.333211788372665
+,Sainsbury's Groceries Click & Collect,korean_grocery_store,0.995369775274396,category:korean,Kiln Lane,Epsom,KT17 1EQ,01372745240,https://stores.sainsburys.co.uk/0683/kiln-lane,-0.25773,51.3416
+,Ewell Court Post Office,korean_grocery_store,0.9655,category:korean,179 Kingston Road,Epsom,KT19 0AA,02083940277,https://www.postoffice.co.uk/branch-finder/?y_source=1_NjI1MDIxMDQtNzE1LWxvY2F0aW9uLndlYnNpdGU=,-0.2532458,51.3605347
+,Loco,korean_grocery_store,0.9655,category:korean,"34 Hogsmill Way, West Ewell",Epsom,KT19 9PE,02082241986,https://www.nisalocally.co.uk/stores/greater-london/epsom/34-hogsmill-way,-0.2752092417335916,51.36733902371065
+,Chois Wok,chinese_restaurant,0.9840871389899005,name:korean-surname,440 EWELL ROAD,SURBITON,KT6 7EL,+442083902848,,-0.28197,51.38182
+,Affordable Korean,fashion_accessories_store,0.5,name:token,425a EWELL ROAD,SURBITON,KT6 7ES,447930088844,,-0.2814687,51.382072
+,K' Korean Takeaway,korean_restaurant,0.22052669525146484,category:korean,310 Ewell Rd,Surbiton,KT6 7AL,+442035187179,,-0.29251264,51.38420527
+,Korean Church London,christian_place_of_worship,0.9399229282140732,name:token,37 Grove Cres,Kingston upon Thames,KT1 2DG,+442085490180,http://www.londonkc.com,-0.30273985,51.40477578
+,Mccluskey's Wines & Spirits,korean_grocery_store,0.85,category:korean,22 Bloomfield Road,Kingston Upon Thames,KT1 2SE,02085468655,,-0.2997983,51.4033617
+,Design Happy Ltd.,korean_grocery_store,0.9775,category:korean,51 Portland Road,Kingston Upon Thames,KT1 2SH,02081440078,,-0.298245,51.4042643
+,한인교회 | 런던엘림감리교회 | London Elim Methodist Church,christian_place_of_worship,0.8432585597038269,name:hangul,Fairfield E,Kingston upon Thames,KT1 2PT,+447470819229,,-0.29847481,51.41004995
+,Yoriya,korean_restaurant,0.9988310432306378,category:korean,2 Castle St,Kingston upon Thames,KT1 1SS,+447463993386,,-0.30175917,51.41094855
+,Horang-i,korean_restaurant,0.5,category:korean,4 CASTLE STREET,KINGSTON UPON THAMES,KT1 1SS,442085413626,,-0.3017363,51.4110902
+,Gisa,korean_restaurant,0.5,category:korean,27 CASTLE STREET,KINGSTON UPON THAMES,KT1 1ST,,,-0.3020905,51.4116448
+,Gurume Kingston,korean_restaurant,0.5,category:korean,27 CASTLE STREET,KINGSTON UPON THAMES,KT1 1ST,,https://gurumekingston.co.uk/,-0.3020905,51.4116448
+,Joa Korean Takeaway,korean_restaurant,0.9993591778795757,category:korean,22 CASTLE STREET,KINGSTON UPON THAMES,KT1 1SS,+447944113575,http://rootsandfriends.com,-0.3017319,51.411518
+,Dolsot Korean Restaurant,korean_restaurant,0.5,category:korean,37 Richmond Rd,"Kingston, Greater London",KT2 5BW,020 3417 6690,http://www.dolsot.co.uk,-0.3008839,51.4139997
+,Korean Vintage Goods,home_goods_store,0.5,name:token,74 RICHMOND ROAD,KINGSTON UPON THAMES,KT2 5EL,,,-0.3007883,51.4154305
+,Goddess Cosmetics 여신 화장품,skin_care_and_makeup,0.5,name:hangul,"FLAT 38, YORK ROAD",KINGSTON UPON THAMES,KT2 6JQ,447494613822,https://24ouruk.wixsite.com/wio-site,-0.2912575,51.4170212
+,Healing Acupuncture & Herb Medicine(힐링한의원),acupuncture,0.5,name:hangul,3 MATLOCK WAY,NEW MALDEN,KT3 3AT,447477868663,,-0.265128,51.4111512
+,Kookbab Korean Spoon,korean_restaurant,0.5,category:korean,152-178 KINGSTON ROAD,NEW MALDEN,KT3 3ST,447462082113,,-0.271,51.40201
+,런던한겨레학교,school,0.5903216004371643,name:hangul,"Junior Department - Christ Church Primary School, Elm Rd, New Malden",New Malden,KT3 3HN,,https://www.onekoreanschool.org/,-0.26549347800028,51.404030232307
+,Cham Kimbap and Doshirak,korean_restaurant,0.9936853906512261,category:korean,127 Kingston Rd,New Malden,KT3 3NX,+447563548772,https://chamdoshirak.wordpress.com/,-0.26479383,51.40063367
+,Korean Martial Arts Masters Association,martial_arts_club,0.5,name:token,117-119 KINGSTON ROAD,NEW MALDEN,KT3 3NX,,,-0.2644085,51.4006492
+,Korea Garden,chinese_restaurant,0.8809257951378823,name:token,73 Kingston Road,New Malden,KT3 3PB,+442083361208,https://www.yell.com/s/restaurants,-0.261988,51.399909
+,Soya New Malden,korean_restaurant,0.9955818442106247,category:korean,79-81 Kingston Road,New Malden,KT3 3PB,+442089498880,http://www.soya.uk.com/,-0.26247,51.40002
+,Cah Chi BBQ Korean Restaurant,restaurant,0.9819529950618744,name:token,79-81 Kingston Road,New Malden,KT3 3,,,-0.26247,51.40002
+,Wu Di Restaurant,korean_restaurant,0.9995660024469686,category:korean,73 KINGSTON ROAD,NEW MALDEN,KT3 3PB,+442083361208,,-0.2621817,51.3999661
+,Aka Korean and Japanese Foods,asian_restaurant,0.94414421916008,name:token,79-81 Kingston Rd,New Malden,KT3 3PB,+441323417451,http://www.soyachoi.com/,-0.26239205,51.39990253
+,Genghis Khan,korean_restaurant,0.9990877374386101,category:korean,87 KINGSTON ROAD,NEW MALDEN,KT3 3PA,+442089497977,,-0.2629529,51.4001425
+,Korean Nak Won Foods,korean_grocery_store,0.5,category:korean,89 KINGSTON ROAD,NEW MALDEN,KT3 3PA,442089496474,,-0.262996,51.4001387
+,Tongdak,korean_restaurant,0.9928622024661081,category:korean,95a KINGSTON ROAD,NEW MALDEN,KT3 3PA,+442089423888,https://tongdakck.co.uk,-0.2632614,51.4002901
+,Home Bento,korean_restaurant,0.9811258962750435,category:korean,2 Park Rd,New Malden,KT3 5AF,+447387085919,https://showmethemenu.net/place/48,-0.26382354,51.39948125
+,Korean Interpreters & Translators,translation_service,0.885,name:token,36 CAMBRIDGE ROAD,NEW MALDEN,KT3 3QG,442089422200,,-0.2593393,51.4015966
+,Kangnam,korean_restaurant,0.9888017773628235,category:korean,19A High St,New Malden,KT3 4BY,+442089425243,,-0.25665084,51.4028331
+,Han,korean_restaurant,0.9990991979837418,category:korean,1 High Street,New Malden,KT3 4DQ,+442089497730,https://hankaraoke.wordpress.com/,-0.257082,51.403341
+,영국비자센터,,0.7931400239467621,name:hangul,"46/50 coombe road, New Malden",New Malden,KT3 4QF,+442033711033,http://www.imin4u.com/,-0.2575261,51.4053126
+,Butcher Restaurant,korean_restaurant,0.9828533440828323,category:korean,27 Coombe Road,New Malden,KT3 4PX,+442089491623,,-0.256899,51.404704
+,Sainsbury's Local,korean_grocery_store,0.9931,category:korean,9 Coombe Road,New Malden,KT3 4QG,01777804744,https://stores.sainsburys.co.uk/5238/new-malden-coombe-road?utm_source=extnet&utm_medium=yext&y_source=1_MTA5ODc0MTA2NS00ODMtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D,-0.2567,51.4044
+,K-town Bbq,korean_restaurant,0.999669157620044,category:korean,8-10 COOMBE ROAD,NEW MALDEN,KT3 4QE,+447719733635,http://www.ktown.uk/,-0.2573837,51.4044739
+,K Town,korean_restaurant,0.77,category:korean,,New Malden,KT3 4QE,020 8949 6249,http://www.ktownbbq.co.uk,-0.257083,51.403983
+,Ohaio,korean_restaurant,0.9270468606054783,category:korean,1 COOMBE ROAD,NEW MALDEN,KT3 4PX,442089497266,,-0.2567097,51.4039873
+,Dr Ryu Clinic  런던한의원,hospital,0.7834187265435038,name:hangul,"Unit 4, St. Georges Court, St.Georges Square",New Malden,KT3 4HG,+442082417361,http://www.DrRyu.co.uk/,-0.25657913666746135,51.40349997052245
+,Waitrose & Partners,korean_grocery_store,0.85,category:korean,24-28 High Street,New Malden,KT3 4HE,02089428988,https://www.waitrose.com/find-a-store/new-malden?utm_source=ExtNet&utm_medium=Yext&y_source=1_MTA4NTgwMjEtNDgzLWxvY2F0aW9uLndlYnNpdGU%3D,-0.256117,51.4027151
+,Koreatown,korean_restaurant,0.9105841785669326,category:korean,,New Malden,,,,-0.255839,51.402371
+,KoCo Korean Cosmetics,beauty_supply_store,0.06945588439702988,name:token,"First Floor, 38 High St",New Malden,KT3 4HE,,,-0.25616232,51.40221454
+,Seoul Plaza,grocery_store,0.9972663843631744,name:token,36 High St,New Malden,KT3 4HE,+442089494329,http://www.koreafoods.co.uk,-0.25621416,51.40229143
+,"New Malden, Korean Town",korean_restaurant,0.8547846078872681,category:korean,,New Malden,,,,-0.2563392141471753,51.40183724194618
+,KJ's Restaurant,korean_restaurant,0.77,category:korean,65 High St,New Malden,KT3 4BT,020 8942 3602,http://hungryhouse.co.uk/kj?aid=4fe99398aea34&bid=11ba4842,-0.2563108464831743,51.401589958908296
+,Treestone Bbq Restaurant,korean_restaurant,0.5,category:korean,71 HIGH STREET,NEW MALDEN,KT3 4BT,447943905142,https://treestonekitchen.com/,-0.2563654,51.4015131
+,Yami Restaurant,korean_restaurant,0.9988076195120812,category:korean,69 High St,New Malden,KT3 4BT,+442089490069,https://yamibbq.co.uk/,-0.25623756,51.40157218
+,The Tree Stone,korean_restaurant,0.9979502338171006,category:korean,71 High Street,New Malden,KT3 4BT,+442089425471,http://www.thetreestone.co.uk/,-0.25613216080224216,51.40152616464637
+,Korea Foods Company Limited,convenience_store,0.77,name:token,34 High St,New Malden,KT3 4HE,020 8949 4329,http://koreafoods.co.uk,-0.25473037909038676,51.4019365701762
+,Scj Bibimbap And Chimaek,korean_restaurant,0.9999198140719447,category:korean,160 HIGH STREET,NEW MALDEN,KT3 4ES,+442080011546,https://www.chickennewmalden.co.uk,-0.25522,51.39925
+,Korean Services,travel_agent,0.9920649993419647,name:token,171 High Street,New Malden,KT3 4BH,02089491177,http://www.kstravel.co.uk/,-0.2555663,51.3995158
+,Hamgipak,korean_restaurant,0.9340608209371567,category:korean,169 High Street,New Malden,KT3 4BH,+442089429588,http://new-malden.mapcomp.co.uk,-0.255869,51.399444
+,Imone Bbq 이모네 바베큐,korean_restaurant,0.9649854898452759,category:korean,"BBQ, Imone, 171 High St",New Malden,KT3 4BH,+442089498175,http://imonebbq.com/,-0.25577127,51.39950561
+,Imone,korean_restaurant,0.9991467612981796,category:korean,169 High St,New Malden,KT3 4BH,+442089429588,http://www.ImoneLondon.com/,-0.25567281,51.39955298
+,Connect North Korea,professional_service,0.77,name:token,149 High St,New Malden,KT3 4BH,020 3609 5415,http://www.connectnorthkorea.org,-0.255768,51.399611
+,Midam Restaurant,korean_restaurant,0.5,category:korean,183 HIGH STREET,NEW MALDEN,KT3 4BH,442033456857,http://midam21.co.uk/,-0.2560352,51.3992603
+,Bokko Korean Hair Salon,hair_salon,0.5,name:token,"1st floor, Dawson House, 131-135 High St",New Malden,KT3 4BH,447508045097,,-0.2560055,51.3999668
+,Celocom Express / Cx 특송,freight_forwarding_agency,0.5,name:hangul,"UNIT 20, KINGSTON ROAD",NEW MALDEN,KT3 3ST,447562653572,http://www.celocomx.com/,-0.2580707,51.398747
+,Sorabol,korean_restaurant,0.9886848586976528,category:korean,180 High Street,New Malden,KT3 4ES,+442089422334,http://www.sorabol.co.uk,-0.2557008,51.3990062
+,KumKang Korean Restaurant,korean_restaurant,0.9698117971420288,category:korean,180 High St,New Malden,KT3 4ES,+442089422334,http://www.kumkang.co.uk/,-0.25543606,51.39888711
+,Fountain,korean_grocery_store,0.9633550927042961,category:korean,120 Malden Road,New Malden,KT3 6DD,02089421717,http://www.johnbarras.com/pub/fountain-new-malden/c1516/?utm_source=g_places&utm_medium=link&utm_campaign=places&utm_content=c1516,-0.2554877,51.3984333
+,롯데스시 Lotte sushi,sushi_restaurant,0.7428048849105835,name:hangul,126 Malden Road,New Malden,KT3 6DD,+447960075065,http://www.view.co.uk/london/v/lotte-sushi,-0.255062,51.398259
+,Zazza Korean Noodles,restaurant,0.5,name:token,126 MALDEN ROAD,NEW MALDEN,KT3 6DD,442035929082,,-0.25498,51.3982469
+,Seoul Plaza,shopping,0.9999861971010064,name:token,126 MALDEN ROAD,NEW MALDEN,KT3 6DD,+442089429552,http://www.koreafoods.co.uk,-0.25498,51.3982469
+,Residential Seoul,,0.9968059018999338,name:token,158 High Street,New Malden,KT3 4ES,02089492373,http://www.sr4u.co.uk/,-0.2553017,51.399163
+,Bora Travel (주) 보라여행사,travel_agent,0.5,name:hangul,91 BURLINGTON ROAD,NEW MALDEN,KT3 4LR,442082417987,http://boratravel.com/,-0.2498722,51.3992531
+,You Me Restaurant,korean_restaurant,0.9980401927232743,category:korean,96 Burlington Rd,New Malden,KT3 4NT,+442087151079,https://www.yell.com/s/restaurants,-0.24946405,51.39898129
+,Azit,korean_restaurant,0.8709835287586234,category:korean,76 Burlington Road,New Malden,KT3 4NU,+447951441152,http://www.azit.co.uk/,-0.25035,51.398895
+,Go!k-bbq,restaurant,0.5,name:token,76 BURLINGTON ROAD,NEW MALDEN,KT3 4NU,442033406836,https://www.gok-bbq.co.uk/,-0.250404,51.3988097
+,Seoul Matjib,korean_restaurant,0.9986771766867619,category:korean,74 BURLINGTON ROAD,NEW MALDEN,KT3 4NU,+442089420682,,-0.2504867,51.3988045
+,런던 제자촌교회,christian_place_of_worship,0.8005182147026062,name:hangul,Worple Rd,London,SW20 8RA,+447861686103,,-0.22885096,51.41070306
+,Raynes Park Post Office,korean_grocery_store,0.9655,category:korean,1A Amity Grove,London,SW20 0LL,03457223344,https://www.postoffice.co.uk/branch-finder/0110019/raynes-park?campaignid=gmb~bf~110019~google~na~05022025&y_source=1_NjI1MDM2NzktNzE1LWxvY2F0aW9uLndlYnNpdGU=,-0.2318541,51.4096972
+,Korean Community Centre,language_school,0.885,name:token,110 Coombe Ln,London,SW20 0AY,07759 815080,https://www.thekef.org.uk,-0.2338852,51.4098782
+,Raynes Park Korean Church,christian_place_of_worship,0.9162253141403198,name:token,Durham Rd,London,SW20 0DE,+442089499133,http://www.rpkclondon.org/,-0.23354997,51.41172097
+,Cah-Chi,korean_restaurant,0.77,category:korean,34 Durham Rd,Raynes Park,SW20 0TW,020 8947 1081,http://www.cahchi.com,-0.23291052222966627,51.41062106954838
+,Gaya Korean Restaurant,korean_restaurant,0.885,category:korean,34 DURHAM ROAD,LONDON,SW20 0TW,447545618082,,-0.2327587,51.4105474
+,Ginseng Korean Kitchen,korean_restaurant,0.7463480846768409,category:korean,74 Richmond Road,London,SW20 0PD,+442082416081,http://theginseng.co.uk/,-0.23627,51.41119
+,LFGC Youth 런던순복음교회 청년부,religious_organization,0.7066006064414978,name:hangul,37 West Barnes Lane,London,SW20 0BL,+442089446781,http://lfgc.co.uk/,-0.23504290945873477,51.408545567653846
+,Korea Foods,grocery_store,0.77,name:token,Unit 5 Wyvern Ind Est,New Malden,KT3 4PH,020 8949 2238,http://www.koreafoods.co.uk,-0.24371174388400987,51.40089124557765
+,Chick and Beers,korean_restaurant,0.9885127544403076,category:korean,282 Burlington Rd,New Malden,KT3 4NL,+442089421932,https://www.chickandbeers.uk/index?l=en,-0.23873188,51.40022739
+,Jin Go Gae,korean_restaurant,0.9939380007982254,category:korean,272 Burlington Rd,New Malden,KT3 4NL,+442089492506,https://jingogae.wordpress.com,-0.23917397,51.40004786
+,Ggm Restaurant,korean_restaurant,0.9923050831660447,category:korean,121 MANOR DRIVE NORTH,NEW MALDEN,KT3 5PD,+442083377999,,-0.2628317,51.3854972
+,K Clinic; 런던 케이 한의원,acupuncture,0.5,name:hangul,"SUITE 6, LYNWOOD DRIVE",WORCESTER PARK,KT4 7AT,447843471069,http://www.kclinicuk.org/,-0.244429,51.3792626
+,DHL Express Service Point (TGJones Worcester Park (formerly WHSmith),korean_grocery_store,0.9945143238604068,category:korean,153 Central Road,Worcester Park,KT4 8DT,08442480844,https://uk.express.dhl.com/?utm_source=bing&utm_medium=organic&utm_campaign=bing&y_source=1_Mzg2NjU2NjAtNDgzLWxvY2F0aW9uLndlYnNpdGU%3D,-0.24336631950354404,51.37925017592381
+,Abi Londis,korean_grocery_store,0.965499997138977,category:korean,836 London Road,Sutton,SM3 9BJ,02086413031,,-0.2180975,51.3798914
+,런던한인교회인 새로운교회,printing_service,0.759895920753479,name:hangul,Dudley Drive,Sutton,SM4 4RJ,+447795467248,https://newchurch.uk/,-0.21485,51.3845
+,Absolute Organic,korean_grocery_store,0.9920649993419647,category:korean,560 Kingston Road,London,SW20 8DR,02085400235,http://www.absoluteorganic.co.uk/,-0.223956,51.4100282
+,Nanoom Korean Dining,korean_restaurant,0.5,category:korean,40 Wimbledon Hill Road,London,SW19 7PA,,,-0.2089201,51.4221465
+,런던 행복한 교회,christian_place_of_worship,0.5972291827201843,name:hangul,37 Worple Rd,London,SW19 4JZ,+447397797798,http://happychurch.eu/,-0.21082791,51.42048399
+,Yori,korean_restaurant,0.9999437331843626,category:korean,86 The Broadway,London,SW19 1RH,+442032743029,https://yoriuk.com,-0.20153944,51.41955874
+,Marks & Spencer Wimbledon Simply Food,korean_grocery_store,0.85,category:korean,"4 Queens Rd, Centre Court Shopping Centre, Wimbledon",London,SW19 8YE,02089445839,http://www.marksandspencer.com/MSStoreDetailsView?storeId=10151&langId=-24&SAPStoreId=3735,-0.204924,51.42109
+,"Wondeuk ""원득""",spa,0.17271146178245544,name:hangul,193 Kingston Road,London,SW19 1LH,+447415355505,https://vm.tiktok.com/ZGdLR7YXK/,-0.20196,51.41464
+,Post Office-Martin Way,korean_grocery_store,0.85,category:korean,49 Martin Way,Morden,SM4 4AH,03456112970,https://www.postoffice.co.uk/,-0.2078244,51.402742
+,Miga,korean_restaurant,0.9975180898467727,category:korean,42 ABERCONWAY ROAD,MORDEN,SM4 5LF,+442038742037,http://www.migamorden.uk/,-0.1937528,51.4021951
+,Post Office-Kingston Road,korean_grocery_store,0.9939147118330002,category:korean,"104 Kingston Road, Wimbledon",London,SW19 1LX,03456112970,https://www.postoffice.co.uk/,-0.1980726,51.4153546
+,A Church London 에이처치,christian_place_of_worship,0.7863373160362244,name:hangul,"Merton Arts Space, Compton Rd, London",London,SW19 7QA,,http://Achurch.net/,-0.1972399,51.4193489
+,Modetour Network Uk Ltd 모두투어 런던지사,tour_operator,0.885,name:hangul,165 THE BROADWAY,LONDON,SW19 1NE,442070960272,http://www.modetournetwork.com/en/,-0.1981733,51.4188984
+,Tongdak - Wimbledon,korean_restaurant,0.5,category:korean,148 Merton Rd,London,,07808 809900,,-0.19314,51.41877
+,Ssam Ssam Korean Restaurant,korean_restaurant,0.5,category:korean,"FLAT, 149 MERTON ROAD",LONDON,SW19 1ED,442037718829,https://ssamssam.co.uk/,-0.1933693,51.4182375
+,Gourmet Korea,korean_restaurant,0.5,category:korean,25c LOMBARD ROAD,LONDON,SW19 3TZ,,,-0.1887721,51.4098093
+,Rogers Central Stores,korean_grocery_store,0.965499997138977,category:korean,109 Central Road,Morden,SM4 5SQ,02087158512,,-0.1928113,51.3953944
+,Londis,korean_grocery_store,0.9931,category:korean,129-131 Green Lane,Morden,SM4 6SE,02083954600,http://www.londis.co.uk/,-0.19851173,51.39023193
+,Bab Bab Korean Restaurant,korean_restaurant,0.5,category:korean,294 HIGH STREET,SUTTON,SM1 1PQ,442081877999,https://babbabonline.co.uk/,-0.1949881,51.3687756
+,Quix,korean_grocery_store,0.9920649993419647,category:korean,358 High Street,Sutton,SM1 1QE,02086420871,,-0.1947551,51.3708567
+,One-Stop,korean_grocery_store,0.85,category:korean,5-7 Lower Road,Sutton,SM1 4QJ,02086422314,http://www.onestop.co.uk/,-0.1857945,51.3656286
+,런던한인천주교회,christian_place_of_worship,0.8776596784591675,name:hangul,104 Benhill Wood Road,Sutton,SM1 3SR,+442086441223,https://cafe.daum.net/lkccuk,-0.1888607040666,51.372465777502
+,K Yusuf,korean_grocery_store,0.9655,category:korean,217B Coulsdon Road,Coulsdon,CR5 1EN,01737554921,http://www.londis.co.uk/,-0.1173806,51.3005296
+,Kokoro,korean_restaurant,0.77,category:korean,,Caterham,CR3 6RT,01883 339549,https://kokorouk.com,-0.077441,51.281276
+,Essentially Wine,korean_grocery_store,0.98275,category:korean,"12 Chipstead Station Parade, Chipstead",Coulsdon,CR5 3TE,01737557737,,-0.1713649,51.3095354
+,Nadri,korean_restaurant,0.5,category:korean,9 WALLINGTON SQUARE,WALLINGTON,SM6 8RG,,,-0.14897,51.35866
+,Outfry,korean_restaurant,0.5,category:korean,30 DINGWALL ROAD,CROYDON,CR0 2NB,442087260200,,-0.1662753,51.3504419
+,Londis,korean_grocery_store,0.9931,category:korean,113 Wrythe Lane,Carshalton,SM5 2RR,02087151996,https://www.londis.co.uk/?utm_source=bing&utm_medium=yext,-0.17702364,51.37467095
+,Londis,korean_grocery_store,0.9931,category:korean,57 Church Road,Mitcham,CR4 3BF,02086484968,http://www.londis.co.uk/,-0.1759314,51.4034438
+,Little Korea,restaurant,0.5,name:token,89 TOOTING HIGH STREET,LONDON,SW17 0SU,442089220725,http://www.littlekoreauk.com/,-0.1688146,51.4270831
+,Green Choy,korean_restaurant,0.9999915232604393,category:korean,21 TOOTING HIGH STREET,LONDON,SW17 0RH,+442035562481,http://www.greenchoy.com/,-0.1664582,51.4289061
+,Kokoro,korean_restaurant,0.77,category:korean,62 Mitcham Rd,Tooting,SW17 9NA,020 8265 5257,https://kokorouk.com,-0.166353,51.426486
+,Morrisons Mitcham,korean_grocery_store,0.9931,category:korean,St. Marks Road,London,CR4 2JS,02086871797,,-0.1624058,51.4065122
+,Korea Foods,convenience_store,0.5,name:token,117-119 London Road,Surrey,CR4 2JA,,,-0.1615484,51.409465
+,Morrisons Daily- Fernside,korean_grocery_store,0.9931,category:korean,702-712 Mitcham Road,London,CR0 3AB,02086849593,https://my.morrisons.com/storefinder/37440,-0.133776,51.390897
+,Chungchun Korean Hot Dog,hot_dog_restaurant,0.5,name:token,230 Streatham High Rd,London,SW16 1BB,442086777967,,-0.1297151,51.4307777
+,DHL Express Service Point (Diyana Food And Wine - iPayOn),korean_grocery_store,0.9538776457309723,category:korean,1367 London Road,London,SW16 4BE,08442480844,https://uk.express.dhl.com/?utm_source=bing&utm_medium=organic&utm_campaign=bing&y_source=1_Mzg2NjUyNDAtNDgzLWxvY2F0aW9uLndlYnNpdGU%3D,-0.12186572061348988,51.4079801706543
+,Gangnam Kitchen - Korean Bbq Restaurant,korean_restaurant,0.5,category:korean,"544 Purley Way, Croydon CR0 4NZ",,CR0 4RE,,,-0.119636,51.362668
+,Seoul Finger Licious,korean_grocery_store,0.5,category:korean,57a CROYDON ROAD,CROYDON,CR0 4WQ,,,-0.1231858,51.3674041
+,Choi's Peking Chinese Food,asian_fusion_restaurant,0.9655,name:korean-surname,17 Old Lodge Lane,Purley,CR8 4DG,02086459215,https://alleatapp.com/,-0.1242653,51.3309146
+,Sabores Da Terra,korean_grocery_store,0.9680263698101044,category:korean,12 HIGH STREET,PURLEY,CR8 2AA,07715866403,https://saboresdaterra.co.uk/,-0.115409,51.3379158
+,Sabores Da Terra,korean_grocery_store,0.9693933755159378,category:korean,12 High Street,Purley,CR8 2AA,07715866403,https://saboresdaterra.co.uk/,-0.0975903,51.3597142
+,Donburi & Co,korean_restaurant,0.998488527238369,category:korean,296 High St,Croydon,CR0 1NG,+442032510006,https://www.alleatapp.com/menu-donburi-co,-0.09935071,51.36815957
+,ATM (Post Office),korean_grocery_store,0.85,category:korean,234 Mitcham Road,Croydon,CR0 3JL,03457223344,https://www.postoffice.co.uk/atm-locator?y_source=1_NjI1MDI0NzYtNDgzLWxvY2F0aW9uLndlYnNpdGU%3D,-0.11561190210390038,51.38271987027895
+,Korean Cafe,korean_restaurant,0.9999863308949752,category:korean,100 NORWOOD HIGH STREET,LONDON,SE27 9NH,+442030921513,https://www.koreancafe.co.uk/,-0.1008482,51.4285373
+,Nilgiris London,korean_grocery_store,0.9992141161956818,category:korean,32 LONDON ROAD,CROYDON,CR0 2TA,02079987157,,-0.1032066,51.3790165
+,Post Office,korean_grocery_store,0.9655,category:korean,25 London Road,West Croydon,CR0 2RE,03456112970,https://www.postoffice.co.uk/,-0.1037492,51.3791987
+,Sainsbury's,korean_grocery_store,0.9655,category:korean,19 Whitgift Centre,Croydon,CR0 1UP,02086868067,https://stores.sainsburys.co.uk/0332/central-croydon,-0.1004054,51.3772921
+,Kimchi Labs,information_technology_company,0.5,name:token,17 GEORGE STREET,CROYDON,CR0 1LA,442032905292,http://kimchilabs.uk/,-0.09858,51.37413
+,Kanji Croydon,korean_restaurant,0.9349018931388855,category:korean,99 George St,Croydon,CR0 1LD,+447930511158,,-0.09364456,51.3750077
+,Coqfighter Chicken & Beer,korean_restaurant,0.77,category:korean,Unit 19 Boxpark,Croydon,CR0 1LD,020 3873 2754,http://www.coqfighter.com,-0.0935912005731379,51.37504365206947
+,Premier,korean_grocery_store,0.97,category:korean,126 Cherry Orchard Road,Croydon,CR0 6BB,02086808055,https://www.premier-stores.co.uk/?utm_source=bing&utm_medium=yext,-0.0881484,51.3794759
+,DHL Express Service Point (Eelam Mini Market ),korean_grocery_store,0.9707358211278916,category:korean,"219 Whitehorse Lane, South Norwood",London,SE25 6RB,08442480844,https://uk.express.dhl.com/?utm_source=bing&utm_medium=organic&utm_campaign=bing&y_source=1_Mzg2NjUwNDgtNDgzLWxvY2F0aW9uLndlYnNpdGU%3D,-0.0857316,51.4000227
+,Londis,korean_grocery_store,0.9804886391460895,category:korean,195 - 197 Morland Road,Croydon,CR0 6HD,,https://www.londis.co.uk/?utm_source=bing&utm_medium=yext,-0.07751999974446866,51.3838030337247
+,Londis,korean_grocery_store,0.9920649993419647,category:korean,209A Godstone Road,Whyteleafe,CR3 0EL,01883620425,,-0.0798735,51.3092224
+,Seoul To Go - Richmond,restaurant,0.5,name:token,4 Eton St,London,,07442 642916,,-0.3026894,51.4609306
+,Yori,korean_restaurant,0.77,category:korean,,Richmond,TW9 1EE,,https://yoriuk.com,-0.302689,51.460941
+,Essentially Wine,korean_grocery_store,0.99880975,category:korean,127 KEW ROAD,RICHMOND,TW9 2PN,02083326233,,-0.299059,51.4657175
+,Oppa Korean BBQ,korean_restaurant,0.77,category:korean,100 Kew Rd,Richmond,TW9 2PQ,020 8940 0240,http://www.oppa-richmond.co.uk,-0.29768386209900793,51.466242378247486
+,Sainsbury's Groceries Click & Collect,korean_grocery_store,0.995690247297287,category:korean,Lower Richmond Road,Richmond,TW9 4LT,02088769554,https://stores.sainsburys.co.uk/0548/richmond,-0.28641,51.46658
+,Ilocal,korean_grocery_store,0.986105763912201,category:korean,42 White Hart Lane,London,SW13 0PZ,02088761491,https://www.nisalocally.co.uk/stores/greater-london/london/42-white-hart-lane,-0.254865,51.4690947
+,Korean Manna - Sheen,restaurant,0.5,name:token,275 Upper Richmond Rd West,London,,07977 002789,,-0.26278,51.46483
+,Londis,korean_grocery_store,0.9931,category:korean,63-65 Church Road,Barnes,SW13 9HH,02087485974,https://www.londis.co.uk/?utm_source=bing&utm_medium=yext,-0.2440072,51.4741303
+,Miya's Korean Kitchen,korean_restaurant,0.9953893043750489,category:korean,365 UPPER RICHMOND ROAD,LONDON,SW15 5QJ,+442046180832,http://miyaskoreankitchen.com/,-0.2375522,51.4643975
+,Korean Restaurant Sodaeng Putney,asian_restaurant,0.9927137494087219,name:token,283 Putney Bridge Road,London,SW15 2PT,+442036338949,https://sodaeng.co.uk/,-0.21166653,51.4634919
+,Sodaeng Korean Restaurant,korean_restaurant,0.9999427059052911,category:korean,283 Putney Bridge Rd,London,SW15 2PT,+442036057050,https://sodaeng.co.uk/,-0.21166653,51.4634919
+,Londis,korean_grocery_store,0.85,category:korean,"1-3 Portwood Place, Off Danebury Avenue, Roehampton",London,SW15 4ED,02088763854,https://www.londis.co.uk/?utm_source=bing&utm_medium=yext,-0.2409278,51.4495757
+,Kokodak Korean & Japanese Restaurant - Putney,restaurant,0.5,name:token,38 Roehampton High St,London,,07887 530598,,-0.2393009,51.4502201
+,Imperial City,korean_restaurant,0.9919179946184158,category:korean,7 The Blvd,London,SW6 2UB,+442045970557,https://www.imperial-city.co.uk/,-0.1816998,51.47327484
+,Sainsbury's Local,korean_grocery_store,0.99893540173769,category:korean,282 Magdalen Road,London,SW18 3NY,03300137599,https://stores.sainsburys.co.uk/4929/earlsfield-local,-0.1870102,51.441996
+,Cah-Chi,korean_restaurant,0.77,category:korean,394 Garratt Ln,Earlsfield,SW18 4HP,020 8946 8811,http://www.cahchi.com,-0.18709955175480458,51.44089727915881
+,Gosu Korean Restaurent,korean_restaurant,0.8826810717582703,category:korean,394 Garratt Ln,London,SW18 4HP,+447826261716,http://cahchi.com/,-0.18714692,51.44086303
+,Orion,korean_grocery_store,0.5,category:korean,"Orion Supermarket, 5 Station Approach",Richmond,TW9 3QB,,https://orionmart.uk/,-0.2862922,51.4779519
+,The Good Wine Shop Kew,korean_grocery_store,0.9655,category:korean,"2 Royal Parade, Station Approach",Richmond,TW9 3QD,02089404482,http://www.thegoodwineshop.co.uk/,-0.2865199,51.4779794
+,INYUN,korean_restaurant,0.64054274559021,category:korean,408 High St,Brentford,TW8 0DU,,,-0.29222916,51.48801787
+,Sainsbury's Local,korean_grocery_store,0.85,category:korean,"43 Palmerston Road, Alacia Court",London,W3 8GJ,02089937178,,-0.27114781,51.49984946
+,Kook Il Kwan,korean_restaurant,0.8327975273132324,category:korean,15 Coombe Road,London,W4 2HR,+442089492710,https://plus.google.com/u/0/b/100101988948188493819/100101988948188493819/posts,-0.25406,51.49015
+,Park's Kitchen,korean_restaurant,0.77,category:korean,210 King St,London,W6 0RA,020 3565 7418,https://www.parks-kitchen.com,-0.236021,51.493107
+,Post Office-Stamford Brook,korean_grocery_store,0.9655,category:korean,"364 King Street, Hammersmith",London,W6 0RX,03456112970,https://www.postoffice.co.uk/,-0.2446538,51.4934369
+,Starch Green Post Office,korean_grocery_store,0.9965008048713208,category:korean,"7 Kings Parade, Askew Road",London,W12 9BA,02087434584,https://www.postoffice.co.uk/branch-finder/114006x/starch-green?campaignid=gmb~bf~114006x~google~na~05022025&y_source=1_NjI0ODg3NzgtNzE1LWxvY2F0aW9uLndlYnNpdGU=,-0.2392163,51.5002157
+,Locksmithw12,korean_grocery_store,0.85,category:korean,25 Melville Court,London,W12 9NY,07776984460,https://locksmithw12.com/,-0.2348349,51.5011325
+,The Brackenbury,korean_grocery_store,0.7699999809265137,category:korean,129-131 BRACKENBURY ROAD,LONDON,W6 0BQ,02087414928,http://brackenburyrestaurant.co.uk/,-0.2313217,51.4973441
+,Roberson Wine Merchant,korean_grocery_store,0.9655,category:korean,348 Kensington High Street,London,W14 8NS,02073712121,http://www.robersonwine.com/,-0.2051604,51.4969231
+,Seoul Street Chicken,korean_restaurant,0.5,category:korean,127 HAMMERSMITH ROAD,LONDON,W14 0QL,447459255427,,-0.2128553,51.4942646
+,Omega3rx,korean_grocery_store,0.9655,category:korean,3 Shortlands,London,W6 8DA,02036098607,http://www.omega3rx.co.uk/,-0.2193599,51.4928707
+,Sainsbury's Local,korean_grocery_store,0.9957047900825738,category:korean,Broadway Shopping Centre,London,W6 9YD,03456016394,https://stores.sainsburys.co.uk/5217/hammersmith-broadway-shopping-centre?utm_source=extnet&utm_medium=yext&y_source=1_MTA5NzQ4ODkyOS00ODMtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D,-0.22456,51.4923
+,Simya Restaurant,korean_restaurant,0.7913629412651062,category:korean,"unit 20, Hammersmith Broadway Shopping Centre",London,W6 9YD,+442082228705,https://www.simyakorean.com/,-0.22396167477881537,51.492213206135546
+,SPAR,korean_grocery_store,0.9655,category:korean,77 Fulham Palace Road,Hammersmith,W6 8JA,,https://www.spar.co.uk/store-locator/afb20603-spar-hammersmith,-0.2229243,51.4898785
+,웨스트 켄징턴 역,travel_and_transportation,0.9483307957649231,name:hangul,,London,,,http://www.tfl.gov.uk/livetravelnews,-0.206389,51.490833
+,Doddle Bowmans Newsagent West Kensington,korean_grocery_store,0.9655,category:korean,218 North End Road,London,W14 9NX,,https://www.doddle.com/location-details/bowmans-newsagent-west-kensington,-0.202996,51.4864311
+,Greenbay,korean_grocery_store,0.965499997138977,category:korean,228 North End Road,London,W14 9NU,02073858913,http://www.greenbaysupermarket.co.uk/,-0.2027731,51.4859062
+,Simya,korean_restaurant,0.885,category:korean,345 NORTH END ROAD,LONDON,SW6 1NN,447590482158,http://www.simya.uk/,-0.2017913,51.484723
+,Hotdog Kimbap - Korean Street Food,korean_restaurant,0.9777092933654785,category:korean,345 North End Rd,London,SW6 1NN,+447476322201,http://simyafood.com/,-0.20182184,51.48470887
+,Coco & Bibi,korean_restaurant,0.9928072905540466,category:korean,123 Lillie Rd,London,SW6 7SX,+447958698872,https://www.cocoandbibi.co.uk/,-0.20358625,51.48482494
+,Little Waitrose & Partners,korean_grocery_store,0.9983119782924652,category:korean,201-207 Fulham Palace Road,London,W6 8QX,02073816755,https://www.waitrose.com/find-a-store/fulham-palace-rd?utm_source=ExtNet&utm_medium=Yext&y_source=1_MTA4NTgxNzQtNDgzLWxvY2F0aW9uLndlYnNpdGU%3D,-0.2193980576547574,51.48397903707182
+,Londis,korean_grocery_store,0.9931,category:korean,"58 Kenyon Street, Fulham",London,SW6 6LB,02076222772,http://www.londis.co.uk/,-0.2203089,51.4783037
+,UNIQ Sushi Japanese & Korean,sushi_restaurant,0.9949514269828796,name:token,819 Fulham Rd.,London,SW6 5HG,+442035731433,http://www.uniqfusion.co.uk/,-0.20591279,51.47545443
+,UNIQ Sushi Japanese & Korean,asian_restaurant,0.77,name:token,819 Fulham Rd,London,SW6 5HG,020 3573 1433,http://www.uniqfusion.co.uk,-0.2059128,51.4754544
+,"Assa Korean Restaurant, Soho",korean_restaurant,0.7663165926933289,category:korean,,London,,,,-0.19556522369385,51.480594462207
+,Yori,korean_restaurant,0.8359005811810494,category:korean,565 Fulham Rd.,London,SW6 1ES,+442073868573,https://yoriuk.com,-0.1953015,51.47991342
+,Bunsik,korean_restaurant,0.77,category:korean,198 Earls Ct Rd,London,SW5 9QF,,https://www.bunsik.co.uk,-0.19399646,51.49268
+,I Am London - 아이엠런던,shopping,0.5233483910560608,name:hangul,45 Durham Street,London,SE11 5JH,+447040452221,http://www.iamlondon.co.kr/,-0.19264386614484,51.491072001312
+,Simya Korean Kitchen,korean_restaurant,0.77,category:korean,251 OLD BROMPTON ROAD,LONDON,SW5 9HP,07476 322201,http://www.simyakorean.com,-0.1909006,51.4891092
+,Gaon Korean,korean_restaurant,0.6538320928812027,category:korean,160 Old Brompton Road,,,020 7373 0313,http://gaonlondon.com,-0.1833161,51.4909162
+,Dhawan News,korean_grocery_store,0.9996397262752167,category:korean,166 OLD BROMPTON ROAD,LONDON,SW5 0BA,02073700283,,-0.183598,51.4909354
+,The Noodle Room,korean_restaurant,0.77,category:korean,4-18 Harrington Gardens,London,SW7 4LH,020 7331 6331,https://www.millenniumhotels.com/en/destinations/europe/united-kingdom/london/millennium-gloucester-hotel-london-kensington,-0.1832232,51.4933247
+,Korean Grill Kensington,korean_restaurant,0.9992984747588635,category:korean,Courtfield Rd,London,SW7 4LH,+442073316331,https://www.millenniumhotels.com/en/london/millennium-gloucester-hotel-london-kensington/korean-grill-kensington,-0.18401093,51.49376415
+,Emperors Gate,korean_restaurant,0.962552369982145,category:korean,49 Emperors Gate,London,SW7 4HJ,+442082375333,,-0.18625189117366736,51.49597158451574
+,DHL Express Service Point (Londis Battersea - iPayOn),korean_grocery_store,0.99655,category:korean,"121 St.Johns Hill, Battersea",London,SW11 1SZ,08442480844,https://uk.express.dhl.com/?utm_source=bing&utm_medium=organic&utm_campaign=bing&y_source=1_Mzg2NjUyNzUtNDgzLWxvY2F0aW9uLndlYnNpdGU%3D,-0.1747281,51.460995
+,Gogo Pocha,korean_restaurant,0.77,category:korean,,London,SW11 1HW,07727 336153,http://www.gogopocha.co.uk,-0.16753426789873466,51.46065637772449
+,Hana Korean Restaurant,korean_restaurant,0.9978967821598053,category:korean,60 Battersea Rise,London,SW11 1EG,+442072282496,http://www.hanakorean.co.uk,-0.16582518,51.46090142
+,Donday Korea,korean_restaurant,0.9820091018065558,category:korean,53 BATTERSEA RISE,LONDON,SW11 1HH,+447557770581,https://dondaykorea.co.uk/,-0.1652329,51.4606709
+,Kokoro,korean_restaurant,0.77,category:korean,81 St John's Rd,Clapham Junction,SW11 1QY,020 7223 2771,https://kokorouk.com,-0.16694776403095712,51.46117101918015
+,Thirsty Camel,korean_grocery_store,0.85,category:korean,246 Lavender Hill,London,SW11 1LJ,,https://thirsty-camel-gb.ueniweb.com/,-0.1662272,51.4639172
+,Somunnan Korean Restaurant Halal,korean_restaurant,0.5,category:korean,103 FALCON ROAD,LONDON,SW11 2PF,447821175393,https://somunnankoreanrestaurantbattersea.co.uk/,-0.1696868,51.4668746
+,Jjang Korean Inspired Food,korean_restaurant,0.5,category:korean,166 BATTERSEA PARK ROAD,LONDON,SW11 4ND,447305057211,,-0.16015,51.47377
+,손드하임극장,opera_and_ballet,0.5,name:hangul,35-37 SHAFTESBURY AVENUE,LONDON,W1D 6AR,,,-0.1591025,51.4631778
+,YORI,korean_restaurant,0.9788103318214416,category:korean,196 Lavender Hill,London,SW11 1JA,+442080627934,https://yoriuk.com,-0.1637257,51.46434633
+,Abbeville News,korean_grocery_store,0.9775,category:korean,34 Abbeville Road,London,SW4 9NG,02086731749,,-0.1400253,51.4542398
+,Chinmi Korean And Japanese,food_court,0.5,name:token,92a BALHAM HIGH ROAD,LONDON,SW12 9AG,447555923582,http://chinmilimited.co.uk/,-0.1501209,51.4462656
+,Costcutter,korean_grocery_store,0.997149765843153,category:korean,84-86 Bedford Hill,Balham,SW12 9HR,02086757575,https://store-locator.costcutter.co.uk/costcutter-0a0ced87b52b?y_source=1_MTgxNTE1NDktNDgzLWxvY2F0aW9uLndlYnNpdGU%3D,-0.14938995337294925,51.44198252327647
+,Kanji Balham,korean_restaurant,0.9501012563705444,category:korean,5 Hildreth St,London,SW12 9RQ,+447481996144,,-0.1512675,51.44467279
+,The Umi,korean_restaurant,0.9917700213193893,category:korean,4 Bedford Hill,London,SW12 9RG,+442035817433,http://www.theumi.co.uk/,-0.15106224,51.44488512
+,Mexican Seoul,mexican_restaurant,0.7673868536949158,name:token,,London,,+447758915240,,-0.11448,51.45562
+,Sainsbury's,korean_grocery_store,0.9931,category:korean,"2 Tulse Hill, Brixton",London,SW2 2TP,02031267399,https://stores.sainsburys.co.uk/2316/brixton?utm_source=extnet&utm_medium=yext&y_source=1_MTU1Njc0NDktNDgzLWxvY2F0aW9uLndlYnNpdGU%3D,-0.1139074110450844,51.45474147380087
+,DHL Express Service Point (S & V News - iPayOn),korean_grocery_store,0.9685633569955826,category:korean,122 Wandsworth Road,London,SW8 2LB,08442480844,https://uk.express.dhl.com/?utm_source=bing&utm_medium=organic&utm_campaign=bing&y_source=1_Mzg2NjQ4OTYtNDgzLWxvY2F0aW9uLndlYnNpdGU%3D,-0.12922905404123997,51.478796978615335
+,Jihwaja,korean_restaurant,0.9991926661133766,category:korean,353 Kennington Ln,London,SE11 5QY,+442075824680,http://www.jihwaja.co.uk/,-0.11957555,51.48632344
+,Daebak,korean_restaurant,0.9998500296569439,category:korean,316-318 Kennington Ln,London,SE11 5HY,+442076421522,https://daebaklondon.business.site,-0.11900523,51.48654211
+,I Am London - 아이엠런던,shopping,0.5233483910560608,name:hangul,45 Durham Street,London,SE11 5JH,+447040452221,http://www.iamlondon.co.kr/,-0.11874675750732,51.485972914262
+,S&s Taste Of Korea,korean_restaurant,0.5,category:korean,334 Kennington Rd,London,SE11 4LD,07587 459245,,-0.1116467,51.4865868
+,K-pop Planet UK,dance_studio,0.45712950825691223,name:token,37 The Broadway,London,SW19 1QB,,https://www.k-popplanet.uk/,-0.10958428,51.48043092
+,Horangee Pocha Korean Bbq Buffet Restaurant + Private Karaoke Bar,korean_restaurant,0.5,category:korean,"FLAT, 116 NEW KENT ROAD",LONDON,SE1 6TU,,http://horangeepocha.com/,-0.1052187,51.4788161
+,Tesco Esso Express,korean_grocery_store,0.9987563046872616,category:korean,"Tesco Express, Service Station, 330 Brixton Road",London,SW9 7AA,03333450560,https://www.tesco.com/store-locator/london/tesco-express-service-station?sc_cmp=ref*yg*stc*2161&utm_source=yext_extnet&utm_campaign=local_Express_England&utm_medium=referral,-0.11357910466472276,51.46855992605848
+,Korea Foods UK,grocery_store,0.9336394667625427,name:token,Unit 5 Wyvern Ind Est,London,KT3 4PH,+442089492238,http://www.koreafoods.co.uk/,-0.10169,51.46136
+,Doddle Omsakthi Food & Wine Brixton,korean_grocery_store,0.9655,category:korean,16 Milkwood Road,London,SE24 0HH,,https://www.doddle.com/location-details/omsakthi-food--wine-brixton,-0.1011584,51.4637324
+,숙소!,hotel,0.5,name:hangul,30 DEEPDENE ROAD,LONDON,SE5 8EG,,,-0.0922985,51.4622327
+,Sainsbury's Local,korean_grocery_store,0.9836014103889466,category:korean,15-21 Camberwell Road,London,SE5 0EZ,03456404142,https://stores.sainsburys.co.uk/5235/walworth-camberwell-road?utm_source=bing&utm_medium=yext,-0.09394,51.48337
+,Cheemc,korean_restaurant,0.5,category:korean,310 WALWORTH ROAD,LONDON,SE17 2NA,442073586926,,-0.0949818,51.4864169
+,The Korean Secret,spa,0.20670989155769348,name:token,142 Camberwell Road,London,SE5 0,,http://lilyene.com/,-0.09452,51.4798
+,Kimchi And Radish,food_and_beverage_store,0.85,name:token,Arch289 Jewell Street,London,SE5 0BU,,http://kimchiradish.com/shop%20https://instagram.com/kimchiradish,-0.0956558,51.4798802
+,Doddle Cornners Newsagent Denmark Hill,korean_grocery_store,0.85,category:korean,115 Grove Lane,London,SE5 8BG,,https://www.doddle.com/location-details/cornners-newsagent-denmark-hill,-0.0865638,51.4682539
+,Park's Edge Bar and Kitchen,british_restaurant,0.999421566426754,name:korean-surname,49-51 Norwood Rd,London,SE24 9AA,+442086710306,http://www.parksedgebarandkitchen.com/,-0.10079372,51.45137232
+,Jang Restaurant,korean_restaurant,0.5,category:korean,"UNIT 1, THE COURTYARD, ROYAL EXCHANGE",LONDON,EC3V 3LQ,442081872209,https://jangrestaurant.co.uk/,-0.1634226,51.4892969
+,Hans' Bar & Grill,bar_and_grill_restaurant,0.9999994490641894,name:korean-surname,164 PAVILION ROAD,LONDON,SW1X 0AW,+442077307000,https://www.hansbarandgrill.com/,-0.1589885,51.4937368
+,Miele Korean Beauty @ The Dolls,beauty_salon,0.5,name:token,81 WALTON STREET,LONDON,SW3 2HP,447985704853,https://www.mielebeauty.com/,-0.1671764,51.4944009
+,Lime Orange,korean_restaurant,0.9999775631467296,category:korean,312 VAUXHALL BRIDGE ROAD,LONDON,SW1V 1AA,+442086160498,https://www.limeorange.co.uk/,-0.1419,51.49565
+,런던 빅토리아 Zibe 민박,lodging,0.5,name:hangul,99 WILTON ROAD,LONDON,SW1V 1DT,,,-0.1418961,51.4931256
+,Project X Korea,clothing_store,0.5,name:token,36 GILLINGHAM STREET,LONDON,SW1V 1HU,,,-0.1426077,51.4935719
+,런던한인민박 - 런던퀸스민박,hostel,0.5329811573028564,name:hangul,2 First Street,London,SW3 2LD,+447789188138,http://cafe.daum.net/londonqueens,-0.14910936355591,51.491016724512
+,런던 알러뷰하우스,bed_and_breakfast,0.5,name:hangul,101 LUPUS STREET,LONDON,SW1V 3EN,447795234700,,-0.1408183,51.4876916
+,DHL Express Service Point (Greatway Food Store - iPayOn),korean_grocery_store,0.85,category:korean,"7 Lupus Street, Pimlico",London,SW1V 3AS,08442480844,https://uk.express.dhl.com/?utm_source=bing&utm_medium=organic&utm_campaign=bing&y_source=1_Mzg2NjUzMDctNDgzLWxvY2F0aW9uLndlYnNpdGU%3D,-0.13456962895574298,51.488715390779525
+,런던 알러뷰하우스,hostel,0.520635187625885,name:hangul,4 Lupus Street,London,SW1V 3DY,,http://cafe.naver.com/iloveuhouse,-0.13452,51.48898
+,Korean Register Uk,engineering_service,0.5,name:token,100 BLACK PRINCE ROAD,LONDON,SE1 7SJ,,,-0.1203417,51.492285
+,Embankment Grocers,korean_grocery_store,0.9926660713851452,category:korean,"Unit 2, 9B Albert Embankment",London,SE1 7SP,02078200570,https://www.nisalocally.co.uk/stores/greater-london/london/unit-2,-0.1215081,51.4920483
+,Sushi Maki Kimchi,sushi_restaurant,0.5,name:token,145-147 LAMBETH WALK,LONDON,SE11 6EE,442078200229,,-0.1166066,51.4926043
+,런던 꿀잠하우스,lodge,0.5,name:hangul,"BASEMENT FLAT, 12 DENBIGH STREET",LONDON,SW1V 2ER,,,-0.1396873,51.4919381
+,Kimchimama,korean_restaurant,0.9974914941191674,category:korean,28 Upper Tachbrook St,London,SW1V 1SW,+442038157818,https://www.kimchimama.co.uk/,-0.1393163,51.49283117
+,Korean Education Centre Uk (korean Embassy In London),educational_facility,0.5,name:token,60 BUCKINGHAM GATE,LONDON,SW1E 6AJ,442072275500,http://koreaneducentreinuk.org/,-0.13628,51.49803
+,International Maritime Organization Republic of Korea Office,embassy,0.9040178656578064,name:token,60 Buckingham Gate,London,SW1E 6AJ,+442072275500,http://mofat.go.kr,-0.13626243,51.49800338
+,Embassy of the Republic of Korea,embassy,0.9779241091012955,name:token,60 Buckingham Gate,London,SW1E 6AJ,+442072275500,http://mofat.go.kr,-0.13621534,51.49799443
+,귀족원,government_office,0.8130923509597778,name:hangul,,London,,,http://www.parliament.uk/lords/,-0.12486111111111,51.498805555556
+,런던 숙소(파크 플라자 웬스트 민스터),hotel,0.5,name:hangul,1 ADDINGTON STREET,LONDON,SE1 7RY,,,-0.116128,51.501484
+,Po Cha,korean_restaurant,0.9471,category:korean,30 Lower Marsh,London,SE1,07787 414249,http://www.gogo-pocha.com,-0.1121854,51.5009888
+,Gogo Pocha,korean_restaurant,0.9997563712201298,category:korean,30 Lower Marsh,London,SE1 7RG,+447379349552,https://www.instagram.com/gogopocha/,-0.11222085,51.501053
+,런던은혜교회,religious_organization,0.7881672978401184,name:hangul,1 Coral St,London,SE1 7BE,,https://londongracechapel.com/,-0.1095241,51.5008772
+,92 Bbq,korean_restaurant,0.910674573253722,category:korean,57 Baylis Road,London,SE1 7AU,+442070185582,,-0.110881,51.500304
+,Bapjo,korean_restaurant,0.9999976169058511,category:korean,55 BAYLIS ROAD,LONDON,SE1 7AU,+442036514864,http://www.bapjo.com/,-0.1107879,51.5003826
+,버밍엄 민박2호점,hotel,0.5,name:hangul,5 PEARMAN STREET,LONDON,SE1 7RB,,,-0.1090691,51.500646
+,Gochu,korean_restaurant,0.9456767418836911,category:korean,57 Baylis Road,London,SE1 7AU,+442070185582,,-0.1108976,51.5002483
+,Biro : Korean Nail Studio In Londo,nail_salon,0.5,name:token,"STUDIO 21, NEWNHAM TERRACE",LONDON,SE1 7DR,,https://birolondon.square.site/,-0.0956317,51.4969362
+,Seoul Tokyo,korean_restaurant,0.9998510169222214,category:korean,168 Borough High St,London,SE1 1LB,+442070899007,,-0.09270022,51.50193185
+,Koko Grill Korean Bbq Restaurant,korean_restaurant,0.613537423312664,category:korean,173 TOWER BRIDGE ROAD,LONDON,SE1 2AW,447557929039,https://kokogrill.co.uk/,-0.07812,51.5015
+,Horangee Pocha,korean_restaurant,0.9972107255458832,category:korean,116 New Kent Rd,London,SE1 6TU,+447360209215,http://www.horangeepocha.com,-0.09396617,51.49392481
+,Kokoro,korean_restaurant,0.77,category:korean,,London,SE1,020 4547 5208,https://kokorouk.com,-0.09637174920178088,51.49345325085554
+,Tiantian Trading Ltd.,korean_grocery_store,0.965499997138977,category:korean,48 East Street,London,SE17 2DN,02077016622,,-0.0936436,51.4882558
+,Doddle B&B Offlicence & Grocer Bermondsey,korean_grocery_store,0.9425662484019994,category:korean,104-106 Dunton Road,London,SE1 5UN,,https://www.doddle.com/location-details/bb-offlicence--grocer-bermondsey,-0.0776438,51.4891235
+,Cook Trading,korean_grocery_store,0.9931,category:korean,82-84 Station Road East,Oxted,RH8 0PG,01883712900,http://www.cookfood.net/,-0.0034815,51.2579518
+,The Co-operative Food,korean_grocery_store,0.9655,category:korean,21-23 Station Road West,Oxted,RH8 0BD,01883722974,https://southern.coop/store-locator/l/-/oxted/21-23-station-road-west/4705284,-0.00571206,51.25741834
+,Warlingham Post Office,korean_grocery_store,0.85,category:korean,403-407 Limpsfield Road,Warlingham,CR6 9HA,01883624336,https://www.postoffice.co.uk/branch-finder/1800132/warlingham?campaignid=gmb~bf~1800132~google~na~05022025&y_source=1_NjI0OTYzMTctNDgzLWxvY2F0aW9uLndlYnNpdGU%3D,-0.05522862269363715,51.30979584065749
+,Mower Mate,korean_grocery_store,0.9655,category:korean,"Rear Of, 180 Addington Road",South Croydon,CR2 8LB,02086515005,http://www.mowermate.co.uk/,-0.0617531,51.344005
+,Portland Road Post Office,korean_grocery_store,0.85,category:korean,"155 Portland Road, South Norwood",London,SE25 4UX,02086541038,https://www.postoffice.co.uk/branch-finder/2000075/portland-road,-0.06811,51.39564
+,Biggin Hill Post Office,korean_grocery_store,0.976852080181241,category:korean,160-166 Main Road,Westerham,TN16 3BA,01959573481,https://www.postoffice.co.uk/branch-finder/4154584/biggin-hill?campaignid=gmb~bf~4154584~google~na~05022025&y_source=1_NjI1MDMxNjItNDgzLWxvY2F0aW9uLndlYnNpdGU%3D,0.0365701253849382,51.30974122793446
+,Lee's,hair_salon,0.9471,name:korean-surname,10 MAIN ROAD,WESTERHAM,TN16 3EH,01959 540040,http://www.leesbarbers.tel,0.0239061,51.3293301
+,Farnborough Post Office,korean_grocery_store,0.98275,category:korean,135 High Street,Orpington,BR6 7AZ,01689852013,https://www.postoffice.co.uk/branch-finder/0740128/farnborough?campaignid=gmb~bf~740128~google~na~05022025&y_source=1_NjI0OTAzODktNzE1LWxvY2F0aW9uLndlYnNpdGU=,0.0728535,51.3597706
+,Aces Local,korean_grocery_store,0.965499997138977,category:korean,90 High Street,Orpington,BR6 0JY,01689897204,,0.1028852,51.3796508
+,WHSmith,korean_grocery_store,0.9628461301326752,category:korean,"Cray Ave, Nugent Retail Park",Orpington,BR5 3RP,01689896965,https://www.whsmith.co.uk/stores/details?StoreID=5442,0.1114668,51.3931524
+,Nisa Local,korean_grocery_store,0.9931,category:korean,"50-54 Kent House, High St Borough Green",Sevenoaks,TN15 8BJ,01732886595,https://www.nisalocally.co.uk/stores/kent/sevenoaks/50-54-kent-house,0.306736311674058,51.292447097503086
+,Sizzler Box - Grays,korean_restaurant,0.5,category:korean,2A Station Approach,London,,07932 313636,,-0.0542406,51.4267776
+,Premier,korean_grocery_store,0.9931,category:korean,1 High Level Drive,Sydenham,SE26 6XT,02087780197,https://www.premier-stores.co.uk/?utm_source=bing&utm_medium=yext,-0.07008228509489678,51.42766113415218
+,Essence Of Korea,korean_restaurant,0.5,category:korean,12 Burnt Ash Rd,London,,07961 708885,http://www.essenceofkorea.com,-0.0633093,51.4338175
+,Doddle East Dulwich Store,korean_grocery_store,0.9655,category:korean,281 Crystal Palace Road,London,SE22 9JH,,https://www.doddle.com/location-details/east-dulwich-store-,-0.072776,51.4521899
+,홈스테이,lodge,0.5,name:hangul,9 WYLEU STREET,LONDON,SE23 1DU,,,-0.0423356,51.4483525
+,DHL Express Service Point (Quick Stop Shopping),korean_grocery_store,0.9669579654932022,category:korean,101-103 Endwell Road,London,SE4 2NF,08442480844,https://uk.express.dhl.com/?utm_source=bing&utm_medium=organic&utm_campaign=bing&y_source=1_Mzg2NjUxNjktNDgzLWxvY2F0aW9uLndlYnNpdGU%3D,-0.0382923,51.4655999
+,Turkish Food Express,korean_grocery_store,0.9939803185227831,category:korean,5 STATION BUILDINGS,LONDON,SE6 4QZ,02086139579,,-0.0236583,51.4447416
+,DHL Express Service Point (PJ Convenience Store - iPayOn),korean_grocery_store,0.9655,category:korean,165 Sydenham Road,London,SE26 5HB,08442480844,https://uk.express.dhl.com/?utm_source=bing&utm_medium=organic&utm_campaign=bing&y_source=1_MTA2NTgwMzkyMS00ODMtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D,-0.04654468221645238,51.425844572428765
+,Shara's Asian Dining,korean_restaurant,0.5,category:korean,435 Croydon Road,London,BR3 3PP,,,-0.0323167,51.4066124
+,Co-op Food - Bromley - Downham Way,korean_grocery_store,0.9655,category:korean,431-435 Downham Way,Bromley,BR1 5HR,02086956171,https://www.coop.co.uk/store-finder/BR1-5HR/431-435-downham-way,0.01244828939428455,51.427049532390264
+,Mace Express,korean_grocery_store,0.9920649993419647,category:korean,"Bellingham Post Office, 12 Randlesdown Road",London,SE6 3BU,02086983687,,-0.0199973,51.4325704
+,Seoul Food (catford),korean_restaurant,0.5,category:korean,38 SANGLEY ROAD,LONDON,SE6 2JH,442038749613,,-0.0180528,51.4436921
+,Cow Cow Korean BBQ Buffet,korean_restaurant,0.9632863402366638,category:korean,47-49 Lee High Rd,London,SE13 5NS,+442082975268,https://www.cowcowkbbq.com/online-ordering,-0.00686759,51.46187081
+,Shepherd Foods,korean_grocery_store,0.9925956359058619,category:korean,"7-9 Blackheath Village, Kent",London,SE3 9LA,02082970033,https://www.nisalocally.co.uk/stores/greater-london/london/7-9-blackheath-village,0.009462620866770521,51.465610932009746
+,Essence of Korea,asian_fusion_restaurant,0.9832421240210533,name:token,"12 Burnt Ash Rd, Lee",London,SE12 8PZ,07961708885,https://www.essenceofkorea.com/,0.01115,51.4564396
+,Costcutter,korean_grocery_store,0.9969535861968994,category:korean,145-147 Ardgowan Road,Catford,SE6 1UZ,02086982246,https://store-locator.costcutter.co.uk/costcutter-c30e584b0f73?y_source=1_MTgxNTE5NjctNDgzLWxvY2F0aW9uLndlYnNpdGU%3D,-0.0004758603150722962,51.43987448191843
+,Torridon Convenience,korean_grocery_store,0.9931,category:korean,"189-191 Torridon Rd, Catford Kent",London,SE6 1RF,02086972428,https://www.nisalocally.co.uk/stores/greater-london/london/189-191-torridon-rd,-0.0016313611324676458,51.43970840945738
+,Londis,korean_grocery_store,0.97,category:korean,356 Verdant Lane,Catford,SE6 1TP,02086983579,https://www.londis.co.uk/?utm_source=bing&utm_medium=yext,0.009171460607890758,51.43405594492843
+,Burnt Ash Stores,korean_grocery_store,0.85,category:korean,228 Burnt Ash Hill,London,SE12 0QE,02088573390,http://www.best-one.co.uk/,0.0210365,51.4395187
+,Costcutter,korean_grocery_store,0.9972493002593518,category:korean,131 Chinbrook Road,Grove Park,SE12 9QL,02088574180,https://store-locator.costcutter.co.uk/costcutter-13529fc01d73?y_source=1_MTgxNTE5NDktNDgzLWxvY2F0aW9uLndlYnNpdGU%3D,0.03100266831081555,51.43177277570664
+,Sainsbury's Local,korean_grocery_store,0.9264311462640762,category:korean,6 Elford Close,London,SE3 9FA,02083193747,,0.02867803,51.46098983
+,Kimmeridge Road Post Office,korean_grocery_store,0.98275,category:korean,"15 Beaconsfield Parade, Beaconsfield Road",London,SE9 4EA,02088511531,https://www.postoffice.co.uk/branch-finder/1140078/kimmeridge-road?campaignid=gmb~bf~1140078~google~na~05022025&y_source=1_NjI0ODg3NTAtNzE1LWxvY2F0aW9uLndlYnNpdGU=,0.0456573,51.4274254
+,Costcutter,korean_grocery_store,0.9931,category:korean,48-50 Homsesdale Road,Bromley,BR2 9LD,02084649916,https://store-locator.costcutter.co.uk/costcutter-a2dfe913ca4f?y_source=1_MTgxNTEzNTktNDgzLWxvY2F0aW9uLndlYnNpdGU%3D,0.029558021396600687,51.396961975504084
+,Londis,korean_grocery_store,0.9931,category:korean,213 Holmsdale Road,Bromley,BR1 2QL,02084606799,https://www.londis.co.uk/?utm_source=bing&utm_medium=yext,0.035658999130774305,51.40105541093678
+,Five Vibes Korean Fried Chicken,korean_restaurant,0.8430553233623505,category:korean,107 Ormside St,London,SE15 1TF,+447460250551,https://www.fivevibes.co.uk/,-0.0559136,51.48268554
+,Kimchi Station,diner,0.6174520552158356,name:token,23 Manor Grove,London,SE15 1EQ,07450 033686,,-0.054452,51.4812977
+,Myra Food Stores,korean_grocery_store,0.9920649993419647,category:korean,681 Old Kent Road,London,SE15 1JS,02036020996,,-0.0621115,51.4820998
+,LAVIVANT - Korean Ginseng,health_market,0.9655,name:token,"53 Sandgate Street, 8 Action House",London,SE15 1LE,02076350161,https://www.lavivant.co.uk/,-0.0626989,51.4840759
+,Fodabox,korean_grocery_store,0.9655,category:korean,2-10 Ossory Road,London,SE1 5AN,03331212166,https://www.fodabox.com/,-0.0711355,51.484884
+,Johnys Company Uk Ltd.,korean_grocery_store,0.9945621496587992,category:korean,"Unit 18 Old Jamaica Business Estate, 24 Old Jamaica Road",London,SE16 4AW,02086167896,http://www.johnys.co.uk/,-0.070351,51.4975457
+,Korean Street Food,korean_restaurant,0.26159223914146423,category:korean,81 Enid Street,London,SE16 3,+447908446503,http://voicestateuk.com/,-0.07281,51.49794
+,Doddle P & V News Bermondsey,korean_grocery_store,0.9655,category:korean,300 Southwark Park Road,London,SE16 2HB,,https://www.doddle.com/location-details/p--v-news-bermondsey,-0.0594985,51.4924571
+,Premier,korean_grocery_store,0.9655,category:korean,300 Southwark Park Road,London,SE16 2HB,02072372551,https://www.premier-stores.co.uk/?utm_source=bing&utm_medium=yext,-0.059501052415864564,51.49232204787958
+,Korean Kimchi Bowl,korean_restaurant,0.43922038039642564,category:korean,"Unit 17, Karma Kitchen, 18 Verney Rd",London,SE16 3DH,+447353873011,https://www.koreankimchibowl.com/,-0.05967006,51.48495976
+,SHELL,korean_grocery_store,0.9655,category:korean,Evelyn Street,London,SE8 5RJ,02086948927,http://www.shell.co.uk/,-0.037418,51.4876
+,런던리버티,exporter,0.5,name:hangul,"APARTMENT 51, 620 ROTHERHITHE STREET",LONDON,SE16 5DJ,447576918176,,-0.0336642,51.5010225
+,Deun Deun,korean_restaurant,0.77,category:korean,,London,E14 9ZP,,https://www.deundeun.uk,-0.019991793954303113,51.49954160349681
+,3KOBROS Korean Restaurant,korean_restaurant,0.999962796007669,category:korean,240 Westferry Rd,London,E14 3RQ,+442030697101,http://www.3kobros.com,-0.02149786,51.48946352
+,Yokoso,korean_restaurant,0.9471,category:korean,"1, 7 CREWS STREET",LONDON,E14 3TU,020 7515 8633,http://www.yokoso-uk.com,-0.0257581,51.4931335
+,Sagye - Canary Wharf,korean_restaurant,0.6814442587347784,category:korean,"Ground Floor, Orion Point, 7 Crews St",London,E14 3TU,+442039900092,https://sagyelondon.com/?fbclid=PAdGRleANfVSpleHRuA2FlbQIxMQABp8melZ_jAU1feyBnBPnUmD4NbeRBoYtxoGpD4-15vzvyXkHoonkcCumtFl1r_aem_RyABrY9gq_nh2VL6J8miIQ,-0.02608517,51.49187176
+,Tonic15 | Korean Beauty & Skincare Shop,cosmetics_and_fragrance_store,0.5,name:token,21 PARKFIELD STREET,LONDON,N1 0PS,,https://www.tonic15.com/,-0.0333492,51.4753121
+,콘월 주,historic_site,0.8145264387130737,name:hangul,,London,,,http://www.cornwall.gov.uk/,-0.0428784485098,51.4743990613
+,Taeyang Pocha Korean Bbq Soju Restaurant,korean_restaurant,0.5,category:korean,125 LEWISHAM WAY,LONDON,SE14 6QJ,447387773350,https://taeyangpochakorean.com/,-0.0315181,51.472538
+,Paranhodu,korean_restaurant,0.9794483780860901,category:korean,125 Lewisham Way,London,SE14 6QJ,+447387773350,,-0.03158501,51.47246751
+,"Kanji, Croydon",korean_restaurant,0.5,category:korean,99 GEORGE STREET,CROYDON,CR0 1LD,447930511158,,-0.0073836,51.4772858
+,Korean Restaurant London Naru,korean_restaurant,0.9931818497180939,category:korean,"Spread Eagle Yd, 3 Stockwell St",London,SE10 9JN,+442033045632,,-0.00819605,51.47960995
+,London Naru Korean,korean_restaurant,0.9595800042152405,category:korean,21 Lovibond Lane,London,SE10 9FY,+442083059985,https://london-naru-korean.business.site,-0.015452,51.477414
+,Bentore,korean_restaurant,0.8527752757072449,category:korean,10 Harbour Exchange Square,London,E14 9GE,+442079875444,https://bentore.co.uk/,-0.01580809,51.4984242
+,IAM - Immigrationandmigration /korea,passport_and_visa_service,0.2823151648044586,name:token,225 Marsh Wall,London,E14 9FW,+448451261350,http://www.immigrationandmigration.kr/,-0.011934,51.499868
+,Camden Kimchi - Greenwich Peninsula,restaurant,0.5,name:token,9 Woolwich Rd,London,,07404 360961,,0.0077759,51.4862222
+,K Kitchen (korean Restaurant),korean_restaurant,0.885,category:korean,9 WOOLWICH ROAD,LONDON,SE10 0RA,447723020888,https://kkitchenonline.co.uk/,0.0077759,51.4862222
+,Aka Korean And Japanese Foods,korean_restaurant,0.9645127058029175,category:korean,"FLAT 18, CHURCH STREET",LONDON,E16 2ND,+441323417451,http://www.soyachoi.com/,0.0461641,51.4920734
+,Sainsbury's,korean_grocery_store,0.9931,category:korean,"33 Priory Market Place, Priory Shopping Centre",Dartford,DA1 2HL,01322291666,https://stores.sainsburys.co.uk/2042/dartford?utm_source=extnet&utm_medium=yext&y_source=1_MTU1NjcxMTUtNDgzLWxvY2F0aW9uLndlYnNpdGU%3D,0.214914099138106,51.44377984682921
+,Manna,korean_grocery_store,0.9809674071073532,category:korean,30 Thomas Street,London,SE18 6HT,02083174733,,0.0669412,51.4906811
+,Donday Korea Woolwich,korean_restaurant,0.5,category:korean,"Unit19, 125 Powis St",London,SE18 6JL,447312163428,https://www.woolwichkfood.co.uk/,0.063157,51.4922618
+,Iceland Foods,korean_grocery_store,0.9978528641998767,category:korean,"144/146 High Street, Plumstead",London,SE18 1JQ,02088540313,http://iceland.co.uk/,0.09249952,51.48741467
+,Iceland Foods,korean_grocery_store,0.85,category:korean,"47/49 High Street, Dartford",Kent,DA1 1DJ,01322291928,http://iceland.co.uk/,0.2193286,51.4440712
+,Lee's Hairdressing,hair_salon,0.5,name:korean-surname,55 HYTHE STREET,DARTFORD,DA1 1BG,441322291307,,0.2166863,51.4459668
+,Premier,korean_grocery_store,0.97,category:korean,13 Riverview,Henderson Drive,DA1 5LB,01322271085,https://www.premier-stores.co.uk/?utm_source=bing&utm_medium=yext,0.23639829382951372,51.45329175723696
+,Premier,korean_grocery_store,0.9986585087180138,category:korean,1 Park Terrace,Greenhithe,DA9 9EL,01322427236,https://www.premier-stores.co.uk/?utm_source=bing&utm_medium=yext,0.2863248843911448,51.44964098828705
+,Post Office,korean_grocery_store,0.85,category:korean,29 - 33 High Street,Swanscombe,DA10 0AG,03456112970,https://www.postoffice.co.uk/,0.30996,51.4480109
+,Co-op Food - Swanscombe - High Street,korean_grocery_store,0.9655,category:korean,29-31 High Street,Swanscombe,DA10 0AG,01322313922,https://www.coop.co.uk/store-finder/DA10-0AG/29-31-high-street,0.31006448283806165,51.44815690821562
+,Swanscombe Post Office,korean_grocery_store,0.85,category:korean,29-31 High Street,Swanscombe,DA10 0AG,01322313922,https://www.postoffice.co.uk/branch-finder/1210149/swanscombe?campaignid=gmb~bf~1210149~google~na~05022025&y_source=1_NjI0OTU3MzEtNDgzLWxvY2F0aW9uLndlYnNpdGU%3D,0.3100669926269184,51.44814791354668
+,"Spri Food Ltd., Best-One",korean_grocery_store,0.9655,category:korean,3 Midfield Parade,Bexleyheath,DA7 6NA,01322411519,https://stores.best-one.co.uk/spri-food-ltd-best-one-64d468daf255?y_source=1_MTI3MjQxNjMtNDgzLWxvY2F0aW9uLndlYnNpdGU%3D,0.16129971840268809,51.46046100117276
+,Londis,korean_grocery_store,0.85,category:korean,3 Midfield Parade,Bexleyheath,DA7 6NA,02083170187,https://www.londis.co.uk/?utm_source=bing&utm_medium=yext,0.1615602,51.4604498
+,Webuyanycar,korean_grocery_store,0.85,category:korean,"James Watt Way, Pod Building On Morrisons Car Park",Erith,DA8 2AH,01322464101,https://www.webuyanycar.com/branch-locator/erith-morrisons,0.185096,51.479373
+,Zola Food Services Ltd.,korean_grocery_store,0.85,category:korean,2 Garrison Parade,Purfleet,RM19 1ST,01708867470,,0.2323653,51.4856355
+,Erith Post Office,korean_grocery_store,0.85,category:korean,89 Erith High Street,Erith,DA8 1QY,01322333139,https://www.postoffice.co.uk/branch-finder,0.181282,51.4810331
+,Premier,korean_grocery_store,0.9931,category:korean,172 West Street,Erith,DA8 1AN,01322449744,https://www.premier-stores.co.uk/?utm_source=bing&utm_medium=yext,0.17115843558197508,51.48630902446043
+,Sizzler Box,korean_restaurant,0.5,category:korean,2a STATION APPROACH,GRAYS,RM17 6NQ,447771119282,https://thesizzlerbox.com/,0.3224189,51.4763151
+,Doddle Sparks Supermarket Rickmansworth,korean_grocery_store,0.925,category:korean,68 Church Lane,Rickmansworth,WD3 8HE,,https://www.doddle.com/location-details/sparks-supermarket-rickmansworth,-0.493274,51.6368369
+,Post Office,korean_grocery_store,0.9655,category:korean,64 High Street,Rickmansworth,WD3 1AA,03456112970,https://www.postoffice.co.uk/,-0.4698529,51.6389275
+,North Hillingdon Post Office,korean_grocery_store,0.9655,category:korean,376 Long Lane,Uxbridge,UB10 9PG,01895238855,https://www.postoffice.co.uk/branch-finder/1610201/north-hillingdon?campaignid=gmb~bf~1610201~google~na~05022025&y_source=1_NjI0OTEwNTEtNDgzLWxvY2F0aW9uLndlYnNpdGU%3D,-0.4487029286747046,51.55096082794172
+,Continental Food Store,korean_grocery_store,0.9881839627921581,category:korean,"Unit 7 New Arcade, 276/277 High Street",Uxbridge,UB8 1LG,01895257089,,-0.4765239,51.5448335
+,Bao + Bowls,korean_restaurant,0.5,category:korean,3c ESKDALE ROAD,UXBRIDGE,UB8 2RT,,,-0.4936571,51.537241
+,Danes Conv Store,korean_grocery_store,0.9953220086991788,category:korean,81-83 Swan Rd,West Drayton,UB7 7LA,01895442569,https://www.nisalocally.co.uk/stores/greater-london/west-drayton/81-83-swan-rd,-0.47503018165435007,51.50499557318866
+,Post Office-Hillingdon Heath,korean_grocery_store,0.85,category:korean,"2 Blenheim Parade, Uxbridge Road",Uxbridge,UB10 0LX,03456112970,https://www.postoffice.co.uk/,-0.4457932,51.5295071
+,Post Office-Mulberry Parade,korean_grocery_store,0.9655,category:korean,3 Mulberry Parade,West Drayton,UB7 9AE,03456112970,https://www.postoffice.co.uk/,-0.4583464,51.5041753
+,Ugl Korea,shopping,0.77,name:token,Crown Trading Centre Clayton Roa,Hayes,UB3 1DU,020 8848 0669,http://www.uglexpress.co.uk,-0.42505212363090317,51.50581054382496
+,DHL Express Service Point (H T Food & Wine - iPayOn),korean_grocery_store,0.9713577181100845,category:korean,133 High Street,Ruislip,HA4 8JY,08442480844,https://uk.express.dhl.com/?utm_source=bing&utm_medium=organic&utm_campaign=bing&y_source=1_Mzg2NjUwMjQtNDgzLWxvY2F0aW9uLndlYnNpdGU%3D,-0.4229145,51.572913
+,Mokja Korean Bbq,asian_restaurant,0.5,name:token,5 HIGH ROAD,UXBRIDGE,UB10 8LE,,,-0.4425478,51.5665718
+,McColls,korean_grocery_store,0.9923342776596547,category:korean,79 Tolpits Lane,Watford,WD18 6NT,01923803821,,-0.41661805,51.6461595
+,Tolpits Post Office,korean_grocery_store,0.9655,category:korean,79-83 Tolpits Lane,Watford,WD18 6NT,03457223344,https://www.postoffice.co.uk/branch-finder/3034585/tolpits?campaignid=gmb~bf~3034585~google~na~05022025&y_source=1_NjI1MDEyNzctNzE1LWxvY2F0aW9uLndlYnNpdGU=,-0.4161522,51.6462135
+,Vicarage Road Post Office,korean_grocery_store,0.85,category:korean,91-93 Vicarage Road,Watford,WD18 0EB,01923219673,https://www.postoffice.co.uk/branch-finder/1900331/vicarage-road?campaignid=gmb~bf~1900331~google~na~05022025&y_source=1_NjI1MDE4ODItNDgzLWxvY2F0aW9uLndlYnNpdGU%3D,-0.4004030972601935,51.65201843109254
+,DHL Express Service Point (Master News - iPayOn),korean_grocery_store,0.9639688670635224,category:korean,5 Coldharbour Lane,Hayes,UB3 3EA,08442480844,https://uk.express.dhl.com/?utm_source=bing&utm_medium=organic&utm_campaign=bing&y_source=1_Mzg2NjUwMTItNDgzLWxvY2F0aW9uLndlYnNpdGU%3D,-0.41730074062457767,51.50771462571795
+,Locksmithw12,korean_grocery_store,0.9885496563824947,category:korean,60j BALFOUR ROAD,LONDON,W13 9TN,07776984460,https://locksmithw12.com/,-0.322093,51.5037675
+,Northfield Pharmacy,korean_grocery_store,0.9884032381400466,category:korean,30 Northfield Avenue,London,W13 9RL,02085670982,,-0.3190067,51.5047169
+,Southall Sports Centre,korean_grocery_store,0.9876751143932343,category:korean,Beaconsfield Road,Southall,UB1 1DP,02085718871,http://www.everyoneactive.com/centre/Southall-Sports-Centre,-0.3796405,51.5080024
+,Yori,korean_restaurant,0.77,category:korean,15 The Green,London,W5 5DA,020 8840 5252,https://yoriuk.com,-0.30536903775018726,51.51066081334934
+,Parks Kitchen,korean_restaurant,0.982182426678019,category:korean,24 The Grn,London,W5 5DA,+442038747980,http://www.parks-kitchen.com,-0.30547591,51.51062441
+,Out Fry - Korean Fried Chicken by Taster,food_and_beverage_store,0.85,name:token,367 Uxbridge Road,London,W3 9RP,02045710842,https://feedme.taster.com/menu/e6cf8157-1e3e-4bdf-b682-b7538ecde3b5,-0.2817772,51.5085977
+,Milli News,korean_grocery_store,0.7699999809265137,category:korean,365 UXBRIDGE ROAD,PINNER,HA5 4JN,02084283101,,-0.281769,51.5084462
+,PURESEOUL Westfield White City - Korean Beauty Shop,beauty_supply_store,0.6986055970191956,name:token,"1223, Westfield Shopping Centre, Ariel Way",London,W12 7GA,,http://www.pureseoul.co.uk/,-0.22144002,51.50842771
+,Seoul Bird,korean_restaurant,0.994770895242691,category:korean,Ariel Way,London,W12 7GE,+442034905705,https://seoul-bird.co.uk/,-0.22179529,51.50745294
+,DHL Express Service Point (James Newsagent - iPayOn),korean_grocery_store,0.9657246232032776,category:korean,"326 Uxbridge Road, Shepherds Bush",London,W3 9QP,08442480844,https://uk.express.dhl.com/?utm_source=bing&utm_medium=organic&utm_campaign=bing&y_source=1_Mzg2NjQ3ODYtNDgzLWxvY2F0aW9uLndlYnNpdGU%3D,-0.2325679,51.5063759
+,Premier,korean_grocery_store,0.985,category:korean,195A-197A Uxbridge Road,Shepherds Bush,W12 9RA,02087496193,https://www.premier-stores.co.uk/?utm_source=bing&utm_medium=yext,-0.23924719999999677,51.506354999032084
+,Mleczko Acton,korean_grocery_store,0.9655,category:korean,"193-195, High Street",London,W3 9DD,02087521827,http://www.mleczkodelikatesy.com/,-0.2723856,51.5074969
+,Embassy of the Democratic People's Republic of Korea,embassy,0.9010157585144043,name:token,73 Gunnersbury Ave,London,W5 4LP,+442089924965,https://www.gov.uk/government/publications/foreign-embassies-in-the-uk,-0.28914063,51.50312331
+,Cho Sim,korean_restaurant,0.9763874733448028,category:korean,24 Goldhawk Rd,London,W12 8DH,+442087620117,https://www.chosim.co.uk,-0.22510792,51.50278096
+,Hanrue Korean BBQ,korean_restaurant,0.9949198237061501,category:korean,11 Kensington High St,London,W8 5NP,+442079382835,http://www.tastykorea.co.uk,-0.18805933,51.50228735
+,Hanrue Korean Bbq,korean_restaurant,0.9830050468444824,category:korean,11 Kensington High St,London,W8 5NP,+442079382835,https://g.page/hanruekensington/review?gm,-0.18805269,51.50228121
+,Bullgogi Notting Hill,korean_restaurant,0.9999786927613341,category:korean,145 Notting Hill Gate,London,W11 3LB,+442077921760,http://www.bullgogi.com/,-0.19959207,51.50853711
+,Korean Urban Dining,restaurant,0.7340293526649475,name:token,196 CAMPDEN HILL ROAD,LONDON,W8 7TH,,,-0.1995986,51.5084709
+,bibida,korean_restaurant,0.9985675257444382,category:korean,"1 Hillgate St, Notting Hill Gate",London,W8 7SP,+442072210151,http://www.bibida.co.uk/,-0.19775354,51.50860549
+,Kim's Nails And Beauty,nail_salon,0.9927432038580113,name:korean-surname,8 KENSINGTON MALL,LONDON,W8 4EA,02072210082,https://kim-nails-and-beauty.web.app/,-0.1943197,51.5085387
+,레저인 호텔,lodging,0.5,name:hangul,40 LEINSTER GARDENS,LONDON,W2 3,,,-0.1828734,51.512577
+,Annam Food & Wine,korean_grocery_store,0.965499997138977,category:korean,25 Leinster Terrace,London,W2 3ET,02077067446,,-0.1830964,51.5116863
+,소더비즈,auction_house,0.7069573402404785,name:hangul,,London,,,http://www.sothebys.com/,-0.14361111111111,51.511944444444
+,Tesco Express,korean_grocery_store,0.9973060669064522,category:korean,"Tesco Express, 3-4 The Parade, Haven Green",London,W5 2PB,03333450797,https://www.tesco.com/store-locator/london/tesco-express-3-4-the-parade?sc_cmp=ref*yg*stc*2708&utm_source=yext_extnet&utm_campaign=local_Express_England&utm_medium=referral,-0.3017934449826498,51.515991287409854
+,Little Waitrose At Shell Ealing,korean_grocery_store,0.996925100672245,category:korean,35 Hanger Lane,London,W5 3HJ,02089919560,https://www.waitrose.com/find-a-store/ealing?utm_source=ExtNet&utm_medium=Yext&y_source=1_MTA4NTgyMDAtNDgzLWxvY2F0aW9uLndlYnNpdGU%3D,-0.29088304414558674,51.516403774313446
+,Best One,korean_grocery_store,0.9931,category:korean,56 Greenford Rd,Greenford,UB6 9AT,02085782626,https://stores.best-one.co.uk/best-one-f4538b27e750?y_source=1_MTI3MjQzNjItNDgzLWxvY2F0aW9uLndlYnNpdGU%3D,-0.3544992,51.5191362
+,Westbourne Nogs Grocery,korean_grocery_store,0.9775,category:korean,110 CHEPSTOW ROAD,LONDON,W2 5QS,02072295572,,-0.1961755,51.5190033
+,MLE SKINCARE Ltd. - Korean Dermocosmetic London,beauty_product_supplier,0.9878134621977807,name:token,20 Seymour Mews,London,W1H 6BQ,07500664227,https://www.atopalm.co.uk/,-0.1546227,51.5179698
+,MoMo's,korean_restaurant,0.77,category:korean,169 Landbroke Grove,London,W10 6HJ,020 7998 8384,http://www.mymomos.co.uk,-0.21054569,51.517956
+,Zanchi Korean Restaurant,korean_restaurant,0.9711869359016418,category:korean,113-115 Praed St,London,W2 1RL,+442077235555,http://www.allinlondon.co.uk/restaurants/restaurant-150.php,-0.17320171,51.51688922
+,The Peking-Seoul Restaurant,chinese_restaurant,0.979477099776268,name:token,113-115 Praed Street,London,W2 1,+442077239550,http://www.allinlondon.co.uk/restaurants/restaurant-150.php,-0.173086,51.516842
+,유얼마트,exporter,0.5997917354106903,name:hangul,22-25 PORTMAN CLOSE,LONDON,W1H 6BS,827041343123,,-0.15645,51.51685
+,Westbourne Grove Local Sainsbury's (Argos Collection Point),korean_grocery_store,0.9976953025877475,category:korean,86-94 Westbourne Grove,London,W2 5RT,02072295902,https://www.argos.co.uk/stores/6040-westbourne-grove-local-sainsbury's-(argos-collection-point)?y_source=1_ODIyNzk2ODMtNDgzLWxvY2F0aW9uLndlYnNpdGU%3D,-0.19355,51.51534
+,"셰익스피어 룸, 리젠시 빌딩",bed_and_breakfast,0.5,name:hangul,84 WESTBOURNE TERRACE,LONDON,W2 6QE,,,-0.1804288,51.5158139
+,Budgens,korean_grocery_store,0.9931,category:korean,171-173 Praed Street,Paddington,W2 1RH,02074023117,,-0.17524458035659496,51.51563246914164
+,Glam Touch Nails Salon (female Only Salon) - Korean Nails,spa,0.8973172903060913,name:token,10 BRUNSWICK CENTER,LONDON,WC1N 1AE,+447391634093,,-0.1591157,51.5158725
+,Philglas & Swiggot - Marylebone | Independent Wine Shop & Enoteca,korean_grocery_store,0.9655,category:korean,22 New Quebec Street,London,W1H 7SB,02074020002,http://www.philglas-swiggot.com/,-0.1582898,51.5151142
+,Bi Won,korean_restaurant,0.5,category:korean,24 Coptic St,"London, Greater London",WC1A 1NT,020 7580 2660,,-0.1504601,51.5155023
+,Jinnjoo,korean_restaurant,0.5561355948448181,category:korean, ,London,,,,-0.142902,51.516621
+,D Wine,korean_grocery_store,0.965499997138977,category:korean,Margaret Street,London,W1G 0JE,02074091465,,-0.1431498,51.5161881
+,Jinjuu,korean_restaurant,0.5,category:korean,39 Albemarle Street,,,,,-0.1418163,51.508686
+,Korean restaurant Myungga,restaurant,0.98275,name:token,"1 Kingly Street, Soho",London,W1B 5PA,02077348220,http://www.myungga.co.uk/,-0.1386156,51.5121186
+,Korean Dinner Party,asian_fusion_restaurant,0.9756496523171663,name:token,"Top Floor, Kingly Court",London,W1B 5PW,02045801197,https://www.koreandinnerparty.com/,-0.1389157,51.5123514
+,Jinjuu Soho,korean_restaurant,0.5,category:korean,15 KINGLY STREET,LONDON,W1B 5PS,442081818887,http://jinjuu.com/,-0.1391711,51.5126904
+,Mukbang Pocha,korean_restaurant,0.9950824677944183,category:korean,10 Golden Square,London,W1F 9JA,+442039875570,http://www.MukbangPocha.co.uk/,-0.13656265,51.51165092
+,Arang,korean_restaurant,0.9999943888804591,category:korean,9 GOLDEN SQUARE,LONDON,W1F 9HZ,+442074342073,http://www.arang.co.uk,-0.1365453,51.5117314
+,Korean Bistro Bibida,korean_restaurant,0.5,category:korean,Brewer St 53,London,W1F,,,-0.1352306,51.5114933
+,Jumak 39,korean_restaurant,0.9999026867562826,category:korean,39 PANTON STREET,LONDON,SW1Y 4EA,+442078392774,http://jumak39.co.uk,-0.1322293,51.5094948
+,Hankki London China Town,korean_restaurant,0.9810792207717896,category:korean,7 Wardour Street,London,W1D 6PE,+442033322984,https://xhslink.com/m/7WXML0g6DQH,-0.13175188,51.51077233
+,Hankki London China Town,korean_restaurant,0.9998325500065139,category:korean,"Hankki, Chinatown, 7 Wardour St",London,W1D 6PE,+442033322984,https://xhslink.com/m/7WXML0g6DQH,-0.13175188,51.51077233
+,"Little Korea, China Town, London",fast_food_restaurant,0.9928802502155304,name:token,,London,,,,-0.13156090171512594,51.511081563937196
+,Pochawa Grill,korean_restaurant,0.9999376539651983,category:korean,29 WARDOUR STREET,LONDON,W1D 6PS,,https://www.instagram.com/pochawagrill/,-0.1321665,51.5112356
+,SOJU & CO,korean_restaurant,0.5980578484302468,category:korean,32 Great Windmill Street,London,W1D 7LR,+442074343262,,-0.134257,51.511558
+,Majang Dong,korean_restaurant,0.8250449895858765,category:korean,15 Frith St,London,W1D 4RE,+442036683504,,-0.13145882,51.51381229
+,Hongdae Pocha,korean_restaurant,0.9981038773540888,category:korean,26 ROMILLY STREET,LONDON,W1D 5AJ,+442072871585,https://hongdaepocha.com,-0.1309028,51.5130432
+,Assa,korean_restaurant,0.9983302697539329,category:korean,23 Romilly St,London,W1D 5AQ,+442077349050,http://www.london-eating.co.uk/38543.htm,-0.1312897,51.5127902
+,Olle Korean Barbecue,barbecue_restaurant,0.9990985807776451,name:token,88 Shaftesbury Ave,London,W1D 6NH,+442072871979,http://ollelondon.com,-0.13147206,51.51207746
+,Bunsik Chinatown,korean_restaurant,0.9899546664953232,category:korean,31 WARDOUR STREET,LONDON,W1D 6PT,,,-0.1321963,51.5112802
+,"Bab N Suul, Korean Bbq Restaurant",korean_restaurant,0.5,category:korean,1 GERRARD PLACE,LONDON,W1D 5PA,447949340048,http://www.babnsuul.com/,-0.1304096,51.5124029
+,Chungdam,korean_restaurant,0.9966135174036026,category:korean,35-36 Greek St,London,W1D 5DL,+442072870526,http://www.chungdam.co.uk/,-0.13025855,51.51304785
+,Oseyo,korean_restaurant,0.9954524689912796,category:korean,73 Charing Cross Road,London,WC2H 0NE,+442039739701,http://www.oseyo.co.uk/branch,-0.128766753,51.512542498
+,Seoul Plaza,korean_restaurant,0.77,category:korean,65-67 Charing Cross Rd,London,WC2H 0NE,020 7439 8392,http://www.koreafoods.co.uk,-0.128656,51.512434
+,PURESEOUL Charing Cross Road- Korean Beauty Shop,beauty_supply_store,0.9788642084598541,name:token,70 Charing Cross Rd,London,WC2H 0BJ,,http://www.pureseoul.co.uk/,-0.12847784,51.51245894
+,Bunsik,korean_restaurant,0.999790372988867,category:korean,62 Charing Cross Rd,London,WC2H 0BB,+442072401796,https://www.bunsik.co.uk/,-0.12846797,51.51232853
+,SOOM Korean Restaurant Covent Garden,korean_restaurant,0.8812081813812256,category:korean,99 St Martin's Ln,London,WC2N 4AZ,+442045972123,https://soomkorean.com/,-0.12712187,51.51048652
+,Olle Korean Barbecue - London,korean_restaurant,0.7468754649162292,category:korean,,London,,,,-0.12731805236353,51.507114863624
+,Korea National Tourism Organisation,tour_operator,0.77,name:token,"New Zealand House, 80 Haymarket 3rd Floor",London,SW1Y 4TE,020 7321 2535,http://www.tour2korea.com,-0.131537,51.507897
+,Korea Tourism Organization London Office,government_office,0.5348218083381653,name:token,,London,,+442073212535,http://gokorea.co.uk/,-0.1313728,51.5077857
+,Korean War Memorial,monument,0.8122566938400269,name:token,30 Victoria Embankment,London,SW1A 2JL,,,-0.12389869,51.50371241
+,Westfield Shephers Bush,korean_restaurant,0.44006162881851196,category:korean,,London,,+12033712300,https://uk.westfield.com/london,-0.12159917154318022,51.50787209733839
+,London Korean Film Festival,movie_theater,0.7167829409768771,name:token,1 Strand,London,WC2N 5,+442070042600,https://linktr.ee/london_korean_film_festival,-0.12567758560181,51.507286723929
+,Korean Cultural Centre,cultural_center,0.9999615634076774,name:token,1 STRAND,LONDON,WC2N 5EH,+442070042600,http://www.kccuk.org.uk/,-0.1266531,51.5077323
+,Bunsik Embankment,korean_restaurant,0.9641488534212113,category:korean,19 Villiers St,London,WC2N 6ND,,https://bunsik.co.uk,-0.12403415,51.5082556
+,"라뒤레, 플랫아이언",restaurant,0.5,name:hangul,20 HENRIETTA STREET,LONDON,WC2E 8,,,-0.123297,51.5111486
+,Yori,korean_restaurant,0.9952484506368637,category:korean,15 Catherine St,London,WC2B 5JZ,+442078363145,http://cafe.naver.com/everydaybritish,-0.11977213,51.51230663
+,On The Bab,korean_restaurant,0.77,category:korean,36 Wellington St,London,WC2E 7BD,020 7240 5568,http://onthebab.co.uk,-0.120689,51.512312
+,Korean Street food Covent Garden London,korean_restaurant,0.7322377562522888,category:korean,,London,,,,-0.12083102358619,51.51236374785
+,Korea Trade,civic_organization,0.77,name:token,"Brettenham House, Lancaster Pl 1St floor",London,WC2E 7EN,020 7520 5300,http://www.kotra.co.uk,-0.11894453622362185,51.51053414793681
+,Oseyo,korean_restaurant,0.9809735679626465,category:korean,158b Waterloo Road,London,SE1 8,+442034172690,http://www.oseyo.co.uk,-0.1103454,51.5023251
+,CO&KO,korean_restaurant,0.9995860680298663,category:korean,72 Berwick Street,London,W1F 8TD,+442074399074,http://www.coandko.co.uk/,-0.13602561133994978,51.5147578974412
+,Korea Venture Investment Corp,investment_management_company,0.5,name:token,20 NOEL STREET,LONDON,W1F 8GW,442081358100,https://kvic.or.kr/en/index,-0.1364804,51.5148963
+,Arirang Korean Restaurant,korean_restaurant,0.9991964223980904,category:korean,31-32 Poland St,London,W1F 8QT,+442033425858,http://www.ariranglondon.co.uk/,-0.13754981,51.51553127
+,Post Office-Oxford Street,korean_grocery_store,0.85,category:korean,"The Plaza, 120 Oxford Street",London,W1D 1LT,03456112970,https://www.postoffice.co.uk/,-0.1363608,51.5159118
+,God's Vision Church (꿈이있는교회),christian_place_of_worship,0.77,name:hangul,,,,020 7720 2401,http://www.godsvisionchurch.org,-0.13898516657107607,51.51658609726642
+,Bibimbap ToGo Oxford St,fast_food_restaurant,0.6482328772544861,name:token,47 Margaret Street,London,W1W 8SB,+442076371067,http://bibimbaptogo.co.uk/oxford-st/,-0.14188,51.51644
+,K-Pop,korean_restaurant,0.9978543731570244,category:korean,47 Margaret St,London,W1W 8SB,+442032050055,,-0.14189002,51.51650326
+,Kpopcafe,korean_restaurant,0.6295468807220459,category:korean,,London,,,,-0.1420214200064187,51.51650806251036
+,Korean Touch,,0.85,name:token,Oxford Circus,London,W1W 7ER,07552374151,http://www.koreantouch.com/,-0.140426,51.5189
+,Sainsbury's Local,korean_grocery_store,0.85,category:korean,29-35 Mortimer Street,London,W1T 3JG,02076374202,https://stores.sainsburys.co.uk/4064/mortimer-street-local,-0.1384551,51.51812618
+,Korean Broadcasting System,radio_station,0.5,name:token,45 BERNERS STREET,LONDON,W1T 3NE,442074363430,,-0.1375958,51.5179904
+,"Korean Embassy, London",korean_restaurant,0.7431304454803467,category:korean,,London,,,,-0.13475758707963936,51.51786812623591
+,Koba,korean_restaurant,0.999030199944973,category:korean,11 Rathbone St,London,W1T 1NA,+442075808825,http://KobaLondon.com/,-0.1347718,51.51790781
+,Bibimbap Charlotte Street,asian_fusion_restaurant,0.9856613516509533,name:token,10 Charlotte Street,London,W1T 2LT,02073236890,http://www.bibimbapcharlottestreet.co.uk/,-0.1345865,51.5183163
+,Seoul Plaza,grocery_store,0.9989943438768387,name:token,52 Tottenham Ct Rd,London,W1T 2EH,+442075804189,https://www.koreafoods.co.uk,-0.13327406,51.51948551
+,Eatopia,korean_restaurant,0.9997662031809114,category:korean,8 Great Russell St,London,WC1B 3NH,+442074360324,https://eatopialondon.co.uk/,-0.13000213,51.51721193
+,Seoul Bakery,korean_restaurant,0.9992747377841243,category:korean,14 GREAT RUSSELL STREET,LONDON,WC1B 3NH,+442072400877,https://seoul-bakery.business.site,-0.129656,51.5170005
+,"Assa Korean Restaurant, Tottenham Court Rd",korean_restaurant,0.6139296889305115,category:korean,55 St Giles High Street,London,WC2H 8LH,+442072408256,http://www.assalondon.com,-0.129297,51.515845
+,Han Kang,korean_restaurant,0.9999596172363124,category:korean,16 Hanway St,London,W1T 1UE,+442076371985,http://www.hankang.co.uk,-0.13179124,51.51689125
+,Seoul In Soho,restaurant,0.8263773394507581,name:token,31 SOHO SQUARE,LONDON,W1D 3AP,,,-0.1326049,51.5146313
+,Bó Drake,korean_restaurant,0.77,category:korean,6 Greek St,London,W1D 4DE,,http://bodrake.co.uk,-0.13121707505296248,51.5146241358439
+,Bibimbap Soho,korean_restaurant,0.885,category:korean,11 GREEK STREET,LONDON,W1D 4DJ,442072873434,https://bibimbapsoho.co.uk/,-0.1309545,51.5144217
+,Soju Hanjan,korean_restaurant,0.5,category:korean,"Basement, 11 Greek St",London,W1D 4DJ,442072873434,,-0.1309545,51.5144217
+,Kangnam Pocha,korean_restaurant,0.9992065191268921,category:korean,176 Drury Ln,London,WC2B 5QF,+442039687046,https://kangnampocha.co.uk/,-0.12340683,51.51556172
+,The Official Military Beer Co.,korean_grocery_store,0.9655,category:korean,71-75 Shelton Street,Covent Garden,WC2H 9JQ,01483323808,https://www.officialmilitarybeer.co.uk/,-0.12364,51.51492
+,HANA Food Cafe,korean_restaurant,0.8910152316093445,category:korean,73 New Oxford St,London,WC1A 1DG,+442072406147,http://www.cpfs.co.uk,-0.12803417,51.51664986
+,Woojung,korean_restaurant,0.9903271496295929,category:korean,73 New Oxford St,London,WC1A 1DG,+442072406147,,-0.12798187,51.51668799
+,Naru,korean_restaurant,0.9975982123613357,category:korean,230 Shaftesbury Ave,London,WC2H 8EG,+442073797962,http://www.narurestaurant.com,-0.12593538,51.51681662
+,Bi Won,korean_restaurant,0.77,category:korean,24 Coptic St,"London, Greater London",WC1A 1NT,020 7580 2660,,-0.1258524054538372,51.517247320061124
+,London Korean Anglican Church,anglican_or_episcopal_place_of_worship,0.7551762461662292,name:token,Bloomsbury Way,London,WC1A 2SA,+447737161317,https://www.youtube.com/@LKAC.MISSION,-0.12474948,51.51754649
+,Bibimbab Cafe,korean_restaurant,0.9755339920520782,category:korean,37 Museum St,London,WC1A 1LP,+442074048880,http://www.bibimbabcafe.com,-0.12589173,51.5180862
+,Korean Ginseng Market,,0.6009389162063599,name:token,32 Museum Street,London,WC1A 1LH,+442032908882,https://www.koreanginsengmarket.com/,-0.12601,51.51796
+,Zipbab,korean_restaurant,0.9990754809975624,category:korean,51 Red Lion St,London,WC1R 4PF,+442072420529,http://www.zipbablondon.com/,-0.11738567,51.51977127
+,Asadal Restaurant,korean_restaurant,0.885,category:korean,227 HIGH HOLBORN,LONDON,WC1V 7DN,,,-0.1200635,51.5175383
+,Barn Ju,korean_restaurant,0.5,category:korean,10 GATE STREET,LONDON,WC2A 3HP,442030893552,https://www.barnju.co.uk/,-0.1188689,51.5171949
+,Grays Inn Post Office,korean_grocery_store,0.925,category:korean,24-28 Grays Inn Road,London,WC1X 8HR,02078316348,https://www.postoffice.co.uk/branch-finder/0500100/grays-inn?campaignid=gmb~bf~500100~google~na~05022025&y_source=1_NjI0OTYwNDUtNzE1LWxvY2F0aW9uLndlYnNpdGU=,-0.1115386,51.5191863
+,Co-Operative Food,korean_grocery_store,0.85,category:korean,"4 Station Approach, City Centre",Norwich,NR1 1EG,01603624409,http://www.eastofengland.coop/home,-0.1101572,51.5168141
+,Iceland Foods,korean_grocery_store,0.9978310018002987,category:korean,"48/50 The Broadway, Greenford",Middlesex,UB6 9PT,02085785046,http://iceland.co.uk/,-0.3547333,51.5281648
+,Costcutter,korean_grocery_store,0.9985911987006665,category:korean,Unit 1 Weaver House,Northolt,UB5 6FP,02088452330,https://store-locator.costcutter.co.uk/costcutter-8acf5a1fddd1?y_source=1_MTgxNTEyNDktNDgzLWxvY2F0aW9uLndlYnNpdGU%3D,-0.3783723795005334,51.52917814509854
+,Starch Green Post Office,korean_grocery_store,0.85,category:korean,7 Kings Parade,London,W12 9BA,02087434584,https://www.postoffice.co.uk/branch-finder,-0.2212483,51.5375474
+,Londis,korean_grocery_store,0.9931,category:korean,"998/1000 Harrow Road, Kensal Green",London,NW10 5NT,02089690473,https://www.londis.co.uk/?utm_source=bing&utm_medium=yext,-0.22890144672494062,51.53075918431515
+,DHL Express Service Point (Regents Convenience - iPayOn),korean_grocery_store,0.85,category:korean,"15 Kilburn Lane, North Kensington",London,W10 4AE,08442480844,https://uk.express.dhl.com/?utm_source=bing&utm_medium=organic&utm_campaign=bing&y_source=1_MjAwMDYxNTM1Ny00ODMtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D,-0.2160463,51.5286606
+,Burgogi Korean Bbq Home Cook Kits Nationwide Delivery,food_delivery_service,0.5,name:token,26 CHASE ROAD,LONDON,NW10 6QN,,https://www.burgogi.co.uk/,-0.2589492,51.5279796
+,Nifeislife,korean_grocery_store,0.9695577904582023,category:korean,"Unit 12, Whitby Avenue",London,NW10 7SF,02089610210,http://www.nifeislife.com/,-0.27572,51.5324705
+,𝔡𝔞𝔪i𝔫𝔦𝔰𝔪 다미니즘,,0.06459210813045502,name:hangul,,London,,,,-0.25997,51.5225
+,Sainsbury's Local,korean_grocery_store,0.9933282268047333,category:korean,"Sainsburys Local, 207 Shirland Road",London,W9 2EX,03456009346,https://stores.sainsburys.co.uk/5220/maida-vale-shirland-road?utm_source=extnet&utm_medium=yext&y_source=1_MTA5MTkyNTQwOS00ODMtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D,-0.19714,51.52788
+,Out Fry - Korean Fried Chicken by Taster,food_and_beverage_store,0.9655,name:token,51 Salusbury Road,London,NW6 6NJ,02045798655,https://taster.com/our-brands/out-fry/,-0.2046413,51.5345228
+,Tesco Express,korean_grocery_store,0.9987769147634507,category:korean,"Tesco Express, 100 Willesden Lane",London,NW6 7TA,03333451570,https://www.tesco.com/store-locator/london/tesco-express-0a277616-f234-4caf-a285-77930ca0f143?sc_cmp=ref*yg*stc*5347&utm_source=yext_extnet&utm_campaign=local_Express_England&utm_medium=referral,-0.20290053282069787,51.540905674649984
+,The Petite Coree,korean_restaurant,0.9993905633687973,category:korean,98 W End Ln,London,NW6 2LU,+442076249209,http://www.thepetitecoree.com/,-0.1910722,51.54620329
+,Your Mum’s Kitchen,korean_restaurant,0.5,category:korean,17 GOLDHURST TERRACE,LONDON,NW6 3HX,442033024390,,-0.1795321,51.5456765
+,"런던 핀칠리 순복음교회, Lffgc",,0.8550832867622375,name:hangul,255 Finchley Road,London,NW3 6LU,,https://www.lffgc.com/,-0.18135466860485,51.547795039231
+,"런던 핀칠리 순복음교회, Lffgc",,0.8439773321151733,name:hangul,255 Finchley Road,London,NW3 6LU,,https://www.lffgc.com/,-0.18107,51.54799
+,Dhigs,korean_grocery_store,0.9920649993419647,category:korean,12 Formosa Street,London,W9 1EE,02072862689,,-0.1848278,51.5247225
+,패딩턴 민박 런던,lodging,0.5,name:hangul,210 JOHN AIRD COURT,LONDON,W2 1UX,,,-0.1781991,51.5210026
+,애플민박,lodge,0.5,name:hangul,28a MAIDA AVENUE,LONDON,W2 1ST,,,-0.1805385,51.5222043
+,Tesco Express,korean_grocery_store,0.9931,category:korean,"Tesco, 29 Clifton Road",London,W9 1SY,03333450804,https://www.tesco.com/store-locator/london/tesco-4a07c32a-4b90-4263-ac53-9dfeebe3c9bf?sc_cmp=ref*yg*stc*2717&utm_source=yext_extnet&utm_campaign=local_Express_England&utm_medium=referral,-0.17940357327461243,51.52533488283503
+,Gogi,korean_restaurant,0.9992664483189583,category:korean,451 Edgware Rd,London,W2 1TH,+442077243018,http://www.gogi-restaurant.com/,-0.17675651,51.52442678
+,Costcutter,korean_grocery_store,0.9987070544481278,category:korean,33-35 Oldfield Circus,Greenford,UB5 4RR,02088648347,https://store-locator.costcutter.co.uk/costcutter-3898f425bae6?y_source=1_MTgxNTIwMDQtNDgzLWxvY2F0aW9uLndlYnNpdGU%3D,-0.3502778601188683,51.55170001383939
+,Iceland Supermarket Harrow,korean_grocery_store,0.9986069064140319,category:korean,274/278 Northolt Road,Harrow,HA2 8EB,02081672551,https://www.iceland.co.uk/store-finder/store?StoreID=818&StoreName=SOUTH%20HARROW&utm_source=Google&utm_medium=GMB&utm_campaign=Store,-0.3549483,51.5635152
+,Iceland Supermarket Pinner,korean_grocery_store,0.9977584678053856,category:korean,348 Rayners Lane,Pinner,HA5 5ED,02081672588,https://www.iceland.co.uk/store-finder/store?StoreID=1237&StoreName=RAYNERS%20LANE&utm_source=Google&utm_medium=GMB&utm_campaign=Store,-0.370785,51.5761466
+,Londis,korean_grocery_store,0.85,category:korean,84 Butler Road,Harrow,HA1 4DR,02084221843,http://www.londis.co.uk/,-0.3492488,51.5780372
+,DHL Express Service Point (M J Foods & Wines - iPayOn),korean_grocery_store,0.9928560646772384,category:korean,70 Station Road,North Harrow,HA2 7SJ,08442480844,https://uk.express.dhl.com/?utm_source=bing&utm_medium=organic&utm_campaign=bing&y_source=1_Mzg2NjUwMzgtNDgzLWxvY2F0aW9uLndlYnNpdGU%3D,-0.3622146486954514,51.584285213780724
+,Kokoro,korean_restaurant,0.77,category:korean,,,,,https://kokorouk.com,-0.3388743,51.581055
+,Naru,korean_restaurant,0.5,category:korean,230 Shaftesbury Ave,London,WC2H 8EG,020 7379 7962,http://www.narurestaurant.com/index.html,-0.3570609,51.5745457
+,O Kane Irish Foods,korean_grocery_store,0.7699999809265137,category:korean,"8 QUAD ROAD, EAST LANE",WEMBLEY,HA9 7NE,02083851771,,-0.3051189,51.5663605
+,Pinner Korean Karate Self Defence  Family Martial Arts,martial_arts_club,0.5543328523635864,name:token,Love Lane ,Harrow,HA5 5EX,+442071758979,http://www.ksdc.org.uk/,-0.316667,51.5833
+,DHL Express Service Point (Quick Picks UK Ltd. - iPayOn),korean_grocery_store,0.9697937220335007,category:korean,266 Preston Road,Harrow,HA3 0PY,08442480844,https://uk.express.dhl.com/?utm_source=bing&utm_medium=organic&utm_campaign=bing&y_source=1_Mzg2NjUwODYtNDgzLWxvY2F0aW9uLndlYnNpdGU%3D,-0.2944348,51.5723497
+,Hot Korean,korean_restaurant,0.4617826044559479,category:korean,Pacific Plaza,Wembley,,,,-0.275857,51.559262
+,O Kane Irish Foods,korean_grocery_store,0.983541268914938,category:korean,8-9 East Lane Quad Road,Wembley,HA9 7NE,02083851771,,-0.3003669,51.5627168
+,Vineyards Food & Wine,korean_grocery_store,0.9930999994277954,category:korean,"10 Court Parade, East Lane",Wembley,HA0 3HU,02089041819,,-0.3196813,51.5621264
+,Hamptons Food & Wine,korean_grocery_store,0.99655,category:korean,"822 Harrow Rd, Brent",Wembley,HA0 3EL,02089049754,https://www.nisalocally.co.uk/stores/greater-london/wembley/822-harrow-rd,-0.31592090051412924,51.55560538061461
+,Eastern European Food & Wine,korean_grocery_store,0.98275,category:korean,98-100 Horsenden Lane North,Greenford,UB6 7QH,02089033525,http://www.costcutter.com/,-0.3311262,51.550074
+,Chanko's Korean Fried Chicken,restaurant,0.6573172211647034,name:token,448 High Road,London,N17 9,+447404178701,,-0.24794,51.54927
+,Duri Mart,korean_grocery_store,0.5,category:korean,"10 STATION PARADE, UXBRIDGE ROAD",LONDON,W5 3LD,442087521766,,-0.2210174,51.549531
+,Post Office-Neasden,korean_grocery_store,0.925,category:korean,"308 Neasden Lane, Neasdon",London,NW10 0AD,03456112970,https://www.postoffice.co.uk/,-0.2511489,51.5599568
+,Iceland Supermarket Neasden,korean_grocery_store,0.97,category:korean,574/578 Circular Road,Neasden,NW2 7PY,02081672555,https://www.iceland.co.uk/store-finder/store?StoreID=764&StoreName=NEASDEN&utm_source=Google&utm_medium=GMB&utm_campaign=Store,-0.2525965,51.5611733
+,Londis,korean_grocery_store,0.9931,category:korean,391 Neasden Lane North,Neasden,NW10 0BD,02084503696,https://www.londis.co.uk/?utm_source=bing&utm_medium=yext,-0.2585072,51.5627008
+,The Drinks Basket Ltd.,korean_grocery_store,0.9655,category:korean,472 Church Lane,London,NW9 8UA,02082008355,http://www.thedrinksbasket.com/,-0.2617516,51.5818712
+,K.cook Korean Restaurant,korean_restaurant,0.885,category:korean,36 WATFORD WAY,LONDON,NW4 3AL,442082034298,,-0.2279838,51.5840597
+,K Cook,korean_restaurant,0.9726375937461853,category:korean,36 Watford Way,London,NW4 3JJ,+442082034298,http://www.yell.com/b/K+_+Cook+Ltd-Korean+Restaurants-London-NW43AL-7191645/index.html,-0.22809191154065817,51.58400737692472
+,Premier Express,korean_grocery_store,0.9655,category:korean,17 Watford Way,London,NW4 3JL,02082017071,http://www.premier-stores.co.uk/,-0.227886,51.5835032
+,WooJung Golders Green,korean_restaurant,0.7514046430587769,category:korean,622 Finchley Rd,London,NW11 7RR,+442087316090,https://golders.woojung.co.uk/,-0.19496232,51.57101627
+,Sarang,korean_restaurant,0.9998581942148377,category:korean,887 Finchley Rd,London,NW11 8RR,+442084551035,https://sarang-restaurant.business.site,-0.19551458,51.57151676
+,Seoul Plaza,grocery_store,0.9814108049869538,name:token,17 Golders Green Rd,London,NW11 8DY,+442082093739,https://www.koreafoods.co.uk,-0.19630932,51.57190577
+,Damoa,korean_restaurant,0.77,category:korean,,London,NW11 8LL,020 8455 9958,https://www.cafedamoa.com,-0.19738815206684177,51.57234958400469
+,Seoul Plaza,specialty_foods_store,0.9875531196594238,name:token,136 Golders Green Rd,London,NW11 8HB,+442087317999,http://www.seoulplaza.co.uk/,-0.20118307,51.57416029
+,Spicy Grill Korean BBQ,korean_restaurant,0.9999691981178038,category:korean,122 Golders Green Rd,London,NW11 8HB,+442082090232,http://spicygrill1.placeweb.site,-0.20076183,51.57391601
+,Kay's,korean_grocery_store,0.85,category:korean,2A Golders Green Road Princes Parade,London,NW11 9PS,02084583756,,-0.2070594,51.5777111
+,Gostop,korean_restaurant,0.5,category:korean,32 Golders Green Road,London,NW11 8LL,020 4636 5398,,-0.2104574,51.5807956
+,Kay's,korean_grocery_store,0.7699999809265137,category:korean,"2 PRINCES PARADE, GOLDERS GREEN ROAD",LONDON,NW11 9PS,02084583756,,-0.2104574,51.5807956
+,한인교회,christian_place_of_worship,0.6812100410461426,name:hangul,84 Heath St,London,NW3 1DN,+447517662236,http://www.londonhkc.org/,-0.17850872,51.55789987
+,햄프스티드 역,travel_and_transportation,0.7742776870727539,name:hangul,,London,,,,-0.17828184257558816,51.55692188847897
+,Jing Jun Ge,korean_restaurant,0.2600421607494354,category:korean,289 Finchley Road,London,NW3 6ND,+442077949099,,-0.181862,51.549164
+,Seoul Sizzle,korean_restaurant,0.5,category:korean,139-151 MARYLEBONE ROAD,LONDON,NW1 5QE,442046369888,https://www.seoulsizzle.co.uk/,-0.1624829,51.5209821
+,Hozi Korean Restaurant,korean_restaurant,0.9976247248841332,category:korean,25-27 Theobalds Road,London,WC1X 8SP,+447950670842,,-0.1178185,51.5201852
+,Woojung Bbq Holborn,korean_restaurant,0.5,category:korean,25-27 THEOBALDS ROAD,LONDON,WC1X 8SP,442072420978,,-0.1177344,51.520235
+,Seoul Food,korean_restaurant,0.5,category:korean,"FLAT, 17 THEOBALDS ROAD",LONDON,WC1X 8SL,442034411170,http://www.seoulfoodlondon.com/,-0.1172181,51.520303
+,Sang Rok Korean Kitchen,korean_restaurant,0.5,category:korean,17 Theobalds Rd,London,WC1X 8SL,020 3441 1170,,-0.1172181,51.520303
+,Tohbang,korean_restaurant,0.9985380238294601,category:korean,164 Clerkenwell Rd,London,EC1R 5DU,+442072788674,http://www.tohbang.com,-0.11096092,51.52207781
+,Motorcycle News Advertising Hotline,korean_grocery_store,0.85,category:korean,Farringdon Lane,London,EC1R 3AU,0800555050,,-0.1066383,51.5229282
+,Rok Kitchen,korean_restaurant,0.9764012694358826,category:korean,72 Leather Ln,London,EC1N 7TR,+447783107309,,-0.10971036,51.52116669
+,韩九 炭火烤肉-水煎肉-八色烤肉,korean_restaurant,0.5,category:korean,58 Hatton Garden,伦敦,EC1N 8LS,020 7879 9232,,-0.1089897,51.521444
+,Gobong,korean_restaurant,0.9999371316350154,category:korean,788 HOLLOWAY ROAD,LONDON,N19 3JH,+442072816620,http://gobonglondon.com/,-0.1329523,51.5650759
+,Subway,korean_grocery_store,0.9655,category:korean,"8-10 Junction Road, N/A",London,N19 5RQ,02072728881,https://restaurants.subway.com/united-kingdom/en/london/8-10-junction-road?utm_source=yxt-bing&utm_medium=local&utm_term=acq&utm_content=52082&utm_campaign=evergreen-2020&y_source=1_MTQ5MjU2MjctNDgzLWxvY2F0aW9uLndlYnNpdGU%3D,-0.1350266,51.565267
+,KKINI,korean_restaurant,0.999873845130729,category:korean,131 Fortess Rd,London,NW5 2HR,+442074850369,https://www.opentable.co.uk/r/kkini-london,-0.13921026,51.55595107
+,Yoki Korean Soul Food @boxpark Camden,korean_restaurant,0.5,category:korean,"37, 84 CAMDEN ROAD",LONDON,NW1 9EA,447397225754,,-0.1387434,51.541083
+,The Korean Cowgirl,korean_restaurant,0.77,category:korean,Chalk Farm Rd,London,NW1 8AJ,020 8070 0370,https://thekoreancowgirl.com,-0.147625,51.542654
+,Kims vietnamese food hut,vietnamese_restaurant,0.7457652688026428,name:korean-surname,62 Camden Lock Place,London,NW1 8AF,+447960410039,http://www.camdenlockmarket.com/shops/stalls/,-0.1467986,51.5411883
+,Bunsik,korean_restaurant,0.77,category:korean,230 Camden High St,London,NW1 8QS,,https://www.bunsik.co.uk,-0.144323,51.540965
+,Korean Street Food - Bun Boy,korean_restaurant,0.8347163796424866,category:korean,6e Camden Lock Pl,London,NW1 8AF,+447553463648,,-0.14591915,51.54167851
+,Oseyo Camden,korean_restaurant,0.9801802653074264,category:korean,158 Camden High St,London,NW1 0NE,+442031054857,http://www.oseyo.co.uk/,-0.14214432,51.5387033
+,Dolsot,korean_restaurant,0.9999548480765106,category:korean,75 Parkway,London,NW1 7PP,+442074594566,http://www.thedolsot.co.uk/,-0.14519538,51.5373109
+,Sainsbury's,korean_grocery_store,0.85,category:korean,145 Tottenham Court Road,London,W1T 7NE,02073885990,,-0.13722523,51.5242326
+,Orange Housel (오렌지 하우스),hostel,0.5,name:hangul,71A,london,NW1 7QE,,,-0.141482,51.5349256
+,Siwonhae | Kpop dance lesson in LONDON,dance_studio,0.7941119360178709,name:token,15 Pratt Mews,London,NW1 0AD,+447492940049,http://www.aboveandbeyondtotsdance.co.uk/,-0.14051385,51.5371912
+,Goalsave Services Ltd.,korean_grocery_store,0.965499997138977,category:korean,53-55 Chalton Street,London,NW1 1HY,02078130000,,-0.1300452,51.529618
+,런던청춘민박,bed_and_breakfast,0.5,name:hangul,43 GOLDINGTON STREET,LONDON,NW1 1UG,,,-0.1310766,51.5343418
+,WHSmith,korean_grocery_store,0.993849041968584,category:korean,"Euston Road, St Pancras Railway Station",London,NW1 2QL,02078338326,https://www.whsmith.co.uk/stores/details?StoreID=6119,-0.1254407,51.5316405
+,더 로열 내셔널 호텔,hotel,0.5,name:hangul,19-29 WOBURN PLACE,LONDON,WC1H 0AQ,,,-0.1249379,51.5259421
+,런던 The 편한 민박,hotel,0.5,name:hangul,86 TAVISTOCK PLACE,LONDON,WC1H 9RT,,,-0.1223357,51.5262234
+,Glam Touch Nails Salon (Female Only & Hijab-Friendly) - Korean Nails,nail_salon,0.14515860378742218,name:token,"Glam Touch, Brunswick centre",London,WC1N 1AE,+447391634093,,-0.12367924,51.52384465
+,런던한인민박 토리인포텔,hostel,0.39415040612220764,name:hangul,211 GRAY'S INN ROAD,LONDON,WC1X 8RA,+447711288983,http://www.uktori.com/,-0.1190869,51.5266823
+,런던한인민박 토리인포텔,hostel,0.5389499068260193,name:hangul,kings cross st.pancras station,London,WC1X 8,+447711288983,http://www.uktori.com/,-0.12107997875888504,51.53061509084532
+,Oiso Korean Street Food - 오이소,korean_restaurant,0.5,category:korean,"FLAT A, 82 CALEDONIAN ROAD",LONDON,N1 9DN,,,-0.1192728,51.5329166
+,Kimchee Restaurant and Bar,korean_restaurant,0.9998337566405535,category:korean,"Unit 4, 2 Pancras Sq",London,N1C 4AG,+442030627600,https://kimchee.uk.com/,-0.12524478,51.53400877
+,런던예수비전교회 - Ljvc,christian_place_of_worship,0.8598271012306213,name:hangul,18 Randells Road,London,N1 0DH,+447828267762,http://www.ljvc.org/,-0.12206,51.53929
+,Co-op Food - Camden - North Road,korean_grocery_store,0.9655,category:korean,"24 North Road, Camden",London,N7 9GF,02077001865,https://www.coop.co.uk/store-finder/N7-9GF/24-north-road,-0.12580742406442802,51.54765737323442
+,Jumblebee,korean_grocery_store,0.9920649993419647,category:korean,"Brecknock Road, 30 Brecknock Rd, Holloway",London,N7 0DD,07837370928,http://www.jumblebee.co.uk/,-0.1302198,51.5497545
+,"Asian Green Wok - Korean, Japanese, Chinese Grab &Go",asian_restaurant,0.24131445586681366,name:token,362 Hornsey Rd,London,N19 4HT,+447359912372,,-0.11889892,51.56414804
+,"Penn Stores, Best-One",korean_grocery_store,0.9931,category:korean,556 Caledonian Road,London,N7 9SJ,02076078212,https://stores.best-one.co.uk/penn-stores-best-one-2116f1679d8d?y_source=1_MTI3MjQzMDAtNDgzLWxvY2F0aW9uLndlYnNpdGU%3D,-0.11773536516147942,51.55413595142346
+,Dorothy Perkins,korean_grocery_store,0.9655,category:korean,384/402 Holloway Road,Holloway,N7 6PR,02076072466,http://www.dorothyperkins.com/webapp/wcs/stores/servlet/TopCategoriesDisplay?storeId=12552&catalogId=33109,-0.1178312,51.5567908
+,Mukkebi,korean_restaurant,0.9750606468615501,category:korean,152a SEVEN SISTERS ROAD,LONDON,N7 7PU,+442079162281,,-0.1129273,51.5611506
+,Hana Eat Go,korean_restaurant,0.5,category:korean,152a SEVEN SISTERS ROAD,LONDON,N7 7PU,442076881670,,-0.1129273,51.5611506
+,Angel Dabang,korean_restaurant,0.5,category:korean,247 LIVERPOOL ROAD,LONDON,N1 1LX,,,-0.10665,51.54001
+,SSÄM - Korean Dining,korean_restaurant,0.9995309555381536,category:korean,241 Holloway Rd,London,N7 8HG,+442077005098,http://www.rollpapa.com/,-0.11114884,51.55163102
+,케스톤 하우스,lodging,0.5,name:hangul,2 CALEDONIAN ROAD,LONDON,N1 0JT,,,-0.1177679,51.5367916
+,영국 신사 민박- 게스트 하우스 본점,bed_and_breakfast,0.5,name:hangul,"9, CALSHOT STREET",LONDON,N1 9AU,,,-0.1175996,51.5313939
+,Yori,korean_restaurant,0.77,category:korean,126 King’s Cross Rd,London,WC1X 9DS,,https://yoriuk.com,-0.116613148315874,51.53032976023087
+,Kalbi Korean Restaurant,korean_restaurant,0.9999563807501447,category:korean,1 Rosebery Avenue,London,EC1R 4SR,+442072780008,http://www.kalbi.co.uk,-0.110897500606839,51.524309396732924
+,OGAM Korean TAPAS BAR,tapas_bar,0.9998536144278241,name:token,10 Chapel Market,London,N1 9EZ,+447826075968,http://www.ogamtapasbar.com/,-0.1101853,51.53348876
+,Jinihiru Korean Colour Analysis And Makeup,image_consultant,0.5,name:token,70 WHITE LION STREET,LONDON,N1 9PP,,https://www.jinihiru.co.uk/,-0.1097968,51.5330726
+,Masigo,korean_restaurant,0.999826548438822,category:korean,29 Chapel Market,London,N1 9EN,+442079160802,http://masigo.business.site,-0.10836547,51.53360349
+,Bibigo,korean_restaurant,0.9471,category:korean,407 ST. JOHN STREET,LONDON,EC1V 4EX,020 3696 4118,http://bibigouk.com,-0.1068,51.53136
+,Bento Bab,korean_restaurant,0.9869786334037781,category:korean,13 Bowling Green Ln,London,EC1R 0BD,+442046369295,http://www.bentobab.com,-0.10780268,51.52433491
+,On The Bab,korean_restaurant,0.9704563134908676,category:korean,9 Ludgate Broadway,London,EC4V 6DU,+442072488777,http://www.onthebab.co.uk,-0.1026064,51.51348552
+,Doddle St. Pauls Tobacco Blackfriars,korean_grocery_store,0.9655,category:korean,42-44 Carter Lane,London,EC4V 5EA,,https://www.doddle.com/location-details/st-pauls-tobacco-blackfriars-,-0.1013166,51.5131788
+,Momo's Japanese & Korean Street Food,japanese_restaurant,0.5,name:token,67 Long Lane,London,EC1A 9RQ,,,-0.0998534,51.5192142
+,존 웨슬리 회심 명판,religious_organization,0.5,name:hangul,10 ALDERSGATE STREET,LONDON,EC1A 4HJ,,,-0.0964416,51.5170019
+,Korean BBQ House Barbican,halal_restaurant,0.9999826350659132,name:token,107 Whitecross St,London,EC1Y 8JD,+442072565179,https://www.kbbqhouse.co.uk/,-0.09272946,51.52221733
+,Korea Investment & Securities Europe,financial_service,0.9072794076647216,name:token,35 Moorgate,London,EC2R 6AR,+442070652760,http://www.kiseurope.co.uk,-0.089401,51.515896
+,Atlas Fine Wines,korean_grocery_store,0.9655,category:korean,4-5 Castle Court,Moorgate,EC2V 8AU,02030172299,http://www.atlasfinewines.com/,-0.0894943,51.5152302
+,Bibimbap To Go Cannon Street,korean_restaurant,0.9124372881650925,category:korean,13 St Swithin's Ln,London,EC4N 8AL,+442079295964,http://bibimbaptogo.co.uk/cannon-st/,-0.08923492,51.51169375
+,Little Waitrose & Partners,korean_grocery_store,0.9984824620723725,category:korean,23 Walbrook,London,EC4N 8AF,02079294818,https://www.waitrose.com/find-a-store/walbrook?utm_source=ExtNet&utm_medium=Yext&y_source=1_MTA4NTgxOTMtNDgzLWxvY2F0aW9uLndlYnNpdGU%3D,-0.09033507605749946,51.5119792837774
+,German Deli Shop,korean_grocery_store,0.9655,category:korean,3 Park Street,London,SE1 9AB,02073780000,http://www.germandeli.co.uk/,-0.0915383,51.5053325
+,Bibimbap ToGo Bank,korean_restaurant,0.914005166888237,category:korean,75 King William St,London,EC4N 7EH,+442076238639,http://bibimbaptogo.co.uk/bank/,-0.08726167,51.51149743
+,Industrial Bank Of Korea,bank_or_credit_union,0.996152591478263,name:token,25 OLD BROAD STREET,LONDON,EC2N 1HN,+442078475582,http://www.ibk.co.kr,-0.0842633,51.5153436
+,Korean Insurance Brokers,financial_service,0.9150171842071599,name:token,53 NEW BROAD STREET,LONDON,EC2M 1JJ,+442078478630,http://jeib.co.uk/,-0.0847402,51.5168638
+,Bibimbap Togo,korean_restaurant,0.9645127058029175,category:korean,31 LEADENHALL MARKET,LONDON,EC3V 1LR,+442072839165,http://bibimbaptogo.co.uk/,-0.0833784,51.5126754
+,Korean Re,insurance_agency,0.9471,name:token,1 LIME STREET,LONDON,EC3M 7HA,020 7265 0031,http://www.koreanre.co.kr,-0.0823793,51.5130697
+,Mukbap - Korean Vegan,korean_restaurant,0.885,category:korean,91 WORSHIP STREET,LONDON,EC2A 2BG,447709096626,,-0.0819428,51.5221179
+,Whistlestop Food & Wine,korean_grocery_store,0.85,category:korean,"Fenchurch Street Station, Fenchurch Street The City",London,EC3M 4AJ,02074814645,,-0.0791967,51.5117236
+,Johnys Company UK Ltd.,korean_grocery_store,0.85,category:korean,33 Bermondsey Street,London,SE1 2EG,02086167896,http://www.johnys.co.uk/,-0.0825568,51.5025209
+,Dodam Korea,korean_restaurant,0.9866121762990951,category:korean,131-133 Central St,London,EC1V 8AP,+442072536940,https://www.lerestaurants.com/website/korean-restaurant-in-london/dodam-korea,-0.09708292,51.52733338
+,My Korean Beauty,spa,0.34640833735466003,name:token,128 City Rd,London,EC1V 2NX,+447403634059,http://www.mykoreanbeauty.eu/,-0.08893066,51.52706865
+,Seoul90 Korean Restaurant,korean_restaurant,0.9949266612529755,category:korean,90 Old St,London,EC1V 9AX,+442072519230,,-0.09411632,51.52461116
+,Hansik Korean Restaurant,korean_restaurant,0.5,category:korean,90 OLD STREET,LONDON,EC1V 9AX,447503059593,http://hansikuk.co.uk/,-0.0938411,51.5246199
+,Bap Foods,korean_restaurant,0.5,category:korean,52 OLD STREET,LONDON,EC1V 9AJ,,https://www.bap-foods.com/,-0.0959483,51.5240655
+,Seoul Selective Studio,,0.266779363155365,name:token,124 City Road,London,EC1V 2NJ,+447404566017,http://www.seoulselectivestudio.co.uk/,-0.08826,51.52661
+,On The Bab,korean_restaurant,0.9991157650947571,category:korean,305 Old St,London,EC1V 9LA,+442076830361,http://onthebab.com/,-0.08157846,51.52681927
+,Korean Spicy Shoreditch,korean_restaurant,0.773988709504188,category:korean,1 Hoxton Square,London,N1 6NU,+447821175393,,-0.08161624454066,51.527410006989
+,Jubo,korean_restaurant,0.9471,category:korean,68 RIVINGTON STREET,LONDON,EC2A 3AY,020 7033 0198,http://jubolondon.com,-0.07958,51.52612
+,Yori,korean_restaurant,0.77,category:korean,147 Curtain Road,London,EC2A 3QE,,https://yoriuk.com,-0.080416,51.52661
+,Korean Beauty Depot,personal_or_beauty_service,0.77,name:token,86-90 Paul St,London,,07759 303049,http://www.phenotypebeauty.com,-0.0836247,51.5256245
+,Bento Bab Korean Restaurant,korean_restaurant,0.9987036979198456,category:korean,4 Commercial St,London,E1 6LP,+442073775742,https://www.bentobab.com,-0.07206698,51.51571094
+,Bari Bari,korean_restaurant,0.9990926721692085,category:korean,24 White Church Ln,London,E1 7QR,+442037594713,,-0.06875117,51.51535664
+,Bento Bab,korean_restaurant,0.9986927101016044,category:korean,"Aldgate East, 12 Hooper St",London,E1 8BP,+442079988680,http://www.bentobab.com/,-0.0687788,51.51196603
+,Five Vibes Korean Fried Chicken,diner,0.5,name:token,107 Ormside St,London,SE15 1TF,07460 250551,https://www.fivevibes.co.uk,-0.0695354,51.5117101
+,"Tower Stores, Best-One",korean_grocery_store,0.9931,category:korean,56 Wapping Lane,London,E1W 2RL,02074806599,https://stores.best-one.co.uk/tower-stores-best-one-5e558bdea9ea?y_source=1_MTI3MjQ2NzktNDgzLWxvY2F0aW9uLndlYnNpdGU%3D,-0.05808847238733961,51.50522847858065
+,Out Fry - Korean Fried Chicken by Taster,food_delivery_service,0.9655,name:token,54A North Woolwich Road,London,E16 2AA,02038080446,https://feedme.taster.com/?conceptUuid=84942bba-920a-4c2b-9416-63f1b3ec0f18,0.017868,51.504802
+,Thamesmead Post Office,korean_grocery_store,0.85,category:korean,6 Arnott Close,London,SE28 8BG,02083101742,https://www.postoffice.co.uk/branch-finder/0580074/thamesmead?campaignid=gmb~bf~580074~google~na~05022025&y_source=1_NjI1MDM5NjYtNzE1LWxvY2F0aW9uLndlYnNpdGU=,0.1169636,51.5039352
+,Nisa Local,korean_grocery_store,0.9655,category:korean,"Unit 2 Heron Place, 4 Bramwell Way Waterside Park",London,E16 2BY,02074732033,https://www.nisalocally.co.uk/stores/greater-london/london/unit-2-heron-place,0.036600040510165854,51.50224934816058
+,NURI Korean BBQ Canary Wharf,halal_restaurant,0.9803780871629715,name:token,33 Westferry Circus,London,E14 8RR,+442045970028,https://www.nurikbbq.co.uk/,-0.0284257,51.50614899
+,Nisa Local,korean_grocery_store,0.9983403050661087,category:korean,14 Western Gateway-Unit C,London,E16 1BJ,02074737886,https://www.nisalocally.co.uk/stores/greater-london/london/14-western-gateway-unit-c,0.021588241733525138,51.50828740469971
+,Limehouse Newsagents,korean_grocery_store,0.9655,category:korean,51 West India Dock Road,London,E14 8HN,02079874406,http://www.imsinternet.co.uk/,-0.0253842,51.5097072
+,Iceland Foods,korean_grocery_store,0.9976404467105866,category:korean,"10 Vesey Path, Poplar",London,E14 6BT,02075157290,http://iceland.co.uk/,-0.01432,51.5117063
+,Bentore,korean_restaurant,0.5,category:korean,10 HARBOUR EXCHANGE SQUARE,LONDON,E14 9GE,442079875444,http://www.bentore.co.uk/,-0.0486264,51.5143787
+,Lees Fish Bar,fast_food_restaurant,0.8346322250366212,name:korean-surname,341 Prince Regent Lane,London,E16 3JL,+442074733366,,0.031626318220822076,51.51454546190191
+,Lees Fish Bar,fast_food_restaurant,0.8859533301873431,name:korean-surname,341 PRINCE REGENT LANE,LONDON,E16 3JL,+442074733366,,0.0319359,51.5146707
+,Seoul Chikin(only Delivery),restaurant,0.5,name:token,125 BARKING ROAD,LONDON,E16 4HQ,,,0.011595,51.5175489
+,Kim’s Korean Fusion,korean_restaurant,0.5,category:korean,91 BRICK LANE,LONDON,E1 6QL,,,-0.0725256,51.5204562
+,Seoul Garden,korean_restaurant,0.9471,category:korean,90 BRICK LANE,LONDON,E1 6RL,020 3645 1721,http://www.seoulgarden.co.uk,-0.0713658,51.5194243
+,Korean bbq And Vegan-Mile End Road,restaurant,0.9011280420422079,name:token,5 Mile End Road,London,E1 4TP,+442077907351,https://www.kbbqvegan.co.uk/,-0.05612,51.52021
+,Costcutter,korean_grocery_store,0.9974342817902565,category:korean,70/72 Ben Johnson Road,Stepney,E1 3NN,02077904329,https://store-locator.costcutter.co.uk/costcutter-4f61849a4fa4?y_source=1_MTgxNTIyMjctNDgzLWxvY2F0aW9uLndlYnNpdGU%3D,-0.039270470935004465,51.51786908636737
+,Mile End Post Office,korean_grocery_store,0.9907094877958298,category:korean,"Unit 2 Bleadon House, 13 Burdett Road",London,E3 4TU,02089809147,https://www.postoffice.co.uk/branch-finder/197002x/mile-end?campaignid=gmb~bf~197002x~google~na~05022025&y_source=1_NjI0OTAzMzUtNzE1LWxvY2F0aW9uLndlYnNpdGU=,-0.0341621,51.524015
+,런던한인침례교회,religious_organization,0.6229062676429749,name:hangul,,London,,,,-0.033846817474359,51.523827535443
+,Star Grocery,korean_grocery_store,0.9655,category:korean,68 Cleveland Way,London,E1 4UF,02077809188,http://www.stargrocery.net/,-0.0540307,51.5225261
+,Eat korean,korean_restaurant,0.8181016147136688,category:korean,174 Brick Ln,London,E1 6RU,+447447632576,https://www.ubereats.com/gb/store/eat-korean/6S1mLSGzQy2F_fxd2NHwNg?diningMode=DELIVERY&mod=storeInfo&modctx=%257B%2522storeSlug%2522%253A%2522eat-korean%2522%252C%2522storeUuid%2522%253A%2522e92d662d-21b3-432d-85fd-fc5dd8d1f036%2522%252C%2522sectionUuid%2522%253A%2522%2522%257D&pl=JTdCJTIyYWRkcmVzcyUyMiUzQSUyMkslMjBGb29kJTIwU3RvcmUlMjBRdWFsaXR5JTIwQnV0Y2hlcnMlMjAlMjYlMjBHcm9jZXJlcnMlMjIlMkMlMjJyZWZlcmVuY2UlMjIlM0ElMjJDaElKRlNDOXAyUWJka2dSek5sdWV0bUowcHclMjIlMkMlMjJyZWZlcmVuY2VUeXBlJTIyJTNBJTIyZ29vZ2xlX3BsYWNlcyUyMiUyQyUyMmxhdGl0dWRlJTIyJTNBNTEuNTYzNTEwMyUyQyUyMmxvbmdpdHVkZSUyMiUzQS0wLjEwMjc3NjglN0Q%3D&ps=1,-0.07156947,51.52251053
+,Yoki Korean Soul Food @boxpark Shoreditch,korean_restaurant,0.5,category:korean,2-10 BETHNAL GREEN ROAD,LONDON,E1 6GY,447492979776,,-0.0768099,51.5235009
+,Korrito,korean_restaurant,0.9471,category:korean,2-4 BETHNAL GREEN ROAD,LONDON,E1 6GY,020 7729 0530,http://www.korrito.co.uk,-0.0768099,51.5235009
+,K-Pop K-Shop,vinyl_record_store,0.77,name:token,140 Bethnal Green Rd,London,E2 6DG,07748 278347,http://www.k-popk-shop.com,-0.07082641124725342,51.5253866151724
+,Yanji BBQ,korean_restaurant,0.9989781054854393,category:korean,153 Bethnal Grn Rd,London,E2 7DG,+447910754793,http://yanjirestaurant.com/,-0.07064456,51.52543672
+,Dopi,korean_restaurant,0.8393822014331818,category:korean,142 Bethnal Grn Rd,London,E2 6DG,,https://www.instagram.com/dopi.london/,-0.07078663,51.52509053
+,Dosirak - Korean Bbq,korean_restaurant,0.5,category:korean,"Unit 268 Poyser Street,",London,E2 9RF,07454 991123,,-0.05787,51.5249953
+,SPAR - Museum Service Station,korean_grocery_store,0.9655,category:korean,Museum Service Station 319 Cambridge Heath Road,London,E2 9LH,02037309628,https://www.spar.co.uk/store-locator/afb22281-spar-museum-service-station,-0.0557708,51.529091
+,Doddle Roman Road News Globe Town,korean_grocery_store,0.9655,category:korean,134-136 Roman Road,London,E2 0RN,,https://www.doddle.com/location-details/roman-road-news-globe-town,-0.0470334,51.529059
+,SPAR - Plaistow,korean_grocery_store,0.9655,category:korean,51-53 Grove Road,Bow,E3 4PE,02089831813,https://www.spar.co.uk/store-locator/afb11105-spar-plaistow-1,-0.0361845,51.5266289
+,Sainsbury's Local,korean_grocery_store,0.9935427981615067,category:korean,"409-413 Mile End Road, Tower Hamlets",London,E3 4PB,03456005142,https://stores.sainsburys.co.uk/5201/mile-end-station,-0.0333602,51.5254614
+,Nisa Local,korean_grocery_store,0.9931,category:korean,"Unit 1-3 Westham Station, Memorial Ave Westham",London,E15 3BN,02074749546,https://www.nisalocally.co.uk/stores/greater-london/london/unit-1-3-westham-station,0.00578,51.52793
+,Sainsbury's Local,korean_grocery_store,0.981154305934906,category:korean,14-16 Avery Avenue,London,E16 4BF,03456016395,https://stores.sainsburys.co.uk/6092/west-ham-twelve-trees-local?utm_source=extnet&utm_medium=yext&y_source=1_MjAxNTEzMzU1MC00ODMtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D,0.0051,51.528
+,Kimchi Lab,korean_restaurant,0.22557127475738525,category:korean,237 Barking Rd,London,E13 8EQ,+447951947386,,0.01675652,51.51978695
+,Ya Manii Indo-japanese-korean And Nepalese Restaurant,restaurant,0.5,name:token,62 HERMIT ROAD,LONDON,E16 4LF,447777300647,,0.012283,51.5201837
+,DHL Express Service Point (Hermit Mini Market - iPayOn),korean_grocery_store,0.9842813298106193,category:korean,9 Hermit Road,London,E16 4HP,08442480844,https://uk.express.dhl.com/?utm_source=bing&utm_medium=organic&utm_campaign=bing&y_source=1_Mzg2NjUyMzMtNDgzLWxvY2F0aW9uLndlYnNpdGU%3D,0.0128322,51.5187254
+,Londis,korean_grocery_store,0.9931,category:korean,"139 Barking Road, Canning Town",London,E16 4HQ,02075111438,http://www.londis.co.uk/,0.0122471,51.5176233
+,DHL Express Service Point (Wiltons Off-Licence ),korean_grocery_store,0.85,category:korean,4 Henniker Gardens,London,E6 3JG,08442480844,https://uk.express.dhl.com/?utm_source=bing&utm_medium=organic&utm_campaign=bing&y_source=1_MTA2MzgyMzY4Mi00ODMtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D,0.043045,51.526809
+,DHL Express Service Point (Londis Super Store Barking Rd),korean_grocery_store,0.9654200851917267,category:korean,32/34 Barking Road,London,E6 3BP,08442480844,https://uk.express.dhl.com/?utm_source=bing&utm_medium=organic&utm_campaign=bing&y_source=1_Mzg2NjUwMTAtNDgzLWxvY2F0aW9uLndlYnNpdGU%3D,0.039640853126021725,51.53036724830034
+,Londis,korean_grocery_store,0.85,category:korean,Islington,London,N1 3JS,02072266263,https://www.londis.co.uk/?utm_source=bing&utm_medium=yext,-0.103436,51.53483963
+,Kimchi Digital,information_technology_company,0.5,name:token,20-22 WENLOCK ROAD,LONDON,N1 7GU,447707390573,http://kimchidigital.com/,-0.094952,51.532907
+,Doddle St. Peter's Food & Wine Islington,korean_grocery_store,0.9655,category:korean,75 St. Peter's Street,London,N1 8JR,,https://www.doddle.com/location-details/st.-peters-food--wine-islington,-0.0980654,51.5341312
+,Korean Beauty Depot,beauty_salon,0.77,name:token,86-90 PAUL STREET,LONDON,EC2A 4NF,07759 303049,http://www.phenotypebeauty.com,-0.0953258,51.5362376
+,The Finest Bubble,korean_grocery_store,0.932805871963501,category:korean,11-13 Shillingford Street,London,N1 2DP,02073591608,https://thefinestbubble.com/,-0.101166598498821,51.539680480957
+,Hanwoo Village,korean_restaurant,0.9980745956301689,category:korean,19 St Alban's Pl,London,N1 0NX,+442072881123,https://www.hanwoovillage.co.uk,-0.10390227,51.53664346
+,Kokkiri Ricedog,korean_restaurant,0.9571417672576672,category:korean,71 Holloway Rd,London,N7 8JZ,+442039151156,https://www.kokkiri.co.uk/,-0.10567121,51.54740693
+,SPAR - Hoxton Street,korean_grocery_store,0.85,category:korean,"Chet & Sons Superstore Ltd, 207 Hoxton Street",London,N1 6RA,02077296943,https://www.spar.co.uk/store-locator/afb20821-spar-hoxton-street,-0.0802527,51.5326594
+,해크니 구,public_plaza,0.7024742364883423,name:hangul,,London,,,http://www.hackney.gov.uk/,-0.083333333333333,51.533333333333
+,Soju Korean Restaurant,korean_restaurant,0.4438890516757965,category:korean,"Soju, 282 Cambridge Heath Rd",London,E2 9DA,+447591877766,https://www.sojukorean.co.uk/,-0.05709545,51.53399986
+,Mexican Seoul,restaurant,0.885,name:token,221 GROVE ROAD,LONDON,E3 5SN,,http://mexicanseoul.co.uk/,-0.0417609,51.5319819
+,Doddle Laxmi News Bow,korean_grocery_store,0.9655,category:korean,495 Roman Road,London,E3 5LX,,https://www.doddle.com/location-details/laxmi-news-bow,-0.0333248,51.5322039
+,Tolga Supermarket,korean_grocery_store,0.965499997138977,category:korean,493 Roman Road,London,E3 5LX,02089800803,https://tolga-supermarket.business.site/,-0.0333945,51.5321911
+,Jijigo,korean_restaurant,0.9884307938814163,category:korean,1 Well St,London,E9 7QX,+442036435478,,-0.05531267,51.54001603
+,런던시내,hotel,0.5,name:hangul,IVYBRIDGE LANE,LONDON,WC2N 6,,,-0.0557663,51.5421259
+,Babsang,korean_restaurant,0.9986970109880957,category:korean,103b DALSTON LANE,LONDON,E8 1NH,+442075023694,http://babsang.business.site,-0.0678349,51.5483532
+,Londis,korean_grocery_store,0.85,category:korean,Hackney,London,E9 7LH,02089867241,https://www.londis.co.uk/?utm_source=bing&utm_medium=yext,-0.055418,51.54578781
+,Global News,korean_grocery_store,0.9920649993419647,category:korean,55 Broadway,London,E15 4BQ,02085361973,https://stratfordoriginal.com/business/global-news-wine,0.0030454,51.54149
+,Bibimbap Fusion ,korean_restaurant,0.5241342782974243,category:korean,"Life in the Uk Test Centre, 44 Broadway",London,E15 1XH,+447908947519,,0.00156,51.54129
+,Bunsik,korean_restaurant,0.77,category:korean,Stratford Westfield,London,E20 1EN,,https://www.bunsik.co.uk,-0.006414,51.543557
+,Korean Bites,diner,0.5,name:token,3 North St,London,IG11 8JG,020 3092 0335,http://www.koreanbites.com,0.0510682,51.5387738
+,Cut Price Store,korean_grocery_store,0.965499997138977,category:korean,"74 Plashet Road, Upton Park",London,E13 0RQ,02084720899,https://www.cutpricestore.co.uk/,0.0281934,51.537426
+,Global Food & Wine,korean_grocery_store,0.998156604085648,category:korean,63 WEST HAM LANE,LONDON,E15 4PH,02036456331,,0.0046979,51.5392803
+,Lees Overseas Restaurant,asian_fusion_restaurant,0.85,name:korean-surname,"411 High Street, Stratford",London,E15 4QZ,02085341987,,7.74e-05,51.5397565
+,Bangladesh Bazar,korean_grocery_store,0.9655,category:korean,Barking Road,London,E6 3BB,02084714441,http://www.bollyuk.com/,0.0484811,51.531819
+,Seoul In A Bottle,korean_restaurant,0.5,category:korean,130a KINGSLAND HIGH STREET,LONDON,E8 2NS,,https://bottled.world/,-0.0750303,51.5501152
+,Dotori,korean_restaurant,0.999986147468457,category:korean,3 Stroud Green Rd,London,N4 2DQ,+442072633562,http://www.dotori.co.uk/,-0.1051353,51.56473842
+,핀즈베리파크,park,0.8012564778327942,name:hangul,,London,,,,-0.1031,51.5683
+,Sainsbury's,korean_grocery_store,0.9655,category:korean,1 Amhurst Park,London,N16 5LW,02031267200,https://stores.sainsburys.co.uk/2257/stamford-hill,-0.07334836,51.573235
+,DHL Express Service Point (Zaga Supermarket),korean_grocery_store,0.85,category:korean,125 Northwold Road,London,E5 8RL,08442480844,https://uk.express.dhl.com/?utm_source=bing&utm_medium=organic&utm_campaign=bing&y_source=1_MTA5MDQ1NDE3Ni00ODMtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D,-0.0631705,51.5627875
+,Post Office-Dalston Lane,korean_grocery_store,0.9918706681579351,category:korean,244 Dalston Lane,London,E8 1JG,03456112970,https://www.postoffice.co.uk/,-0.058727,51.5495257
+,Hoho,korean_restaurant,0.5,category:korean,58 CHATSWORTH ROAD,LONDON,E5 0LS,447979247598,https://hoho.co.uk/,-0.0445714,51.5534121
+,DHL Express Service Point (Blackwells,korean_grocery_store,0.85,category:korean,273 High Road,London,E10 5QN,08442480844,https://uk.express.dhl.com/?utm_source=bing&utm_medium=organic&utm_campaign=bing&y_source=1_Mzg2NjQ5NDEtNDgzLWxvY2F0aW9uLndlYnNpdGU%3D,-0.0077853,51.559246
+,Zaxx Korean Kitchen,korean_restaurant,0.9962502065300941,category:korean,161 Francis Rd,London,E10 6NT,+442086372342,http://zaxxfood.com/,-0.00541122,51.56387926
+,Londis,korean_grocery_store,0.985,category:korean,153 Coppermill Lane,London,E17 7HD,02085206034,http://www.londis.co.uk/,-0.0392215,51.5805729
+,Gochu Gang,korean_restaurant,0.5,category:korean,46 ST. JAMES'S STREET,LONDON,E17 7PE,,,-0.0331783,51.5800203
+,Orientex Restaurant,korean_grocery_store,0.9920649993419647,category:korean,144 High Street,London,E17 7JS,02085208388,,-0.0253402,51.5837402
+,Riks Convenience,korean_grocery_store,0.9655,category:korean,63 Hainault Road,London,E11 1EA,02085392667,http://www.premier-stores.co.uk/,-0.0045025,51.5691106
+,Global News,korean_grocery_store,0.85,category:korean,5 Cambridge Park,Wanstead,E11 2PU,02085305003,,0.0274184,51.575362
+,SPAR - MFG Ilford,korean_grocery_store,0.9655,category:korean,130 Eastern Avenue,Ilford,IG4 5AQ,02085547395,https://www.spar.co.uk/store-locator/afb19279-spar-mfg-ilford,0.0464602,51.5758857
+,Post Office-East Ham,korean_grocery_store,0.85,category:korean,125 High Street North,London,E6 1HZ,03456112970,https://www.postoffice.co.uk/,0.0521517,51.5366247
+,Korean Bites,korean_restaurant,0.9738562833773929,category:korean,16 NORTH STREET,BARKING,IG11 8AW,+442030920335,http://www.koreanbites.com/,0.0767359,51.5366718
+,Doddle K&H Stores Barking,korean_grocery_store,0.9655,category:korean,77 Longbridge Road,Barking,IG11 8TG,,https://www.doddle.com/location-details/kh-stores-barking,0.0839676,51.5412342
+,Premier,korean_grocery_store,0.97,category:korean,100 Wood Lane,Dagenham,RM9 5YS,02085922374,https://www.premier-stores.co.uk/?utm_source=bing&utm_medium=yext,0.13141618983165682,51.551718913692014
+,Kollyronky UK Ltd.,korean_grocery_store,0.9920649993419647,category:korean,275 Oxlow Lane,Dagenham,RM10 7YU,02085175038,,0.1581807,51.5511902
+,The Co-operative Food Mungo Park Road,korean_grocery_store,0.9931,category:korean,105-105C Mungo Park Road,Rainham,RM13 7PP,01708520984,http://www.chelmsfordstar.coop/,0.1925861,51.540216
+,Towis Solicitors,korean_grocery_store,0.9937471893848324,category:korean,295a HEATHWAY,DAGENHAM,RM9 5AQ,02071015007,https://www.towissolicitors.com/,0.1475305,51.5426362
+,Premier,korean_grocery_store,0.9931,category:korean,32 Church Street,Dagenham,RM10 9UR,02085929719,https://www.premier-stores.co.uk/?utm_source=bing&utm_medium=yext,0.16049080122339188,51.5397345088647
+,Premier,korean_grocery_store,0.85,category:korean,2-16 Whitebarn Lane,Dagenham,RM10 9LH,02089848334,https://www.premier-stores.co.uk/?utm_source=bing&utm_medium=yext,0.15151424268870173,51.533459340945406
+,DHL Express Service Point (Nisa Local Upminster),korean_grocery_store,0.85,category:korean,49-51 Gaynes Park Road,Upminster,RM14 2HL,08442480844,https://uk.express.dhl.com/?utm_source=bing&utm_medium=organic&utm_campaign=bing&y_source=1_MTA5NDk2NTc3NC00ODMtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D,0.2430324,51.5499452
+,DHL Express Service Point (Londis / Teys plaza),korean_grocery_store,0.999158504280448,category:korean,113-115 Corbets Tey Road,Upminster,RM14 2AA,08442480844,https://uk.express.dhl.com/?utm_source=bing&utm_medium=organic&utm_campaign=bing&y_source=1_NDkwMDYxNTEtNDgzLWxvY2F0aW9uLndlYnNpdGU%3D,0.2478978,51.5527778
+,Seoul Magic,beauty_supply_store,0.10166250169277191,name:token,United Kingdom,Ilford,,,,0.0737,51.5577
+,Costcutter,korean_grocery_store,0.9989259840190411,category:korean,17 Beehive Lane,Ilford,IG1 3RG,02085544407,https://store-locator.costcutter.co.uk/costcutter-113a58b66955?y_source=1_MTgxNTIwNzYtNDgzLWxvY2F0aW9uLndlYnNpdGU%3D,0.06396465813926167,51.572884538025384
+,Panasia Korean Bbq + Asian Classics,korean_restaurant,0.5419661998748779,category:korean,43 PERTH ROAD,ILFORD,IG2 6BX,+442039760286,http://www.panasialdn.co.uk/,0.0674006,51.5759618
+,Out Fry - Korean Fried Chicken by Taster,food_and_beverage_store,0.85,name:token,208 Hornchurch Road,London,RM11 1QJ,02045798655,https://taster.com/our-brands/out-fry/,0.1991857,51.5650847
+,Towis Solicitors,korean_grocery_store,0.9655,category:korean,218 Hornchurch Road,Hornchurch,RM11 1QJ,02071015007,https://www.towissolicitors.com/,0.1989385,51.565113
+,Öncü Food Centre,korean_grocery_store,0.9655,category:korean,39 High Street,Hornchurch,RM11 1TP,01708448798,https://www.oncufoodcentre.co.uk/,0.216347,51.5631522
+,Jay Retail Ltd.,korean_grocery_store,0.9655,category:korean,28 Station Rd,Upminster,RM14 2UB,01708607173,https://www.nisalocally.co.uk/stores/essex/upminster/28-station-rd,0.2496712,51.5572769
+,"Harry's Food And Wine, Best-One",korean_grocery_store,0.9655,category:korean,49 Station Road,North Harrow,HA2 7SU,02084270778,https://stores.best-one.co.uk/harrys-food-and-wine-best-one-141d1214862a?y_source=1_MTI3MjQ2ODctNDgzLWxvY2F0aW9uLndlYnNpdGU%3D,-0.3616713,51.5854503
+,Sainsbury's Local,korean_grocery_store,0.9807843855023384,category:korean,"Unit 1, 2 Eastman Road",Harrow,HA1 4WB,,https://stores.sainsburys.co.uk/6034/harrow-view?utm_source=extnet&utm_medium=yext&y_source=1_MjAyNjU5NTAwMC00ODMtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D,-0.34766,51.59618
+,Milli News,korean_grocery_store,0.9655,category:korean,365 Uxbridge Road,Pinner,HA5 4JN,02084283101,,-0.372348,51.6082154
+,Londis,korean_grocery_store,0.9655,category:korean,18 Little Oxhey Lane,Watford,WD19 6FR,,https://www.londis.co.uk/?utm_source=bing&utm_medium=yext,-0.3858934896896393,51.61936323532718
+,Korean Cupbap,korean_restaurant,0.32082146406173706,category:korean,"Unit 41, New, Market, Watford House Ln",Watford,WD17 1BJ,+447908979727,http://instagram.com/koreancupbap,-0.39821844,51.65761783
+,PRL Polish Deli,korean_grocery_store,0.85,category:korean,85 Queen's Road,Watford,WD17 2QN,01923800699,https://www.facebook.com/prldeli/,-0.392347,51.657999
+,M&S Travel Money,korean_grocery_store,0.9655,category:korean,91 High Street,Watford,WD17 2DH,01923252504,https://mandstravelmoney.com/branches/watford/atria-shopping-centre,-0.39506696,51.65496976
+,Bushey Heath Post Office,korean_grocery_store,0.9655,category:korean,78-80 High Road,Bushey,WD23 1GE,02031880084,https://www.postoffice.co.uk/branch-finder/0600334/bushey-heath?campaignid=gmb~bf~600334~google~na~05022025&y_source=1_NjI0OTExNjItNDgzLWxvY2F0aW9uLndlYnNpdGU%3D,-0.3429715870521943,51.63532089859449
+,SPAR ISS Stanmore,korean_grocery_store,0.85,category:korean,"Royal National Orthopaedic Hospital, Brockley Hill",Stanmore,HA7 4LP,02084263700,http://www.spar.co.uk/,-0.3096965,51.6320955
+,SPAR - ISS Rnoh,korean_grocery_store,0.85,category:korean,Royal National Orthopaedic Hospital Brockley Hill Stanmore,London,HA7 4LP,02089095692,https://www.spar.co.uk/store-locator/afb18238-spar-iss-rnoh,-0.3096965,51.6320955
+,Banju Korean Restaurant,korean_restaurant,0.998605327726402,category:korean,108 High St,Harrow,HA3 7AH,+447460314318,http://hansikkoreanbbq.com/,-0.33521709,51.59645144
+,Koreana Restaurant,korean_restaurant,0.77,category:korean,32 Headstone Drive,London,HA3 5QH,020 8515 8000,http://take-a-way.co.uk/menu/3336/koreana-cuisine-harrow,-0.3349494338135111,51.590433610970294
+,Post Office-Watling,korean_grocery_store,0.9655,category:korean,106 Burnt Oak Broadway,Edgware,HA8 0BE,03456112970,https://www.postoffice.co.uk/,-0.2671406,51.6004183
+,Sainsbury's Local,korean_grocery_store,0.9931,category:korean,98-102 Burnt Oak Broadway,London,HA8 0BE,03450130516,https://stores.sainsburys.co.uk/6096/burnt-oak-broadway?utm_source=extnet&utm_medium=yext&y_source=1_MTA5NjQ3NTg2Mi00ODMtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D,-0.26631,51.59999
+,Harune Korean Kitchen,korean_restaurant,0.5,category:korean,"F23 UNIT C, 399 EDGWARE ROAD",LONDON,NW9 0FH,447960236334,,-0.2604562,51.593495
+,Janchi Korean Kitchen,korean_restaurant,0.9651478332281113,category:korean,"Korean Kitchen, 399 Edgware Road, Colindale Bang Bang Oriental Foodhall, Harune",London,NW9 0FH,+447960236334,http://www.janchi.co.uk/,-0.25949468,51.59371436
+,Colindale Food Centr,korean_grocery_store,0.98275,category:korean,2-4 Varley Parade,London,NW9 6RR,02082009909,https://www.nisalocally.co.uk/stores/greater-london/london/2-4-varley-parade,-0.25125442031210365,51.5877166410792
+,DHL Express Service Point (Stanleys Food & Wine),korean_grocery_store,0.85,category:korean,203 Deansbrook Road,Edgware,HA8 9BU,08442480844,https://uk.express.dhl.com/?utm_source=bing&utm_medium=organic&utm_campaign=bing&y_source=1_MTA0NTkwODI2NC00ODMtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D,-0.2583705,51.6103782
+,Londis,korean_grocery_store,0.9931,category:korean,207 Deansbrook Road,Edgware,HA8 9BU,,https://www.londis.co.uk/?utm_source=bing&utm_medium=yext,-0.25820456614155773,51.610563649072674
+,DHL Express Service Point (Sunrise Food & Wine - iPayOn),korean_grocery_store,0.9584521979093552,category:korean,147 Deans Lane,Edgware,HA8 9NY,08442480844,https://uk.express.dhl.com/?utm_source=bing&utm_medium=organic&utm_campaign=bing&y_source=1_Mzg2NjQ3MDItNDgzLWxvY2F0aW9uLndlYnNpdGU%3D,-0.2603709,51.616474
+,"Arang Korean Restaurant, Piccadily Circus",korean_restaurant,0.9023381471633911,category:korean,,Edgware,,,,-0.2764107,51.6131653
+,Post Office,korean_grocery_store,0.85,category:korean,57 - 59 Shenley Road,Borehamwood,WD6 1AE,03456112970,https://www.postoffice.co.uk/,-0.27705,51.6552315
+,Morrisons Daily- Hendon Way,korean_grocery_store,0.97,category:korean,67-73 Watford Way,Hendon,NW4 3AQ,02082026395,https://my.morrisons.com/storefinder/34600,-0.230086,51.584842
+,Post Office-Hendon,korean_grocery_store,0.9655,category:korean,"131 Brent Street, Hendon",London,NW4 4BY,03456112970,https://www.postoffice.co.uk/,-0.221353,51.588133
+,Post Office-Meriden,korean_grocery_store,0.85,category:korean,128 The Gossamers,Watford,WD25 9AD,03456112970,https://www.postoffice.co.uk/,-0.37926862,51.6811984
+,Waitrose & Partners,korean_grocery_store,0.9931,category:korean,"M25 Motorway, Junction 23",Potters Bar,EN6 3QQ,0800188884,https://www.waitrose.com/find-a-store/south-mimms-services?utm_source=ExtNet&utm_medium=Yext&y_source=1_MTExMTQ4NTQtNDgzLWxvY2F0aW9uLndlYnNpdGU%3D,-0.22164604482797073,51.687421441547805
+,Seoul Plaza,grocery_store,0.77,name:token,136 Golders Green Rd,London,NW11 8HB,020 8455 2465,http://www.koreafoods.co.uk,-0.2107169449901888,51.58676722663513
+,Finchley Foodstore,korean_grocery_store,0.9920649993419647,category:korean,321 Regents Park Road,London,N3 1DP,02083461769,,-0.1957866,51.5995924
+,Yijo Korean Restaurant,korean_restaurant,0.9471,category:korean,1 STATION ROAD,LONDON,N3 2SB,020 8346 1239,http://www.yijo.co.uk,-0.1935589,51.6007492
+,International Superm,korean_grocery_store,0.9931,category:korean,"3 Sussex Ring, Woodside Park",London,N12 7HY,02084460828,https://www.nisalocally.co.uk/stores/greater-london/london/3-sussex-ring,-0.19064935833125674,51.615361416341045
+,Am 2 Pm,korean_grocery_store,0.965499997138977,category:korean,"658 High Road, North Finchley",London,N12 0NL,02084452814,,-0.1756713,51.6119821
+,The Bounds Greens,korean_grocery_store,0.965499997138977,category:korean,42 Bounds Green Road,Bounds Green,N11 2EU,07538931139,https://www.theboundsgreens.co.uk/,-0.1248111,51.6071062
+,DHL Express Service Point (Woodgreen News - iPayOn),korean_grocery_store,0.9917352249622345,category:korean,740 Lordship Lane,London,N22 5JP,08442480844,https://uk.express.dhl.com/?utm_source=bing&utm_medium=organic&utm_campaign=bing&y_source=1_Mzg2NjUwMDctNDgzLWxvY2F0aW9uLndlYnNpdGU%3D,-0.10925036210100547,51.597341932199654
+,Momo's Japanese Korean Street Food - Wood Green,restaurant,0.5,name:token,108 High Rd,London,,024 7509 6812,,-0.107237,51.5946145
+,Post Office-Hornsey,korean_grocery_store,0.9655,category:korean,"24 High Street, Hornsey",London,N8 7PB,03456112970,https://www.postoffice.co.uk/,-0.1206386,51.5873031
+,Nisa Local,korean_grocery_store,0.9593962997198104,category:korean,306 Park Rd,London,N8 8LA,02083483427,https://www.nisalocally.co.uk/stores/greater-london/london/306-park-rd,-0.13357031111944195,51.58695681107414
+,Patty Central,korean_restaurant,0.5,category:korean,16-18 HORNSEY ROAD,LONDON,N7 7BP,,https://pattycentralonline.co.uk/,-0.1105919,51.5902483
+,"K-miso Beauty - Korean Beauty, K-beauty Shop",cosmetics_and_fragrance_store,0.5,name:token,7 TURNPIN LANE,LONDON,SE10 9JA,,http://www.kmisobeauty.co.uk/,-0.10471,51.58983
+,Doddle AKSU Market & Off Licence Tottenham,korean_grocery_store,0.9964488026052714,category:korean,182-184 Philip Lane,London,N15 4JW,,https://www.doddle.com/location-details/aksu-market--off-licence-tottenham,-0.0792234,51.5891834
+,Post Office-Mount Pleasant Road,korean_grocery_store,0.85,category:korean,151 Mount Pleasant Road,London,N17 6TQ,03456112970,https://www.postoffice.co.uk/,-0.0783269,51.5936328
+,Ahra-ne Korean BBQ Restaurant 아라네,korean_restaurant,0.77,category:korean,396 Green Lanes,London,N13 5PD,,https://maps.app.goo.gl/eNru1LsAhGzUCQqj7?g_st=ic,-0.105562,51.62158
+,Cho's Magic Wok,chinese_restaurant,0.9892192045314232,name:korean-surname,4 CHEAPSIDE,LONDON,N13 5,+442088074401,http://www.chos.co.uk,-0.0873332,51.6167815
+,Golmok Korean Kitchen - Gravesend,restaurant,0.5,name:token,11- 13 Queen St,London,,01474 491435,,-0.0756195,51.6069152
+,Sainsbury's Local,korean_grocery_store,0.85,category:korean,49 Murray Street,Hartlepool,TS26 8PQ,03300137436,https://stores.sainsburys.co.uk/4636/hartlepool-local?utm_source=extnet&utm_medium=yext&y_source=1_MTU1NjcxODktNDgzLWxvY2F0aW9uLndlYnNpdGU%3D,-0.06631161046810163,51.60605669612877
+,Sainsbury's Local,korean_grocery_store,0.9655,category:korean,146 High Street,Barnet,EN5 5XP,02083649043,https://stores.sainsburys.co.uk/4939/barnet-high-street-local,-0.201787,51.6553565
+,Seoul Chicken Strips - Totteridge And Whetstone,burger_restaurant,0.5,name:token,1156 HIGH ROAD,LONDON,N20 0RA,,,-0.1748417,51.6271817
+,Post Office-Barnet Road,korean_grocery_store,0.85,category:korean,84 High Street,Potters Bar,EN6 5AB,03456112970,https://www.postoffice.co.uk/,-0.1771381,51.6947687
+,David Newham Associates,korean_grocery_store,0.9655,category:korean,"Windrush, The Ridgeway",Enfield,EN2 8AN,02083663311,http://www.davidnewham.co.uk/,-0.1389728,51.6810965
+,DHL Express Service Point (Londis - Samraj Avenues Ltd.),korean_grocery_store,0.9588889062404633,category:korean,"No 13, Avenue Road",London,N14 4DA,08442480844,https://uk.express.dhl.com/?utm_source=bing&utm_medium=organic&utm_campaign=bing&y_source=1_Mzg2NjU0NDQtNDgzLWxvY2F0aW9uLndlYnNpdGU%3D,-0.13601186791134534,51.63779173827429
+,Londis,korean_grocery_store,0.9655,category:korean,122 Lavender Hill,Enfield,EN2 0QU,02083633196,https://www.londis.co.uk/?utm_source=bing&utm_medium=yext,-0.0938469,51.6640505
+,동성볼링장,sport_league,0.7927572727203369,name:hangul,경남 진주시 강남동 219,Enfield,660-250,+82557610011,,-0.0929653,51.6537949
+,Kpop Music News Uk,talent_agency,0.5,name:token,81 LYNMOUTH AVENUE,ENFIELD,EN1 2LS,,https://www.kpopmusic.co.uk/,-0.0666268,51.6377233
+,NN Supermarket,korean_grocery_store,0.965499997138977,category:korean,142 Percival Road,Enfield,EN1 1QU,02083421466,,-0.0652081,51.6470814
+,Mauritian Foods Online,korean_grocery_store,0.9655,category:korean,"5, Edmonton Shopping Centre, The Concourse",London,N9 0TZ,02088037191,https://www.mauritianfoodsonline.com/,-0.0591186,51.6247156
+,Mauritian Foods Online,korean_grocery_store,0.9344127684085493,category:korean,24 THE CONCOURSE,LONDON,N9 0TQ,02088037191,https://www.mauritianfoodsonline.com/,-0.05879,51.62494
+,DHL Express Service Point (Afromart Mini Market Ltd.),korean_grocery_store,0.966495132446289,category:korean,178 Hertford Road,Enfield,EN3 5AZ,08442480844,https://uk.express.dhl.com/?utm_source=bing&utm_medium=organic&utm_campaign=bing&y_source=1_NDkwMDYxNTItNDgzLWxvY2F0aW9uLndlYnNpdGU%3D,-0.0474401,51.65704075
+,Out Fry - Korean Fried Chicken by Taster,food_and_beverage_store,0.9655,name:token,154 Hoe Street,London,E17 4QH,02045798655,https://taster.com/our-brands/out-fry/,-0.0204824,51.58686
+,Hans-on Kitchen,restaurant,0.5,name:korean-surname,53-55 HOE STREET,LONDON,E17 4SA,447984118360,,-0.020521,51.5877341
+,米 Kome Express - Walthamstow,korean_restaurant,0.5,category:korean,524 Forest Rd,London,E17 4NB,,,-0.0164253,51.5898706
+,Post Office,korean_grocery_store,0.9663246870040894,category:korean,12 Sun Street,Waltham Abbey,EN9 1EF,03456112970,https://www.postoffice.co.uk/,-0.0017266,51.6868308
+,Over Flowers Bbq,korean_restaurant,0.4810389578342438,category:korean,The Avenue,London,E4 9,+639275678901,,0.0002005,51.6090083
+,Kim's Glamorous Nails,nail_salon,0.9761081236600876,name:korean-surname,90 Snakes Ln E,Woodford Green,IG8 7HX,+442085056793,https://www.bigreddirectory.com/kims-glamorous-nails-woodford-green,0.03759982,51.6079132
+,Metro Superstore,korean_grocery_store,0.965499997138977,category:korean,785 Chigwell Road,Woodford Green,IG8 8AU,02085591117,,0.06094,51.6104187
+,Londis,korean_grocery_store,0.9931,category:korean,552 - 556 Limes Avenue,Chigwell,IG7 5NT,02085013561,https://www.londis.co.uk/?utm_source=bing&utm_medium=yext,0.08580936636460645,51.607713868830174
+,Longwood Parade Post Office,korean_grocery_store,0.9655,category:korean,156-158 Longwood Gardens,Ilford,IG5 0EW,02085501516,https://www.postoffice.co.uk/branch-finder/1750267/longwood-parade?campaignid=gmb~bf~1750267~google~na~05022025&y_source=1_NjI0ODkxNjAtNDgzLWxvY2F0aW9uLndlYnNpdGU%3D,0.06966774662704456,51.58706390325419
+,Kim's Nail Bar,nail_salon,0.9473838144540787,name:korean-surname,6 High St,Ilford,IG6 2DF,+442085517536,http://kims-nail-bar.placestars.com,0.08111457,51.58876117
+,Savers Health & Beauty,korean_grocery_store,0.9855299851894379,category:korean,16-18 Collier Row Road,Romford,RM5 3NX,01708721969,http://www.savers.co.uk/,0.1621743,51.5991219
+,Premier,korean_grocery_store,0.9931,category:korean,597 New North Road,Llford,IG6 3XS,02085013527,https://www.premier-stores.co.uk/?utm_source=bing&utm_medium=yext,0.11997587783520114,51.6127302615404
+,The Korean Language Centre,language_school,0.764060378074646,name:token,"Kimchi Cottage, 41 Avondale Dr",Loughton,IG10 3BZ,+442082520840,http://www.koreanlc.com/,0.06199948,51.63643501
+,Post Office-Queens Road,korean_grocery_store,0.85,category:korean,7 Queens Road,Buckhurst Hill,IG9 5BZ,03456112970,https://www.postoffice.co.uk/,0.0461196,51.6251235
+,Post Office,korean_grocery_store,0.9655,category:korean,167 Queens Road,Buckhurst Hill,IG9 5AZ,03456112970,https://www.postoffice.co.uk/,0.0362948,51.6260759
+,Loughton Post Office,korean_grocery_store,0.98275,category:korean,197 High Road,Loughton,IG10 4LF,02085084561,https://www.postoffice.co.uk/branch-finder/1980262/loughton?campaignid=gmb~bf~1980262~google~na~05022025&y_source=1_NjI0ODkzMTItNzE1LWxvY2F0aW9uLndlYnNpdGU=,0.0536909,51.6457421
+,RJ Raven Ltd.,korean_grocery_store,0.965499997138977,category:korean,"Ravens Budgens Abridge, 91 London Road Abridge",Abridge,RM4 1XL,01992813592,,0.1128631,51.6489435
+,DHL Express Service Point (Copperfield Food & Wine - iPayOn),korean_grocery_store,0.9940833374857903,category:korean,26 Copperfield Gardens,Brentwood,CM14 4UD,08442480844,https://uk.express.dhl.com/?utm_source=bing&utm_medium=organic&utm_campaign=bing&y_source=1_Mzg2NjUwNzUtNDgzLWxvY2F0aW9uLndlYnNpdGU%3D,0.2940545,51.6242918
+,North Street Post Office,korean_grocery_store,0.9655,category:korean,17 Hainault Road,Romford,RM5 3AA,01708750587,https://www.postoffice.co.uk/branch-finder/104026x/north-street?campaignid=gmb~bf~104026x~google~na~05022025&y_source=1_NjI0OTM3NjItNDgzLWxvY2F0aW9uLndlYnNpdGU%3D,0.17283039938829958,51.58481816568941
+,Body Talk,korean_grocery_store,0.85,category:korean,6 Station Road,South Croydon,CR2 0PL,02086577000,,0.2335081,51.5944622
+,SHELL,korean_grocery_store,0.85,category:korean,Brook Rd,Brentwood,CM14 5LU,01277221048,http://www.shell.co.uk/,0.275557,51.6122113

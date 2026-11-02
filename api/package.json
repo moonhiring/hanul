@@ -1,0 +1,20 @@
+{
+  "name": "hanul-api",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "description": "HANUL backend API (businesses directory)",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js",
+    "verify": "node src/worker/verify.js"
+  },
+  "dependencies": {
+    "cookie-parser": "^1.4.7",
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "google-auth-library": "^11.3.2",
+    "jsonwebtoken": "^9.0.3",
+    "pg": "^8.13.1"
+  }
+}

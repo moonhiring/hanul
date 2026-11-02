@@ -1,0 +1,19 @@
+# 의존성·빌드 산출물
+node_modules/
+dist/
+
+# 비밀 — 절대 커밋 금지 (API 키 포함)
+.env
+.env.*
+!.env.example
+
+# OS/에디터
+.DS_Store
+Thumbs.db
+.vscode/*
+!.vscode/extensions.json
+.idea/
+
+# 로그
+*.log
+data-pipeline/raw/

@@ -1,0 +1,355 @@
+﻿id,name,category,confidence,reason,address,locality,postcode,phone,website,lng,lat
+,서부청년 Media,religious_organization,0.31359222531318665,name:hangul,3637 Grand Park Dr,Mississauga,L5B 4L6,+19058038800,https://linktr.ee/westsidekm,-79.64556,43.57976
+,Koryo,korean_restaurant,1.0,category:korean,100 City Centre Drive,Mississauga,L5B 2C9,+19052683174,http://www.koryo.ca/,-79.644267,43.593237
+,Korea Exchange Bank of Canada,atm,0.8,name:token,90 Burnhamthorpe Road West,Mississauga,L5B 3C3,,,-79.6372,43.5916
+,Seoul House,restaurant,0.85,name:token,100-265 Enfield Pl,Mississauga,L5B 3Y7,9058485556,http://www.mississaugaseoulhouse.com/,-79.6358989,43.5913781
+,bb.q Chicken & Pub,korean_restaurant,0.77,category:korean,3038 Hurontario St Unit G-9,Mississauga,L5B 3B9,(905) 276-6363,https://bbqchickenca.com,-79.61813162931934,43.58095690119429
+,Buk Chang Dong Soon Tofu,korean_restaurant,0.9739636778831482,category:korean,3085 Hurontario St,Mississauga,L5A 4E4,+19052761957,http://restaurantwebx.com/BukChangDong/,-79.61899099,43.58235338
+,K-Pocha,korean_restaurant,0.77,category:korean,169 Dundas St. East #7,Mississauga,L5A  1W8,(905) 824-2141,http://www.kpocha.com,-79.61251594003785,43.58457414957349
+,Hanyang Jokbal Mississauga,korean_restaurant,0.7103827595710754,category:korean,169 Dundas St E unit7,Mississauga,L5A 1W4,+19055009460,https://www.ubereats.com/ca/store/hanyang-jokbal-%25ED%2595%259C%25EC%2596%2591%25EC%25A1%25B1%25EB%25B0%259C-mississauga/SJ_j4HtoUVCd449j7JHBjg,-79.61270787,43.58459356
+,Kobi Korean Restaurant,korean_restaurant,0.77,category:korean,257 Dundas Street East,Mississauga,L5A 1W8,(905) 232-8866,http://www.kobikoreanbbq.com,-79.61050264743757,43.58567818042438
+,P.A.T. Oriental Food Market 한국식품,grocery_store,0.77,name:hangul,333 Dundas St E,Mississauga,L5A 1X1,(905) 276-0787,http://www.patmart.net,-79.60896739779332,43.58741987146981
+,Man Doo Hyang 만두향,korean_restaurant,0.77,category:korean,169 Dundas St E. Unit 10-12,Mississauga,L5A 1W8,(905) 897-3355,http://www.mandoohyang.com,-79.61249902614007,43.583902096900985
+,Wow Korean Restaurant,korean_restaurant,0.99894680082798,category:korean,55 Dundas St E,Mississauga,L5A 1W1,+19058962315,http://easyaccesscanada.com/listing/guide/restaurants-catering/page/7,-79.61492901,43.58190438
+,Feast Fast Food,korean_restaurant,0.77,category:korean,2580 Shepard Ave,Mississauga,L5A 4K3,(905) 848-2580,http://feastfastfood1.placeweb.site,-79.61472052005738,43.58036986003928
+,Semi Korean & Japanese Restaurant,korean_restaurant,0.932268140912056,category:korean,2580 Shepard Ave,Mississauga,L5A 4K3,+19053061462,,-79.61486242,43.58036652
+,Myungdong Noodle Shabu Shabu,korean_restaurant,0.9900428056716919,category:korean,2560 Shepard Ave #5,Mississauga,L5A 4E1,+19053061010,,-79.61385725,43.5801084
+,Sikgaek Korean Restaurant and Bar,korean_restaurant,0.9988932120800018,category:korean,800 Dundas St E unit #A,Mississauga,L4Y 2B6,+16476950056,https://www.instagram.com/sikgaek_800dundas,-79.59703548,43.59686141
+,Daldongnae Korean BBQ,barbecue_restaurant,0.65740966796875,name:token,"A1-1, 888 Dundas St E",Mississauga,L4Y 4G6,+19058482018,https://www.daldongnaebbq.com,-79.59535043,43.59844141
+,The Fry,korean_restaurant,0.9933100938796997,category:korean,1133 Dundas St E #6,Mississauga,L4Y 2C3,+19052727197,http://www.thefry.ca/,-79.59009945,43.60415012
+,Tasty Korea,korean_restaurant,0.9890437263250351,category:korean,3323 Lake Shore Blvd W,Toronto,M8W 2X6,+16477487577,http://www.tastykorea.ca/,-79.52473975,43.59635007
+,Korean Peace Presbyterian Church,christian_place_of_worship,0.6749149560928345,name:token,175 Islington Ave.,Toronto,M8V 3B8,+16478904811,,-79.50567818,43.60239853
+,Korea Global Logistics Canada,freight_and_cargo_service,0.2309425175189972,name:token,1030 Kamato Rd,Mississauga,L4W 4B6,+19056249998,http://www.dangelobrands.ca/index.shtml,-79.6448871,43.63755715
+,"Korean Airlines Co , Ltd",freight_and_cargo_service,0.3375904858112335,name:token,2710 Britannia Rd E,Mississauga,L4W,+19056727473,,-79.636481,43.677714
+,Song Cook's Korean Chili,korean_restaurant,0.9901851415634155,category:korean,1310 Dundas St E #5,Mississauga,L4Y 2C1,+16474548000,http://www.songcooks.com,-79.58545957,43.60720457
+,홍대입구-Chimac,korean_restaurant,0.9807597994804382,category:korean,1310 Dundas St E,Mississauga,L4Y 2C1,+16043586572,,-79.58499,43.60672
+,Seoul Restaurant,diner,0.77,name:token,3853 Bloor St W,Etobicoke,M9B 1L2,(416) 236-3478,http://www.seoulrestaurant.com,-79.53991158560281,43.640588966820324
+,Chodang Soon Tofu,korean_restaurant,0.976984977722168,category:korean,5130 Dundas St W,Toronto,M9A 1C2,+14162341161,https://chodang-soon-tofu-canada.food96.com,-79.53328281,43.64416878
+,Traditional Korean Bakery,bakery,0.54116290807724,name:token,4992 Dundas St W,Toronto,M9A 1B8,+14162338883,,-79.5306907,43.64672565
+,Insadong Korean Restaurant,korean_restaurant,0.9933357238769531,category:korean,4941 Dundas St W,Toronto,M9A 1B6,+14167460777,http://www.insadongrestaurant.com,-79.52936124,43.64793692
+,Don Chon Korean BBQ & Wings,korean_restaurant,0.9832777380943298,category:korean,834 The Queensway,Toronto,M8Z 1N5,+14162512227,,-79.50875658,43.62520292
+,Korean Air,airline,0.5566200613975525,name:token,Toronto Pearson Int'l Airport,Mississauga,L5P 1A2,,,-79.6192219,43.6855167
+,The Korean Central Presbyterian Church of Toronto,christian_place_of_worship,0.9842903262376785,name:token,23 Fasken Dr,Toronto,M9W 1K6,+14167983731,http://www.tojungang.com,-79.59984042,43.68931346
+,The New Gate Korean Presbyterian Church,christian_place_of_worship,0.9863094663619996,name:token,240 The Westway,Toronto,M9R 1G1,+14162444491,http://www.torontonewgate.ca,-79.54953071,43.68813714
+,Kim's Salon,hair_salon,0.77,name:korean-surname,2428 Islington Ave,Etobicoke,M9W 3X8,(416) 741-1931,http://www.stellasartistichairsalon.co,-79.55957366945341,43.72365921580757
+,Light Korean Presbyterian Church,christian_place_of_worship,0.77,name:token,312 Rexdale Blvd,Etobicoke,M9W 1R6,(416) 746-7729,http://www.light-church.com,-79.58426474574924,43.71486109388384
+,Western Toronto Korean Seventh-day Adventist Church,christian_place_of_worship,0.4631407856941223,name:token,18 Haas Rd,Toronto,M9W 3A2,+16474723636,http://www.wtksda.com/,-79.57405828,43.71724342
+,Toronto Korean Seventh-day Adventist Church,christian_place_of_worship,0.9148489832878113,name:token,4150 Chesswood Dr,Toronto,M3J 2B9,+16475752671,https://torontokoreanon.adventistchurch.org,-79.47830317,43.75904246
+,Sean's Twisted,korean_restaurant,0.77,category:korean,1291 Wilson Ave #a,Toronto,M3M 3C6,(416) 244-8433,http://www.seanstwisted.com,-79.4937534300498,43.72379410679038
+,L & S Korean Body Scrub and Massage - Toronto,spa,0.658319890499115,name:token,1288a Weston Rd,Toronto,M6M 4R3,+14168924423,http://korean-body-scrub.com/,-79.495735101852,43.689110676344
+,Kim's Attractive Nails,nail_salon,0.36696648597717285,name:korean-surname,1375 Weston Rd,Toronto,M6M 4S1,+14163050902,,-79.50014188,43.69106566
+,NeNe Chicken Vaughan,korean_restaurant,0.77,category:korean,3175 Rutherford Rd #30,Vaughan,L4K 5Y6,(905) 660-2288,https://nenechickenontario.com,-79.537091,43.828124
+,Chicken Plus,korean_restaurant,0.9907909333705902,category:korean,3175 Rutherford Rd Ste 81,Vaughan,L4K 5Y6,+14378807916,https://www.chickenpluscanada.ca,-79.53617677,43.82946939
+,Mo'Ramyun,korean_restaurant,0.77,category:korean,3175 Rutherford Rd. Unit 17,Vaughan,L4K 5Y6,(289) 597-8810,http://moramyun.com,-79.5358,43.828346
+,Korea Food Trading,food_and_beverage_store,0.7884193062782288,name:token,8500 Keele St,Vaughan,L4K 2A6,+19055320325,http://www.koreafood.ca,-79.50466638,43.81880411
+,Beijing Sung,korean_restaurant,0.9978355026245117,category:korean,2150 Steeles Avenue West Units 9 & 10,Vaughan,L4K 2Y7,+19056601352,http://beijingsung.ca,-79.49112552,43.78262807
+,Korean Full Gospel Central Church,christian_place_of_worship,0.9689535665512085,name:token,1100 Petrolia Rd,Toronto,M3J 3L7,+14166639191,http://koreanfullgospelcentralchurch.placeweb.site,-79.48975441,43.78103133
+,Magic Auto 매직오토,auto_body_shop,0.8032191395759583,name:hangul,180 Limestone Crescent,Vaughan,M3J 2Y8,+16478473898,,-79.48715567,43.78150231
+,bbq Chicken,korean_restaurant,0.986523163318634,category:korean,1440 Major Mackenzie Dr W Unit L2,Vaughan,L6A 4H6,+16472211440,https://bbqchickenca.com/ontario/eagles-landing/,-79.4852907,43.86284993
+,All Telecom Korea Inc.,telecommunications_company,0.9091709345579148,name:token,78 Martin Ross Ave,Toronto,M3J 2L4,4166450333,http://www.alltelecomkorea.com/,-79.4754605,43.7738226
+,Seoul Jimjilbang,spa,0.9981632727384567,name:token,382 Magnetic Dr,Toronto,M3J 2J1,+14165141965,http://ilovesauna.com,-79.47505833,43.78233784
+,Chungchun Rice Hotdog,korean_restaurant,0.5139001607894897,category:korean,90 Weston Rd J104,Toronto,M6N 0A6,+14165514147,http://www.chungchunricedog.ca,-79.46986675,43.67412659
+,ONDAK Korean Fried Chicken 온닭,korean_restaurant,0.9358334857225418,category:korean,2800 Dundas St W,Toronto,M6P 1Y5,+14167694000,https://www.instagram.com/ondakchicken,-79.46276439,43.66549671
+,LEEKo,korean_restaurant,0.9821833109855652,category:korean,685 Lansdowne Ave #2,Toronto,M6H 3Y9,+14165310166,,-79.44275351,43.65889349
+,Seoul Shakers,cocktail_bar,0.9976702946424484,name:token,1241 Bloor St W,Toronto,M6H 1N6,+14165358606,,-79.44114775,43.65862324
+,Daol Korean Restaurant,korean_restaurant,0.8693679571151733,category:korean,1345 Queen St W,Toronto,M6K 1L8,+14165889988,,-79.43436968,43.64090717
+,Toronto Korean Bethel Evangelical Church,protestant_place_of_worship,0.9613724380731583,name:token,1155 College St,Toronto,M6H 1B7,+14378705591,https://torontobethel.ca/,-79.43474191,43.65187925
+,Uncle Mikey's,korean_restaurant,0.77,category:korean,1597 Dundas St West,Toronto,M6K 1T9,(416) 537-8973,,-79.43494019162867,43.64970268216836
+,Galilee Korean Presbyterian Church,christian_place_of_worship,0.623148500919342,name:token,1183 Davenport Rd,Toronto,M6H 2G7,+14165334596,,-79.43369082,43.67426426
+,Toronto Milal Mission - 토론토 밀알선교단,non_governmental_association,0.44043397903442383,name:hangul,1183 Davenport Rd,Toronto,M6H 2G7,+14164910002,http://www.milalcanada.com/,-79.433625,43.674164
+,Sarang Kitchen,korean_restaurant,0.9823391282558441,category:korean,1056 Bloor St W,Toronto,M6H 1M3,+14165331120,https://sarangkitchen.ca,-79.43258659,43.66058272
+,하이 파크 역,travel_and_transportation,0.8084313869476318,name:hangul,873 Bloor St W,Toronto,M6G 1M4,+14163380338,,-79.42486,43.66186
+,Korean Information and Social Svc,social_and_human_service,0.77,name:token,720 Ossington Ave,Toronto,M6G 3T7,(416) 531-6701,http://www.kin-canada.org/rainbow.php,-79.42568171786124,43.66166173883841
+,Korean Picnic,korean_restaurant,0.3996666371822357,category:korean,80 Beaconsfield Ave,Toronto,M6J 3J2,+14169974425,http://www.koreanpicnic.com/,-79.42626,43.64622
+,Oddseoul,korean_restaurant,0.9969262212514878,category:korean,90 Ossington Ave,Toronto,M6J 2Z4,+16477829498,http://www.yelp.ca/biz/odd-seoul-toronto,-79.41965319,43.64622935
+,유니언 역 (토론토),train_station,0.8253303170204163,name:hangul,,Toronto,,,,-79.4167,43.6667
+,Korean Village Restaurant,korean_restaurant,0.9988250780105591,category:korean,628 Bloor St W,Toronto,M6G 1K7,+14165360290,http://www.koreanvillageto.com/,-79.41437025,43.66449567
+,KOREA TOWN in Toronto,historic_site,0.8473979234695435,name:token,640 Bloor St W,Toronto,M6G 1K9,,www.toronto.ca/koreatown,-79.4150499,43.66453
+,Mura Cupbop,korean_restaurant,0.4917556643486023,category:korean,690 Euclid Ave,Toronto,M6G 2T9,+16472728282,,-79.41512804,43.66465665
+,MaMa Chef Korean Restaurant,asian_fusion_restaurant,0.9655,name:token,648 Bloor St W,Toronto,M6G 1K9,4165168383,,-79.4153087,43.6642412
+,Jin Dal Lae,korean_restaurant,0.9906242489814758,category:korean,647 Bloor St W,Toronto,M6G 1L1,+14165306974,https://jin-dal-lae.food96.com,-79.415186,43.66420009
+,Skin30 - Korean Spa Toronto - 30 minutes,spa,0.4032555818557739,name:token,667 Bloor St W,Toronto,M6G 1L3,+14165373749,https://www.skin30.ca/,-79.41580714,43.66397196
+,Imonay House Restaurant,korean_restaurant,0.9974013638496398,category:korean,665 Bloor St W,Toronto,M6G 1L1,+14165332850,http://www.imonay-toronto.com,-79.41581315,43.66399284
+,Sunrise House,korean_restaurant,0.9964529293775558,category:korean,661 Bloor St W,Toronto,M6G 1L1,+14165351019,http://www.sunrisehousetoronto.com,-79.41567375,43.66409639
+,Daldongnae Korean BBQ,korean_restaurant,0.9982929879426956,category:korean,658 Bloor St W,Toronto,M6G 1K9,+14169012820,https://www.daldongnaebbq.com/,-79.41566124,43.66423648
+,Korea Town BIA Toronto,,0.5951308012008667,name:token,628 Bloor St W,Toronto,M6G 1K7,+14374404888,https://koreatownto.com/,-79.416110180318,43.664034159765
+,Korea House,korean_restaurant,0.9955266487598419,category:korean,666 Bloor St W,Toronto,M6G 1L2,+14165368666,http://www.maroli.ca,-79.41623857,43.66411396
+,P.A.T. Central Market 한국식품,grocery_store,0.77,name:hangul,675 Bloor St W,Toronto,M6G 1L3,(416) 532-2961,http://www.patmart.net,-79.41633962211277,43.66395515985428
+,Mapo Pocha Soju Bar,cocktail_bar,0.9983897054195404,name:token,680 Bloor St W,Toronto,M6G 1L2,+14169010678,http://mapo-korean-bbq.business.site/I,-79.4167319,43.66400544
+,Tofu Village 두부마을 豆腐村,korean_restaurant,0.77,category:korean,681 Bloor St. W,Toronto,M6G 1L2,(647) 345-3836,http://www.tofuvillagetoronto.com,-79.4166519368674,43.663942814604496
+,Buk Chang Dong Soon Tofu,korean_restaurant,0.9985333353281021,category:korean,691 Bloor St W,Toronto,M6G 1L3,+14165370972,http://www.urbanspoon.com/r/10/130686/restaurant/Koreatown/Buk-Chang-Dong-Soon-Tofu-Toronto,-79.41707382,43.66370813
+,The Owl on Bloor,korean_restaurant,0.9967476743459701,category:korean,700 Bloor St W,Toronto,M6G 1L4,+14165383030,http://www.phenu.com/theowlbooungeekoreanrestaurant,-79.41749181,43.6638317
+,Mapo Korean BBQ,korean_restaurant,0.9718814492225647,category:korean,708 Bloor St W,Toronto,M6G 1L4,+16477977708,http://mapo-korean-bbq.business.site,-79.41771096,43.66381766
+,Infinity Nail Bar 네일샆,nail_salon,0.9587679070234298,name:hangul,704 Bloor St W,Toronto,M6G 1L4,+14165888666,https://infinitynailbar.ca/,-79.41764651,43.66385251
+,Songs Cooks - House of Hot Pot,korean_restaurant,0.6242011189460754,category:korean,710 Bloor St W,Toronto,M6G 1L4,,,-79.417868,43.663971
+,Yummy Korean Food Restaurant,korean_restaurant,0.9984681349992752,category:korean,710 Bloor St W,Toronto,M6G 1L4,+16473456588,http://www.yummykorean.com,-79.41788508,43.66393661
+,Jangwon,korean_restaurant,0.8196233794093132,category:korean,708 Bloor St W,Toronto,M6G 1L4,+14165360545,http://www.jangwontoronto.com,-79.41785,43.66386
+,Burning Fridays - Korean Fried Chicken,asian_fusion_restaurant,0.9931191101670265,name:token,710 Bloor St W,Toronto,M6G 1L4,4373538000,http://burningfridayto.com/,-79.4177699,43.6637045
+,K Seoul Hotdog,hot_dog_restaurant,0.77,name:token,712 Bloor St W,Toronto,M6G 1L4,(416) 537-9595,http://kseoulhotdog.com,-79.41790529775352,43.66391257906261
+,세방여행사,tour_operator,0.93009033203125,name:hangul,721 Bloor St W,Toronto,M6G 1L5,+14165365530,http://www.sebang.ca/,-79.4180374,43.6633415
+,Kasai Grill House,korean_restaurant,0.77,category:korean,650 College St.,Toronto,M6G 1B8,(647) 348-1686,http://www.kasaigrillhouse.com,-79.41622568969571,43.65516487669636
+,Bi Bim Bap - College,korean_restaurant,0.8945351779460907,category:korean,598 College St,Toronto,M6G 1B4,+14166162080,http://www.stonebowl.ca/,-79.414247,43.655365
+,Hancook Cheese Dakgalbi,korean_restaurant,0.99837810754776,category:korean,605 Bloor St W,Toronto,M6G 1K6,+14165161222,http://www.hancookcanada.com,-79.41316943,43.66462919
+,Ka Chi,korean_restaurant,0.77,category:korean,2322 Bloor St W,Toronto,M6S 1P2,(416) 533-9306,http://www.townpage.ca/listing/restaurants-entertainments/restaurants-korean?limit=10&limitstart=0,-79.41387110116477,43.664711575895296
+,Yupdduk Bloor,korean_restaurant,0.9706177115440369,category:korean,612 Bloor St W,Toronto,M6G 1K7,+14167327989,,-79.41385271,43.66466246
+,Chungchun Rice Dog,korean_restaurant,0.9765095710754395,category:korean,615 Bloor St W,Toronto,M6G 1K8,+16473256150,,-79.4137899,43.66445131
+,Kimsoonrye Soonsal Chicken,korean_restaurant,0.8579530912637711,category:korean,620 Bloor St W,Toronto,M6G 1K7,+16474988808,http://www.ksrchicken.ca/,-79.41407428,43.66468367
+,Korean Bibimbap House Inc,korean_restaurant,0.6148796081542969,category:korean,620 Bloor St W,Toronto,M6G 1K7,+16473456588,,-79.41420757557744,43.66458637091785
+,Kimchi House,korean_restaurant,0.9827365875244141,category:korean,586 Bloor St W,Toronto,M6G 1K4,+14169000772,,-79.41270076,43.6648953
+,Arisu Korean BBQ & Sushi,sushi_restaurant,0.9988691937923432,name:token,584 Bloor St W,Toronto,M6G 1K4,+14165338104,http://www.arisu.ca/,-79.41263692,43.66498545
+,The Fry,korean_restaurant,0.9922130703926086,category:korean,524 Bloor St W,Toronto,M5S 1Y3,+16473329299,http://www.thefry.ca/,-79.41087001,43.6652693
+,Hongdae Banjeom,korean_restaurant,0.28745803236961365,category:korean,456 Bloor St W,Toronto,M5S 1X8,+14165161110,,-79.40919867,43.66579899
+,Little Piggy's,korean_restaurant,0.77,category:korean,469 Bloor St W,Toronto,M5S 1X9,(416) 972-1674,http://www.littlepiggystoronto.com,-79.40700419782607,43.66622176149189
+,Korean Canadian Women's Association,charity_organization,0.77,name:token,27 Madison Ave,Toronto,M5R 2S2,(416) 340-1234,http://www.kcwa.net,-79.40303466797212,43.66830695818766
+,Kim's Hair Fashion,hair_salon,0.5230118036270142,name:korean-surname,308 College St,Toronto,M5T 1S3,+14169245943,,-79.40212906,43.65765892
+,KOOYI Korean Grill,korean_restaurant,0.8789111515879631,category:korean,213 Augusta Ave,Toronto,M5T 2L4,+16477485669,http://kooyigrill.com/,-79.401672,43.654203
+,Comma,korean_restaurant,0.9571964144706726,category:korean,490 Queen St W,Toronto,M5V 2B3,+14163505556,https://www.commatoronto.com,-79.40092948,43.64795662
+,Light Korean Presbyterian Church,christian_place_of_worship,0.77,name:token,455 Huron St.,Toronto,M5R 3P2,(647) 436-1977,http://www.lkpc.org,-79.40148635495407,43.667689634788395
+,Ka Chi Korean Restaurant,korean_restaurant,0.9998393674194813,category:korean,8 St Andrew St,Toronto,M5T 1K6,+14165971999,http://www.originalkachi.com/,-79.39931195,43.65434099
+,Seor Ak San,korean_restaurant,0.77,category:korean,357 Spadina Ave,Toronto,M5T 2G3,(416) 977-2788,http://www.seoraksantoronto.com,-79.39906312458224,43.655445703873134
+,The Famous Owl of Minerva,korean_restaurant,0.9978393548727036,category:korean,280 Spadina Ave,Toronto,M5T 3A5,+14165997275,http://www.owlfamily.ca/,-79.39844117,43.6525878
+,Doraji,korean_restaurant,0.9300966858863831,category:korean,486 Front St W Lwr G/F,Toronto,M5V 0V2,+14165955252,http://doraji.ca/,-79.39675969,43.642466
+,BIWON Korean Restaurant,korean_restaurant,0.9902412295341492,category:korean,473 Dundas St W,Toronto,M5T 1G8,+16473513366,http://www.nakwon.ca,-79.39686684,43.65311119
+,414 dundas w,korean_restaurant,0.47261983156204224,category:korean,414 Dundas St W,Toronto,M5T 1G6,+16474056865,,-79.39506096,43.65378101
+,Hello Cupbop & K-Chicken (Korean restaurant),korean_restaurant,0.9987668007612228,category:korean,414 Dundas St W,Toronto,M5T 1G7,+14165983222,http://www.kachikoreanrestaurant.ca,-79.39506399,43.65378982
+,Tiger Den Tavern,korean_restaurant,0.9726513028144836,category:korean,45 Baldwin St,Toronto,M5T 1L1,+14373654545,http://instagram.com/tigerden.to,-79.39372852,43.65582827
+,The Bowl Korean Food,korean_restaurant,0.49273574352264404,category:korean,109 McCaul St,Toronto,M5T 2W7,+14165513307,,-79.39102554,43.65368554
+,JJ Fried Chicken,korean_restaurant,0.9892262816429138,category:korean,2539 Eglinton Ave W,Toronto,M6M 1T2,+14166533060,,-79.47186568,43.69081857
+,Ontario Korean Businessmen's Association,charity_organization,0.77,name:token,130 Orfus Rd Fl 2,North York,M6A 1L9,(416) 789-7891,http://www.okba.net,-79.46528482544956,43.718578465581416
+,Korea Times & Hankookilbo,music_venue,0.3564988970756531,name:token,287 Bridgeland Ave,Toronto,M6A 1Z6,+14167871111,http://www.koreatimes.net,-79.470976,43.723386
+,K-Food Kitchen,korean_restaurant,0.9933260691165924,category:korean,37 Kodiak Crescent Unit 4,Toronto,M3J 3E5,+14165126969,http://www.kfoodcanada.com/,-79.46670243,43.75541035
+,Seoul House Restaurant,korean_restaurant,0.998579329252243,category:korean,3220 Dufferin St,Toronto,M6A 2T3,+14167824405,http://twitter.com/SeoulHouse2,-79.45793412,43.71970029
+,Royal Korean Cuisine,korean_restaurant,0.892061173915863,category:korean,3220 Dufferin St,Toronto,M6A 2T3,+14167822235,,-79.457044,43.719743
+,Yuki Japanese & Korean Restaurant,korean_restaurant,0.9949980974197388,category:korean,3259 Dufferin St,Toronto,M6A 2T2,+14167818433,,-79.455667,43.720598
+,Kpcr - 부활의교회,christian_place_of_worship,0.9880633497238159,name:hangul,1 Tippet Rd,Toronto,M3H 2V1,+14166358599,https://kpcr.ca/,-79.44536,43.73194
+,Kim's Nails,nail_salon,0.9142397046089172,name:korean-surname,666 Sheppard Ave W,Toronto,M3H 2S5,+14166310198,,-79.44234126,43.75499944
+,Toronto Jeil Korean Presbyterian Church,christian_place_of_worship,0.9478607177734375,name:token,68 Collinson Blvd,Toronto,M3H 3C3,+14166361724,http://firstkoreanpresbyterianchurchoftoronto.placeweb.site,-79.4406707,43.74095267
+,세인트 클레어 웨스트 역 (Ttc),travel_and_transportation,0.8163374662399292,name:hangul,,Toronto,,,http://www3.ttc.ca/Subway/Stations/St_Clair_West/station.jsp,-79.415113,43.683888
+,Seor Ak San Korean Restaurant,korean_restaurant,0.6895381808280945,category:korean,357 Spadina Rd,Toronto,M5P 2V6,+14169772788,,-79.41146,43.68624
+,토론토행복한교회,religious_organization,0.6868488788604736,name:hangul,1498 Avenue Rd,Toronto,M5N 2J1,,,-79.41579,43.72205
+,로렌스 역 (Ttc),train_station,0.8182554841041565,name:hangul,,Toronto,,,,-79.41813390018163,43.72812707305242
+,Toronto Immanuel Korean Church,religious_organization,0.6589487791061401,name:token,157 Florence Ave,Toronto,M2N 1G5,+14167426888,http://www.merchantcircle.ca/blogs/Immanuel.Korean.Church.416-74,-79.417632,43.756387
+,알파한인연합교회,religious_organization,0.8713339567184448,name:hangul,49 Bogert Ave,Toronto,M2N 1K5,+16474029292,http://www.akuc.org/,-79.41308,43.76001
+,Study and Work in Korea,,0.21454696357250214,name:token,2 Sheppard Ave E,Toronto,M2N 5Y7,+16473415079,,-79.410528871469,43.761931824356
+,Bridge Together Consulting (구 투게더이민),immigration_law,0.582957923412323,name:hangul,4789 Yonge St Ste 1120,Toronto,M2N 0G3,+14167274433,http://www.togetherimmigration.com/,-79.41037214,43.76147534
+,BARO Immigration-바로이민,professional_service,0.3982647657394409,name:hangul,,Toronto,,+16477708275,http://baroimmigration.com/,-79.40964798,43.75952069
+,Jokbal Night Market,korean_restaurant,0.9590970277786255,category:korean,41 Sheppard Ave E,Toronto,M2N 2Z8,+14165127211,http://www.jokbalnightmarket.com,-79.40883817,43.7618281
+,로렌스 역 (Ttc),train_station,0.8182554841041565,name:hangul,,Toronto,,,,-79.402222222222,43.725
+,토론토 한인 등대교회 Toronto Korean Beacon Church,christian_place_of_worship,0.7009570598602295,name:hangul,33 Melrose Ave,Toronto,M5M 1Y6,,http://www.beaconchurch.ca/,-79.40524,43.73242
+,토론토주사랑교회,christian_place_of_worship,0.8225204348564148,name:hangul,19 Don Ridge Dr,Toronto,M2P 1H3,+14169390191,http://www.joosarang.ca/,-79.40524,43.7469899
+,토론토 한인 열린교회 Toronto Korean Open Church (TKOC),christian_place_of_worship,0.5627025961875916,name:hangul,817 Mt Pleasant Rd,Toronto,M4P 2L1,+14374534354,,-79.39020586,43.7093361
+,Namul,korean_restaurant,0.981056272983551,category:korean,2029 Yonge St,Toronto,M4S 2A2,+14164879771,http://www.namul.ca/,-79.39702642,43.7015422
+,Bb•Q Chicken & Pub,korean_restaurant,0.77,category:korean,,Toronto,M4P 2S7,,https://bbqchickenca.com,-79.39882226049104,43.7105052161777
+,토론토재외선거관리위원회,government_office,0.5911374688148499,name:hangul,555 Avenue Rd,Toronto,M4V 2J7,,http://ova.nec.go.kr/,-79.401413,43.6872597
+,Consulate General of the Republic of Korea,embassy,0.9863846743106842,name:token,555 Avenue Rd,Toronto,M4V 2J7,+14169203809,http://www.consulatekorea-tor.org/,-79.40134004,43.68730586
+,Korean Grill House,korean_restaurant,0.77,category:korean,214 Queen St W,Toronto,M5V 1Z2,(416) 263-9850,http://koreangrillhouse.com,-79.38924990371137,43.650259683866906
+,종로 Jongro Korean BBQ Buffet,korean_restaurant,0.5966072082519531,category:korean,754 Yonge St,Toronto,M4Y 2B6,+14169212929,https://www.fieryperseverance.com/bodys-resistance-to-training.html,-79.3865718,43.66932066
+,Pelicana Chicken Yonge & Bloor,korean_restaurant,0.77,category:korean,730 Yonge St,Toronto,M4Y 2B7,(647) 350-5965,http://www.pelicana.ca,-79.386573,43.66891
+,Korean Grill House,korean_restaurant,0.77,category:korean,754 Yonge st.,Toronto,M4Y 2B6,(416) 922-3328,http://www.koreangrillhouse.com,-79.38638726660214,43.66935232630079
+,Brown Donkatsu,korean_restaurant,0.77,category:korean,Dundas Street,Toronto,M5G 1C3,(416) 585-2782,http://www.browndonkatsu.ca,-79.38493893804362,43.65569849328371
+,Bapbo Korean Restaurant,korean_restaurant,0.9923759347200394,category:korean,142 Dundas St W,Toronto,M5G 1C3,+16473523312,http://www.bapbokorean.com,-79.38496332,43.65553821
+,Kimchi Korea House,korean_restaurant,0.998757848739624,category:korean,149 Dundas St W,Toronto,M5G 1C5,+14165991989,http://www.kimchikoreahouse.ca/,-79.38552587,43.65528007
+,bb.q Chicken,korean_restaurant,0.9983064091205597,category:korean,689 Yonge St,Toronto,M4Y 2B2,+14169448371,https://bbqchickenca.com/ontario/toronto/bbq-chicken-yonge-and-bloor/,-79.38614594,43.66898279
+,Miss Korea,korean_restaurant,0.77,category:korean,687 Yonge St,Toronto,M6H 2C9,(647) 748-9100,http://www.misskorea.ca,-79.38602527667808,43.668980675396625
+,Seoulicious,korean_restaurant,0.9984330809116364,category:korean,590 Yonge St,Toronto,M4Y 1Z3,+16473475650,https://www.ubereats.com/ca/store/seoulicious/2P3obFfKVdWoBYx_ct8Lwg,-79.38494473,43.6654243
+,Ehwa Downtown,korean_restaurant,0.9185701012611389,category:korean,16 Isabella St,Toronto,M4Y 2A1,+14372672266,,-79.38493552,43.66777047
+,Chungchun Rice Hotdog,korean_restaurant,0.5687230825424194,category:korean,582 Yonge St,Toronto,M4Y 1Z3,+16473589777,http://chungchunricedog.ca,-79.3847902,43.66522449
+,BOM Bibimbap,korean_restaurant,0.9338800311088562,category:korean,72 Gerrard St W,Toronto,M5G 1J5,+14169715882,https://bom-bibimbap.com,-79.38518751,43.6584706
+,bbq Chicken,korean_restaurant,0.9652392727136612,category:korean,43 Elm St,Toronto,M5G 1H1,+14165818008,https://bbqchickenca.com/ontario/,-79.3837238,43.6573066
+,The Fry,korean_restaurant,0.9463607478141784,category:korean,528 Yonge St,Toronto,M4Y 1X9,+16477419299,http://www.thefry.ca,-79.38440898,43.66380989
+,Dakgogi,korean_restaurant,0.9982271295785904,category:korean,25 Wellesley St E,Toronto,M4Y 2S9,+16473501999,http://www.dakgogi.co,-79.383042,43.66493
+,Seoul Gamjatang,korean_restaurant,0.77,category:korean,475 Yonge St,Toronto,M4Y 1X7,,https://seoulgamjatang.com,-79.38342,43.662711
+,HoGa Oriental Cuisine,korean_restaurant,0.9888207072019577,category:korean,121 King St W,Toronto,M5H 3T9,+14163685555,http://hogaorientalcuisinetoronto.gastrobars.com,-79.38311884,43.64784921
+,Mama Lee's Korean Kitchen,korean_restaurant,0.7975544929504395,category:korean,250 Queens Quay W,Toronto,M5J 2N2,,,-79.38494,43.63941
+,Korea Resources Corp,professional_service,0.8872064882516861,name:token,366 Bay St,Toronto,M5H 4B2,+14169298183,http://www.eng.kores.or.kr,-79.381408,43.650846
+,Sushi & Bbbop,korean_restaurant,0.9080177038908005,category:korean,"Underground of ikea Entrance is aura shop, 384 Yonge St #57",Toronto,M5G 1S8,+16475573922,http://sushiandbbbop.com,-79.38269301,43.6594056
+,Dawon Twon Toronto Canada,korean_restaurant,0.7033481001853943,category:korean,,Toronto,,,,-79.382402859628,43.658336042374
+,Daldongnae,korean_restaurant,0.77,category:korean,361 Yonge St,Toronto,M5B 1S1,(647) 368-8470,http://www.daldongnaebbq.com,-79.38170264081441,43.65857156086332
+,Kordog,korean_restaurant,0.77,category:korean,335 Yonge St,Toronto,M5B 1R7,(647) 205-0442,https://kordogkoreanstylehotdog.com,-79.381208,43.657292
+,Pocha 1989,korean_restaurant,0.9979908949136734,category:korean,542 Church St,Toronto,M4Y 2E1,+16474551994,https://pocha1989.com,-79.38091944,43.66524048
+,Daniel Kim Commercial - Sotheby's International Realty Canada - Realtor - 다니엘김 토론토 부동산,real_estate_agent,0.2566450834274292,name:hangul,311 Bay St. #3703,Toronto,M5H 4G5,+14373434999,,-79.38045113,43.64990991
+,Koryo,korean_restaurant,1.0,category:korean,220 Yonge Street,Toronto,M5B 2H1,+14165810221,http://www.koryo.ca/,-79.380699,43.654438
+,Seoul Food Take-Out,korean_restaurant,0.9952524811029434,category:korean,606 Sherbourne St,Toronto,M4X 1X6,+14164500519,https://seoulfoodtakeout.com,-79.37680486,43.67198963
+,Korea Tourism Organization,travel_service,0.9158868050575256,name:token,25 Adelaide St E #1101,Toronto,M5C 3A1,+14163489056,http://www.visitkorea.or.kr,-79.37750537,43.6505594
+,Bob's Bulgogi,korean_restaurant,0.9724550247192383,category:korean,105 Victoria St,Toronto,M5C 1N7,+14165466515,http://www.yelp.ca/biz/bobs-bulgogi-toronto,-79.37745318,43.65207225
+,Mama Lee's Korean Kitchen,korean_restaurant,0.9578691720962524,category:korean,16 Yonge St Unit B,Toronto,M5E 2A3,+16473529520,,-79.37572451,43.64310045
+,Swish By Han,korean_restaurant,0.77,category:korean,38 Wellington St. E,Toronto,M5E 1C9,(647) 343-0268,http://swishbyhan.wordpress.com,-79.37498626395453,43.64824164666016
+,Thảo Korea Shop,,0.11164900660514832,name:token,seoul,Toronto,05312,+821055476169,,-79.3762,43.65022
+,Dylan Kim Real Estate 딜런 김 토론토 부동산 전문 중개인,real_estate_agent,0.21266533434391022,name:hangul,120 Carlton St. Ste 314,Toronto,M5A 4K2,+16472293456,https://www.baytreerealestate.ca/,-79.37634644,43.66272773
+,Chicken Plus,korean_restaurant,0.9610897898674011,category:korean,368 Broadview Ave,Toronto,M4M 2G9,+14165196018,https://www.chickenpluscanada.ca,-79.3528786,43.66533337
+,Gogi Bap,korean_restaurant,0.5480165481567383,category:korean,946 Yonge St,Toronto,M4W 2J2,+16477480946,,-79.388942,43.674664
+,Kim's Nail Salon,nail_salon,0.9932146418094635,name:korean-surname,1560 Bayview Ave,Toronto,M4G 3B8,+14164869518,http://www.jewellerylondon.com,-79.37515913,43.7051723
+,Toronto Korean Presbyterian Church,christian_place_of_worship,0.9985431071519851,name:token,67 Scarsdale Rd,Toronto,M3B 2R2,+14164475963,http://TKPC.org/,-79.35378689,43.74908277
+,Korean Canadian Cultural Association of Metropolitan Toronto,cultural_center,0.9825372517108917,name:token,1133 Leslie St,Toronto,M3C 2J6,+14163830777,https://www.kccatoronto.ca/,-79.34876098,43.72649127
+,The Korean Dance Studies Society of Canada,dance_studio,0.916650441288948,name:token,1133 Leslie St Ste 102,Toronto,M3C 2K5,+16474037653,http://koreandance.net/,-79.34845479,43.72650677
+,토론토 김선 부동산 Sun Kim Toronto Realtor Www.sunkim.ca,real_estate_service,0.4604188799858093,name:hangul,895 Don Mills Rd,Toronto,M3C 1W3,+16473895234,http://sunkim.ca/,-79.3395,43.72744
+,Rick Kim Realtor | 토론토 김우영 부동산,real_estate_agent,0.028384516015648842,name:hangul,18 Wynford Dr #205,Toronto,M3C 0K8,+14379878204,,-79.33732467,43.72386295
+,Korean Myung Sung Pres. Church,christian_place_of_worship,0.8,name:token,"1 Greenland Rd., Toronto, ON, M3C 1N1",,M3C 1N1,,,-79.338459,43.733662
+,Korean Philadelphia Presbyterian Church,christian_place_of_worship,0.8007187843322754,name:token,8 Codeco Ct,Toronto,M3A 1A2,+14164441716,,-79.32881665,43.73638931
+,Sarang Kitchen,korean_restaurant,0.9103571772575378,category:korean,774 Danforth Ave,Toronto,M4J 1L5,+14164658388,https://sarangkitchen.ca/,-79.34212681,43.67969888
+,Makkal Chon,korean_restaurant,0.9984462553262711,category:korean,1979 Lawrence Ave E,Toronto,M1R 2Z2,+14167573945,http://www.makkalchon.com,-79.29628562,43.74469808
+,North York Korean United Church,christian_place_of_worship,0.7672140002250671,name:token,255 Finch Ave W,Toronto,M2R 1M8,+14162257941,http://nykuc.org,-79.43774508,43.77446438
+,Myeongdong Gyoza Kalguksu,korean_restaurant,0.9988296979665756,category:korean,7117 Bathurst St,Vaughan,L4J 2J6,+19055973911,http://www.myeongdonggyozakalguksu.ca,-79.44560505,43.79500121
+,Moonlight Korean and Chinese Restaurant,korean_restaurant,0.6076241135597229,category:korean,6233 Bathurst St,Toronto,M2R 2A5,+14162299999,,-79.44452745,43.79194014
+,새사랑교회 | Saesarang Church,christian_place_of_worship,0.41301894187927246,name:hangul,800 Steeles Ave W Unit B-18,Vaughan,L4J 7L2,+16478282396,,-79.44698396,43.79356966
+,JungSooNe Bonga,korean_restaurant,0.9758996367454529,category:korean,390 Steeles Ave W Unit 5,Vaughan,L4J 6X2,+19057075850,,-79.43414223,43.79598796
+,해룡반점,restaurant,0.9077749848365784,name:hangul,390 Steeles Ave W,Vaughan,L4J 6X2,+19055977178,,-79.434415943372,43.795318946411
+,Sunny Dragon Restaurant,korean_restaurant,0.9996665262281895,category:korean,398 Steeles Ave W,Vaughan,L4J 6X3,+19057075550,http://sunnydragon.ca,-79.43474467,43.79519599
+,캐넬녹용 공진단 전문공장,health_care,0.5883078575134277,name:hangul,370 Steeles Ave W,Vaughan,L4J 6X1,+19058824355,http://caneldeer.ca/,-79.43335,43.79526
+,Nakwon Korean Restaurant,korean_restaurant,0.9930637460947037,category:korean,9625 Yonge St,Richmond Hill,L4C 5T2,+19057379999,http://www.kazanteppanyaki.com/,-79.43430396,43.8606644
+,Hongdae Korean Restaurant,korean_restaurant,0.9871935248374939,category:korean,9184 Yonge St,Richmond Hill,L4C 7A1,+19058815959,,-79.43311482,43.85106881
+,Dr. Calvin Kim | 닥터 캘빈 한인 카이로프랙터 RMT,chiropractic,0.36175188422203064,name:hangul,7787 Yonge St Ste 204,Markham,L3T 7L2,+19057071616,https://drcalvinkim.ca/,-79.42401369,43.81729506
+,Korea Exchange Bank of Canada,bank,0.77,name:token,7670 Yonge,Thornhill,L4J 1W1,(905) 707-7001,http://www.kebhanabank.ca,-79.42470568414024,43.81427829824523
+,Korea Exchange Bank of Canada,atm,0.8,name:token,7670 Yonge Street,Thornhill,L4J 1W1,,,-79.4287,43.8343
+,Ho Shin Tang,korean_restaurant,0.77,category:korean,"Unit 1, 328 Hwy 7 East",Richmond Hill,L4B 3P4,(905) 707-6983,http://www.hoshintang.com,-79.39911923290614,43.84060126772854
+,Kim's Tofu,korean_restaurant,0.9537124037742615,category:korean,9019 Bayview Ave #15,Richmond Hill,L4B 3M6,+19057631911,,-79.4082017,43.85109665
+,Korean Wrapping Paper,flowers_and_gifts_store,0.9351055753231049,name:token,45B West Wilmot St #2B,Richmond Hill,L4B 1K8,+16475195495,https://www.koreanwrappingpaper.com/,-79.38832288,43.85226118
+,bb.q Chicken,korean_restaurant,0.77,category:korean,420 Highway 7,Richmond Hill,L4B 3K2,,https://bbqchickenca.com,-79.390812,43.843416
+,Myungdong Noodle Shabu Shabu,korean_restaurant,0.9986059248447419,category:korean,8194 Bayview Ave,Markham,L3T 2S2,+19057070168,https://myungdong-kalkuksi-noodles-and-shabu-shabu.food96.com,-79.40526377,43.83181055
+,Korean Canadian Symphony Orchestra,music_venue,0.77,name:token,3333 Bayview Ave # 203,Toronto,M2K 1G4,(647) 532-2578,http://www.kcso.ca,-79.39378709326894,43.791955487448575
+,100 Chicken,korean_restaurant,0.9340900778770447,category:korean,7181 Yonge St #255,Markham,L3T 0C7,+16474827181,http://www.the100chicken.com/,-79.41972923,43.80361612
+,Kim's Kitchen,korean_restaurant,0.8808634281158447,category:korean,7181 Yonge St 251 (2nd floor,Markham,L3T 0C7,+12895979400,,-79.4196395,43.80363658
+,Jokbaluishin,korean_restaurant,0.77,category:korean,7181 Yonge St,Markham,L3T 0C7,(647) 882-8282,http://gukjemarket.ca,-79.419486,43.803558
+,Bap & Chan,korean_restaurant,0.9391417717933654,category:korean,7181 Yonge St #242,Markham,L3T 0C7,+16479651087,https://www.bapandchan.com/,-79.41952691,43.80358119
+,캐넬녹용 공진단 전문공장,health_care,0.5883078575134277,name:hangul,370 Steeles Ave W,Vaughan,L4J 6X1,+19058824355,http://caneldeer.ca/,-79.41916,43.80536
+,P.A.T. Supermarket 한국식품,grocery_store,0.77,name:hangul,5 Glen Cameron Rd,Thornhill,L3T 5W2,(905) 881-5100,http://www.patmart.net,-79.42023894624853,43.805438182938616
+,Piggy's Island,korean_restaurant,0.9953777271509171,category:korean,5 Glen Cameron Rd #27,Markham,L3T 5W2,+19055971522,http://www.littlepiggystoronto.com/,-79.42031627,43.80541195
+,Home of Hot Taste Chicken Canada,korean_restaurant,0.77,category:korean,5 Glen Cameron Rd.,Thornhill,L3T 5W2,(905) 881-0230,http://www.buldak.ca,-79.42020390284809,43.80520587857874
+,Buldak - Home of Hot TASTE,korean_restaurant,0.9573648571968079,category:korean,3b Glen Cameron Rd,Markham,L3T,+19058810230,http://www.buldak.ca/,-79.4202145528355,43.805220479448764
+,Toronto Korean Baptist,social_or_community_service,0.661753237247467,name:token,30 Elgin St,Markham,L3T 1W4,,,-79.42117392487,43.812052898447384
+,생명나무교회,religious_organization,0.5470848679542542,name:hangul,25 Elgin St,Markham,L3T 1W5,,http://treeoflifechurch.ca/,-79.420552253723,43.810979580619
+,North Town Korean Restaurant,korean_restaurant,0.6840495467185974,category:korean,7368 Yonge St,Vaughan,L4J 8H9,+19058890707,,-79.422896504402,43.807313525047
+,Sariwon Korean BBQ Restaurant,korean_restaurant,0.9989045631885528,category:korean,7388 Yonge St,Vaughan,L4J 8K2,+19058815103,https://sariwonbbq.com/,-79.42333014,43.80865254
+,참마켓 | Charm Market,shopping,0.258026659488678,name:hangul,155 Green Bush Crescent,Vaughan,L4J 5L7,+16476125684,http://www.charm-market.com/,-79.42803953,43.8031622
+,Cho Sun Ok 조선옥 朝鮮屋,korean_restaurant,0.77,category:korean,7353 Yonge St,Markham,L3T 2B3,(905) 707-8426,http://www.chosunok.ca,-79.42218603743086,43.80661423853999
+,Saemaeul Sikdang,korean_restaurant,0.9580831801891327,category:korean,7335 Yonge St,Markham,L3T 2B2,+19058819595,https://www.saemaeul.ca/,-79.42117,43.80626
+,김정화 모기지 & 부동산,real_estate_agent,0.2960878312587738,name:hangul,7181 Yonge St,Markham,L3T 0C7,+6475029439,,-79.42086,43.80368
+,유선영 모기지,mortgage_broker,0.40263354778289795,name:hangul,7191 Yonge St #1006,Markham,L3T 0C4,+14168358220,https://stchoimortgage.com/,-79.42093064,43.80343715
+,오즈투어 Oz Tours,travel_service,0.9019882911443711,name:hangul,7188 Yonge St,Vaughan,L4J 1V8,+14165122121,http://www.oztours.ca/,-79.42179,43.80124
+,중앙여행사,tour_operator,0.8169010281562805,name:hangul,7040 Yonge St,Vaughan,L4J 1V7,+14167333400,http://www.centraltravel.ca/,-79.4209,43.79892
+,Jin Mee Korean Cuisine,korean_restaurant,0.6995376348495483,category:korean,7040 Yonge St s5,Vaughan,L4J 1V7,+16479660623,,-79.42137796,43.79892977
+,Song Cooks Korean,korean_restaurant,0.8441702723503113,category:korean,72 Steeles Ave W,Vaughan,L4J 1A1,+16476788000,http://www.songcooks.com/,-79.42251645,43.79840212
+,SongCook's Korean Restaurant,asian_fusion_restaurant,0.9655,name:token,72 Steeles Ave. West Unit 6,Thornhill,L4J 1A1,6476788000,https://songcooks.com/,-79.4222308,43.7978676
+,Kobi Korean BBQ,korean_restaurant,0.9983498120307922,category:korean,100 Steeles Ave W,Vaughan,L4J 7Y1,+12895971548,http://www.kobikoreanbbq.com,-79.4253106,43.79756494
+,Hanilkwan Korean Restaurant,korean_restaurant,0.77,category:korean,100 Steeles Ave W # 2B,Vaughan,L4J 7Y1,(905) 709-3564,http://hanilkwanbbq.com,-79.42553419041852,43.79779992081846
+,Ireyewon Asia Fusion Restaurant,korean_restaurant,0.7329254150390625,category:korean,100 Steeles Ave W,Vaughan,L4J 7Y1,+19057310500,,-79.425663,43.798015
+,만리장성,korean_restaurant,0.7626296877861023,category:korean,100 Steeles Ave W,Vaughan,L4J 7Y1,,,-79.425373019847,43.798008052626
+,Seoul House 서울관 SOJUBANG 소주방,food_and_beverage_store,0.9655,name:hangul,180 Steeles Ave W #24,Thornhill,L4J 2L1,9057091593,https://gamseongsiktak.ca/,-79.4266417,43.7975717
+,Coredam Korean Restaurant - Thornhill 꼬레담,korean_restaurant,0.7997955679893494,category:korean,248 Steeles Ave W Unit 7,Vaughan,L4J 1A1,+16475571557,,-79.43025039,43.79718345
+,Ahzimae Zipbap,korean_restaurant,0.9826796054840088,category:korean,6068 Yonge St,Toronto,M2M 3W6,+14165122007,,-79.41856104,43.790479
+,Daldongnae Korean BBQ,korean_restaurant,0.9982513397932052,category:korean,6034 Yonge St,Toronto,M2M 3W5,+14162266034,https://www.daldongnaebbq.com/,-79.41821296,43.78973344
+,토론토 온누리 여행사 [Sea2sky Travel],travel_agent,0.9292555749416351,name:hangul,6013 Yonge Street #200,North York,M2M 3W2,6473478185,https://www.sea2skytravel.ca/,-79.4178934,43.7893515
+,Hanyang Jokbal,korean_restaurant,0.9866254329681396,category:korean,6016 Yonge St,Toronto,M2M 3V9,+14167925808,,-79.41808953,43.78901135
+,The Fry,korean_restaurant,0.994321717619896,category:korean,6012 Yonge St,Toronto,M2M 3V9,+14165460483,http://thefry.ca/,-79.41808302,43.78891242
+,토론토 구세군 한인교회,christian_place_of_worship,0.8984465599060059,name:hangul,25 Centre Ave,Toronto,M2M 2L4,+14162257968,https://www.instagram.com/salvationarmykorean,-79.41593,43.79178
+,강남스타일,korean_restaurant,0.5737602114677429,category:korean,6080 Yonge St,Toronto,M2M 3W6,+16473402151,,-79.41862,43.79091
+,Anju Bar & Eatery,korean_restaurant,0.77,category:korean,6080 Yonge St,Toronto,M2M 3W6,(647) 349-1130,http://www.anjubarandeatery.ca,-79.41879554112325,43.79086948141547
+,Yonge Pocha 영포차,korean_restaurant,0.77,category:korean,6174 Yonge St,Toronto,M2M 3X1,(647) 781-0889,https://yongepocha.ca,-79.41928000344102,43.79330780489764
+,낭만포차,korean_restaurant,0.9800426959991455,category:korean,6283 Yonge St,Toronto,M2M 3X6,+14165518683,,-79.418984810514,43.795219384835
+,Apkujung Restaurant,korean_restaurant,0.9850524067878723,category:korean,6309 Yonge St,Toronto,M2M 3X7,+14162296248,,-79.41908113,43.79584864
+,Daldongnae2,korean_restaurant,0.77,category:korean,6347 Yonge Street,North York,M2M 3X7,(647) 368-5472,http://daldongnaebbq.com,-79.41926164042115,43.79612009764632
+,토론토 강림교회,religious_organization,0.9967264664173127,name:hangul,53 Madawaska Ave,Toronto,M2M 2R2,+14162217550,http://www.kanglimchurch.com/,-79.41492,43.7943799
+,토론토민박 (Toronto Hostel),hostel,0.5960530638694763,name:hangul,18 Mullet Rd,Toronto,M2M 2A6,+14169952009,http://cafe.naver.com/gototoronto,-79.414007,43.785828
+,Go Topoki,korean_restaurant,0.77,category:korean,5 Northtown Way,North York,M2N 7A1,(416) 551-2162,http://gotopoki.com,-79.41395294489341,43.77497647878512
+,Kimbap KarahOn,korean_restaurant,0.9606650471687317,category:korean,5418 Yonge St Unit 18,Toronto,M2N 6X4,+14376733668,http://www.instagram.com/karah.on/,-79.41475915,43.77550664
+,Korean Meat Shop,warehouse_club_store,0.5059671401977539,name:token,5441 Yonge St,Toronto,M2N 5S1,+14162212508,,-79.414606,43.777009
+,토론토 미술학원,art_school,0.681647777557373,name:hangul,5460 Yonge St,Toronto,M2N 6K7,+14168921661,https://torontoartclass.com/korean/,-79.41448,43.77709
+,Jangteo Gukbap 장터국밥,korean_restaurant,0.77,category:korean,5433 Yonge St,Toronto,M2N 5R6,,https://www.jangteogukbap.com,-79.414402,43.776536
+,바우하우스 미술학원,school,0.8698039054870605,name:hangul,5447 yonge street,Toronto,M2N5S1,+14169020710,http://www.bauhausarts.com/,-79.41451,43.77724
+,Buk Chang Dong Soon Tofu,korean_restaurant,0.997892038822174,category:korean,5445 Yonge St,Toronto,M2N 6K7,+16474307458,http://www.torontolife.com/guide/restaurants/korean/buk-chang-dong-soon-tofu,-79.41471701,43.77712018
+,Korean Chinese Restaurant,chinese_restaurant,0.77,name:token,5451 Yonge St,Toronto,M2N 5S1,(647) 430-7560,http://korea-chinese-food.com,-79.41465978720191,43.77734200941778
+,스카이라인 관광,tour_operator,0.3674071729183197,name:hangul,5465 Yonge St,Toronto,M2N 5S1,+14162500600,http://www.skylinetours.co.kr/,-79.414845745446,43.777351420193
+,Oh Bar,korean_restaurant,0.9912148714065552,category:korean,5467 Yonge St,Toronto,M2N 5S1,+16476999177,,-79.41491748,43.7777202
+,Jesus Bitnaeri Korean Presbyterian Church,christian_place_of_worship,0.5508219003677368,name:token,15 Olive Ave,Toronto,M2N 5S4,+14162259989,,-79.41424214,43.77850065
+,파란여행 Paran Tours,travel_service,0.9729838544130325,name:hangul,5633 Yonge St,Toronto,M2M 3S9,+14162237767,http://www.parantours.com/,-79.41558785,43.7806633
+,North York Pharmacy (노스욕약국),pharmacy,0.9987201933562756,name:hangul,5631 Yonge St,Toronto,M2M 3S9,+14165121833,https://www.guardian-ida-remedysrx.ca/en/ontario/north-york/north-york-pharmacy-7010789,-79.41559537,43.78064156
+,평원집 - Pyoung Won Jib,korean_restaurant,0.600734293460846,category:korean,5588 Yonge St,Toronto,M2N 5S2,+14162250904,,-79.4152288,43.7795469
+,Huh Ga Ne,korean_restaurant,0.9952652454376221,category:korean,19A Finch Ave W,Toronto,M2N 7K4,+14169011288,http://www.huhgane.com,-79.41727982,43.779269
+,Chicken in the Kitchen,korean_restaurant,0.9988434207439423,category:korean,5600 Yonge St,Toronto,M2N 5S2,+14162245509,https://www.chickeninthekitchentoronto.com/,-79.41590878,43.77949886
+,Kim's Hair Studio,hair_salon,0.7181288599967957,name:korean-surname,5592 Yonge St,Toronto,M2N 5S2,+14164571472,http://www.114click.com,-79.41575273,43.77941009
+,Neagohyang 내고향,korean_restaurant,0.77,category:korean,5582 Yonge St,North York,M2N 5S2,(416) 224-8179,,-79.41570371389577,43.77917719126419
+,Paradise Korean Restaurant,korean_restaurant,0.6735783815383911,category:korean,,Toronto,,,,-79.41568858509793,43.77937017509167
+,Nak Won,korean_restaurant,0.9984722203016281,category:korean,5594 Yonge St,Toronto,M2N 5S2,+14165901435,http://nakwon.ca/,-79.415739,43.779399
+,Lim Ga Ne,korean_restaurant,0.9986412531137466,category:korean,5529 Yonge St,Toronto,M2N 5S3,+16474352700,http://www.blogto.com/restaurants/lim-ga-ne-yonge-toronto,-79.41509354,43.77846552
+,"Me Spa : Korean Spa Toronto, North York | Picosure Laser Toronto",spa,0.9655,name:token,5514 Yonge St,North York,M2N 7L3,6473503748,https://www.mespa.ca/,-79.4156772,43.7783925
+,Kayagum Korean Restaurant,korean_restaurant,0.9977947181463241,category:korean,5460 Yonge St #100,Toronto,M2N 6K7,+16473408086,http://kayagum.ca,-79.41514138,43.77741909
+,Kimbab Korea Restaurant,korean_restaurant,0.3875003457069397,category:korean,5460 Yonge St,Toronto,M2N 6K7,+14162242657,,-79.415419,43.777399
+,Yupdduk Toronto,korean_restaurant,0.9712257623672486,category:korean,28 Finch Ave W,Toronto,M2N 2G7,+14162255353,http://www.yupdduk.com,-79.418129,43.779394
+,Finch JungSooNae,korean_restaurant,0.9976969450712204,category:korean,5754 Yonge St,Toronto,M2M 3T6,+14162224267,https://www.jungsoonae.com,-79.41664432,43.78337457
+,bb.q Chicken,korean_restaurant,0.9980999094247818,category:korean,5906 Yonge St,Toronto,M2M 3T3,+14165900505,https://bbqchickenca.com,-79.41770959,43.78680565
+,Gui Gui Korean Bbq,barbecue_restaurant,0.77,name:token,5935 Yonge St,Toronto,M2M 3V7,(416) 901-3231,http://www.guiguibbq.com,-79.4171133914848,43.787394054042984
+,Cho Won,korean_restaurant,0.9824305772781372,category:korean,17 Drewry Ave,Toronto,M2M 1C9,+14162507422,http://www.chowontoronto.com/,-79.41808110171071,43.78694729249969
+,하늘씨앗 교회 Heavenly Seeds Church,adult_entertainment_venue,0.5954697132110596,name:hangul,110 Drewry Ave,Toronto,M2M 1C8,+14168898804,http://hsctoronto.com/,-79.42357,43.78662
+,기쁜 소래 장로교회,christian_place_of_worship,0.7065589427947998,name:hangul,70 Hilda Ave,Toronto,M2M 1V5,+16472838745,http://joysohrae.ca/,-79.42531665,43.78704118
+,Huh Ga Ne 허가네,korean_restaurant,0.77,category:korean,Unit A - 19 Finch Ave. W,North York,M2N 7K4,(416) 901-1288,http://www.huhgane.com,-79.4266670081805,43.777086378159495
+,Cornerstone Korean Church,christian_place_of_worship,0.7083885073661804,name:token,72 Finch Ave W,Toronto,M2N 2H4,,,-79.42193380899047,43.77878402716662
+,해나스 맘스케어,prenatal_and_perinatal_care,0.2839311361312866,name:hangul,66 Lorraine Dr,Toronto,M2N 2E7,+12898074437,https://cafe.naver.com/hannamomscareca2009,-79.42152681,43.77698704
+,dakgogi,korean_restaurant,0.9963186764717102,category:korean,5310 Yonge St,Toronto,M2N 5P9,+14162217999,https://www.dakgogiontario.com/,-79.41399878,43.77296496
+,The Famous Owl of Minerva,korean_restaurant,0.9983782720565796,category:korean,5324 Yonge St,Toronto,M2N 5P9,+14162217275,http://www.owlfamily.ca/,-79.41429257,43.77325778
+,Korea Exchange Bank of Canada,atm,0.954,name:token,"4950 Yonge Street, Suite 103",Toronto,M2N 6K1,,,-79.4127,43.7648
+,Daldongnae Korean BBQ,barbecue_restaurant,0.9987990307807922,name:token,4846 Yonge St,Toronto,M2N 5N2,+14164186806,http://daldongnaebbq.com/,-79.41165237,43.76250396
+,The Fry,korean_restaurant,0.9981860435009002,category:korean,4864 Yonge St,Toronto,M2N 5N2,+14165466159,http://thefry.ca,-79.41148993,43.76295357
+,Mapo Gamjatang,korean_restaurant,0.9987283742427826,category:korean,4916 Yonge St,Toronto,M2N 5N5,+14162254343,https://www.mapocanada.com,-79.41187806,43.76423475
+,Koryo Korean Restaurant and Bar,korean_restaurant,0.9769027149677276,category:korean,,Toronto,M2N6K1,+14165512826,http://www.koryorestaurant.ca,-79.41182668,43.76443336
+,BB.Q Chicken,korean_restaurant,0.9302520990371704,category:korean,4885 Yonge St,Toronto,M2N 5N4,+14162240002,http://www.hmartca.com/k2go,-79.41127615,43.76355098
+,Guerrier Services Inc. Viện Thẩm Mỹ Korea Việt Hàn,tour_operator,0.26387596130371094,name:token,4891a Yonge St,Toronto,M2N 5N4,+18884073006,http://www.gs-inc.ca/,-79.411195,43.763599
+,NeNe Chicken,korean_restaurant,0.9947785860300065,category:korean,4891 Yonge St,Toronto,M2N 5N4,+14167338188,http://nenechickenontario.com/,-79.41126979,43.76365494
+,Gimbap Shop,korean_restaurant,0.7921750545501709,category:korean,11 Spring Garden Ave,Toronto,M2N 3G1,+14168154590,https://www.gimbapshop.net/,-79.41079559,43.76432755
+,Chicken Plus The Bar,korean_restaurant,0.9735347032546997,category:korean,7 Spring Garden Ave,Toronto,M2N 3G1,+14162277772,http://chickenpluscanada.ca,-79.41089277,43.76429789
+,Bistro Mujae 無在 North York,korean_restaurant,0.8196781277656555,category:korean,41 Spring Garden Ave,Toronto,M2N 3G1,+16475334885,,-79.41000971,43.76455134
+,오가당 Ogadang,restaurant,0.6454763412475586,name:hangul,41 SPRING GARDEN AVE,Toronto,M2N 3G1,+16473509295,,-79.4098704,43.7645534
+,Bonjuk,korean_restaurant,0.5411360859870911,category:korean,4841 Yonge St #119,Toronto,M2N 5X2,+14166375630,https://bonjuk.ca/,-79.41092202,43.76264494
+,NIC 뉴튼국제학교,high_school,0.8545288443565369,name:hangul,143 Willowdale Ave,Toronto,M2N 4Y5,+12365134919,http://www.nictoronto.cs/,-79.399821863299,43.76505974649
+,Paradise Korean Restaurant,korean_restaurant,0.6835959553718567,category:korean,,Toronto,,,,-79.404581761489,43.781932866084
+,The Garden Korean Church,christian_place_of_worship,0.9679177403450012,name:token,260 Yorkland Blvd,Toronto,M2J 1R7,+14164909060,http://www.torontogarden.org/,-79.3354717,43.77253407
+,Omiwol KBBQ & Noodles,restaurant,0.7640775442123413,name:token,201 Yorkland Rd,Toronto,M2J,+14164996966,http://omiwol.ca/,-79.33661,43.77413
+,김현준 노래교실 - 토론토,sports_and_recreation,0.40082865953445435,name:hangul,2015 Sheppard Ave E,Toronto,M2J 0B3,+16475051739,,-79.33696,43.77527
+,Young Nak Korean Presbyterian Church,christian_place_of_worship,0.9600338846445083,name:token,650 McNicoll Ave,Toronto,M2H 2E1,+14164940191,http://www.torontoyoungnak.com,-79.33780742,43.80445796
+,Sharon Garden,korean_restaurant,0.77,category:korean,3601 Victoria Park Ave.,Scarborough,M1W 3Y3,(416) 497-5888,http://www.sharongarden.ca,-79.33560772970426,43.80349554863762
+,KoSam Korean Restaurant & Bar,korean_restaurant,0.9798126220703125,category:korean,5865 Leslie St,Toronto,M2H 1J8,+14164930880,http://kosam.ca,-79.3689554,43.79852801
+,Kim's Noodle,korean_restaurant,0.77,category:korean,1549 Steeles Ave E,Toronto,M2M 3Y7,(416) 218-8999,http://kimsnoodles.ca,-79.38408970187027,43.805251537142105
+,Korean Grill House,korean_restaurant,0.9952777057886124,category:korean,505 HWY-7 E,Markham,L3T 7T1,+19057621338,http://www.koreangrillhouse.com/,-79.38714843,43.84216091
+,Jin Myungdong Korean Noodles,korean_restaurant,0.9739217162132263,category:korean,230 Commerce Valley Dr E #9,Markham,L3T 7Y3,+19057317775,http://jmkoreannoodles.business.site,-79.37815604,43.84394077
+,캐나다 재정전문가 박용찬,financial_service,0.32732585072517395,name:hangul,9140 Leslie St,Richmond Hill,L4B 0A9,+14169083366,http://clever-financial.blogspot.com/,-79.38643,43.85727
+,Nak Won 樂園,korean_restaurant,0.77,category:korean,3225 Highway 7 E,Markham,L3R 3P3,(905) 604-2471,http://www.nakwon.ca,-79.3498317302988,43.848598321220685
+,The Owl of Minerva,korean_restaurant,0.9979397189617157,category:korean,"First Markham Place First Markham Place, 3229 Hwy 7 #7b",Markham,L3R 3P3,+19054777275,http://www.owlfamily.ca,-79.34962744,43.8482581
+,Yumkwang Korean Presbyterian Church,christian_place_of_worship,0.9948578381538391,name:token,2850 John St.,Markham,L3R 2W4,+19054159115,http://yumkwang.net,-79.35489598,43.82598343
+,Golf Wing Virtual Golf & Restaurant,korean_restaurant,0.9997328459024429,category:korean,7500 Woodbine Ave,Markham,L3R 1A8,+19056045064,http://golfwing.ca/,-79.35240261,43.82609575
+,Seoul C9,grocery_store,0.9053097927570343,name:token,170 Esna Park Dr Unit 3,Markham,L3R 1E3,+16473333288,http://www.seoulc9.com/,-79.3373806,43.82544649
+,Palgong Tea 팔공,bubble_tea_shop,0.77,name:hangul,"3636 Steeles Ave. E, Unit 125",Markham,L3R 1K9,,https://www.palgongtea.ca,-79.330451,43.818905
+,Sung Won Korean Restaurant,korean_restaurant,0.9940353214740754,category:korean,4431 Hwy 7,Markham,L3R 1M1,+19054793788,https://sungwonkoreanrestaurant.com,-79.31145959,43.86086547
+,Hansin gamjatang,korean_restaurant,0.9297997951507568,category:korean,7750 Kennedy Rd,Markham,L3R 0A7,+19056048916,,-79.30572972,43.84264364
+,Kore chicken,korean_restaurant,0.9964602363109588,category:korean,28 South Unionville Ave #10,Markham,L3R 4P9,+19054749997,https://1966big.wixsite.com/korechicken,-79.30411062,43.85569127
+,Mom's Kitchen Korean Cuisine,korean_restaurant,0.9987191754579544,category:korean,28 South Unionville Ave #1059,Markham,L3R 4P9,+19056049238,https://www.momskitchenmk.com/,-79.30394803,43.85593078
+,The She Korea Fashion Boutique,fashion_boutique,0.39269551634788513,name:token,8339 Kennedy Rd Unit 2303,Markham,L3R 5T5,+14164197999,,-79.30330522,43.85715339
+,Daldongnae Korean BBQ,korean_restaurant,0.9986572927236557,category:korean,4771 Steeles Ave E,Toronto,M1V 5N1,+14163354771,http://www.daldongnaebbq.com,-79.29877136,43.82536639
+,100% Korean,korean_restaurant,0.9084039330482483,category:korean,4779 Steeles Ave E,Toronto,M1V 4S7,+14163354444,,-79.2985792,43.8254423
+,Ho Ban Korean Restaurant,korean_restaurant,0.989324021935463,category:korean,633 Silver Star Blvd #106,Toronto,M1V 5N1,+14164127453,https://order.online/business/ho-ban-korean-restaurant-silver-star-blvd-886348,-79.29881474,43.82247621
+,Jeon Ju Hyang,korean_restaurant,0.9942691326141357,category:korean,3740 Midland Ave,Toronto,M1V 4V3,+19057663141,,-79.29339821,43.81609338
+,Mrs. Park's Korean Kitchen,korean_restaurant,0.9020192623138428,category:korean,63 Silver Star Blvd,Toronto,M1V 5E5,+16472851121,http://www.MrsParks.ca/,-79.29026434,43.80780611
+,Chicken Plus,korean_restaurant,0.9925977748632431,category:korean,3250 Midland Ave G106,Toronto,M1V 0C7,+14165195818,https://www.chickenpluscanada.ca,-79.28861177,43.80486972
+,Korean Grill House,korean_restaurant,0.9965524846315383,category:korean,3280 Midland Ave Unit 26,Toronto,M1V 4W9,+14167548141,http://koreangrillhouse.com/midland-finch-location,-79.28855,43.80594339
+,Mapo Gamjatang,korean_restaurant,0.77,category:korean,4186 Finch Ave E,Toronto,M1S 4T6,(416) 291-7275,http://www.mapocanada.com,-79.28763589529697,43.80455207244865
+,Owl of Minerva,korean_restaurant,0.9305287343263626,category:korean,4186 Finch Ave E,Toronto,M1S 4T5,+14162917275,http://www.owlfamily.ca/index.php,-79.28775715038151,43.80425151366364
+,Onnuri,korean_restaurant,0.997289662361145,category:korean,3330 Pharmacy Ave,Toronto,M1W 3V8,+14164946888,http://WWW.ONNURITORONTO.COM/,-79.33127806,43.80455906
+,Banban Korean Fried Chicken Scarborough,chicken_restaurant,0.77,name:token,2549 Warden Ave,Toronto,M1W 2H5,,https://banbanchk.ca,-79.31298,43.79159
+,토론토 말씀의 교회 Tecow,christian_place_of_worship,0.39410072565078735,name:hangul,2501 Warden Ave,Toronto,M1W 2L6,+14168880965,https://tecow.ca/,-79.31242,43.79037
+,Buk Chang Dong Soon Tofu,korean_restaurant,0.882574737071991,category:korean,2450 Sheppard Ave E,Toronto,M2J,+14164991500,http://www.bukchangdong5sc.com/,-79.32531451,43.77553672
+,The Fry(Scarborough),korean_restaurant,0.9980801409482956,category:korean,3561 Sheppard Ave E Unit 1,Toronto,M1T 3K8,+16476549299,https://thefry.ca,-79.29980308,43.78034308
+,Bow Bulgogi House,korean_restaurant,0.5253015756607056,category:korean,4002 Sheppard Ave E,Toronto,M1S 4R5,+14162978911,http://www.torontobowbulgogi.com,-79.28801498008033,43.78345416042843
+,Iona Seo 토론토 부동산,real_estate_service,0.32598862051963806,name:hangul,11160 Yonge St,Richmond Hill,L4S 1H5,+14166621166,http://ionaseo.ca/,-79.44414218249236,43.89945291679988
+,Bueokae,korean_restaurant,0.9832559823989868,category:korean,10737 Yonge St Unit 2&3,Richmond Hill,L4C 9M9,+19052370737,https://bueokae.food96.com,-79.44062671,43.89031322
+,Yummy Korea,soup_restaurant,0.85,name:token,10231 Yonge St,Richmond Hill,L4C 3B2,9057701777,http://www.yummykorea.ca/,-79.4385401,43.8768993
+,토론토 새생명 교회,christian_place_of_worship,0.6465830206871033,name:hangul,10201 Yonge St,Richmond Hill,L4C 3B2,+16478385604,https://lifeisnew.ca/,-79.43775,43.87621
+,bb.q Chicken,korean_restaurant,0.9746014696359634,category:korean,9737 Yonge St,Richmond Hill,L4C 1V7,+19058836222,http://hmartca.com,-79.43469936,43.86545426
+,Chingu Korean Restaurant,korean_restaurant,0.9939467906951904,category:korean,10610 Bayview Ave,Richmond Hill,L4C 3N8,+19052376767,,-79.41982959,43.88985433
+,Korea Black Belt Center,martial_arts_club,0.9713728332519531,name:token,1070 Major Mackenzie Dr E H6,Richmond Hill,L4S 1P3,+14374221060,http://koreablackbeltcenter.com/,-79.41465472,43.8769655
+,The Owl of Minerva,korean_restaurant,0.9971906554698944,category:korean,815 Major Mackenzie Dr E,Richmond Hill,L4C 9X2,+19057377275,http://www.owlfamily.ca/index.php,-79.41321211,43.87594237
+,Hoolala Chicken 훌랄라치킨,chicken_restaurant,0.77,name:hangul,1285 Elgin Mills Rd E,Richmond Hill,L4S 0B5,(905) 737-2288,http://hoolalachicken.ca,-79.40359,43.896287
+,Han Mi Jeong,korean_restaurant,0.9570897221565247,category:korean,9425 Leslie St #3,Richmond Hill,L4B 3N7,+19052378518,,-79.3863965,43.86621368
+,Pig and Chick,korean_restaurant,0.9794061779975891,category:korean,190 Main St Unionville Unit 2,Markham,L3R 2G9,+19054708828,http://www.pigandchickorean.com/,-79.31242778,43.86765911
+,InCheon House,korean_restaurant,0.993707001209259,category:korean,9 Glen Watford Dr,Toronto,M1S 2B7,+14162977379,http://www.thefoodpursuit.com/in-cheon-house-korean-japanese-restaurant/,-79.27566358,43.78653118
+,오성교회 Osung Church,christian_place_of_worship,0.5939561724662781,name:hangul,3817 Lawrence Ave E,Toronto,M1G 1R2,,,-79.21242574,43.76240993
+,Dangol Korean Restaurant,korean_restaurant,0.9782352447509766,category:korean,240 Alton Towers Cir A10,Toronto,M1V 4P3,+16478758090,,-79.27762859,43.82604782
+,Calvary Korean Presbyterian,christian_place_of_worship,0.7265881299972534,name:token,7011a McCowan Rd,Markham,L3S 3L7,+19054715959,,-79.274581,43.831629
+,Lee's Kitchen,chinese_restaurant,0.8879719614982605,name:korean-surname,5694 Hwy 7 Unit 7,Markham,L3P 1B4,+19054716602,http://www.leeskitchen.ca,-79.2688098,43.87194889
