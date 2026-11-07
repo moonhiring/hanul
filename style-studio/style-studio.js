@@ -293,6 +293,16 @@ const css = `
   .title { font-size: 20px; font-weight: 800; margin-top: 4px; display: flex; justify-content: space-between; align-items: center; }
   .close { background: none; border: none; font-size: 20px; cursor: pointer; color: var(--panel-muted); line-height: 1; padding: 4px; }
   .body { flex: 1; overflow-y: auto; padding: 6px 20px 20px; }
+  .tabs { display: flex; gap: 4px; padding: 10px 20px 0; border-bottom: 1px solid var(--panel-border); }
+  .tab {
+    flex: 1; background: none; border: none; border-bottom: 2px solid transparent;
+    padding: 8px 4px 10px; font: 800 12.5px inherit; color: var(--panel-muted);
+    cursor: pointer; letter-spacing: 0.02em; transition: color .15s, border-color .15s;
+  }
+  .tab:hover { color: var(--panel-fg); }
+  .tab.sel { color: var(--panel-accent); border-bottom-color: var(--panel-accent); }
+  .tabpage { display: none; }
+  .tabpage.on { display: block; }
   section { margin-top: 22px; }
   h3 { font-size: 13px; font-weight: 800; margin: 0 0 10px; }
   .note { font-size: 11.5px; color: var(--panel-muted); margin: -6px 0 10px; line-height: 1.5; }
@@ -505,57 +515,65 @@ class StyleStudio extends HTMLElement {
           <div class="eyebrow">Style Studio</div>
           <div class="title">테마 &amp; 스타일 <button class="close" aria-label="닫기">×</button></div>
         </div>
+        <div class="tabs" role="tablist">
+          <button class="tab sel" data-tab="theme" role="tab" aria-selected="true">테마</button>
+          <button class="tab" data-tab="style" role="tab" aria-selected="false">스타일</button>
+        </div>
         <div class="body">
-          <section>
-            <h3>Theme</h3>
-            <div class="themes" data-f="theme"></div>
-          </section>
-          <section>
-            <h3>Color mode</h3>
-            <div class="seg" data-f="mode">
-              <button data-v="system">System</button><button data-v="light">Light</button><button data-v="dark">Dark</button>
-            </div>
-          </section>
-          <section>
-            <h3>Accent</h3>
-            <div class="swatches" data-f="accent"></div>
-          </section>
-          <section>
-            <h3>Typography</h3>
-            <div class="grid2">
-              <div><label class="fl">Heading font</label><select data-f="headFont"></select></div>
-              <div><label class="fl">Body font</label><select data-f="bodyFont"></select></div>
-              <div><label class="fl">Type size</label>
-                <div class="slider-row"><input type="range" min="90" max="115" step="5" data-f="typeScale"><output></output></div>
+          <div class="tabpage on" data-page="theme">
+            <section>
+              <h3>Theme</h3>
+              <div class="themes" data-f="theme"></div>
+            </section>
+            <section>
+              <h3>Color mode</h3>
+              <div class="seg" data-f="mode">
+                <button data-v="system">System</button><button data-v="light">Light</button><button data-v="dark">Dark</button>
               </div>
-              <div><label class="fl">Heading weight</label><select data-f="headWeight"></select></div>
-            </div>
-          </section>
-          <section>
-            <h3>Surface &amp; rhythm</h3>
-            <div class="grid2">
-              <div><label class="fl">Corners</label><select data-f="corners"></select></div>
-              <div><label class="fl">Spacing</label><select data-f="spacing"></select></div>
-              <div><label class="fl">Shadows</label><select data-f="shadows"></select></div>
-            </div>
-          </section>
-          <section>
-            <h3>Texture · 질감</h3>
-            <p class="note">한지·수묵·백자 같은 종이 결. 다크 모드에서는 은은한 밝은 입자만 남습니다.</p>
-            <div class="texs" data-f="texture"></div>
-            <div style="margin-top:10px"><label class="fl">Intensity</label><div class="seg" data-f="texLevel"></div></div>
-          </section>
-          <section>
-            <h3>Motion &amp; accessibility</h3>
-            <div class="toggle-row">
-              <div><b>Reduce motion</b><span>자동 재생·전환 애니메이션을 최소화합니다</span></div>
-              <button class="tgl" data-f="motion" role="switch" aria-label="Reduce motion"></button>
-            </div>
-            <div class="toggle-row">
-              <div><b>Increase contrast</b><span>경계선과 텍스트 대비를 강화합니다</span></div>
-              <button class="tgl" data-f="contrast" role="switch" aria-label="Increase contrast"></button>
-            </div>
-          </section>
+            </section>
+            <section>
+              <h3>Accent</h3>
+              <div class="swatches" data-f="accent"></div>
+            </section>
+          </div>
+          <div class="tabpage" data-page="style">
+            <section>
+              <h3>Typography</h3>
+              <div class="grid2">
+                <div><label class="fl">Heading font</label><select data-f="headFont"></select></div>
+                <div><label class="fl">Body font</label><select data-f="bodyFont"></select></div>
+                <div><label class="fl">Type size</label>
+                  <div class="slider-row"><input type="range" min="90" max="115" step="5" data-f="typeScale"><output></output></div>
+                </div>
+                <div><label class="fl">Heading weight</label><select data-f="headWeight"></select></div>
+              </div>
+            </section>
+            <section>
+              <h3>Surface &amp; rhythm</h3>
+              <div class="grid2">
+                <div><label class="fl">Corners</label><select data-f="corners"></select></div>
+                <div><label class="fl">Spacing</label><select data-f="spacing"></select></div>
+                <div><label class="fl">Shadows</label><select data-f="shadows"></select></div>
+              </div>
+            </section>
+            <section>
+              <h3>Texture · 질감</h3>
+              <p class="note">한지·수묵·에칭 같은 종이와 판화의 결. 다크 모드에서는 은은한 밝은 입자만 남습니다.</p>
+              <div class="texs" data-f="texture"></div>
+              <div style="margin-top:10px"><label class="fl">Intensity</label><div class="seg" data-f="texLevel"></div></div>
+            </section>
+            <section>
+              <h3>Motion &amp; accessibility</h3>
+              <div class="toggle-row">
+                <div><b>Reduce motion</b><span>자동 재생·전환 애니메이션을 최소화합니다</span></div>
+                <button class="tgl" data-f="motion" role="switch" aria-label="Reduce motion"></button>
+              </div>
+              <div class="toggle-row">
+                <div><b>Increase contrast</b><span>경계선과 텍스트 대비를 강화합니다</span></div>
+                <button class="tgl" data-f="contrast" role="switch" aria-label="Increase contrast"></button>
+              </div>
+            </section>
+          </div>
           <section>
             <h3>Preview</h3>
             <div class="preview"><div class="pv-card">
@@ -578,11 +596,25 @@ class StyleStudio extends HTMLElement {
     `;
 
     const $ = (s) => this.shadowRoot.querySelector(s);
+    const $$ = (s) => [...this.shadowRoot.querySelectorAll(s)];
     this.$panel = $(".panel"); this.$scrim = $(".scrim");
 
     $(".launcher").addEventListener("click", () => this.toggle(true));
     $(".close").addEventListener("click", () => this.toggle(false));
     this.$scrim.addEventListener("click", () => this.toggle(false));
+
+    // tabs
+    $$(".tab").forEach((tab) =>
+      tab.addEventListener("click", () => {
+        $$(".tab").forEach((t) => {
+          const on = t === tab;
+          t.classList.toggle("sel", on);
+          t.setAttribute("aria-selected", String(on));
+        });
+        $$(".tabpage").forEach((p) => p.classList.toggle("on", p.dataset.page === tab.dataset.tab));
+        $(".body").scrollTop = 0;
+      })
+    );
 
     // theme cards
     const themeBox = $('[data-f="theme"]');

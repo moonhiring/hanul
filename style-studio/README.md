@@ -103,6 +103,10 @@ localStorage.setItem("style-studio:published",
 
 ## Registries — what ships
 
+The panel is organized in two tabs — **테마** (theme gallery · color mode · accent) and
+**스타일** (typography · surface · texture · motion) — with the live preview and the
+draft/publish bar always visible below.
+
 - **8 themes**, each a light/dark pair: Hanji(한지), Witty, Midnight, Nordic, Botanical, Solar, Ocean, Rose Clay
 - **7 accent overrides** that adapt to light/dark automatically
 - **23 fonts** (Latin 6 + 한글 17: 고딕·명조·손글씨·디스플레이), loaded on demand from Google Fonts/CDN
