@@ -79,7 +79,8 @@
   - 미국 데이터 품질 좋음 (웹사이트 79%, 전화 93%, 한글명 31%) — 검증 워커 바로 투입 가능
   - 일본 26건은 추정치 대비 과소 — 'Sarang/Onnuri'처럼 영문명에 korean이 없는 교회 + Overture 일본 커버리지 한계. OSM Overpass(`name:ko`) 보완 예정
   - bbox 침범 분은 country 필터로 제거 (usa 파일에 CA/MX 섞이던 것 정리)
-- 미결: DB 적재 방식(businesses에 종교·기관으로 합칠지, churches 전용 테이블/섹션으로 갈지), 캐나다·중남미·오세아니아·동남아 확장, OSM 보완
+- **DB 적재 방식 결정 (2026-11-17)**: businesses와 분리한 `churches` 전용 테이블 — 교단(denomination, 이름 휴리스틱 추정), name_en(한영명 분리), worship_times(JSONB, 추후 수집), country/region/locality 계층, businesses와 같은 검증 상태 기계(status/evidence/last_checked_at). 적재기 `api/scripts/load_churches.js` (overture_id upsert, 재실행 안전). 서버 적재: api 컨테이너에서 `node scripts/load_churches.js`
+- 미결: 캐나다·중남미·오세아니아·동남아 확장, OSM 보완(일본 누락분), 공개 API/섹션, 예배시간 수집, 검증 워커의 churches 지원
 
 ## 배포 (2026-11-02)
 - **도메인: hanul.world (Cloudflare)** / **호스팅: VPS 1대 결정** — docker-compose 통째 배포 (웹+API+DB+워커). Vercel은 DB·워커가 안 맞아 기각
