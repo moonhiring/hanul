@@ -7,6 +7,7 @@ import {
   DEFAULT_BODY_FONT,
 } from "@/lib/fonts";
 import { DEFAULT_TEXTURE } from "@/lib/textures";
+import { fetchSiteStyle } from "@/lib/site-style";
 
 interface AuthUser {
   id: number;
@@ -103,18 +104,46 @@ export function SiteProvider({ children }: { children: ReactNode }) {
   // 초기 로드: 저장된 선택 복원. ?texture=... 쿼리로 프리셋 링크 공유 가능
   useEffect(() => {
     const q = new URLSearchParams(window.location.search);
-    const d = localStorage.getItem(LS_DISPLAY) ?? DEFAULT_DISPLAY_FONT;
-    const b = localStorage.getItem(LS_BODY) ?? DEFAULT_BODY_FONT;
-    const t = q.get("texture") ?? localStorage.getItem(LS_TEXTURE) ?? DEFAULT_TEXTURE;
+    const savedD = localStorage.getItem(LS_DISPLAY);
+    const savedB = localStorage.getItem(LS_BODY);
+    const savedT = localStorage.getItem(LS_TEXTURE);
+    const savedLv = localStorage.getItem(LS_TEX_LEVEL);
+    const d = savedD ?? DEFAULT_DISPLAY_FONT;
+    const b = savedB ?? DEFAULT_BODY_FONT;
+    const t = q.get("texture") ?? savedT ?? DEFAULT_TEXTURE;
     setFontDisplayState(d);
     setFontBodyState(b);
     setTextureState(t);
     applyFont(d, "--font-display");
     applyFont(b, "--font-body");
     applyTexture(t);
-    const lv = localStorage.getItem(LS_TEX_LEVEL) ?? "base";
+    const lv = savedLv ?? "base";
     setTexLevelState(lv);
     document.documentElement.dataset.texLevel = lv;
+
+    // 운영자 지정 기본값 — 사용자가 직접 저장한 항목이 없을 때만 적용
+    // (우선순위: 사용자 로컬 저장 > 운영자 지정 > 빌트인 기본값)
+    fetchSiteStyle()
+      .then((s) => {
+        if (!s) return;
+        if (!savedD && s.fontDisplay) {
+          setFontDisplayState(s.fontDisplay);
+          applyFont(s.fontDisplay, "--font-display");
+        }
+        if (!savedB && s.fontBody) {
+          setFontBodyState(s.fontBody);
+          applyFont(s.fontBody, "--font-body");
+        }
+        if (!savedT && !q.get("texture") && s.texture) {
+          setTextureState(s.texture);
+          applyTexture(s.texture);
+        }
+        if (!savedLv && s.texLevel) {
+          setTexLevelState(s.texLevel);
+          document.documentElement.dataset.texLevel = s.texLevel;
+        }
+      })
+      .catch(() => {});
   }, []);
 
   const setFontDisplay = (id: string) => {
@@ -141,10 +170,28 @@ export function SiteProvider({ children }: { children: ReactNode }) {
     localStorage.setItem(LS_TEX_LEVEL, lv);
   };
 
+  // 기본값으로 되돌리기 — 내 저장을 지우고 운영자 지정 기본값(없으면 빌트인)을 따름
   const resetFonts = () => {
-    setFontDisplay(DEFAULT_DISPLAY_FONT);
-    setFontBody(DEFAULT_BODY_FONT);
-    setTexture(DEFAULT_TEXTURE);
+    localStorage.removeItem(LS_DISPLAY);
+    localStorage.removeItem(LS_BODY);
+    localStorage.removeItem(LS_TEXTURE);
+    localStorage.removeItem(LS_TEX_LEVEL);
+    const apply = (d: string, b: string, t: string, lv: string) => {
+      setFontDisplayState(d);
+      setFontBodyState(b);
+      setTextureState(t);
+      setTexLevelState(lv);
+      applyFont(d, "--font-display");
+      applyFont(b, "--font-body");
+      applyTexture(t);
+      document.documentElement.dataset.texLevel = lv;
+    };
+    apply(DEFAULT_DISPLAY_FONT, DEFAULT_BODY_FONT, DEFAULT_TEXTURE, "base");
+    fetchSiteStyle()
+      .then((s) => {
+        if (s) apply(s.fontDisplay, s.fontBody, s.texture, s.texLevel);
+      })
+      .catch(() => {});
   };
 
   return (

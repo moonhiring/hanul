@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import { Check, RotateCcw, Type, X } from "lucide-react";
+import { Check, Globe, RotateCcw, Type, X } from "lucide-react";
 import {
   FONT_CATEGORIES,
   FONT_CATEGORY_LABEL,
@@ -10,6 +10,7 @@ import {
   type KrFont,
 } from "@/lib/fonts";
 import { getTexture, textures, type TexturePreset } from "@/lib/textures";
+import { fetchSiteStyle, saveSiteStyle, type SiteStyle } from "@/lib/site-style";
 import { useSite } from "@/context";
 
 type Mode = "display" | "body" | "texture";
@@ -112,14 +113,43 @@ export default function FontSwitcher() {
     texLevel,
     setTexLevel,
     resetFonts,
+    user,
   } = useSite();
   const [open, setOpen] = useState(false);
   const [mode, setMode] = useState<Mode>("display");
+  const [designated, setDesignated] = useState<SiteStyle | null>(null);
+  const [designating, setDesignating] = useState(false);
+  const [designateMsg, setDesignateMsg] = useState<string | null>(null);
+
+  const isAdmin = user?.role === "admin";
 
   // 패널을 처음 열 때 모든 폰트를 로드해 미리보기가 실제 서체로 보이게 함
   useEffect(() => {
-    if (open) loadAllFonts();
-  }, [open]);
+    if (open) {
+      loadAllFonts();
+      if (isAdmin) fetchSiteStyle().then(setDesignated).catch(() => {});
+    }
+  }, [open, isAdmin]);
+
+  // 운영자: 지금 보이는 조합을 모든 방문자의 기본 스타일로 지정
+  const designateCurrent = async () => {
+    setDesignating(true);
+    setDesignateMsg(null);
+    const style: SiteStyle = { fontDisplay, fontBody, texture, texLevel };
+    try {
+      const where = await saveSiteStyle(style);
+      setDesignated({ ...style, updatedAt: new Date().toISOString() });
+      setDesignateMsg(
+        where === "server"
+          ? "모든 방문자의 기본 스타일로 지정했습니다."
+          : "이 브라우저에 임시 저장했습니다. 모든 방문자에게 적용하려면 서버 연동이 필요합니다.",
+      );
+    } catch {
+      setDesignateMsg("저장에 실패했습니다. 잠시 후 다시 시도해 주세요.");
+    } finally {
+      setDesignating(false);
+    }
+  };
 
   const currentFont = mode === "display" ? fontDisplay : fontBody;
   const setCurrentFont = mode === "display" ? setFontDisplay : setFontBody;
@@ -261,6 +291,39 @@ export default function FontSwitcher() {
               ))
             )}
           </div>
+
+          {/* 운영자 전용 — 방문자 기본값 지정 */}
+          {isAdmin && (
+            <div className="border-t border-border bg-paper/70 px-4 py-3">
+              <p className="flex items-center gap-1.5 text-[11px] font-bold text-ink">
+                <Globe className="h-3.5 w-3.5 text-forest" />
+                운영자 · 방문자 기본값
+              </p>
+              <p className="mt-1 text-[11px] leading-5 text-muted-foreground">
+                지금 화면의 조합을 모든 방문자가 처음 열 때 보는 기본 스타일로 지정합니다.
+                개인이 직접 고른 설정은 그대로 유지됩니다.
+              </p>
+              {designated && (
+                <p className="mt-1.5 text-[11px] leading-5 text-muted-foreground">
+                  현재 기본값:{" "}
+                  <span className="font-semibold text-ink/80">
+                    {getFont(designated.fontDisplay).name} · {getFont(designated.fontBody).name} ·{" "}
+                    {getTexture(designated.texture).name}
+                  </span>
+                </p>
+              )}
+              <button
+                onClick={designateCurrent}
+                disabled={designating}
+                className="mt-2 w-full rounded-full bg-forest px-3 py-2 text-xs font-bold text-cream transition-opacity hover:opacity-90 disabled:opacity-50"
+              >
+                {designating ? "지정하는 중…" : "현재 조합을 방문자 기본값으로 지정"}
+              </button>
+              {designateMsg && (
+                <p className="mt-1.5 text-[11px] leading-5 text-forest">{designateMsg}</p>
+              )}
+            </div>
+          )}
         </div>
       )}
     </>
