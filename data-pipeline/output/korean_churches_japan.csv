@@ -1,0 +1,27 @@
+﻿id,name,category,operating_status,confidence,address,locality,region,country,phone,website,lng,lat
+b348f14b-7a87-498e-a813-39cbc0c82901,福岡中央教会 후쿠오카 중앙교회,christian_place_of_worship,,0.8269646763801575,"8,1,3chome, nagahama, chuo-ku",福岡市中央区,,JP,,,130.39600801258,33.595269764825
+7feb7c3d-af3a-4950-bdaf-d84d412e0893,"후쿠오카국제교회(福岡国際教会, Fukuoka International Christ Church)",christian_place_of_worship,,0.8442028164863586,福岡県筑紫野市二日市北3丁目１ー７,筑紫野市,,JP,+818056069001,,130.5221982236296,33.504000131409065
+0fc97ef0-468f-4f6a-8cf0-b651a2ae329e,후쿠오카비전처치 福岡ビジョンチャーチ Fukuoka Vision Church,christian_place_of_worship,,0.7602853178977966,"Fukuoka, Hakata Ward, Hakata Ekimae, 3 Chome−5−23 4F 福岡ビジョンチャーチ",福岡市東区,,JP,+81924021898,http://fvchurch.jp/,130.4283328,33.6179636
+1f588d59-635f-473b-8429-4fd6c0deccdd,오이타샬롬그리스도교회（大分シャロームキリスト教会）,christian_place_of_worship,,0.9298145174980164,大分県大分市新町１０−２９,大分市,,JP,+818052478447,https://www.shalomchurch-oita.com/,131.59989237785,33.237153039052
+5b5f674f-e757-46dc-b6a2-5664cb12cedc,벳부교회,christian_place_of_worship,,0.4909607172012329,3 Chome-3-25 Ishigakihigashi,別府市,,JP,+81977272564,,131.49744979,33.29405228
+8f0577e3-5287-44a4-9ebf-6fcc1df284ea,히메지만나교회,christian_place_of_worship,,0.7554022073745728,"hyogo-gen, himeji-shi Takaocho 36",姫路市,,JP,,,134.68458294868,34.828547426371
+ce1a336e-084b-47e1-b974-95ae0ed0346f,교토 금각사,buddhist_place_of_worship,,0.7155604362487793,,大阪市中央区,,JP,,,135.5038072,34.6665144
+6c444e45-943a-49af-b4ed-008ff32fdbdb,大阪天満橋キリスト教会 오사카 텐마바시 기독교회,christian_place_of_worship,,0.6813251972198486,大阪府大阪市中央区石町２丁目２−１５,大阪市中央区,,JP,+81669446938,,135.5139542,34.6895923
+626d657f-8681-4212-946e-ec9dd03b0167,오사카북부교회,christian_place_of_worship,,0.7480758428573608,,大阪市北区,,JP,+81663711914,,135.50725966290938,34.71323525319747
+84bdd658-4a03-4749-86cd-f9fffa6c9d61,금각사,buddhist_place_of_worship,,0.7665271759033203,,京都市北区,,JP,,,135.72813975,35.03997794
+008d29c1-8b6a-482f-a853-1a4580104b23,京都純福音教会 / 교토순복음교회,christian_place_of_worship,,0.8959059119224548,京都府京都市上京区役人町２３４,京都市上京区,,JP,+819074869788,http://fgkyoto.org/,135.7501753,35.0247683
+015f662a-b6d9-4c81-9ae3-dde1d348ede5,지쇼지,buddhist_place_of_worship,,0.720834493637085,,京都市左京区,,JP,,http://www.shokoku-ji.jp,135.79833333333,35.026666666667
+5f65768c-5c52-4753-8a9d-5b204fa12d80,후지예수사랑교회 - 富士イエス愛の教会,christian_place_of_worship,,0.9640164375305176,浅間本町 1-51,富士市,,JP,+81545531565,https://m.youtube.com/channel/UCluAZN0aSTXH8Gm-T7m09XQ,138.6793475,35.1663981
+fdd8b940-cf17-4225-81d2-b33dd80dad77,요코하마그리스도교회,christian_place_of_worship,,0.8347697854042053,西区浜松町11-28 2階,横浜市西区,,JP,,,139.61056092578121,35.45356238948631
+97e8b732-3b9c-46b8-ac72-c3145ab45377,동경드림교회,christian_place_of_worship,,0.8879103064537048,光が丘7-3-1,練馬区,,JP,+819091393878,http://dr.ourchurch.kr/,139.6257675,35.7562617
+a4d8f915-b46c-4708-b526-52e8fc822e8c,도쿄 자미,muslim_place_of_worship,,0.7405051589012146,,渋谷区,,JP,,,139.6765,35.66813889
+9bd92470-0744-484b-b290-0c9316a22928,동경지구촌교회,christian_place_of_worship,,0.9775017499923706,東京都新宿区百人町1－9－3,新宿区,,JP,+81333607791,https://tokyojiguchon.org/,139.6997828,35.6984064
+4266a901-954d-455b-a291-c5bdd42159b8,동경주사랑교회-東京主の愛教会,christian_place_of_worship,,0.9904159903526306, 東京都新宿区百人町1-17-8,新宿区,,JP,,http://www.tokyojusarang.com/,139.70361292362,35.698057001234
+e0f29ea8-125a-4956-9bab-f894b0c9a585,동경 사랑의 교회 / 東京 愛の 教会,christian_place_of_worship,,0.694428563117981,shimoochiai 2-6-21 3F,新宿区,,JP,+818043447489,http://tokyoi.org/,139.70165219275,35.716561102777
+531d2006-86bd-4f0e-b4ba-3017b8b4e5ec,동경코스타,christian_place_of_worship,,0.7209950685501099,東京都新宿区大久保２丁目１８−８,新宿区,,JP,,http://kostaworld.org/homepage_30th/,139.7060850256,35.702488492974
+a564bb00-9883-4079-82ab-6d6b8b02ecc0,東京中央教会/동경중앙교회,christian_place_of_worship,,0.9680144786834717,大久保２－１８－８,新宿区,,JP,+81332088491,http://www.tcc.or.jp/,139.70871,35.69834
+dff369af-1519-4614-892e-c49ea6f389f9,이카호중앙교회,christian_place_of_worship,,0.9242069721221924,3709-8 Shibukawa,渋川市,,JP,+819090117770,http://www.ikaho.org/,138.95908552,36.50024253
+c8c8bdf7-2038-4a71-9323-f590382d6ffb,순복음군마교회,christian_place_of_worship,,0.9784844517707825,下石倉町32−14,前橋市,,JP,+81272527779,http://www.fggunma.com/,139.0563072,36.3786875
+df8efbc9-0a51-4f10-83d4-f78d35f046be,福岡中央教会 후쿠오카 중앙교회 fukuoka chuochurch,christian_place_of_worship,,0.924492359161377,福岡市中央区長浜3-1-8,千代田区,,JP,+81927071721,http://www.fukuokachurch.com/,139.7646136,35.6960411
+76c086fb-e0a1-403f-b6ff-17ee5c875f5b,김용수,christian_place_of_worship,,0.6227985620498657,東京都江東区亀戸1-2-3,江東区,,JP,+81336368484,http://www.21tokyo.com/,139.8201392,35.693935
+b677b314-a263-4c1d-a889-7555d31294f3,동경성산교회,christian_place_of_worship,,0.9472573399543762,東京都江戸川区北小岩3-13-11,江戸川区,,JP,,,139.8912625,35.7371006

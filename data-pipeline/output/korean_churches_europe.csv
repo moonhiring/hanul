@@ -1,0 +1,103 @@
+﻿id,name,category,operating_status,confidence,address,locality,region,country,phone,website,lng,lat
+b8fdd285-8dfd-4198-a6d6-8f1e633c9e00,마드리드 서바나 교회,christian_place_of_worship,,0.805115282535553,"Calle de Alejandro Villegas, 34",Madrid,,ES,+34662914448,,-3.73375,40.39136
+b5047375-539a-4165-aa2c-9425cddbc629,여의도순복음 마드리드교회,christian_place_of_worship,,0.842227578163147,"Calle de Ofelia Nieto, 43",Madrid,,ES,+34914496430,http://yfgmc.org/,-3.70977,40.4605904
+2bff6012-b675-422a-8e57-11635b594932,마드리드 순복음 교회 | Madrid Full Gospel Church,christian_place_of_worship,,0.77,C/ Hernani 34,마드리드,마드리드,ES,915 34 43 00,http://www.spainkorea.net,-3.700571078539261,40.448343742039334
+045592ff-d040-44d4-9575-8d19ac048a11,마드리드 한인 장로 교회,christian_place_of_worship,,0.8433196544647217,"C. de José María de Pereda, 28",Madrid,,ES,+34609073952,http://imadrid.es/,-3.64815085,40.43086919
+e6a1ba5c-de71-4477-988f-3b0b50675c27,마드리드 사랑의교회,christian_place_of_worship,,0.4129784107208252,"Calle de Villacampa, 4",Madrid,,ES,,https://www.youtube.com/channel/UCi0hIQQQ6Y4bVNIioYniVcQ,-3.6229398650001,40.379959520747
+d90a3992-2966-444a-adcd-2c4e19fdb71e,본머스한인교회,christian_place_of_worship,,0.7195591926574707,"St Augustin Church, St.Augustins's Road",Bournemouth,ENG,GB,+447462867783,https://bkcuk.modoo.at/,-1.87639,50.7318799
+51bdff6e-924b-40c7-807e-94ed0eb532c2,Bournemouth Korean Church,christian_place_of_worship,,0.5587276816368103,St Augustin's Rd,Bournemouth,ENG,GB,+441202529307,,-1.8755547,50.73175334
+bb297efd-889a-42b7-8c2e-ea73ad7dcc9b,낭트한인교회 Epcn,christian_place_of_worship,,0.7685516476631165,15B Place Édouard Normand,Nantes,,FR,,,-1.56414,47.21933
+ceffa138-12d7-448b-aa73-58d4d525cbff,Bristol Korean Church,christian_place_of_worship,,0.7012412548065186,1 Redland Park,Bristol,ENG,GB,+447507887249,http://bristolchurch.org/,-2.61218574,51.46809593
+67a310d6-7985-4131-975a-761c4ac595eb,버밍엄 한인교회,christian_place_of_worship,,0.6388418674468994,,Birmingham,ENG,GB,,http://www.bkc.org.uk/,-1.968961253016556,52.430209948597934
+30fc5326-9c59-4f7f-9acb-6d4a7249830e,버밍엄예수비전교회 - Birmingham Jesus Vision Church,christian_place_of_worship,,0.8344836235046387,1041 Pershore Road,Birmingham,ENG,GB,,http://www.bjvc.org/,-1.9173994,52.4359686
+42ce7c5d-c91a-4599-833b-726f16368392,Coventry Ehad Korean Church,christian_place_of_worship,,0.26260343194007874,22 Lammas Rd,Coventry,ENG,GB,+447876637542,http://cafe462.daum.net/_c21_/home?grpid=1Q9to,-1.53101643,52.41412354
+c3a29fd7-c3b3-477d-881f-471b404a4ee1,Dublin Korean Church - 더블린한인교회,christian_place_of_worship,,0.5613892078399658,,Dublin,,IE,+353892632882,,-6.2517,53.32932
+38e3370d-d28c-4f49-a88a-606a2c84a16f,Liverpool Korean Church,christian_place_of_worship,,0.6413998007774353,"Admiral St, Toxteth",Liverpool,ENG,GB,+447852140070,https://www.liverpoolkoreanchurch.org/,-2.9621854,53.38714022
+a1bdb077-fdbc-46e3-a929-e35d28289f1c,The Korean Church of Glasgow,christian_place_of_worship,,0.6924934387207031,259 Dumbarton Road,Glasgow,SCT,GB,,http://www.glasgowchurch.org,-4.303787,55.870565
+dbbd1ad3-edc7-48f1-8e45-ffaafe4eaf3d,에딘버러 한인교회,christian_place_of_worship,,0.8942683339118958,22 Elgin Terrace,Edinburgh,SCT,GB,+447990633709,http://www.eanchurch.uk/,-3.17300036,55.96067743
+365d74e5-55fe-4289-8901-7b1907a1ed8f,맨체스터 예닮 한인교회 Manchester Yedam Korean Church,christian_place_of_worship,,0.865302562713623,"Nazarene Theological College Dene Rd,  Didsbury",Manchester,ENG,GB,,http://www.yedamkorean.com/,-2.241575717926,53.416566173886
+5545cc3c-4a46-4ffa-aad4-1eea2cdbe2d3,맨체스터 사랑의 한인교회,christian_place_of_worship,,0.7510015964508057,Stair C Shaw Hall,Manchester,ENG,GB,+447863543523,,-2.21849344,53.45758105
+39f8fcc2-cfde-416e-bd8a-38f5694faaac,Aberdeen Korean Church,christian_place_of_worship,,0.8744723796844482,168 Union Grove,Aberdeen,SCT,GB,+447970754922,http://aberdeen-church-of-christ.com/,-2.1204363,57.1407319
+3a33f590-81e3-48b9-800a-28a95a1decc3,Leeds Korean Church,christian_place_of_worship,,0.6516157984733582,"Hyde Park Methodist Mission Church, 27 Woodsley Rd",Leeds,ENG,GB,+447833690998,,-1.56711939,53.80690091
+774eacbb-51d1-4ef5-a5fa-6bed1de18df7,Reading Korean Church,christian_place_of_worship,,0.27335891127586365,2-4 Cressingham Rd,Reading,ENG,GB,+447764602821,,-0.94906613,51.43371767
+944ca5e7-8eb7-422c-8912-55957aa49f96,Brighton Korean Church,christian_place_of_worship,,0.5615684986114502,"Methodist Church, Portland Rd",Hove,ENG,GB,+447899970834,,-0.17914733,50.83280827
+463f8c55-8738-4756-919a-096b5029b9a4,쁘아띠에 한인교회,christian_place_of_worship,,0.5318397283554077,5 Rue des Écossais,Poitiers,,FR,+33646464076,,0.33651,46.58135
+da31be72-0aab-48ad-88c6-76818317290f,Korean Church London,christian_place_of_worship,,0.9399229282140732,37 Grove Cres,Kingston upon Thames,ENG,GB,+442085490180,http://www.londonkc.com,-0.30273985,51.40477578
+99ed8850-45e7-45e8-9713-32182abc2956,한인교회 | 런던엘림감리교회 | London Elim Methodist Church,christian_place_of_worship,,0.8432585597038269,Fairfield E,Kingston upon Thames,ENG,GB,+447470819229,,-0.29847481,51.41004995
+1d6f0f89-6b44-44d1-9f88-77ae3443ac30,런던 제자촌교회,christian_place_of_worship,,0.8005182147026062,Worple Rd,London,ENG,GB,+447861686103,,-0.22885096,51.41070306
+82069810-99ad-4973-8639-1c2dd4ffcc4c,Raynes Park Korean Church,christian_place_of_worship,,0.9162253141403198,Durham Rd,London,ENG,GB,+442089499133,http://www.rpkclondon.org/,-0.23354997,51.41172097
+b04d198f-c51b-4019-b573-c1aad39b7b4f,런던 행복한 교회,christian_place_of_worship,,0.5972291827201843,37 Worple Rd,London,ENG,GB,+447397797798,http://happychurch.eu/,-0.21082791,51.42048399
+532205bb-f4d8-4d3c-8eda-3610bfb34de4,A Church London 에이처치,christian_place_of_worship,,0.7863373160362244,"Merton Arts Space, Compton Rd, London",London,ENG,GB,,http://Achurch.net/,-0.1972399,51.4193489
+a1e3085c-4b63-4bf8-8200-cdab8b0d4b92,런던한인천주교회,christian_place_of_worship,,0.8776596784591675,104 Benhill Wood Road,Sutton,ENG,GB,+442086441223,https://cafe.daum.net/lkccuk,-0.1888607040666,51.372465777502
+1dc10b67-58a6-4510-a6d1-8bb3ed332eba,옥스포드 선교 교회 Oxford Mission Church,christian_place_of_worship,,0.7016522884368896,Banbury Road,Oxford,ENG,GB,+441865512629,https://linktr.ee/oxfordmissionchurch,-1.2606320206833,51.753289006106
+6a07f791-007d-4b42-802d-7e1e5b824189,God's Vision Church (꿈이있는교회),christian_place_of_worship,,0.77,,,Greater London,GB,020 7720 2401,http://www.godsvisionchurch.org,-0.13898516657107607,51.51658609726642
+8591a5df-1941-4752-928c-f1f0cd635715,London Korean Anglican Church,christian_place_of_worship,,0.7551762461662292,Bloomsbury Way,London,ENG,GB,+447737161317,https://www.youtube.com/@LKAC.MISSION,-0.12474948,51.51754649
+c88ad171-32c1-4c03-91ef-6a74d0014cd1,한인교회,christian_place_of_worship,,0.6812100410461426,84 Heath St,London,ENG,GB,+447517662236,http://www.londonhkc.org/,-0.17850872,51.55789987
+8fe8f551-29d4-44ef-8dee-d4db267c6290,런던예수비전교회 - Ljvc,christian_place_of_worship,,0.8598271012306213,18 Randells Road,London,ENG,GB,+447828267762,http://www.ljvc.org/,-0.12206,51.53929
+bee0322a-7c0e-4dde-bd01-06e0f4d21f94,파리삼일장로교회,christian_place_of_worship,,0.9246059656143188,117 Rue du Château,Boulogne-Billancourt,,FR,+33660068338,,2.24012,48.8422
+7000f810-fcf6-4a37-bb3c-3fa2bab15db6,파리 감리 교회,christian_place_of_worship,,0.9143502712249756,47 Rue de l'Abbé Groult,Paris,,FR,+33667579929,http://www.eemc.fr/,2.29564053,48.8406652
+e6f9c413-f860-448a-8fe4-c76c7b7c83e3,파리 제일 장로 교회,christian_place_of_worship,,0.6430268883705139,6 Rue Quinault,Paris,,FR,,http://parisjeil.com/,2.29838469,48.84418587
+518d17fe-9621-4595-afb4-fb595b6da045,파리 장로 교회,christian_place_of_worship,,0.8911161422729492,20 Rue Titon,Paris,,FR,+33148984443,http://www.parisjangro.com/,2.3866042,48.85202868
+6815ffc9-12a5-443d-951b-3dcf037dc642,파리한인교회,christian_place_of_worship,,0.6150912046432495,7 Rue Auguste Vacquerie,Paris,,FR,+33620564456,http://www.pontneuf.org/xe/,2.29609241,48.87066904
+002651d4-1521-4c1f-a583-8592043d4370,파리순복음교회,christian_place_of_worship,,0.9610394835472107,106 Rue de Grenelle,Paris,,FR,+33768687724,https://parisfgchurch.fr/,2.32176445,48.85637908
+36da8f1f-e2e3-4670-bac4-5a3a924a03d4,파리선한장로교회,christian_place_of_worship,,0.7119948863983154,5 Rue Roquépine,Paris,,FR,+33183914664,http://www.sonann.net/,2.31985693,48.8732269
+b573c16b-cbe8-430a-a164-1bde35c9a684,사크레쾨르 대성당,christian_place_of_worship,,0.9652255177497864,35 Rue du Chevalier de La Barre,Paris,,FR,+33153418900,http://www.sacre-coeur-montmartre.com/fr/,2.34264,48.88671
+b9ad60c8-3258-411d-9371-673db0f43fa5,루앙 대성당,christian_place_of_worship,,0.7006311416625977,,Rouen,,FR,,http://www.cathedrale-rouen.net/,1.095278,49.439722
+403d7582-e59b-453c-8271-68591260ce82,랭스 대성당,christian_place_of_worship,,0.8176475763320923,,Reims,,FR,,http://www.cathedrale-reims.com/,4.0341666666667,49.253611111111
+e7fd060b-3165-46db-aa5e-8823f57b92e2,Brussel Korean Church,christian_place_of_worship,,0.8568375706672668,Museumlaan 14,Tervuren,,BE,,http://www.koreanchurch.be,4.51653,50.8315
+6c0c8564-c2bd-4e44-9a4d-3ec26efc62b4,이준기념교회,christian_place_of_worship,,0.980530858039856,Prinsenhof 8,Leidschendam,,NL,+31633730756,http://yijunmemorialchurch.org/,4.40072,52.09731
+769ac9a1-5a2e-4014-86ab-13028841e32f,화란한인교회,christian_place_of_worship,,0.782304584980011,De Ruyschlaan 147,Amstelveen,,NL,,,4.86035,52.30666
+42109791-2a54-4976-9404-6369a6c1d888,Grenoble Korean Church,christian_place_of_worship,,0.7861829400062561,"Centre Oecumenique St.Marc, 6 Av. Malherbe",Grenoble,,FR,+33642538919,http://www.grenoblechurch.org/,5.73785404,45.16990173
+6efb0d2e-bddf-4c03-9f35-7e8b877b310e,Korean Evangelical Church of Milan,christian_place_of_worship,,0.982699990272522,"Via G. Carducci, 2",Settimo Milanese,25,IT,+390249452723,http://www.milanochurch.com/,9.05712337,45.48698996
+d47d68e8-10ba-49b0-b84b-fa70a39919ce,밀라노 한인교회 Chiesa Evangelica Coreana di Milano,christian_place_of_worship,,0.9731046557426453,"via Carducci 2, Settimo Milanese",Settimo Milanese,25,IT,+390249452723,http://www.milanochurch.com/,9.057166676250526,45.48674269610513
+b316a358-86f4-407a-8915-3128f84b8cdb,밀라노은혜교회,christian_place_of_worship,,0.47601011395454407,"Via Camillo Ugoni, 20",Milano,25,IT,,http://milanograce.com/,9.1709995,45.5004692
+be306e2a-fa4b-48b0-9b44-e06a47ec345c,밀라노 빌립보 교회,christian_place_of_worship,,0.9411957859992981,"Via Nicola Antonio Porpora, 48",Milano,25,IT,+393395303066,,9.2220961,45.4859414
+401e8122-0ff6-4967-a157-2a0b550a8c3e,밀라노한마음교회,christian_place_of_worship,,0.7193739414215088,"Via Luigi Dottesio, 15",Milano,25,IT,+390289693012,http://milanohanmaum.com/,9.23751,45.4706
+43329e92-419a-4ea2-bb2c-80aa65ffef1b,Korean Church Bern,christian_place_of_worship,,0.5430055856704712,Brunnmattstrasse 50,Bern,BE,CH,,http://www.bernch.net/,7.42617821,46.94259679
+3d0c793b-585f-4446-afa8-a2a752b0817e,클라겐푸르트 한인교회,christian_place_of_worship,,0.9402356147766113,Martin-Luther-Platz 1,Klagenfurt am Wörthersee,,AT,+4367762346929,,14.29923665,46.6236149
+923c35d4-6343-487d-afd4-d85eebfc817a,프라이부르크 하나되는 한인교회 (Evang. Koreanische Kirchengemeinde Hana in Freiburg),christian_place_of_worship,,0.6548017263412476,Hirzbergstraße 1,Freiburg im Breisgau,,DE,,,7.87429519,47.98920294
+fa9b1a6a-c72d-478d-b554-cbd7b7de7bf9,칼스루에벧엘교회 청년부,christian_place_of_worship,,0.522537112236023,Kopernikusstraße 2,Karlsruhe,,DE,+491797103047,http://cafe.daum.net/bethelgemeinde,8.34599,49.00402
+aa86cfdf-123c-49b7-9e27-c81aeed552f4,자브뤼켄 한인교회,christian_place_of_worship,,0.5119497179985046,Bismarckstraße 20,Saarbrücken,,DE,+4915753738277,,7.00069683,49.23051666
+74c21cf7-7202-4c3e-a76c-d87d3f307d02,램스타인 한인교회,christian_place_of_worship,,0.8099634051322937,Gutenbergstraße 1,Ramstein-Miesenbach,,DE,+496371732585,https://sites.google.com/view/ramsteinkoreanchurch,7.55029,49.44131
+a1376a53-ef2d-44ed-8bad-bc1c6393bc39,프랑크푸르트 만나교회,christian_place_of_worship,,0.9464893341064453,"Stadtmission, Nahestraße 1A",Rüsselsheim am Main,,DE,+491776312367,http://mannachurch.de/,8.41481837,49.9902234
+11afa524-9ded-4b5a-8165-e41228976ec6,진델핑엔평안교회,christian_place_of_worship,,0.923363447189331,Altinger Straße 4,Sindelfingen,,DE,+4917622708315,http://www.frieden.kr/,8.9992189407349,48.704018497707
+a5d9b25e-f326-4477-ba2e-35fb211859bd,울름한인교회(ULM Korean Church),christian_place_of_worship,,0.26260343194007874,Zinglerstraße 66,Ulm,,DE,+491746033804,https://www.ulmkoreanchurch.de/,9.97968331,48.39263983
+0e871985-26ec-4020-8eb4-ea973790f469,하이델베르크 한인 감리교회,christian_place_of_worship,,0.810488224029541,Attigweg 7,Eppelheim,,DE,+4962215996016,https://cafe.naver.com/heidelberg08,8.6334663,49.40038517
+044c38ac-a00f-452d-9e9e-d019621e21b1,다름슈타트 중앙교회,christian_place_of_worship,,0.9614982604980469,Flotowstraße 29,Darmstadt,,DE,+4917684329596,http://koreanische-kirchengemeinde-in-darmstadt.business.site/,8.677402,49.88374
+4230a2fb-e507-454b-915f-031a0b5b7fbc,프랑크푸르트 한마음교회,christian_place_of_worship,,0.9042778015136719,Leonhard-Heißwolf-Str. 5,Schwalbach am Taunus,,DE,+496933999677,http://hanmaum.de/,8.5241031646729,50.158439172205
+b05b1796-cc65-4ecd-ba44-5d5b5def569f,프랑크푸르트 한길교회,christian_place_of_worship,,0.6227482557296753,Hartmann-Ibach-Straße 108,Frankfurt am Main,,DE,,http://cafe.naver.com/hangilffm,8.69957903,50.13118656
+95813832-3261-4feb-9066-7328d606f204,경국사,buddhist_place_of_worship,,0.5886321663856506,성북구 보국문로 113-10,Faimes,,BE,+8229142828,http://cafe.daum.net/rudrnrtk,5.26202,50.66571
+c480ae7c-b4e5-4583-b688-b66f9a0f6fa0,아헨예향열방교회 | Yehyang All Nations Church,christian_place_of_worship,,0.828593373298645,Philipp-Neri-Weg 7-9,Aachen,,DE,+4915125840829,http://www.yehyang.de/,6.04087464,50.77207446
+c1c0523a-338d-4633-8896-306c2c5540d9,라인란트지방 아헨 한인교회,christian_place_of_worship,,0.7481330633163452,Martin-Luther-Straße 16,Aachen,,DE,+4921812125079,http://www.aachenchurch.com/,6.09446123,50.77348552
+75dba4a7-a7ff-4e1f-b795-f26350d402d9,Korean Church of Eindhoven,christian_place_of_worship,,0.8332754969596863,Teullandstraat 1,Veldhoven,,NL,,,5.40856971,51.41170546
+7ed61b17-ceef-432c-9a72-b852d1e51d0f,뒤셀도르프선교교회,christian_place_of_worship,,0.7142906785011292,Alte Landstraße 179,Düsseldorf,,DE,+4917657791004,http://duemission.de/,6.74327154,51.30036977
+94806f3e-155a-4a29-a84e-923142a9c93a,본 한인교회,christian_place_of_worship,,0.6926841139793396,Kaiser-Karl-Ring 25,Bonn,,DE,+4922838764927,http://www.bonnkirche.de/,7.0913401,50.7447891
+32041ff1-8423-4d1f-af30-3a0b4ef67f44,쾰른순복음 한인교회,christian_place_of_worship,,0.9943998730182648,Theodor-Heuss-Straße 9,Köln,,DE,+4920646703101,https://koelnfgc.imweb.me/,7.06444,50.8973
+84aab747-b8c3-4981-97ab-f4e74a4a78af,아우크스부르크 그리스도연합교회,christian_place_of_worship,,0.9409698843955994,Salomon-Idler-Straße 14,Augsburg,,DE,,https://youtube.com/@augsburg.korean.church?si=Zietjp2TjArRSZcK,10.90182,48.33378
+0420aa2c-68f4-4d24-ad41-5e5d4d3cf6b7,아우크스부르크 한인교회 - Koreanische evangelische Gemeinde in Augsburg e.V.,christian_place_of_worship,,0.7650622129440308,b. d. Jakobskirche 2,Augsburg,,DE,+4917676292003,https://www.instagram.com/keg.augsburg,10.90502019,48.37014759
+01ffbda8-e52d-4952-b15f-63836d8cf4cb,비엔나 장로교회,christian_place_of_worship,,0.9050673842430115,Eduard-Sueß-Gasse 1,Wien,,AT,+4367761505083,http://www.viennachurch.net/,16.31880255,48.19317463
+d87fb6d6-0a57-40b4-95f1-b68ba2745459,은혜교회,christian_place_of_worship,,0.8185016512870789,"1419 831 04, Stará Vajnorská 1419/17",Bratislava,,SK,+421902877118,http://www.loveslovakia.net/,17.16853368,48.18780732
+5c1897a0-5bba-4087-bb5e-bec62db0b406,Praha Life Tree Korean Church,christian_place_of_worship,,0.724097728729248,Pod Juliskou 2a,Praha,10,CZ,+420776267884,,14.39266,50.11046982
+139be1c2-2471-46d9-9883-c3e0817b8c8c,"Kostel sv. Petra na Poříčí, Biskupská, 110 00 Praha 1-Nové Město, 체코",christian_place_of_worship,,0.9378728866577148,Petrská,Praha,10,CZ,,,14.43444444,50.09125
+3cb7be60-9ec5-48b1-b197-466e6a0ebf2c,체코 프라하 꼬빌리시 한인교회,christian_place_of_worship,,0.8418769240379333,U Školské zahrady 1264/1,Praha,10,CZ,+420733465447,https://praguechurch.kr/,14.461677074432,50.123659813772
+4bfb09e9-2239-4109-a9b6-495837fcd31a,프라하 한인 교회,christian_place_of_worship,,0.6954184770584106,10 6 664 Tomsova Praha Česká republika,Praha,10,CZ,+420773229761,,14.51212605,50.08541984
+320f7738-6872-4ca2-b67a-35ae0cad3958,라이프치히 한인교회,christian_place_of_worship,,0.7576286792755127,Eisenbahnstraße 17,Leipzig,,DE,,,12.39723361,51.34613909
+f85e8422-5578-4ad9-9af6-901fa4dfb3a1,라이프치히 한인성당-가톨릭 한인공소,christian_place_of_worship,,0.36399024724960327,Ossietzkystraße 60,Leipzig,,DE,,,12.411053180695,51.359836942721
+f496f7b0-ee2f-4061-b194-9b292bbf9833,Dresden Korean Church,christian_place_of_worship,,0.9299505949020386,Bergmannstraße 19,Dresden,,DE,+4935142475050,http://www.dresdenchurch.net/,13.791294,51.046197
+c2f173af-f22d-4442-8fa3-d27e4c464438,독일 딘스라켄순복음 한인교회,christian_place_of_worship,,0.5783374905586243,Gerhard-Malina-Straße 114,Dinslaken,,DE,+4920646703101,https://fgdinslaken.icg21.com/,6.73662,51.57354
+5d26763d-bb08-4188-9384-c0c3fa383216,도르트문트성결교회,christian_place_of_worship,,0.43472057580947876,Fine Frau 8,Dortmund,,DE,+492518570216,http://www.dortmundkirche.org/,7.40966671,51.50292206
+e4ab2132-8e49-4f9b-ba96-2b422c9e3750,도르트문트 제일교회,christian_place_of_worship,,0.7324588298797607,Gut-Heil-Straße 10A,Dortmund,,DE,,http://dojechurch.com/,7.45806,51.53168
+0bfa7601-267d-43ce-8159-6100f7fa2a24,데트몰트 찬양교회,christian_place_of_worship,,0.9635449647903442,Mühlenstraße 16,Detmold,,DE,+4917656735405,http://www.detmoldkirche.de/,8.8757461309433,51.938312287236
+e1545432-1208-4a73-ada4-f797ef043db2,빌레펠트 한인교회,christian_place_of_worship,,0.5455123782157898,Hermannstraße 51,Bielefeld,,DE,,http://www.ekkbi.net/,8.54055669,52.0181829
+6d8f4890-9aa3-44ca-9fb7-31f1f56af792,하노버 본향교회,christian_place_of_worship,,0.9354994893074036,Mühlenberger Markt 5,Hannover,,DE,+4917620229378,http://bonhyang.de/,9.69234124,52.33980479
+5e9a6d3b-7dfc-46fc-89f7-3edb91ec930b,브레멘 한민교회,christian_place_of_worship,,0.5323119759559631,Anna-Stiegler-Straße 124,Bremen,,DE,+494212573831,http://brehanmin.de/,8.8268280448392,53.036710280022
+d0e31a63-83a0-41f8-ae37-d0bb9d15496e,브레멘 반석 한인교회,christian_place_of_worship,,0.8657938241958618,Werner-von-Siemens-Straße 55,Bremen,,DE,,https://eunsik5619.wixsite.com/felskirche,8.88896421,53.10352124
+e792d627-f334-4195-b101-67a18bebea93,함부르크 한인 선교교회,christian_place_of_worship,,0.7337520718574524,Grindelallee 101,Hamburg,,DE,+494032848978,http://mission-hamburg.de/,9.97970296,53.56844698
+4d7ee5f4-e5a9-4f93-9e22-543052a475bc,함부르크 한인교회,christian_place_of_worship,,0.8241205215454102,Winfridweg 22,Hamburg,,DE,+494051905762,http://hamburghanin.de/,9.95333191,53.58890401
+a8945521-87d2-4c57-a1c3-57e1046e5d5d,베를린 비전교회,christian_place_of_worship,,0.8628078699111938,Münstersche Str. 5-9,Berlin,,DE,,http://berlin-vision.de/,13.30851194,52.49438424
+8e768c04-d313-43d1-8d0a-a5a67bfc4814,베를린 선한목자교회 Berlin Seonhan Mogza,christian_place_of_worship,,0.7267885804176331,Bundesallee 76A,Berlin,,DE,,http://www.mogza.com/,13.32833758,52.47118015
+4d416c60-f07a-4621-a890-3c2881208c27,베를린가나안교회,christian_place_of_worship,,0.5480484962463379,Bismarckstraße 40,Berlin,,DE,,https://youtube.com/@davidpjh16?si=KI4R7ok0cGsJJEpR,13.30668717,52.51186974
+a977c936-4e9f-4557-9e70-840d41eddafa,로스톡한인교회,christian_place_of_worship,,0.5812613368034363,Beim Pulverturm 4,Rostock,,DE,,,12.108372,54.075643
+8d9f8b2d-4654-40ab-bc87-a5fc60664a93,덴마크 한인교회,christian_place_of_worship,,0.6062236428260803,Johntranums alle 31  st th,Kastrup,84,DK,+4526281708,,12.64226,55.63138
+6e8e009c-5124-4d17-99b2-e9c8818e4e73,Korean Church in Denmark,christian_place_of_worship,,0.9148390889167786,Gothersgade 111,København K,84,DK,,https://www.facebook.com/Presbyterian-Church-of-Ghana-Copenhagen-278720028871075/,12.57515502,55.68384869
+a087d5b4-3fab-4f89-98df-78d846b1dfdd,바르샤바 한인교회 Kościół Koreański w Warszawie,christian_place_of_worship,,0.8481484651565552,ulica Farbiarska 63D,Warszawa,14,PL,+48795674457,http://www.missioninpoland.com/,21.0079275,52.1290689
