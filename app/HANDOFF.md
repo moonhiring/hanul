@@ -72,6 +72,15 @@
 - **관리자**: `users.role`(member|admin) + `ADMIN_EMAILS`(쉼표 구분) 이메일 로그인 시 자동 승격. `/admin` 페이지 4탭 — 대시보드(상태 분포/사용자/검증 실행 이력), 검토 큐(needs_human 승인·비한인 확정·보관), 업체 관리(검색/상태변경/추가/삭제), 사용자(역할 변경, 자기 해임 불가). API는 `/api/admin/*` 전 구간 requireAdmin (401/403)
 - 관리자 화면은 기능 우선 임시 스타일 — 디자인 에이전트 다듬기 예정
 
+## 한인교회 수집 (2026-11-17)
+- `data-pipeline/extract_korean_churches.py` — Overture S3 GeoParquet을 DuckDB(httpfs/spatial)로 직접 질의. 국가 규모라 bbox 통짜 다운로드 대신 카테고리(church/chapel/cathedral/place_of_worship)×한인 신호(한글명|이름에 korean) 필터를 질의에 포함
+- 릴리스: `2026-10-21.0` — 신 스키마(`basic_category`, `operating_status`, taxonomy struct) 사용. 구 `categories` struct 없음
+- 1차 결과: **미국 1,561 / 일본 26 / 유럽 102건** (`output/korean_churches_{region}.csv`)
+  - 미국 데이터 품질 좋음 (웹사이트 79%, 전화 93%, 한글명 31%) — 검증 워커 바로 투입 가능
+  - 일본 26건은 추정치 대비 과소 — 'Sarang/Onnuri'처럼 영문명에 korean이 없는 교회 + Overture 일본 커버리지 한계. OSM Overpass(`name:ko`) 보완 예정
+  - bbox 침범 분은 country 필터로 제거 (usa 파일에 CA/MX 섞이던 것 정리)
+- 미결: DB 적재 방식(businesses에 종교·기관으로 합칠지, churches 전용 테이블/섹션으로 갈지), 캐나다·중남미·오세아니아·동남아 확장, OSM 보완
+
 ## 배포 (2026-11-02)
 - **도메인: hanul.world (Cloudflare)** / **호스팅: VPS 1대 결정** — docker-compose 통째 배포 (웹+API+DB+워커). Vercel은 DB·워커가 안 맞아 기각
 - **배포 완료 (2026-11-02)**: https://hanul.world 라이브. 서버 178.105.173.183 (queenofGaya, Hetzner, Ubuntu 24.04 — 기존 Jitsi/queenofgaya.com과 공존)
