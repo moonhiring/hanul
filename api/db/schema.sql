@@ -41,6 +41,16 @@ CREATE TABLE IF NOT EXISTS verification_runs (
   finished_at TIMESTAMPTZ
 );
 
+/* 사이트 기본 스타일 — 단일 행 (id=1 고정). 운영자가 지정하는 방문자 기본 폰트·질감 */
+CREATE TABLE IF NOT EXISTS site_settings (
+  id           SMALLINT PRIMARY KEY DEFAULT 1 CHECK (id = 1),
+  font_display TEXT NOT NULL,
+  font_body    TEXT NOT NULL,
+  texture      TEXT NOT NULL DEFAULT 'hanji',
+  tex_level    TEXT NOT NULL DEFAULT 'base',
+  updated_at   TIMESTAMPTZ NOT NULL DEFAULT now()
+);
+
 /* 사용자 — Google 로그인 */
 CREATE TABLE IF NOT EXISTS users (
   id            BIGSERIAL PRIMARY KEY,

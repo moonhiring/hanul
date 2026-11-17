@@ -3,7 +3,7 @@ import cors from "cors";
 import cookieParser from "cookie-parser";
 import { pool, waitForDb } from "./db.js";
 import { initSchema, seedIfEmpty } from "../db/seed.js";
-import { authRouter } from "./auth.js";
+import { authRouter, requireAdmin } from "./auth.js";
 import { adminRouter } from "./admin.js";
 
 const app = express();
@@ -70,8 +70,54 @@ app.get("/api/businesses", async (req, res) => {
   }
 });
 
-app.get("/api/businesses/:id", async (req, res) => {
-  const id = Number(req.params.id);
+/**
+ * 방문자 기본 스타일 (docs: app/HANDOFF.md "방문자 기본 스타일")
+ * GET  /api/site-style  — 공개. 미설정이면 { style: null }
+ * POST /api/site-style  — 관리자 전용. { fontDisplay, fontBody, texture, texLevel }
+ */
+app.get("/api/site-style", async (_req, res) => {
+  try {
+    const { rows } = await pool.query(
+      "SELECT font_display, font_body, texture, tex_level, updated_at FROM site_settings WHERE id = 1",
+    );
+    if (!rows.length) return res.json({ style: null });
+    const r = rows[0];
+    res.json({
+      style: {
+        fontDisplay: r.font_display,
+        fontBody: r.font_body,
+        texture: r.texture,
+        texLevel: r.tex_level,
+        updatedAt: r.updated_at,
+      },
+    });
+  } catch (err) {
+    console.error(err);
+    res.status(500).json({ error: "internal_error" });
+  }
+});
+
+app.post("/api/site-style", requireAdmin, async (req, res) => {
+  const { fontDisplay, fontBody, texture, texLevel } = req.body ?? {};
+  if (typeof fontDisplay !== "string" || !fontDisplay || typeof fontBody !== "string" || !fontBody) {
+    return res.status(400).json({ error: "fontDisplay_and_fontBody_required" });
+  }
+  try {
+    await pool.query(
+      `INSERT INTO site_settings (id, font_display, font_body, texture, tex_level, updated_at)
+       VALUES (1, $1, $2, $3, $4, now())
+       ON CONFLICT (id) DO UPDATE
+         SET font_display = $1, font_body = $2, texture = $3, tex_level = $4, updated_at = now()`,
+      [fontDisplay, fontBody, texture || "hanji", texLevel || "base"],
+    );
+    res.json({ ok: true });
+  } catch (err) {
+    console.error(err);
+    res.status(500).json({ error: "internal_error" });
+  }
+});
+
+app.get("/api/businesses/:id", async (req, res) => {  const id = Number(req.params.id);
   if (!Number.isInteger(id)) return res.status(400).json({ error: "invalid_id" });
   try {
     const { rows } = await pool.query(

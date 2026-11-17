@@ -115,7 +115,7 @@
   - **전수 1회 완주 (2026-11-02)**: 8,274건 약 12분. 최종 active 1,983(24%) / needs_human 6,291 (그중 에스컬레이션 677). 도시별 정상률 편차 큼 — 호치민·도쿄는 active 비율 낮음(비한인 카테고리 오수집 의심) → 검토 큐 우선순위 참고
 - 남은 결정: not_korean 오탐 허용률, 검증 주기(30일 기본), RSS 수확기 구현, 매일 자동 실행 방식(compose 상시 worker vs 크론), 2단계 웹 검색 교차 확인
 
-## 방문자 기본 스타일 (2026-11-17, 기술팀 요청)
+## 방문자 기본 스타일 (2026-11-17, 기술팀 요청 → **구현 완료**)
 - 운영자가 폰트 스위처 패널 하단(admin만 표시)에서 "현재 조합을 방문자 기본값으로 지정" 가능 — 첫 방문자의 기본 폰트·질감을 수시로 바꾸는 용도
 - 우선순위: 사용자 로컬 저장값 > 운영자 지정값 > 빌트인 기본값. 클라이언트는 `src/lib/site-style.ts` 완비
-- **API 필요**: `GET /api/site-style`(공개) / `POST /api/site-style`(requireAdmin). 바디 `{ fontDisplay, fontBody, texture, texLevel }`. 미구현 상태라 현재는 localStorage(`hanul:site-style`) 임시 저장으로만 동작 — 엔드포인트 붙이면 즉시 전역 전파됨. 단일 설정 행 테이블(예: `site_settings`)이면 충분
+- **API 구현 완료 (2026-11-17)**: `GET /api/site-style`(공개, 미설정 시 `{style:null}`) / `POST /api/site-style`(requireAdmin, `{fontDisplay, fontBody, texture?, texLevel?}` — font 두 개 필수, 나머지 기본값 hanji/base). `site_settings` 단일 행 테이블(id=1 CHECK 제약), upsert 저장. 응답 `{style:{fontDisplay,fontBody,texture,texLevel,updatedAt}}`
