@@ -1,0 +1,27 @@
+﻿id,name,category,operating_status,confidence,address,locality,region,country,phone,website,lng,lat
+72c391c9-2ea0-48f1-a2c1-5807908735f7,몬테레이 한인교회,christian_place_of_worship,,0.9002538919448853,Avenida Constituyentes de Nuevo León 407,Guadalupe,,MX,,,-100.2606499,25.684153
+74af702c-e5ba-47ac-92e9-084f84e8cf86,과테말라 한인성당,christian_place_of_worship,,0.5057597756385803,1 Calle B 5-29,Mixco,,GT,+50242151282,,-90.58533584,14.63166237
+792aa447-1334-43b7-8477-1216bdb64a0f,높은뜻우리교회,christian_place_of_worship,,0.9878668785095215,"4a Calle, 12-58, Colonia La Escuadrilla, Zona 2",Mixco,,GT,+50230400997,http://iglesiacontigo.com/,-90.57605150246042,14.627230232720693
+e32c1a01-5a43-4f6c-b564-d25d03954e6c,과테말라 한인 교회,christian_place_of_worship,,0.7329829931259155,"GT, 37 Avenida 3-36",Guatemala,,GT,+50224334533,,-90.56437574,14.63567623
+34e3ae8a-469e-4ddb-84c1-6b744ba47712,Iglesia Presbiteriana Monte Sagrado 니카라과 제2 산성 교회,christian_place_of_worship,,0.8821005821228027,Reparto Cailagua,Masaya,,NI,,,-86.102248303232,11.96846479059
+c52ff725-506c-41ab-8d8c-eb72f781c72e,Korean Evangelical Church,christian_place_of_worship,,0.672577440738678,Av. Paseo de la República 4406,Miraflores,,PE,+51955555085,,-77.02670326,-12.10943408
+7b78522f-7f73-45eb-ba55-3804dfe9c0ed,칸쿤 그레이스 한인교회 - Cancun Grace Korean Church-,christian_place_of_worship,,0.6432458758354187,Avenida Leona Vicario 20,Cancún,,MX,+821098767327,,-86.9169,21.14602
+dd2a908c-daa5-4464-b12f-0d2d752b87b5,Bet-El Mission Center en Tijuana Mexico / 박영완선교사,christian_place_of_worship,,0.6440938115119934,Pipila 22511,Tijuana,,MX,+526646295556,,-116.88099727,32.50484943
+e587f51c-982f-4bcb-9223-b8c0afcf9602,칠레한인연합교회2020,christian_place_of_worship,,0.7409419417381287,Calle Juan Vicuña 1505,Santiago,,CL,+56227102383,,-70.643114243805,-33.46583569
+4419a6a5-0a07-4a48-9ea6-ce7abccf3968,"산티아고순복음교회, 칠레",christian_place_of_worship,,0.6924915313720703,Calle Maestra Lidia Torres 298,Recoleta,,CL,+56965750479,,-70.641087714003,-33.423750055224
+30954583-1733-4496-920d-d19bf8856761,칠레영락교회 - Iglesia Prespiteriana Coreana de Chile,christian_place_of_worship,,0.8720874190330505,Calle Buenos Aires 445,Recoleta,,CL,,,-70.64411372793,-33.426919303232
+23665edf-c54e-4fee-a200-08beaf146e71,So Mang Presbyterian Korean Christian Church,christian_place_of_worship,,0.7810980081558228,Morón 3744,Ciudad de Buenos Aires,,AR,+541146728005,http://blog.daum.net/argensomang,-58.48250961,-34.62683424
+1d4b4eee-9c34-4efb-a96a-51777e2a34c0,신성교회,christian_place_of_worship,,0.7109009027481079,,Ciudad de Buenos Aires,,AR,,,-58.4733089,-34.6334155
+d54e464d-830f-4351-9cf6-5bf7e810db8d,충현교회 Argentina,christian_place_of_worship,,0.6429843902587891,Quirno 1023,Ciudad de Buenos Aires,,AR,,https://www.youtube.com/channel/UCCc3ADuRfERUk0XfbPjT55g,-58.46329,-34.64333
+ad77b550-7cb6-4bf9-b593-e98267e6bb46,천주교 재아 한국 순교 성인 성당,christian_place_of_worship,,0.4808575510978699,"Comuna 7, Thorne 1261",Ciudad de Buenos Aires,,AR,+541146340045,,-58.44677086,-34.63797634
+c28c2f48-6517-4b78-a509-1d233b34b725,아르헨티나 중앙교회,christian_place_of_worship,,0.734447717666626,Av. Castañares 1443,Ciudad de Buenos Aires,,AR,+541149219395,https://www.facebook.com/chungang1435,-58.43868579,-34.63797797
+998586ca-580c-4588-af45-56ce1805c56d,브라질 뽀르또 알레그레 순복음 교회,christian_place_of_worship,,0.6343144178390503,"Rua São Simão, 285",Porto Alegre,RS,BR,+5551994031001,,-51.169902036828,-30.044296767229
+e05f4e70-8991-4c90-aaf1-1178b5198067,파라과이 관음사,buddhist_place_of_worship,,0.3594111204147339,Av Pozo Favorito 1670,Asunción,ASU,PY,+59521206942,,-57.62563242,-25.30621867
+ba53648c-85bc-4339-b184-2e3eb5322c14,한인성당_Parroquia San Juan Nam,christian_place_of_worship,,0.5476512908935547,Campo Via,Asunción,ASU,PY,+59521206809,,-57.623473,-25.30851298
+bd76250d-8fdb-4dd5-950f-6f653e37ee05,새생명교회 - 브라질,christian_place_of_worship,,0.8030077219009399,"Rua Salvador Leme, 374",São Paulo,SP,BR,+551132283614,,-46.634538173676,-23.526882359966
+d9115071-0085-449d-868f-29ed2cfe60d9,좋은 친구들 교회,christian_place_of_worship,,0.5303553342819214,,São Paulo,SP,BR,,,-46.63288,-23.52735
+ffebe7ef-a21a-4487-b5d9-ab16d77447c4,한인제일교회,christian_place_of_worship,,0.6427355408668518,"Rua Solon, 656",São Paulo,SP,BR,+5511999093213,,-46.64263832,-23.52473105
+733b5af9-4948-4bad-9aa3-9f4c0676e399,신암교회,christian_place_of_worship,,0.8693252801895142,"Rua Rodovalho da Fonseca, 194",São Paulo,SP,BR,+551129630134,,-46.60836,-23.52683
+b3ea677a-b079-4f6d-9be9-04425a4c6750,기독교인들의 모임,christian_place_of_worship,,0.2022443413734436,Perú ,Arequipa,,PE,,,-71.53411,-16.40265
+199ef0e6-b74f-43d3-89b4-9e26452fe768,Iglesia Presbiteriana Juvenil청소년장로교회,christian_place_of_worship,,0.2872391641139984,Cl. 4 #6-16,Leticia,AMA,CO,+573226363830,,-69.93660577,-4.21893433
+4fc1e37f-6607-434f-a628-cd5bdbb0e29a,Korean Church of Puerto Rico,christian_place_of_worship,,0.5850301384925842,350 Calle Ismael Rivera,San Juan,,PR,+17874699492,,-67.1406,18.1972

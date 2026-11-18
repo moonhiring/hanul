@@ -1,0 +1,11 @@
+﻿id,name,category,operating_status,confidence,address,locality,region,country,phone,website,lng,lat
+11dddc1b-711e-404e-8f7a-7ef4d1f8d86b,홍콩한인성당,christian_place_of_worship,,0.77,"2/F, Wing Cheong Commercial Bldg, 19-25 Jervois St",Sheung Wan,,HK,2541 2735,http://www.seongdang.com,114.15221141511837,22.28523137673485
+c4df20bc-c6eb-466f-8e13-dcdba4ebf92c,hongkong Korean Church,christian_place_of_worship,,0.9054192459583282,"Wing Lok St, 177-183號, Wing Tuck Commercial Centre, 7/F",Hong Kong,,HK,+85225455460,http://hkkorch.org,114.14919609,22.28689912
+c8981135-4d80-4b09-b865-a99364f185e6,CGN World HK 홍콩 온누리교회,christian_place_of_worship,,0.77,"6/F, Tower 1; South Seas Centre, 75 Mody Road, Tsim Sha Tsui, KLN, HK",Tsim Sha Tsui,Kowloon,HK,2506 0500,http://hk.onnuri.or.kr,114.17527,22.302958
+e0dcff0d-b24a-4b3e-baca-4b232c4c2e2d,高雄與神同行教會 가오슝동행교회,christian_place_of_worship,,0.7811722159385681,五福三路54號,高雄市,,TW,+886958714620,https://www.companionchurch.org/,120.29727,22.62208
+d9fcf87f-eab0-4533-b7bf-28c71cee86ed,桃園純福音教會 타우웬순복음교회,christian_place_of_worship,,0.9272723197937012,大林路83號2樓,桃園市,,TW,,,121.31521597,24.98784669
+b480bf05-c78d-44eb-ac4a-5a398718381b,타오원 순복음교회,christian_place_of_worship,,0.9302355051040649,"241 号, No. 438-2, Chunri Rd",桃園市,,TW,+886909821822,,121.31521597,24.98784669
+593beb8a-6d78-45a7-947b-0b91cfd02c4a,천문산사-天門山寺,buddhist_place_of_worship,,0.7466557025909424,,,,CN,,,110.47883322,29.041368080000005
+2ae6d3c8-b3a4-4896-8644-97373f80a406,상하이한인연합교회,christian_place_of_worship,,0.918769896030426,虹中路375号,Shanghai,,CN,,,121.37771720711694,31.184764803600817
+03778da7-c085-4727-9d0f-e56b86ac5568,울란바타르 한인교회,christian_place_of_worship,,0.5683333873748779,,,,MN,,,106.94653407178203,47.92614875075291
+854d92ce-087a-4138-ae0b-533cf474777d,西塔教会 서탑교회,christian_place_of_worship,,0.8463508486747742,,Shenyang,,CN,,,123.40685355079113,41.80206725918316

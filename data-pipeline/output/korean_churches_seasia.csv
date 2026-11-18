@@ -1,0 +1,94 @@
+﻿id,name,category,operating_status,confidence,address,locality,region,country,phone,website,lng,lat
+6c9182e5-429b-4b32-80b2-47c6d99e8df9,Penang International Church - 槟城国际教会 - 페낭 인터네셔널 교회,christian_place_of_worship,,0.8972101211547852,"Level 3, Island 88 Mall (Island Plaza), 118, Jalan Tokong Tanjung Tokong",Tanjong Tokong,,MY,+60164403413,http://www.penanginternationalchurch.com/,100.30620603,5.45014228
+e004d100-c334-483b-a536-61b285bd4659,Myanmar Korean Church,christian_place_of_worship,,0.9722954034805298,"NO.90 (1), 3rd Floor",ရန်ကုန်,,MM,+959953919436,https://www.youtube.com/c/myanmarkoreanchurch,96.15708437,16.81813598
+a9f9f19d-4b9d-48b5-9506-cc3be0ffd47c,Myanmar Korean Church,christian_place_of_worship,,0.9697872996330261,ကမ္ဘာအေးဘုရားလမ်း 3,ရန်ကုန်,,MM,+959953919436,https://www.youtube.com/c/myanmarkoreanchurch,96.15518,16.8638
+78f7557c-111d-433c-8775-0dde2767e8e0,양곤 한인 법당,buddhist_place_of_worship,,0.5558711290359497,NAGA HLAINGGU,ရန်ကုန်,,MM,+959974553853,,96.150026321411,16.878680861593
+cef1add6-22c2-4dbe-a771-dfc7fb89b628,Yangon Korean Church - 양곤한인교회,christian_place_of_worship,,0.6267330646514893,"Thiri Minglar Street, Insein Township",ရန်ကုန်,,MM,+959776303301,http://yangonchurch.com/,96.1085,16.90723
+ff436ff1-0bdb-40c4-b279-570a540fac78,치앙마이 중앙교회 | 한인교회 | Chiangmai Central Presbyterian Church,christian_place_of_worship,,0.9836809635162354,"158, Tasara, 2",เชียงใหม่,,TH,+66895537213,http://ccpc.co.kr/,99.03414534,18.77326625
+4cc255a3-3a63-4f9d-a99e-a1a6d505f116,KL 열린연합교회 KL Open Union Church,christian_place_of_worship,,0.8803328275680542,"Korean School, Taman P Ramlee",Kuala Lumpur,,MY,+60173409077,https://openunionkl.com/landing,101.716,3.106815138158
+d243b0d3-87f3-4ed8-983c-32e5339f4a30,Kl한인연합교회,christian_place_of_worship,,0.5497906804084778,Lot 5675,Sungai Buloh,,MY,,,101.57292712979,3.1959518216726
+a50ee8d7-4400-4a91-bfcc-f758c526a7c6,KL중앙교회,christian_place_of_worship,,0.9499592185020447,"Jalan Solaris, Solaris Mont'Kiara",Batu,,MY,+60364134194,http://www.klcch.net/,101.66001022355,3.1765568848249
+77ef40d0-bdcd-4bac-acc4-686847ce2c91,KL 예제교회,christian_place_of_worship,,0.7783202528953552,"19-3, 1 Mont Kiara, Business Suite",Batu,,MY,+601133640688,,101.66060596704,3.1683072154321
+fba8e040-c520-42fc-b781-eba0f72d7d71,언더우드 교회,christian_place_of_worship,,0.8162818551063538,Jalan PJU 8/5g,Petaling Jaya,,MY,+60163440191,https://www.youtube.com/c/언더우드교회,101.60693668,3.16579099
+6db38b0f-aae3-4e4a-8e39-e4a6a7506dd8,Korean Church in Singapore,christian_place_of_worship,,0.5120425820350647,9A Gilstead Rd,Singapore,,SG,+6562528302,,103.838826,1.315435
+71514ca1-3b3a-4acb-9358-0d73d8d0a566,싱가포르 영광교회,christian_place_of_worship,,0.9436135292053223,30 Duke's Rd,Singapore,,SG,+6593908997,http://www.glorymission.org/,103.81078557,1.3214323
+035a6465-91d8-47b6-a4c3-546dd625a884,나눔과 섬김의 교회,christian_place_of_worship,,0.8394448161125183,"Singapore Bible College, 9 Adam Rd, Singapore 289886, Singapore",Singapore,,SG,,www.nasumchurch.org,103.8133926988224,1.3255740197944437
+90534b25-f59a-43b9-a4b0-0ad0bd9f7d9c,생명의말씀교회,christian_place_of_worship,,0.2549942433834076,"19 Moulmein Rise, Revival Centre Church",Singapore,,SG,+6583637934,http://wlcsg.org/,103.8463577,1.3192102
+161d1ead-8b35-43a6-b7ad-54250f3795db,조호바루밀알교회,christian_place_of_worship,,0.9390197396278381,"No. 02-17, 03-17, 04-17 Block H Komersil Southkey Mozek, Persiaran Southkey 1",Johor Bahru,,MY,+60104680972,,103.77563287,1.49740469
+674fc93a-c40a-4d5b-b5a7-2c8be89bcc62,Singapore Immanuel Mission Church 싱가폴 임마누엘 선교교회,christian_place_of_worship,,0.6292175054550171,"Guilin Building, 8 Lor 27A Geylang",Singapore,,SG,+6591041325,http://simc.sg/,103.88481,1.31445
+3666ed13-be51-47cc-8ae1-fe89e5976c94,바틀리한인교회,christian_place_of_worship,,0.6663490533828735,"Bartley Christian Church, 4 How Sun Dr",Singapore,,SG,,,103.87862,1.34387
+5d657fd2-7082-40b2-8ab3-a56cf3435d5a,싱가포르 선한목자교회 / Good Shepherd Korean Church,christian_place_of_worship,,0.7593801021575928,"Upper Paya Lebar Rd, 61号, Tat Wan Building, #04-02",Singapore,,SG,+6591856991,http://www.sgskc.com/,103.88750589,1.33617214
+56159c56-00d7-4c9a-bdc2-7d3e013dd11b,밭뜨랑 우리교회,christian_place_of_worship,,0.3258626163005829,,សង្កាត់បិតត្រាំង,,KH,+85515668000,,103.63007708,10.60242031
+6709b129-1543-4648-b179-8090f50b5cb3,뚤뽕로비전교회,christian_place_of_worship,,0.9238831996917725,,ភ្នំពេញ,,KH,+85512482330,,104.86737345,11.51810446
+78559b70-e17b-4e4a-a8c9-00f1ca040646,Phnom Penh Onnuri Church - 프놈펜 온누리교회,christian_place_of_worship,,0.7023741602897644,"St.1982, Khan Sen Sok",ភ្នំពេញ,,KH,,,104.9,11.5833
+ab8cfb17-b946-4eb9-ac5b-e9f4e8d9374d,The First Methodist Church In Phnom Penh(Korean Church),christian_place_of_worship,,0.9612675309181213,115 17BT,ភ្នំពេញ,,KH,+855976060222,http://www.phnompenhchurch.blogspot.com/,104.90895462,11.53547456
+0424d772-538b-4b5f-ba24-8323dcd7adbe,방콕 브릿지 교회 Bangkok Bridge Church,christian_place_of_worship,,0.8710215091705322,"36/97 29th Floor, P. S. Tower Building, 36/8 Sukhumvit 21 Rd",กรุงเทพมหานคร,,TH,+66613907354,https://www.bkkbridgechurch.com/,100.56260159,13.74130915
+6da06177-94c8-4471-9ac5-ec7e2f2f291d,Korean Presbyterian Church of Jesus,christian_place_of_worship,,0.7850005626678467,"Ocean Tower 2. 13th Fl. 75/4-5,",วัฒนา,,TH,+6626617545,,100.56154987,13.74260228
+48296860-bef2-40c6-aef2-676b30ebdb34,태국사랑의교희,christian_place_of_worship,,0.7440109252929688,,กรุงเทพมหานคร,,TH,,,100.57203674316,13.733881950378
+181eee59-5c40-4c10-8d9b-5d96fb5051cc,Sukhumvit Korean Church,christian_place_of_worship,,0.9318352341651917,"3/F 597, 1 Soi Sukhumvit 33/1",กรุงเทพมหานคร,,TH,+6622600278,,100.5682185,13.73168222
+7d85ae61-4bf0-46b6-92eb-f7b5d9b6fac9,수쿰빗한인교회 in 방콕,christian_place_of_worship,,0.7980610728263855,,กรุงเทพมหานคร,,TH,+6622600278,http://sukc.net/,100.56822967529,13.731759688356
+b0bb2ac2-4db4-4300-b24f-514c7d4f72f5,Pattaya Korean Church,christian_place_of_worship,,0.6395357847213745,Pattaya Korean Church,พัทยา,,TH,+66925810461,https://www.youtube.com/@pattayakoreanchurch,100.90041969,12.94695274
+feebcc6a-d71f-465e-9f1f-094269a646c5,방콕예제교회 (คริสตจักรสาวกพระเยซูกรุงเทพ),christian_place_of_worship,,0.49027493596076965,64 Ramkhamhaeng 24 Yaek 6,กรุงเทพมหานคร,,TH,+66925520263,,100.61814644,13.75103729
+63c31d39-ce79-4a06-98ac-4b3d003682eb,방콕한인성당,christian_place_of_worship,,0.9707064032554626,58 รามคําแหง 22,กรุงเทพมหานคร,,TH,,www.kccib.or.kr,100.6156391,13.749518
+bc6f8ae4-79a2-43c7-a0b2-953ae45131a8,방콕한인연합교회,christian_place_of_worship,,0.5788854360580444,"63, Soi 44, Phattanakarn, Suanluang, Bangkok",กรุงเทพมหานคร,,TH,,https://www.youtube.com/@intothebibleTV,100.6374363,13.7310583
+097d2455-0df0-422b-a611-23307353011e,방콕한인연합교회 Korean Union Church in Bangkok,christian_place_of_worship,,0.901917040348053,63 ซอย 6,กรุงเทพมหานคร,,TH,+6627226517,,100.6324221155454,13.73248975758257
+be19bf69-73fd-4dc9-b04a-a985ffd9872b,시엠립참빛교회,christian_place_of_worship,,0.8615627288818359,"153 Kruos Commune, Svaydangkum",សៀមរាប,,KH,+85512221025,,103.85,13.3667
+5fbf017d-caa8-483c-a100-094e61f774fa,Jakarta Somang Church 자카르타 소망교회(한인교회),christian_place_of_worship,,0.8818107843399048,"Jl. Simprug Golf 2 No.Kav. 63, RT.4/RW.8",Jakarta Selatan,,ID,+6281311043000,,106.79123516,-6.22773227
+eff588ab-ee90-4126-a3ab-ae0a8e4bf377,늘푸른교회,christian_place_of_worship,,0.7065393924713135,Jalan P. Antasari,Jakarta,,ID,,,106.80717046876,-6.2876588485406
+22fea7cc-3243-40c3-9b33-5d9567b660a7,자카르타 성요셉성당,christian_place_of_worship,,0.7008560299873352,,Jakarta,,ID,,,106.82527686359184,-6.289885383303186
+ba93b7f8-8da1-4a19-8b1c-12627d664eed,자카르타 한마음교회,christian_place_of_worship,,0.8899308443069458,,Jakarta Selatan,,ID,+62217395035,,106.8023562,-6.2545351
+9e3d341a-9afc-4ef5-a45b-c2d68128dfa4,자카르타 한인연합교회,christian_place_of_worship,,0.4926883280277252,Jalan Wijaya 1 41,Jakarta Selatan,,ID,,,106.811329,-6.24405
+c13f8fae-6cb7-40d8-a384-dc40279c91d7,SANDOL Korean Union CHURCH,christian_place_of_worship,,0.896675169467926,Jalan Wijaya I 41,Jakarta,,ID,+62217256765,,106.81159216470593,-6.244325164705913
+01b1c5ce-2017-4c75-94b4-f00abe21979f,Surabaya Korean Church,christian_place_of_worship,,0.6070103049278259,"AAL, Jl. Pakuwon Indah Lontar Tim. No.71",Surabaya,,ID,+62317535457,,112.66891818,-7.29774372
+d9a1139e-a0a7-45b9-aa56-63520d0487a1,Hcmc Onnuri Church-호치민 온누리교회,christian_place_of_worship,,0.8588586449623108,"14a, Garden Plaza 1, Phumyhung",Quận 7,,VN,,,106.70905447734312,10.726087227589497
+833a7ced-ea0e-46e8-a7ec-42ee4f4eca8a,참조은 광성교회,christian_place_of_worship,,0.7946407794952393,159 Đ. Tôn Dật Tiên,Quận 7,,VN,+84382517981,https://blog.naver.com/bacsimoon,106.71441613,10.72261673
+685b568c-e159-4635-b283-962c6a164727,사이공한마음연합교회,christian_place_of_worship,,0.798014223575592,92-94-96 Phan Khiêm Ích,Quận 7,,VN,+842822600079,http://www.hanmaeumch.com/,106.70679243788783,10.732550566620551
+6e239c4c-f947-4f10-ba92-f065ba356226,사이공한인연합교회,christian_place_of_worship,,0.752926230430603,10A Đường Ba Tháng Hai,Quận 10,,VN,+827077513351,http://www.skcvn.com/,106.66623,10.76952
+cedbfa44-4ed5-4f1e-9230-5b2997376188,베트남 한인 교회,christian_place_of_worship,,0.40756329894065857,161 Đ. Nguyễn Văn Trỗi,Quận Phú Nhuận,,VN,+84930000000,,106.67519595,10.79546232
+3f8b06e7-a1b0-4f51-8474-c2a8843d2723,베트남한인연합감리교회,christian_place_of_worship,,0.42944636940956116,627 Đường Cách Mạng Tháng Tám,Quận 10,,VN,+84903824031,http://cafe.naver.com/vnchurch,106.66751503944,10.785145154254
+620779de-2405-41ac-8722-3555738fca00,호치민중앙교회,christian_place_of_worship,,0.7387803792953491,849 Đường Quang Trung,Quận Gò Vấp,,VN,,,106.64176,10.8431
+4e717dc6-1957-4dd5-884f-db10e0f56933,베트남 빈증주님의영광교회,christian_place_of_worship,,0.6207827925682068,49 Đường Số 8,Thủ Dầu Một,,VN,+84961433163,http://www.gcjc.org/,106.66669,11.00235
+ace37c63-9ba0-4abc-8053-db9de898d17a,베트남광림선교센터,christian_place_of_worship,,0.7851799130439758,,Thủ Đức,,VN,+84773581917,http://vnklmc.modoo.at/,106.74226284027,10.799415054528
+3ed4bf9e-526a-43e7-894f-84643af0921c,코타키나발루 정원 교회,christian_place_of_worship,,0.518744707107544,,Kota Kinabalu,,MY,+60134407788,,116.0718553,5.97625743
+03a0116b-d4bc-4392-b45b-151b8904ba95,사마린다 하나로 한인교회,christian_place_of_worship,,0.9115618467330933,,Samarinda,,ID,+6281371806330,,117.12913463,-0.48313547
+c1d525e4-b018-475f-95ce-1b7590daa60d,Hoi An Pilgrim Korean Church,christian_place_of_worship,,0.79704350233078,110 Đường Phan Chu Trinh,Hội An,,VN,+84935302840,http://www.thuthuysilk.com/,108.32327055,15.87867444
+83d91292-b9dd-44ea-b856-482666b1fa4c,다낭한인연합교회,christian_place_of_worship,,0.5976189970970154,190 Ông Ích Khiêm,Quận Thanh Khê,,VN,+84775749291,,108.21301488,16.0710875
+d9b13ac6-7df7-41d8-9c25-611c600b33e2,Subic Korean Community Church,christian_place_of_worship,,0.6426969766616821,Sta. Rita Rd,Olongapo City,,PH,+63472527365,,120.28049194,14.81995651
+093f1a54-fe6e-4c63-8561-5863dfd6f4bb,Korean Church of Dagupan,christian_place_of_worship,,0.7944634556770325,Maligaya St,Dagupan City,,PH,+639934041665,,120.34912278,16.07837029
+f795730d-9ba1-4c53-af5b-4199db7784d4,Korean Temple,buddhist_place_of_worship,,0.9123049974441528,Pooc II,Silang,,PH,+639502334428,,120.99241015,14.19492802
+e8c16548-e7fa-4d41-847d-77e135145df5,마닐라 참빛교회,christian_place_of_worship,,0.8203869462013245,Ocampo St 670,Manila,,PH,+639053492524,,120.99288225174,14.560843144926
+cba01013-6488-40f4-aca5-fc0cc1ff2362,Korean Language-Immanuel Hangul Class,christian_place_of_worship,,0.6525831818580627,"Hobbies of Asia Compound, No.8 Macapagal Avenue ",Pasay City,,PH,+639914781003,,120.98560810089,14.547820925135
+19a7043d-c02d-473e-9b05-acb6234da333,Korean Central Methodist Church of Manila,christian_place_of_worship,,0.5579286217689514,"7th floor, UCCP Shalom Center, 1660, 1660 L. M. Guerrero St",Manila,,PH,+639156190055,,120.98664754,14.57422763
+5b0b0c20-01e7-445b-8c29-82714b2e0c5b,마닐라 한인 연합 교회,christian_place_of_worship,,0.5419277548789978,"78, 1709 Capernaum",Parañaque,,PH,+63288217197,,121.00730094,14.48927301
+e1026b6f-0f1a-44da-81cc-e03228d0ca60,Korean Union Church of Manila,christian_place_of_worship,,0.9050217866897583,"Pilgrim Union Center, New Orlean Street",Parañaque,,PH,+6327761077,www.kucm.org,121.00961579,14.48823414
+add75942-6556-41a9-b6ea-a963737e2643,The Salvation Army Manila Korean Corps,christian_place_of_worship,,0.5939512848854065,Taft Ave 1991,Pasay City,,PH,+6325225657,,120.99663,14.55595
+56a275e8-cdd7-4288-a259-cc1be596dffd,마닐라 지구촌 교회,christian_place_of_worship,,0.7787365913391113,필리핀,Muntinlupa,,PH,+639271559745,,121.02264013,14.42564378
+f6e22bd3-5e74-4512-95e3-b80163748ed6,Korean Catholic Church,christian_place_of_worship,,0.9355446696281433,"BCDA comp., Ususan",Taguig City,,PH,+63288284542,,121.06244347,14.52431725
+8e21e362-6071-4911-b05f-6a576f1b6d2e,Manila Korean Seventh-day Adventist Church,christian_place_of_worship,,0.9790638089179993,9027 San Nicolas,Makati,,PH,+639380509458,,121.04748639,14.56125577
+683d586f-627e-4850-bacd-3615b42a9b22,마닐라한인감리교회,christian_place_of_worship,,0.5458264946937561, ,Makati,,PH,+6328991004,http://www.manilachurch.org/,121.03102961,14.56417912
+6c3e9a9b-0e17-4605-a222-808f26865828,마닐라 평강교회,christian_place_of_worship,,0.9674041271209717,"3F Marmic Building, Carlos J. Caparas st., Cor. C5(E.Rodriguez), Ugong, Pasig ",Pasig,,PH,+639055550988,,121.07605923,14.58095105
+8693f0a3-87c2-41d5-9abc-bd8220c43610,올티가스로뎀교회,christian_place_of_worship,,0.6536643505096436,33 San Miguel Ave,Pasig,,PH,+639279027511,,121.05988421,14.58135371
+18b5b0c1-04c1-4a2c-b67c-a4753d0b0d0f,Mok Yang Korean Baptist Church,christian_place_of_worship,,0.5880032777786255,GARNET RD,Pasig,,PH,,,121.06237,14.5871
+ba223e90-fec6-4859-aecf-41c1efa3be58,띠바간 샘조아 교회,christian_place_of_worship,,0.3770516812801361,,Santa Maria,,PH,,,120.96947069,14.86199233
+7fda5aba-9435-4c48-a8fa-4557d3947565,행복한 선교 교회,christian_place_of_worship,,0.30265799164772034,279 Sampaguita Ave,Angeles City,,PH,+639175354259,,120.56185031,15.15067678
+96599110-ba55-4cf0-a4d1-af36a4550776,Angeles Kyungshin Korean Church,christian_place_of_worship,,0.9754192233085632,63 Timothy St,Angeles City,,PH,+639663941686,https://angeleskyungshin.wixsite.com/main/,120.56872919,15.13848739
+3cd5c5c1-0bda-4dcb-8ed3-f822848e14b4,Philippine Korean Church,christian_place_of_worship,,0.7811489701271057,106 Malakas St,Quezon City,,PH,+639166190201,,121.04899717,14.64118973
+7d6bfbab-1a1f-44b0-a281-9ae6a2ecea8c,Beautiful Church Philippines 아름다운 교회 필리핀 목사 제럴드,christian_place_of_worship,,0.5426636934280396, Philippines,Quezon City,,PH,+639463707772,,121.1195888,14.7276213
+41110cec-c0f4-4864-b6ed-1ba0c69b044e,Davao First Korean Church,christian_place_of_worship,,0.5353379845619202,"B-2, 2nd Floor, MS Land Bldg",Davao City,,PH,,,125.58642774,7.06053036
+0d35ef89-edb7-4e7a-9ab3-4d65fd848fa0,디사이플다바오한인교회,christian_place_of_worship,,0.6915215849876404,"2nd Coner Bacaca Road, J. P. Laurel Ave, Bajada, Davao City, Davao Del Sur",Davao City,,PH,,,125.609896034,7.0888781341417
+4a3ba8f5-d411-425d-9700-2fd8e9850f32,Davao Korean Union Church,christian_place_of_worship,,0.8898278474807739,"Davao Korean Union Church, Dacudao Ave",Davao City,,PH,,,125.618007,7.09165643
+06d76bc6-6319-45f0-8694-5495bce9566b,Iloilo Korean Church,christian_place_of_worship,,0.5221026539802551,San Jose St,Iloilo City,,PH,,,122.5408407,10.6972901
+e5374bb1-a9e1-40f3-af93-38ae2555f47c,보라카이 한인교회,christian_place_of_worship,,0.541034460067749,,Malay,,PH,,,121.926073,11.961483
+dfab81d6-f573-46c4-89a4-cbfe652401da,일로일로한인교회,christian_place_of_worship,,0.6438287496566772,Ledesco Ave,Iloilo City,,PH,+639989794873,,122.567955,10.722326470555
+d8ec54cd-16d6-4375-b21b-f2addee8250f,Mission Ctr & Korean Central Church,christian_place_of_worship,,0.5505501627922058,Metropolis Ave,Iloilo City,,PH,,,122.58803772818202,10.755082176829212
+326b6750-b893-4aa7-baa1-12774b0ba045,Cebu Korean Church,christian_place_of_worship,,0.8335977792739868,12 J. Solon Drive,Cebu City,,PH,+63322344070,http://cebukoreanchurch.com,123.90240868,10.32101728
+1ecb302c-e6c9-4d45-8932-cf8e3baa863a,막탄한인교회,christian_place_of_worship,,0.7108703255653381,,Lapu-Lapu City,,PH,+639062593300,http://www.mactanchurch.kr/,124.00120029289961,10.30622465234081
+180f6f23-70d2-4da1-90dd-123097fac949,Mactan Korean Church,christian_place_of_worship,,0.5552555322647095,Airport Road Ext,Lapu-Lapu City,,PH,,,123.97699,10.32569
+5fe04d6e-b41d-48ec-9d41-92bc9fb55b6a,Cebu Light Korean Church,christian_place_of_worship,,0.696373462677002,"3F, RCDC Bldg",Cebu City,,PH,+639163191863,http://www.cebulight.org,123.91224236,10.34215242
+0bed3a16-10c3-4822-bd91-7672ceb1a29a,Tacloban Harvest Church by Korean Missionary,christian_place_of_worship,,0.7641521692276001,,Tacloban City,,PH,,,125.01914879847803,11.199941376207358
+966b2509-70c4-4212-9b1e-aa1831882261,Tacloban Korean Methodist Church,christian_place_of_worship,,0.9540268182754517,"Fatima Village, Brgy. 76, 6500",Tacloban City,,PH,+639064787222,,125.00700114,11.21392227
+2e54872f-770c-4f7e-83fa-df9eaaf13bb2,Haiphong SEGYERO Korean Church,christian_place_of_worship,,0.5197010040283203,83 P. Tô Hiệu,Quận Lê Chân,,VN,+84334015712,,106.68352829,20.85162152
+7e78bcfd-ae7e-4e0a-add0-869e38c8166c,Hif 한국어 사랑방,christian_place_of_worship,,0.5150808691978455,8 Phố Tôn Thất Thuyết,Quận Nam Từ Liêm,,VN,,https://hif.vn/,105.78177452087,21.028730866665
+ec21f681-4379-4266-b077-f8be832e064c,하노이 늘사랑교회 그레이스홀,christian_place_of_worship,,0.8788261413574219,112-TT3 P. Trần Văn Lai,Quận Nam Từ Liêm,,VN,+84386982845,,105.77663821,21.01615273
+2a59737f-c985-42a4-bdcd-8581fde35a7a,Hanoi Korean Church,christian_place_of_worship,,0.6462356448173523,,Quận Bắc Từ Liêm,,VN,,,105.783464797,21.0668945
+1dceaa01-20b1-4a12-9dff-136f4d0f1763,성요셉 대성당,christian_place_of_worship,,0.5893784165382385,,Quận Hoàn Kiếm,,VN,,http://vi.wikipedia.org/wiki/Nh%E0_th%DD_L%DBn_H%E0_N%D9i,105.84903908,21.02870821

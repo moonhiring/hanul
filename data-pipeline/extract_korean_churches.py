@@ -43,6 +43,21 @@ REGIONS = {
         ("eu-north", 4.0, 58.0, 32.0, 71.5),
         ("eu-southeast", 19.0, 34.9, 45.0, 58.0),
     ],
+    "canada": [
+        ("canada", -141.0, 41.6, -52.6, 83.2),
+    ],
+    "latam": [
+        ("latam", -118.5, -56.0, -34.0, 32.8),
+    ],
+    "oceania": [
+        ("oceania", 112.9, -47.7, 179.9, -9.0),
+    ],
+    "seasia": [
+        ("seasia", 94.9, -11.1, 141.1, 28.6),
+    ],
+    "china": [
+        ("china", 73.5, 18.0, 135.1, 53.7),
+    ],
 }
 
 # 국가 필터 — bbox가 이웃 나라를 침범하는 경우를 걸러낸다 (country가 비어있으면 유지)
@@ -55,6 +70,14 @@ COUNTRIES = {
         "SI", "EE", "LV", "LT", "UA", "BY", "MD", "RS", "BA", "ME", "MK", "AL", "XK",
         "TR", "CY", "RU",
     },
+    "canada": {"CA"},
+    "latam": {
+        "MX", "GT", "BZ", "SV", "HN", "NI", "CR", "PA", "CU", "DO", "PR", "JM", "HT", "TT",
+        "CO", "VE", "EC", "PE", "BR", "BO", "PY", "CL", "AR", "UY", "GY", "SR", "GF",
+    },
+    "oceania": {"AU", "NZ", "GU", "MP", "FJ", "PG"},
+    "seasia": {"VN", "TH", "MY", "SG", "ID", "PH", "KH", "LA", "MM", "TL", "BN"},
+    "china": {"CN", "HK", "MO", "TW", "MN"},
 }
 
 QUERY = """
