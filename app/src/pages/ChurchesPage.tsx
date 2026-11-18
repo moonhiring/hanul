@@ -35,6 +35,8 @@ const PAGE_SIZE = 50;
 export default function ChurchesPage() {
   const [meta, setMeta] = useState<Meta | null>(null);
   const [country, setCountry] = useState("all");
+  const [locality, setLocality] = useState("all");
+  const [localities, setLocalities] = useState<{ locality: string; c: number }[]>([]);
   const [denomination, setDenomination] = useState("all");
   const [q, setQ] = useState("");
   const [items, setItems] = useState<ChurchItem[]>([]);
@@ -51,10 +53,21 @@ export default function ChurchesPage() {
   }, []);
 
   useEffect(() => {
+    setLocality("all");
+    setLocalities([]);
+    if (country === "all") return;
+    fetch(`/api/churches/localities?country=${encodeURIComponent(country)}`)
+      .then((r) => (r.ok ? r.json() : null))
+      .then((d) => setLocalities(d?.localities ?? []))
+      .catch(() => {});
+  }, [country]);
+
+  useEffect(() => {
     setLoading(true);
     setError("");
     const params = new URLSearchParams({ limit: String(PAGE_SIZE), offset: String(offset) });
     if (country !== "all") params.set("country", country);
+    if (locality !== "all") params.set("locality", locality);
     if (denomination !== "all") params.set("denomination", denomination);
     if (q.trim()) params.set("q", q.trim());
 
@@ -72,11 +85,11 @@ export default function ChurchesPage() {
         .finally(() => setLoading(false));
     }, 200);
     return () => clearTimeout(t);
-  }, [country, denomination, q, offset]);
+  }, [country, locality, denomination, q, offset]);
 
   useEffect(() => {
     setOffset(0);
-  }, [country, denomination, q]);
+  }, [country, locality, denomination, q]);
 
   const denomList = useMemo(() => meta?.denominations.slice(0, 9) ?? [], [meta]);
   const countryLabel = (code: string | null) => (code ? (COUNTRY_KO[code] ?? code) : "");
@@ -104,6 +117,22 @@ export default function ChurchesPage() {
             {meta?.countries.map((c) => (
               <SelectItem key={c.country} value={c.country}>
                 {countryLabel(c.country)} ({c.c})
+              </SelectItem>
+            ))}
+          </SelectContent>
+        </Select>
+
+        {/* 도시 선택 — 국가를 고르면 활성화 */}
+        <Select value={locality} onValueChange={setLocality} disabled={country === "all"}>
+          <SelectTrigger className="h-10 w-44 rounded-full bg-card disabled:opacity-50">
+            <MapPin className="mr-1 h-3.5 w-3.5 text-forest" />
+            <SelectValue placeholder={country === "all" ? "국가를 먼저" : "전체 도시"} />
+          </SelectTrigger>
+          <SelectContent>
+            <SelectItem value="all">전체 도시</SelectItem>
+            {localities.map((l) => (
+              <SelectItem key={l.locality} value={l.locality}>
+                {l.locality} ({l.c})
               </SelectItem>
             ))}
           </SelectContent>

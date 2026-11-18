@@ -147,6 +147,24 @@ app.get("/api/churches/meta", async (_req, res) => {
   }
 });
 
+/** GET /api/churches/localities?country=US — 국가별 도시(locality) 목록 (도시 필터용) */
+app.get("/api/churches/localities", async (req, res) => {
+  const { country } = req.query;
+  if (typeof country !== "string" || !country) return res.status(400).json({ error: "country_required" });
+  try {
+    const { rows } = await pool.query(
+      `SELECT locality, count(*)::int AS c FROM churches
+       WHERE status NOT IN ('archived','not_korean') AND country = $1 AND locality IS NOT NULL AND locality <> ''
+       GROUP BY locality ORDER BY c DESC LIMIT 200`,
+      [country],
+    );
+    res.json({ localities: rows });
+  } catch (err) {
+    console.error(err);
+    res.status(500).json({ error: "internal_error" });
+  }
+});
+
 /** GET /api/churches/:id */
 app.get("/api/churches/:id", async (req, res) => {
   const id = Number(req.params.id);
