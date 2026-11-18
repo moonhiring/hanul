@@ -10,6 +10,7 @@ import { useSite } from "@/context";
 const navItems = [
   { key: "stories" as const, to: "/stories" },
   { key: "directory" as const, to: "/directory" },
+  { key: "churches" as const, to: "/churches" },
   { key: "life" as const, to: "/life" },
   { key: "community" as const, to: "/community" },
 ];

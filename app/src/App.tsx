@@ -11,6 +11,7 @@ import LifePage from './pages/LifePage'
 import CheerPage from './pages/CheerPage'
 import CommunityPage from './pages/CommunityPage'
 import WorshipPage from './pages/WorshipPage'
+import ChurchesPage from './pages/ChurchesPage'
 import AdminPage from './pages/AdminPage'
 
 export default function App() {
@@ -28,6 +29,7 @@ export default function App() {
         <Route path="/cheer" element={<CheerPage />} />
         <Route path="/community" element={<CommunityPage />} />
         <Route path="/worship" element={<WorshipPage />} />
+        <Route path="/churches" element={<ChurchesPage />} />
         <Route path="/admin" element={<AdminPage />} />
       </Route>
     </Routes>

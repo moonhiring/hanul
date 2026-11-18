@@ -75,8 +75,96 @@ app.get("/api/businesses", async (req, res) => {
  * GET  /api/site-style  — 공개. 미설정이면 { style: null }
  * POST /api/site-style  — 관리자 전용. { fontDisplay, fontBody, texture, texLevel }
  */
-app.get("/api/site-style", async (_req, res) => {
+/* ---------- 한인교회 공개 API (churches 테이블 — 업소록과 별도) ---------- */
+
+const CHURCH_COLS = `
+  id, name, name_en AS "nameEn", denomination, country, region, locality,
+  address, phone, website, lat, lng, worship_times AS "worshipTimes", source
+`;
+
+/** GET /api/churches?country=US&region=CA&locality=&denomination=장로교&q=사랑&limit=100&offset=0 */
+app.get("/api/churches", async (req, res) => {
+  const { country, region, locality, denomination, q } = req.query;
+  const limit = Math.min(Math.max(Number(req.query.limit) || 100, 1), 5000);
+  const offset = Math.max(Number(req.query.offset) || 0, 0);
+
+  const where = [`status NOT IN ('archived','not_korean')`];
+  const params = [];
+  for (const [col, val] of [
+    ["country", country],
+    ["region", region],
+    ["locality", locality],
+    ["denomination", denomination],
+  ]) {
+    if (typeof val === "string" && val) {
+      params.push(val);
+      where.push(`${col} = $${params.length}`);
+    }
+  }
+  if (typeof q === "string" && q.trim()) {
+    params.push(`%${q.trim()}%`);
+    where.push(
+      `(lower(name) LIKE lower($${params.length}) OR lower(coalesce(name_en,'')) LIKE lower($${params.length}) OR lower(coalesce(address,'')) LIKE lower($${params.length}))`,
+    );
+  }
+  const whereSql = `WHERE ${where.join(" AND ")}`;
+
   try {
+    const totalQ = await pool.query(`SELECT count(*)::int AS c FROM churches ${whereSql}`, params);
+    params.push(limit, offset);
+    const itemsQ = await pool.query(
+      `SELECT ${CHURCH_COLS} FROM churches ${whereSql}
+       ORDER BY country, region NULLS LAST, locality NULLS LAST, name
+       LIMIT $${params.length - 1} OFFSET $${params.length}`,
+      params,
+    );
+    res.json({ total: totalQ.rows[0].c, items: itemsQ.rows });
+  } catch (err) {
+    console.error(err);
+    res.status(500).json({ error: "internal_error" });
+  }
+});
+
+/** GET /api/churches/meta — 필터 드롭다운용 국가/교단 집계 */
+app.get("/api/churches/meta", async (_req, res) => {
+  try {
+    const [countries, denominations] = await Promise.all([
+      pool.query(
+        `SELECT country, count(*)::int AS c FROM churches
+         WHERE status NOT IN ('archived','not_korean')
+         GROUP BY country ORDER BY c DESC`,
+      ),
+      pool.query(
+        `SELECT coalesce(denomination, '(미분류)') AS d, count(*)::int AS c FROM churches
+         WHERE status NOT IN ('archived','not_korean')
+         GROUP BY d ORDER BY c DESC`,
+      ),
+    ]);
+    res.json({ countries: countries.rows, denominations: denominations.rows });
+  } catch (err) {
+    console.error(err);
+    res.status(500).json({ error: "internal_error" });
+  }
+});
+
+/** GET /api/churches/:id */
+app.get("/api/churches/:id", async (req, res) => {
+  const id = Number(req.params.id);
+  if (!Number.isInteger(id)) return res.status(400).json({ error: "invalid_id" });
+  try {
+    const { rows } = await pool.query(
+      `SELECT ${CHURCH_COLS} FROM churches WHERE id = $1 AND status NOT IN ('archived','not_korean')`,
+      [id],
+    );
+    if (!rows.length) return res.status(404).json({ error: "not_found" });
+    res.json(rows[0]);
+  } catch (err) {
+    console.error(err);
+    res.status(500).json({ error: "internal_error" });
+  }
+});
+
+app.get("/api/site-style", async (_req, res) => {  try {
     const { rows } = await pool.query(
       "SELECT font_display, font_body, texture, tex_level, updated_at FROM site_settings WHERE id = 1",
     );

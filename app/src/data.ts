@@ -17,6 +17,7 @@ export const i18n = {
   nav: {
     stories: { ko: "이야기", en: "Stories" },
     directory: { ko: "업소록", en: "Directory" },
+    churches: { ko: "한인교회", en: "Churches" },
     life: { ko: "일자리·모임", en: "Jobs & Meetups" },
     community: { ko: "커뮤니티", en: "Community" },
     register: { ko: "업체 등록", en: "List a business" },
