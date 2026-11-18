@@ -120,3 +120,9 @@
 - 운영자가 폰트 스위처 패널 하단(admin만 표시)에서 "현재 조합을 방문자 기본값으로 지정" 가능 — 첫 방문자의 기본 폰트·질감을 수시로 바꾸는 용도
 - 우선순위: 사용자 로컬 저장값 > 운영자 지정값 > 빌트인 기본값. 클라이언트는 `src/lib/site-style.ts` 완비
 - **API 구현 완료 (2026-11-17)**: `GET /api/site-style`(공개, 미설정 시 `{style:null}`) / `POST /api/site-style`(requireAdmin, `{fontDisplay, fontBody, texture?, texLevel?}` — font 두 개 필수, 나머지 기본값 hanji/base). `site_settings` 단일 행 테이블(id=1 CHECK 제약), upsert 저장. 응답 `{style:{fontDisplay,fontBody,texture,texLevel,updatedAt}}`
+
+## 한인교회 공개 API + 교회 섹션 (2026-11-18, 기술팀)
+- 공개 API: `GET /api/churches`(country/region/locality/denomination/q/limit/offset 필터, status NOT IN ('archived','not_korean') 만 노출), `GET /api/churches/meta`(국가·교단 집계), `GET /api/churches/:id`
+- 프론트: `/churches` — 국가 Select(한글 매핑)/교단 칩/검색/50건 페이지네이션 카드 UI. 헤더 내비에 "한인교회" 추가
+- 데이터: churches 테이블 2,092건 (미국 1,561 / 캐나다 159 / 오세아니아 115 / 유럽 102 / 동남아 93 / 일본 26 / 중남미 26 / 중국권 10)
+- TODO: worship_times 수집(현재 비어있음), 검증 워커의 churches 지원, 일본/중국 OSM 보완 수집, 디자인팀 스타일 다듬기(기능 우선 최소 스타일 상태)
